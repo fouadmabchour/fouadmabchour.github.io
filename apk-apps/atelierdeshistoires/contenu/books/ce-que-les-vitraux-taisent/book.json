@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:42:35Z",
+ "updatedAt": "2026-11-24T21:46:25Z",
  "chapters": [
   {
    "number": 1,
@@ -27,7 +27,7 @@
    "number": 3,
    "title": "Rugiens, quarante caisses",
    "file": "chapters/003.json",
-   "updatedAt": "2026-11-24T21:29:09Z"
+   "updatedAt": "2026-11-24T21:46:25Z"
   },
   {
    "number": 4,
@@ -106,6 +106,24 @@
    "title": "Cinquante-quatre marches",
    "file": "chapters/016.json",
    "updatedAt": "2026-11-24T21:42:35Z"
+  },
+  {
+   "number": 17,
+   "title": "Ce qui n'est pas à moi",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-24T21:46:25Z"
+  },
+  {
+   "number": 18,
+   "title": "Vasseur père et fils",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-24T21:46:25Z"
+  },
+  {
+   "number": 19,
+   "title": "Trois pages",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-24T21:46:25Z"
   }
  ]
 }
