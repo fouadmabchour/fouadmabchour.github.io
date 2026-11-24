@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:52:39Z",
+ "updatedAt": "2026-11-24T21:53:47Z",
  "chapters": [
   {
    "number": 1,
@@ -154,6 +154,12 @@
    "title": "Le choix",
    "file": "chapters/024.json",
    "updatedAt": "2026-11-24T21:52:39Z"
+  },
+  {
+   "number": 25,
+   "title": "Le verre ne brûle pas",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-24T21:53:47Z"
   }
  ]
 }
