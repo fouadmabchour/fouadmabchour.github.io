@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:53:47Z",
+ "updatedAt": "2026-11-24T21:56:43Z",
  "chapters": [
   {
    "number": 1,
@@ -160,6 +160,18 @@
    "title": "Le verre ne brûle pas",
    "file": "chapters/025.json",
    "updatedAt": "2026-11-24T21:53:47Z"
+  },
+  {
+   "number": 26,
+   "title": "Le brouillon",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-24T21:56:43Z"
+  },
+  {
+   "number": 27,
+   "title": "Julie",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-24T21:56:43Z"
   }
  ]
 }
