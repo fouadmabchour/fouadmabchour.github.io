@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:33:08Z",
+ "updatedAt": "2026-11-24T21:35:19Z",
  "chapters": [
   {
    "number": 1,
@@ -58,6 +58,18 @@
    "title": "La bague",
    "file": "chapters/008.json",
    "updatedAt": "2026-11-24T21:33:08Z"
+  },
+  {
+   "number": 9,
+   "title": "Lumen",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-24T21:35:19Z"
+  },
+  {
+   "number": 10,
+   "title": "La neige",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-24T21:35:19Z"
   }
  ]
 }
