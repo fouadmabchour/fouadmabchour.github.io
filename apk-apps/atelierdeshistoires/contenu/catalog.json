@@ -1,94 +1,29 @@
 {
  "version": 1,
- "updatedAt": "2026-11-24T19:31:32+00:00",
  "categories": [
-  {
-   "id": "aventure",
-   "name": "Aventure"
-  },
   {
    "id": "romance",
    "name": "Romance"
-  },
-  {
-   "id": "mystere",
-   "name": "Mystère"
-  },
-  {
-   "id": "fantastique",
-   "name": "Fantastique"
   }
  ],
  "books": [
   {
-   "id": "le-phare-oublie",
-   "title": "Le Phare oublié",
-   "author": "Auteur Exemple",
-   "cover": "books/le-phare-oublie/cover.webp",
-   "categories": [
-    "mystere",
-    "aventure"
-   ],
-   "tags": [],
-   "status": "ongoing",
-   "updatedAt": "2026-11-24T19:31:32+00:00",
-   "summary": "Résumé d'exemple de « Le Phare oublié ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
-   "chapterCount": 9,
-   "featured": true,
-   "publishedAt": "2026-11-24T19:31:32+00:00",
-   "order": 0
-  },
-  {
-   "id": "la-cle-d-argent",
-   "title": "La Clé d'argent",
-   "author": "Auteur Exemple",
-   "cover": "books/la-cle-d-argent/cover.webp",
-   "categories": [
-    "fantastique"
-   ],
-   "tags": [],
-   "status": "completed",
-   "updatedAt": "2026-11-24T19:31:32+00:00",
-   "summary": "Résumé d'exemple de « La Clé d'argent ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
-   "chapterCount": 7,
-   "featured": true,
-   "publishedAt": "2026-11-24T19:31:32+00:00",
-   "order": 1
-  },
-  {
-   "id": "lettres-d-ete",
-   "title": "Lettres d'été",
-   "author": "Autrice Exemple",
-   "cover": "books/lettres-d-ete/cover.webp",
+   "id": "ce-que-les-vitraux-taisent",
+   "publishedAt": "2026-11-24T21:06:49Z",
+   "order": 0,
+   "title": "Ce que les vitraux taisent",
+   "author": "",
+   "cover": "books/ce-que-les-vitraux-taisent/cover.webp",
+   "summary": "Dix ans plus tôt, la veille de leur départ pour Paris, Gabriel de Valcourt a disparu sans un mot, laissant Inès seule sur le quai d'une gare de Bourgogne. Aujourd'hui restauratrice de vitraux, Inès accepte le chantier qui sauvera son atelier : six semaines pour restaurer la chapelle d'un domaine viticole avant sa vente. Le propriétaire qui l'accueille, c'est lui. Et dans la grande rosace, un médaillon manque — celui que le père de Gabriel a fait retirer la nuit même où tout s'est brisé.",
    "categories": [
     "romance"
    ],
    "tags": [],
-   "status": "completed",
-   "updatedAt": "2026-11-24T19:31:32+00:00",
-   "summary": "Résumé d'exemple de « Lettres d'été ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
-   "chapterCount": 4,
-   "featured": false,
-   "publishedAt": "2026-11-24T19:31:32+00:00",
-   "order": 2
-  },
-  {
-   "id": "la-foret-des-murmures",
-   "title": "La Forêt des murmures",
-   "author": "Autrice Exemple",
-   "cover": "books/la-foret-des-murmures/cover.webp",
-   "categories": [
-    "fantastique",
-    "aventure"
-   ],
-   "tags": [],
    "status": "ongoing",
-   "updatedAt": "2026-11-24T19:31:32+00:00",
-   "summary": "Résumé d'exemple de « La Forêt des murmures ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
-   "chapterCount": 6,
-   "featured": false,
-   "publishedAt": "2026-11-24T19:31:32+00:00",
-   "order": 3
+   "updatedAt": "2026-11-24T21:06:55Z",
+   "chapterCount": 1,
+   "featured": true
   }
- ]
+ ],
+ "updatedAt": "2026-11-24T21:06:55Z"
 }
