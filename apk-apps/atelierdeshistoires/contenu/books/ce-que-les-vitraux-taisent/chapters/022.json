@@ -107,6 +107,11 @@
    "value": "— Parce que le vrai, c'est moi qui l'ai, dit-elle."
   },
   {
+   "type": "image",
+   "src": "images/ch22-1.webp",
+   "caption": "L'aveu"
+  },
+  {
    "type": "text",
    "value": "Elle avait sept ans. C'était un dimanche d'octobre, le premier dimanche d'octobre 2016, et il pleuvait, et papa était venu la chercher à la maison de Beaune pour l'emmener à la Combe, rien que tous les deux. Il ne faisait jamais ça. Il était différent, ce jour-là. Doux. Il lui avait tenu la main dans la voiture."
   },
@@ -193,6 +198,11 @@
   {
    "type": "text",
    "value": "La bague."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-2.webp",
+   "caption": "Les Mains et la Clé"
   },
   {
    "type": "text",

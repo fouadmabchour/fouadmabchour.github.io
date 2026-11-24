@@ -251,6 +251,11 @@
    "value": "Une bague. Un anneau d'or blanc fin, avec une pierre claire, pas très grosse, montée haut. Exactement le genre de bague qu'elle aurait choisie, s'il lui était jamais venu à l'idée d'en choisir une."
   },
   {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Quai Saint-Vincent"
+  },
+  {
    "type": "text",
    "value": "— Épouse-moi, Inès, dit Thomas. Après ce chantier, on part d'ici. On recommence."
   },

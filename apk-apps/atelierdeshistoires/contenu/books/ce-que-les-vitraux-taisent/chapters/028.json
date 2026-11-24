@@ -79,6 +79,11 @@
    "value": "La cabotte était tout en haut, à la lisière du bois. Une petite cabane de pierre sèche, ronde, au toit de lauzes, que les vignerons du dix-neuvième avaient bâtie pour s'y abriter de la grêle. Marcel était là depuis cinq heures et demie, debout devant la porte, la caisse posée sur un muret à côté de lui, sa casquette sur la tête. Il ne sifflait pas."
   },
   {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "La cabotte"
+  },
+  {
    "type": "text",
    "value": "Inès et Gabriel étaient dans le Land Rover, moteur coupé, garé derrière un tas de piquets à cinquante mètres plus bas, dans l'allée du bord. Morel leur avait dit de rester à la maison. Gabriel avait dit non. Morel avait haussé les épaules et dit : alors vous ne bougez pas de la voiture, quoi qu'il arrive."
   },
@@ -181,6 +186,11 @@
   {
    "type": "text",
    "value": "Mais il était fendu."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "La fêlure"
   },
   {
    "type": "text",

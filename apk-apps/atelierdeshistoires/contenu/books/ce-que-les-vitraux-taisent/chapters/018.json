@@ -91,6 +91,11 @@
    "value": "*L. V. 9-2016*"
   },
   {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "L'anneau de fer"
+  },
+  {
    "type": "text",
    "value": "Ils se regardèrent."
   },
@@ -173,6 +178,11 @@
   {
    "type": "text",
    "value": "Lucien Vasseur baissa les yeux. Il ne dit rien pendant si longtemps que l'aide à domicile s'approcha pour vérifier s'il allait bien. Puis il posa un doigt énorme, déformé, sur la main du bas, celle qui tendait la clé. Sur l'annulaire. Sur la bague."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "Lucien Vasseur"
   },
   {
    "type": "text",

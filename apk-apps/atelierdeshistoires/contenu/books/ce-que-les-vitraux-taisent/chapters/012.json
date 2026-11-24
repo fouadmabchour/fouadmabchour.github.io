@@ -151,6 +151,11 @@
    "value": "— Douze, dirent-ils en même temps."
   },
   {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "Douze coups"
+  },
+  {
    "type": "text",
    "value": "Ils lâchèrent la corde. Elle remonta vers le clocher. La cloche se balança encore un peu, sans sonner, et le silence revint, d'un coup, si dense qu'on entendait la neige fondre et goutter du toit de la chapelle."
   },
@@ -181,6 +186,11 @@
   {
    "type": "text",
    "value": "Elle l'embrassa."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "Sous la rosace"
   },
   {
    "type": "text",

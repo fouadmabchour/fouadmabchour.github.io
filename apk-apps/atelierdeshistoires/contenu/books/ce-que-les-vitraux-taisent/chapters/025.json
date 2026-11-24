@@ -15,6 +15,11 @@
    "value": "Entre les branches du tilleul, la chapelle était rouge."
   },
   {
+   "type": "image",
+   "src": "images/ch25-1.webp",
+   "caption": "L'incendie"
+  },
+  {
    "type": "text",
    "value": "Pas la rosace. Pas les lancettes. Le flanc de la chapelle, du côté du chœur, là où la sacristie s'accolait au mur. Des flammes sortaient par la fenêtre grillagée, hautes, jaunes, avec une fumée noire qui montait droit dans la nuit sans vent et qui cachait les étoiles."
   },
@@ -129,6 +134,11 @@
   {
    "type": "text",
    "value": "Sous la table effondrée, il y avait la caisse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-2.webp",
+   "caption": "Le verre ne brûle pas"
   },
   {
    "type": "text",

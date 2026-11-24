@@ -271,6 +271,11 @@
    "value": "Quelqu'un marchait dans la chapelle avec une lampe."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Une lampe dans la chapelle"
+  },
+  {
    "type": "text",
    "value": "Inès se retourna vers la table. Sa clé de fer était là, à côté du paquet de biscuits, exactement où elle l'avait posée en rentrant. Elle avait fermé la porte à double tour. Elle s'en souvenait parce que la serrure avait résisté et qu'elle avait dû s'y prendre à deux mains."
   },

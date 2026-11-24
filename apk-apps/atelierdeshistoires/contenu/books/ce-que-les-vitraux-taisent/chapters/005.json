@@ -55,6 +55,11 @@
    "value": "Il était déjà parti. Inès le regarda tendre la main, Gabriel poser sa caisse pour la prendre. Deux hommes qui se serrent la main dans une cour de ferme un lundi matin. Il n'y avait rien à voir. Elle but une gorgée de café froid et grimaça."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Deux hommes dans la cour"
+  },
+  {
    "type": "text",
    "value": "— Thomas Arnaud. Je travaille pour le groupe Saint-Amand, on a dû vous prévenir."
   },
@@ -241,6 +246,11 @@
   {
    "type": "text",
    "value": "Au milieu du rouleau, il y avait du papier."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "L'enveloppe"
   },
   {
    "type": "text",

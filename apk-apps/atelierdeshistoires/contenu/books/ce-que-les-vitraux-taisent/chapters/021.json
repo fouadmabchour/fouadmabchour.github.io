@@ -219,6 +219,11 @@
    "value": "Moutarde."
   },
   {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "L'hameçon"
+  },
+  {
    "type": "text",
    "value": "Capucine montait vers la cloche, une lampe de poche entre les dents, les mains rouges de froid sur les barreaux. Elle montait vite, avec une assurance de quelqu'un qui avait déjà fait ce trajet, souvent, de nuit."
   },

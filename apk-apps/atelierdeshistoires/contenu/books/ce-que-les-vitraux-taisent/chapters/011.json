@@ -135,6 +135,11 @@
    "value": "*Médaillon central, sujet à convenir avec Monsieur : Les Mains et la Clé.*"
   },
   {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "Le devis de 1871"
+  },
+  {
    "type": "text",
    "value": "— Les mains et la clé, répéta Inès."
   },

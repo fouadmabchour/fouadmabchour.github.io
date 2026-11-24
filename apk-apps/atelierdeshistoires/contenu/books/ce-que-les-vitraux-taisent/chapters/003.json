@@ -59,6 +59,11 @@
    "value": "Il éteignit l'écran de son téléphone. Le noir revint, total."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Les caisses sous l'autel"
+  },
+  {
    "type": "text",
    "value": "Il attendit longtemps avant de sortir."
   },
