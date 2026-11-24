@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:49:51Z",
+ "updatedAt": "2026-11-24T21:52:39Z",
  "chapters": [
   {
    "number": 1,
@@ -142,6 +142,18 @@
    "title": "Pour que papa sache",
    "file": "chapters/022.json",
    "updatedAt": "2026-11-24T21:49:51Z"
+  },
+  {
+   "number": 23,
+   "title": "Le plomb de ceinture",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-24T21:52:39Z"
+  },
+  {
+   "number": 24,
+   "title": "Le choix",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-24T21:52:39Z"
   }
  ]
 }
