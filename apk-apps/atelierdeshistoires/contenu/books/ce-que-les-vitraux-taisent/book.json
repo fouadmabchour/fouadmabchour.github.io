@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:58:05Z",
+ "updatedAt": "2026-11-24T21:59:25Z",
  "chapters": [
   {
    "number": 1,
@@ -178,6 +178,12 @@
    "title": "La cabotte",
    "file": "chapters/028.json",
    "updatedAt": "2026-11-24T21:58:05Z"
+  },
+  {
+   "number": 29,
+   "title": "La colle de farine",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-24T21:59:25Z"
   }
  ]
 }
