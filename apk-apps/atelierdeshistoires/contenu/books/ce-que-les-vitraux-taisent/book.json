@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:56:43Z",
+ "updatedAt": "2026-11-24T21:58:05Z",
  "chapters": [
   {
    "number": 1,
@@ -172,6 +172,12 @@
    "title": "Julie",
    "file": "chapters/027.json",
    "updatedAt": "2026-11-24T21:56:43Z"
+  },
+  {
+   "number": 28,
+   "title": "La cabotte",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-24T21:58:05Z"
   }
  ]
 }
