@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:29:09Z",
+ "updatedAt": "2026-11-24T21:33:08Z",
  "chapters": [
   {
    "number": 1,
@@ -40,6 +40,24 @@
    "title": "Les rouleaux de plomb",
    "file": "chapters/005.json",
    "updatedAt": "2026-11-24T21:29:09Z"
+  },
+  {
+   "number": 6,
+   "title": "La boîte aux lettres",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-24T21:33:08Z"
+  },
+  {
+   "number": 7,
+   "title": "La pièce de Louis XV",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-24T21:33:08Z"
+  },
+  {
+   "number": 8,
+   "title": "La bague",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-24T21:33:08Z"
   }
  ]
 }
