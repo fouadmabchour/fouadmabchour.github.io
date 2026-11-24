@@ -1,0 +1,282 @@
+{
+ "number": 5,
+ "title": "Les rouleaux de plomb",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Thomas arriva à dix heures moins cinq, parce que Thomas arrivait toujours à moins cinq."
+  },
+  {
+   "type": "text",
+   "value": "Inès le regarda descendre de sa voiture depuis la porte de la chapelle, un gobelet de café froid à la main. Costume bleu marine, manteau ouvert, un tube à plans sous le bras et une sacoche en cuir en bandoulière. Il leva les yeux vers la maison longue, vers le toit de tuiles vernissées, et elle vit dans son visage ce qu'elle aimait chez lui quand ils s'étaient rencontrés : un plaisir simple, presque enfantin, devant un beau bâtiment. Puis il la vit, et le plaisir changea d'objet, et elle se sentit coupable sans savoir exactement de quoi."
+  },
+  {
+   "type": "text",
+   "value": "Il traversa la cour en trois enjambées et l'embrassa. Sur la bouche, longuement, une main dans son dos. Elle se laissa faire. Elle se dit qu'elle se laissait faire et elle se le reprocha aussitôt, parce que ce n'était pas une chose à se dire au sujet d'un homme avec qui on vit depuis deux ans."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'en veux, dit Thomas en la relâchant."
+  },
+  {
+   "type": "text",
+   "value": "— Un peu."
+  },
+  {
+   "type": "text",
+   "value": "— Beaucoup ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas encore."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit, de ce sourire qui disait qu'il comprenait, qu'il avait tout le temps du monde pour qu'elle sache. C'était la chose la plus rassurante et la plus agaçante chez lui, et elle n'avait jamais réussi à décider laquelle des deux l'emportait."
+  },
+  {
+   "type": "text",
+   "value": "Derrière lui, quelqu'un traversa la cour. Gabriel sortait du hangar avec Marcel, une caisse de piquets sur l'épaule. Il les avait vus. Il ne ralentit pas."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le propriétaire ? demanda Thomas à voix basse."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais me présenter."
+  },
+  {
+   "type": "text",
+   "value": "Il était déjà parti. Inès le regarda tendre la main, Gabriel poser sa caisse pour la prendre. Deux hommes qui se serrent la main dans une cour de ferme un lundi matin. Il n'y avait rien à voir. Elle but une gorgée de café froid et grimaça."
+  },
+  {
+   "type": "text",
+   "value": "— Thomas Arnaud. Je travaille pour le groupe Saint-Amand, on a dû vous prévenir."
+  },
+  {
+   "type": "text",
+   "value": "— Gabriel de Valcourt. Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous connaissez déjà Inès, je crois. Elle me dit que vous vous êtes retrouvés un peu par hasard."
+  },
+  {
+   "type": "text",
+   "value": "Inès n'avait rien dit de tel. Elle n'avait rien dit du tout. Elle avait seulement répondu « oui » à « c'est le propriétaire ? », et Thomas, avec sa délicatesse d'architecte, avait rempli le vide avec ce qui lui semblait le plus probable et le plus aimable."
+  },
+  {
+   "type": "text",
+   "value": "Gabriel la regarda par-dessus l'épaule de Thomas. Une seconde."
+  },
+  {
+   "type": "text",
+   "value": "— On était au lycée ensemble, dit-il. À Beaune."
+  },
+  {
+   "type": "text",
+   "value": "— Le monde est petit, dit Thomas."
+  },
+  {
+   "type": "text",
+   "value": "— Très, dit Gabriel, et il reprit sa caisse."
+  },
+  {
+   "type": "text",
+   "value": "Thomas travaillait bien. C'était même ce qui l'avait séduite au début, deux ans plus tôt, sur le chantier d'une église de la Guillotière où ils s'étaient croisés au pied d'un échafaudage : la précision tranquille de ses gestes, sa façon de regarder un mur pendant une minute entière avant de le toucher. Dans la chapelle, il fit pareil. Il resta au milieu de la nef, les mains dans les poches, et regarda. Puis il sortit son télémètre laser et se mit à mesurer, en dictant des chiffres à son téléphone."
+  },
+  {
+   "type": "text",
+   "value": "— Quatorze mètres vingt sous la clé de voûte… Six bancs, chêne, dix-neuvième, pas d'intérêt particulier… Dallage d'origine, à conserver…"
+  },
+  {
+   "type": "text",
+   "value": "Inès nettoyait un panneau sur ses tréteaux et faisait semblant de ne pas écouter."
+  },
+  {
+   "type": "text",
+   "value": "— Ici, dit Thomas en se plaçant devant l'autel, on pourrait imaginer un comptoir bas. Pas plus haut que l'autel, pour ne pas casser la perspective. En pierre de Comblanchien, pour rester dans le matériau. Et les tabourets en ligne, face à la rosace. Les gens boiraient face à la lumière. Tu imagines, au coucher du soleil ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle imaginait. Elle imaginait des gens en doudoune sans manches qui feraient tourner du pommard dans des verres trop grands en photographiant la rosace avec leur téléphone, et le disque blanc au milieu qui ferait une jolie tache de lumière sur les photos."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas mettre des tabourets devant un autel, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— La chapelle a été désacralisée en 1962. J'ai l'acte. Ce n'est plus un lieu de culte depuis soixante ans."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas la question."
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est quoi, la question ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle posa son coton-tige."
+  },
+  {
+   "type": "text",
+   "value": "— La question, c'est que tu travailles sur ce projet depuis un mois et que tu ne m'en as pas parlé. Que tu as donné mon nom à Sylvie Garnier sans me le dire. Que je suis ici pour restaurer des vitraux qui serviront de décor à ton bar."
+  },
+  {
+   "type": "text",
+   "value": "Thomas baissa son télémètre. Il ne se fâcha pas. Il ne se fâchait jamais. Il réfléchit, au contraire, ce qui était pire, parce qu'il réfléchissait toujours juste."
+  },
+  {
+   "type": "text",
+   "value": "— Si je t'en avais parlé, tu aurais refusé."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu aurais perdu l'atelier en mars."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Il avait raison, et il savait qu'il avait raison, et il eut l'élégance de ne pas insister. Il s'approcha, lui embrassa le front, et retourna à ses mesures."
+  },
+  {
+   "type": "text",
+   "value": "— Il me faudrait la cote du sol sous l'autel, dit-il au bout d'un moment. Il y a une niche, là-dessous, avec des caisses. Tu sais qui a la clé ?"
+  },
+  {
+   "type": "text",
+   "value": "Gabriel vint ouvrir le cadenas sans un mot. Thomas et lui sortirent les caisses une à une et les alignèrent contre le mur du chœur, et Inès les regarda faire, ces deux hommes qui se passaient des caisses de bois avec une politesse impeccable, comme on se passe des seaux d'eau sur un incendie qu'on n'a pas allumé. Thomas mesura la niche, prit trois photos, nota. Gabriel resta adossé au premier banc, les bras croisés, à le regarder travailler."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes architecte depuis longtemps ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Douze ans."
+  },
+  {
+   "type": "text",
+   "value": "— Vous transformez souvent des chapelles en bars ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est la deuxième, dit Thomas sans se démonter. La première est devenue un espace de coworking à Villeurbanne. Les gens qui y travaillent disent qu'ils n'ont jamais aussi bien réfléchi."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père m'enfermait ici pour réfléchir, dit Gabriel. Ça ne marchait pas très bien."
+  },
+  {
+   "type": "text",
+   "value": "Thomas leva les yeux de son carnet, cherchant s'il fallait rire. Gabriel ne riait pas. Il décroisa les bras et sortit."
+  },
+  {
+   "type": "text",
+   "value": "À seize heures, Thomas regarda sa montre."
+  },
+  {
+   "type": "text",
+   "value": "— Je dois voir Saint-Amand à Beaune, il est descendu à l'hôtel. Je dors là-bas ce soir, j'ai des rendez-vous tôt demain avec le bureau de contrôle. Tu viens dîner avec nous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je travaille."
+  },
+  {
+   "type": "text",
+   "value": "— Inès."
+  },
+  {
+   "type": "text",
+   "value": "— Je travaille, Thomas. J'ai six semaines pour faire un chantier de trois mois."
+  },
+  {
+   "type": "text",
+   "value": "Il hésita, puis hocha la tête, avec ce regard compréhensif qui lui donnait envie de casser quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "— Je reviens jeudi. On parlera."
+  },
+  {
+   "type": "text",
+   "value": "— On parlera, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il l'embrassa de nouveau, plus brièvement. Elle écouta la voiture remonter l'allée de platanes, puis le moteur se perdre vers Pommard, et elle resta seule dans la chapelle avec les caisses sorties de leur trou."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait aucune raison de les ouvrir. C'était même exactement le contraire : elle avait toutes les raisons de ne pas les ouvrir, à commencer par un homme qui lui avait dit de ne pas chercher. Mais elles étaient là, alignées contre le mur, et l'une d'elles avait le couvercle à moitié repoussé, et ce qui dépassait du couvercle, c'était du plomb."
+  },
+  {
+   "type": "text",
+   "value": "Du plomb de verrier. Elle le reconnut de loin, comme on reconnaît l'écriture d'un ami sur une enveloppe. Des rouleaux gris mat, serrés, avec ce profil en H qu'on n'avait plus fabriqué de cette façon depuis la guerre. Pour une restauration, c'était de l'or. Du plomb ancien, coulé à l'ancienne, plus souple que le moderne, qui épousait le verre sans le contraindre."
+  },
+  {
+   "type": "text",
+   "value": "Elle souleva le couvercle. Il y en avait une quinzaine de rouleaux. Elle en sortit un, le pesa dans sa main, en écarta les spires avec le pouce pour voir l'état de l'âme du plomb. Du beau métal. Un peu oxydé en surface, mais sain. Elle en sortit un deuxième, puis un troisième. Elle avait déjà calculé combien de mètres il lui en faudrait pour la rosace."
+  },
+  {
+   "type": "text",
+   "value": "Le quatrième rouleau ne s'ouvrit pas comme les autres."
+  },
+  {
+   "type": "text",
+   "value": "Les spires résistaient. Quelque chose les tenait écartées de l'intérieur, quelque chose de raide qui craqua légèrement quand elle força. Elle posa le rouleau sur les tréteaux, à côté du panneau de la première lancette, et le déroula avec précaution, tour par tour, comme on déroule un parchemin."
+  },
+  {
+   "type": "text",
+   "value": "Au milieu du rouleau, il y avait du papier."
+  },
+  {
+   "type": "text",
+   "value": "Une enveloppe, roulée sur elle-même, jaunie, gondolée par l'humidité, avec des taches grises là où le plomb l'avait touchée. Une enveloppe blanche ordinaire, sans timbre, sans adresse."
+  },
+  {
+   "type": "text",
+   "value": "Juste un prénom, à l'encre bleue, au milieu."
+  },
+  {
+   "type": "text",
+   "value": "*Inès.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle connaissait cette écriture. Elle connaissait ces lettres penchées vers l'avant comme si elles étaient pressées d'arriver, et ces *s* qui finissaient en boucle trop longue. Elle les avait lues sur des petits papiers glissés dans son casier de lycée, dans les marges de ses cours de philo, sur un ticket de cinéma, sur l'emballage d'un pendentif en verre bleu qu'il avait fondu lui-même dans le four de l'atelier de céramique, en terminale."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne s'assit pas. Elle ne compta pas jusqu'à soixante. Elle regarda l'enveloppe pendant un temps qu'elle ne mesura pas, debout dans la chapelle froide, sous la rosace au cœur blanc, pendant que dehors le jour de janvier tombait déjà."
+  },
+  {
+   "type": "text",
+   "value": "L'enveloppe avait été ouverte. Proprement, au coupe-papier, sur le côté. Quelqu'un l'avait lue avant elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle en sortit une feuille pliée en trois. Le papier était si fragile qu'il se fendit au premier pli. Elle la déplia sur le panneau de verre, contre la lumière, et les premiers mots apparurent, à l'encre bleue délavée, de cette écriture pressée qui avait dix-huit ans."
+  },
+  {
+   "type": "text",
+   "value": "*Inès,*"
+  },
+  {
+   "type": "text",
+   "value": "*Si tu lis ceci, c'est que mon père a gagné.*"
+  }
+ ]
+}

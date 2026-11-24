@@ -9,13 +9,37 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:16:06Z",
+ "updatedAt": "2026-11-24T21:29:09Z",
  "chapters": [
   {
    "number": 1,
    "title": "Six semaines",
    "file": "chapters/001.json",
    "updatedAt": "2026-11-24T21:06:49Z"
+  },
+  {
+   "number": 2,
+   "title": "Le cœur blanc",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-24T21:29:09Z"
+  },
+  {
+   "number": 3,
+   "title": "Rugiens, quarante caisses",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-24T21:29:09Z"
+  },
+  {
+   "number": 4,
+   "title": "Six heures",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-24T21:29:09Z"
+  },
+  {
+   "number": 5,
+   "title": "Les rouleaux de plomb",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-24T21:29:09Z"
   }
  ]
 }
