@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:35:19Z",
+ "updatedAt": "2026-11-24T21:37:35Z",
  "chapters": [
   {
    "number": 1,
@@ -70,6 +70,18 @@
    "title": "La neige",
    "file": "chapters/010.json",
    "updatedAt": "2026-11-24T21:35:19Z"
+  },
+  {
+   "number": 11,
+   "title": "Les mains et la clé",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-24T21:37:35Z"
+  },
+  {
+   "number": 12,
+   "title": "Douze coups",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-24T21:37:35Z"
   }
  ]
 }
