@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:46:25Z",
+ "updatedAt": "2026-11-24T21:49:51Z",
  "chapters": [
   {
    "number": 1,
@@ -124,6 +124,24 @@
    "title": "Trois pages",
    "file": "chapters/019.json",
    "updatedAt": "2026-11-24T21:46:25Z"
+  },
+  {
+   "number": 20,
+   "title": "Rue d'Austerlitz",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-24T21:49:51Z"
+  },
+  {
+   "number": 21,
+   "title": "L'hameçon",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-24T21:49:51Z"
+  },
+  {
+   "number": 22,
+   "title": "Pour que papa sache",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-24T21:49:51Z"
   }
  ]
 }
