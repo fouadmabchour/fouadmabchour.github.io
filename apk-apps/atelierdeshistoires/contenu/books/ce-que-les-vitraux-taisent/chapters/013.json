@@ -1,0 +1,278 @@
+{
+ "number": 13,
+ "title": "Rue Verrerie",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Thomas posa le bouquet de mimosa sur le dernier banc, à côté de la porte. Il le posa avec soin, les tiges vers le mur, pour que les fleurs ne s'abîment pas. C'est ce qu'Inès retint de toute la scène, plus tard, quand elle essaya de se la rappeler en entier : ce geste-là, ce soin-là, ces fleurs jaunes bien rangées sur le bois sombre."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais dormir à Beaune, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Thomas…"
+  },
+  {
+   "type": "text",
+   "value": "— Pas ce soir, Inès. S'il te plaît."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda Gabriel. Une seconde, pas plus. Gabriel soutint son regard sans rien dire, et Inès vit passer entre eux quelque chose qu'elle ne comprit pas et qui ne lui était pas destiné."
+  },
+  {
+   "type": "text",
+   "value": "Puis Thomas sortit. Elle entendit sa voiture démarrer dans la cour, les pneus sur le gravier mouillé, le moteur qui remontait l'allée de platanes. Elle resta debout dans la nef, entre le mimosa et l'homme qu'elle venait d'embrasser, et elle se sentit exactement à mi-chemin des deux, et c'était la pire place."
+  },
+  {
+   "type": "text",
+   "value": "— Va-t'en, dit-elle à Gabriel, sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "Il s'en alla."
+  },
+  {
+   "type": "text",
+   "value": "Thomas revint le lundi à neuf heures moins cinq, rasé de frais, en costume, avec sa sacoche et son tube à plans. Il frappa à la porte extérieure de la sacristie au lieu d'entrer, ce qu'il n'avait jamais fait."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai des nouvelles du projet, dit-il. Il vaut mieux que tu les entendes maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Elle le fit entrer. Il ne s'assit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Saint-Amand avance la signature. Le vingt-sept février au lieu du treize mars. Il m'a appelé hier soir, très tard. Il veut que les vitraux soient reposés et réceptionnés avant l'acte. C'est une condition de la promesse de vente, la notaire l'a confirmé ce matin."
+  },
+  {
+   "type": "text",
+   "value": "Inès posa sa pince."
+  },
+  {
+   "type": "text",
+   "value": "— Le vingt-sept février."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Ça me laisse dix-huit jours. Pour un chantier que j'avais prévu en six semaines, et qui en demandait douze."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? Pourquoi il avance ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il ne m'a pas donné de raison. Il a dit que ses financements étaient prêts et qu'il n'aimait pas attendre. Il a ajouté que le domaine « commençait à faire parler de lui », et que ça ne lui plaisait pas."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda en disant ça. Elle pensa à la niche, au XIII, à la cave. Elle n'en avait parlé à personne. Gabriel non plus, à moins que…"
+  },
+  {
+   "type": "text",
+   "value": "— Il a dit ça comme ça ? *Faire parler de lui ?*"
+  },
+  {
+   "type": "text",
+   "value": "— Mot pour mot."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tut. Thomas regarda les panneaux alignés sur les tréteaux, saint Vincent avec son nouveau visage, Noé avec sa robe réparée, et il eut ce petit hochement de tête professionnel qu'il avait toujours devant un travail bien fait, même maintenant, même aujourd'hui. Elle l'aima pour ça, une seconde, d'un amour simple et triste."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne m'as jamais dit que vous aviez été ensemble, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ?"
+  },
+  {
+   "type": "text",
+   "value": "— Deux ans. Au lycée. De seize à dix-huit ans."
+  },
+  {
+   "type": "text",
+   "value": "Thomas hocha la tête de nouveau. Il prit ses lunettes, les nettoya avec le pan de sa cravate, les remit. C'était son geste pour réfléchir, elle le connaissait."
+  },
+  {
+   "type": "text",
+   "value": "— Le garçon de la gare, dit-il. Celui qui n'est pas venu. Tu m'en avais parlé une fois. Notre premier hiver. Tu avais bu trop de vin chaud à la fête de la Croix-Rousse, tu m'avais raconté le quai, les six heures, le contrôleur qui t'avait apporté un café. Tu n'avais pas dit son nom."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— C'est lui."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une question. Elle ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit Thomas."
+  },
+  {
+   "type": "text",
+   "value": "Il ramassa son tube à plans."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne te demande rien, dit-il. Pas maintenant. Tu as dix-huit jours pour finir. Je serai là pour les réceptions, parce que c'est mon travail et que je le fais bien. Pour le reste… On parlera."
+  },
+  {
+   "type": "text",
+   "value": "Il était sur le seuil. Il se retourna."
+  },
+  {
+   "type": "text",
+   "value": "— La bague, tu peux la garder jusqu'au vingt-sept, dit-il. Après, tu me diras."
+  },
+  {
+   "type": "text",
+   "value": "Elle partit pour Dijon le mardi à sept heures, avec dix-huit jours devant elle et une journée à perdre."
+  },
+  {
+   "type": "text",
+   "value": "Elle le savait. Elle aurait dû rester dans la sacristie, déposer les lancettes trois et quatre, commencer les plombs de la rosace. Chaque heure passée sur l'autoroute était une heure volée à saint Vincent, à Noé, aux douze mois. Mais elle avait passé la nuit à regarder le plafond, et au matin elle avait compris qu'elle ne pourrait pas travailler tant qu'elle ne serait pas allée rue Verrerie. Il y avait des choses qu'on ne pouvait pas faire à moitié. Une coupe de verre, par exemple. Ou une question."
+  },
+  {
+   "type": "text",
+   "value": "Gabriel ne vint pas. Capucine allait mieux, mais il ne voulait pas la laisser seule, et de toute façon Inès ne le lui avait pas demandé. Ils s'étaient croisés le lundi soir dans la cour, et il avait dit : « Tu vas à Dijon. » Pas une question non plus. Elle avait répondu : « Demain. » Il avait dit : « Fais attention. » Ils en étaient là."
+  },
+  {
+   "type": "text",
+   "value": "Dijon était grise et pressée. Elle se gara près des Halles et marcha jusqu'à la place du Bareuzai, avec son petit vendangeur de bronze qui piétinait son raisin au-dessus de la fontaine, puis s'engagea dans la rue Verrerie. Les maisons à colombages penchaient au-dessus de la rue comme des vieilles dames qui se racontent des secrets. Des vitrines de meubles cirés, de pendules, d'argenterie, de faïences de Nevers. Un magasin de jouets anciens. Un encadreur."
+  },
+  {
+   "type": "text",
+   "value": "Elle entra dans quatre boutiques. Personne n'avait de vitrail rond. Personne ne se souvenait d'un monsieur de Pommard avec une petite fille, il y a dix ans. Une antiquaire très maquillée lui proposa à la place une paire de chandeliers « d'église, authentiques, Restauration ». Inès sortit en promettant de réfléchir."
+  },
+  {
+   "type": "text",
+   "value": "La cinquième boutique était au bout de la rue, presque à l'angle, et elle faillit ne pas la voir. Une vitrine étroite, encombrée, avec un écriteau peint à la main : *Antiquités O. Bourdon — Objets d'église et de château.* Elle poussa la porte."
+  },
+  {
+   "type": "text",
+   "value": "Une cloche sonna au-dessus de sa tête. Une vraie cloche de cuivre, fixée sur un ressort, qui tinta trois fois."
+  },
+  {
+   "type": "text",
+   "value": "La boutique était si encombrée qu'on y avançait de biais. Des statues de saints en bois polychrome sans bras, des prie-Dieu, des ostensoirs, des bénitiers, des grilles de communion. Au fond, derrière un comptoir couvert de papiers, une femme d'au moins soixante-quinze ans, toute petite, avec un chignon blanc et des lunettes en demi-lune, lisait *Le Bien public* en buvant du thé dans une tasse ébréchée."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux vous aider ?"
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être. Je cherche un vitrail. Un médaillon rond. À peu près cinquante centimètres de diamètre. Dix-neuvième. Il aurait été vendu ici il y a une dizaine d'années, par un monsieur de Pommard."
+  },
+  {
+   "type": "text",
+   "value": "La vieille dame posa son journal. Elle regarda Inès par-dessus ses lunettes, longuement."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes de la famille ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis la restauratrice. Je restaure la rosace d'où il vient."
+  },
+  {
+   "type": "text",
+   "value": "— Ah, dit la vieille dame. Ah. La rosace."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva, lentement, en s'appuyant sur le comptoir."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur de Valcourt, dit-elle. Je m'en souviens très bien. Septembre 2016. Il était venu avec une petite fille blonde qui avait touché à tout. Il m'avait vendu le médaillon pour presque rien, il avait l'air pressé de s'en débarrasser. *Les Mains et la Clé*, il appelait ça. Deux mains qui tiennent une clé, au milieu d'un ciel bleu. Très beau travail. Très fin."
+  },
+  {
+   "type": "text",
+   "value": "Inès posa les deux mains à plat sur le comptoir, au milieu des papiers, parce qu'il fallait bien les poser quelque part."
+  },
+  {
+   "type": "text",
+   "value": "— Vous l'avez encore ?"
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'en voulait, vous savez. Les vitraux ronds, c'est difficile à placer. Trop grand pour une fenêtre, trop religieux pour un salon. Il est resté là-bas, dans l'arrière-boutique, dans sa caisse, pendant presque dix ans. J'avais fini par l'oublier."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux le voir ?"
+  },
+  {
+   "type": "text",
+   "value": "La vieille dame la regarda avec une sorte de pitié."
+  },
+  {
+   "type": "text",
+   "value": "— C'est drôle, dit-elle. Dix ans que personne ne me le demande, et deux fois dans la même journée."
+  },
+  {
+   "type": "text",
+   "value": "Inès sentit le sol bouger un peu sous ses pieds, comme sur un échafaudage mal calé."
+  },
+  {
+   "type": "text",
+   "value": "— Deux fois ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il est parti ce matin, mademoiselle. À l'ouverture. Un monsieur très bien, très poli. Il savait exactement ce qu'il voulait, il est allé droit à l'arrière-boutique. Il a payé en liquide, sans discuter le prix, et il est reparti avec la caisse sous le bras."
+  },
+  {
+   "type": "text",
+   "value": "— Il ressemblait à quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Odile Bourdon réfléchit. Elle reprit sa tasse de thé, but une gorgée."
+  },
+  {
+   "type": "text",
+   "value": "— Grand. Les cheveux gris. Un beau manteau, couleur caramel. Il ne s'est pas présenté. Il ne m'a même pas serré la main. Il n'a pas enlevé ses gants de tout le temps qu'il était là. Des gants de cuir noir."
+  },
+  {
+   "type": "text",
+   "value": "Elle fouilla dans la poche de son gilet et posa quelque chose sur le comptoir, entre elles deux."
+  },
+  {
+   "type": "text",
+   "value": "— Il m'a laissé ça, en partant. Il a dit que c'était une manie."
+  },
+  {
+   "type": "text",
+   "value": "C'était une petite pièce de cuivre foncé, usée, avec un profil d'homme en perruque à peine lisible."
+  }
+ ]
+}

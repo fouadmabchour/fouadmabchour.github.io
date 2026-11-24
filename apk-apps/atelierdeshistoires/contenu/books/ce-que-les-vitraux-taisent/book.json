@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "ongoing",
- "updatedAt": "2026-11-24T21:37:35Z",
+ "updatedAt": "2026-11-24T21:40:04Z",
  "chapters": [
   {
    "number": 1,
@@ -82,6 +82,18 @@
    "title": "Douze coups",
    "file": "chapters/012.json",
    "updatedAt": "2026-11-24T21:37:35Z"
+  },
+  {
+   "number": 13,
+   "title": "Rue Verrerie",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-24T21:40:04Z"
+  },
+  {
+   "number": 14,
+   "title": "La proposition",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-24T21:40:04Z"
   }
  ]
 }
