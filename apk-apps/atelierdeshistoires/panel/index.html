@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex, nofollow">
+<title>Panel — Atelier des Histoires</title>
+<link rel="icon" href="../icon.png">
+<link rel="stylesheet" href="panel.css">
+<script src="https://unpkg.com/lucide@1.79.0/dist/umd/lucide.min.js" defer></script>
+<script type="module" src="panel.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><i data-lucide="feather"></i><span>Atelier des Histoires <small>panel</small></span></div>
+  <div class="actions">
+    <span id="pending" class="pending" hidden></span>
+    <button type="button" id="btn-publish" class="primary" disabled><i data-lucide="upload-cloud"></i>Publier</button>
+    <button type="button" id="btn-settings" class="icon" aria-label="Connexion GitHub"><i data-lucide="settings"></i></button>
+  </div>
+</header>
+
+<main id="app">
+  <!-- Liste des livres -->
+  <section id="view-list">
+    <div class="row-head">
+      <h1>Histoires</h1>
+      <div class="actions">
+        <button type="button" id="btn-categories"><i data-lucide="layout-grid"></i>Catégories</button>
+        <button type="button" id="btn-new-book" class="primary"><i data-lucide="plus"></i>Nouvelle histoire</button>
+      </div>
+    </div>
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+    <ul id="book-list" class="book-grid"></ul>
+  </section>
+
+  <!-- Édition d'un livre -->
+  <section id="view-book" hidden>
+    <button type="button" id="btn-back" class="ghost"><i data-lucide="chevron-left"></i>Toutes les histoires</button>
+    <form id="book-form" class="card" aria-labelledby="book-title-h" novalidate>
+      <h1 id="book-title-h">Histoire</h1>
+      <div class="book-layout">
+        <div class="cover-box">
+          <img id="cover-preview" alt="Couverture" hidden>
+          <div id="cover-empty" class="cover-empty"><i data-lucide="image"></i><span>Aucune couverture</span></div>
+          <label class="btn" for="cover-file"><i data-lucide="upload"></i>Choisir la couverture</label>
+          <input type="file" id="cover-file" accept="image/*" class="visually-hidden">
+          <small class="help">Recadrée en 360×540, WebP 75 %</small>
+        </div>
+        <div class="fields">
+          <label for="f-title">Titre <span aria-hidden="true">*</span></label>
+          <input id="f-title" name="title" required maxlength="120" autocomplete="off">
+          <p class="error" id="f-title-err"></p>
+
+          <label for="f-id">Identifiant (adresse, définitif)</label>
+          <input id="f-id" name="id" pattern="[a-z0-9-]+" required maxlength="80" autocomplete="off" aria-describedby="f-id-help f-id-err">
+          <small class="help" id="f-id-help">Lettres minuscules, chiffres et tirets. Rempli automatiquement depuis le titre.</small>
+          <p class="error" id="f-id-err"></p>
+
+          <label for="f-author">Auteur</label>
+          <input id="f-author" name="author" maxlength="80" autocomplete="off">
+
+          <label for="f-summary">Résumé</label>
+          <textarea id="f-summary" name="summary" rows="5" maxlength="2000"></textarea>
+
+          <fieldset>
+            <legend>Catégories</legend>
+            <div id="f-cats" class="checks"></div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Statut</legend>
+            <div class="checks">
+              <input type="radio" id="st-ongoing" name="status" value="ongoing" checked><label for="st-ongoing">En cours</label>
+              <input type="radio" id="st-completed" name="status" value="completed"><label for="st-completed">Terminé</label>
+            </div>
+          </fieldset>
+
+          <div class="checks">
+            <input type="checkbox" id="f-featured" name="featured"><label for="f-featured">Mettre « À la une »</label>
+          </div>
+        </div>
+      </div>
+      <div class="form-actions">
+        <button type="button" id="btn-delete-book" class="danger"><i data-lucide="trash-2"></i>Supprimer l'histoire</button>
+        <button type="submit" class="primary"><i data-lucide="check"></i>Enregistrer</button>
+      </div>
+    </form>
+
+    <div class="card">
+      <div class="row-head">
+        <h2>Chapitres</h2>
+        <button type="button" id="btn-new-chapter" class="primary"><i data-lucide="plus"></i>Nouveau chapitre</button>
+      </div>
+      <ol id="chapter-list" class="chapter-list"></ol>
+    </div>
+  </section>
+</main>
+
+<!-- Connexion GitHub -->
+<dialog id="dlg-settings" closedby="any" aria-labelledby="dlg-settings-h">
+  <form method="dialog" id="settings-form">
+    <h1 id="dlg-settings-h">Connexion GitHub</h1>
+    <label for="s-token">Jeton GitHub (fine-grained, accès « Contents : Read and write » au dépôt)</label>
+    <input id="s-token" name="token" type="password" autocomplete="off" required>
+    <label for="s-repo">Dépôt</label>
+    <input id="s-repo" name="repo" required>
+    <label for="s-branch">Branche</label>
+    <input id="s-branch" name="branch" required>
+    <label for="s-path">Dossier du contenu</label>
+    <input id="s-path" name="path" required>
+    <div class="checks"><input type="checkbox" id="s-remember" name="remember" checked><label for="s-remember">Mémoriser sur cet ordinateur</label></div>
+    <small class="help">Le jeton reste dans ce navigateur. Il n'est jamais écrit dans le dépôt.</small>
+    <div class="form-actions">
+      <button value="cancel" formnovalidate>Annuler</button>
+      <button value="save" class="primary" autofocus>Se connecter</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Catégories -->
+<dialog id="dlg-cats" closedby="any" aria-labelledby="dlg-cats-h">
+  <form method="dialog">
+    <h1 id="dlg-cats-h">Catégories</h1>
+    <ul id="cat-list" class="cat-list"></ul>
+    <div class="inline">
+      <label for="new-cat" class="visually-hidden">Nouvelle catégorie</label>
+      <input id="new-cat" placeholder="Nouvelle catégorie" autocomplete="off">
+      <button type="button" id="btn-add-cat"><i data-lucide="plus"></i>Ajouter</button>
+    </div>
+    <div class="form-actions"><button value="close" class="primary" autofocus>Terminé</button></div>
+  </form>
+</dialog>
+
+<!-- Chapitre -->
+<dialog id="dlg-chapter" class="wide" closedby="none" aria-labelledby="dlg-chapter-h">
+  <form method="dialog" id="chapter-form">
+    <h1 id="dlg-chapter-h">Chapitre</h1>
+    <label for="c-title">Titre du chapitre</label>
+    <input id="c-title" name="title" required maxlength="120" autocomplete="off">
+    <div class="row-head">
+      <label for="c-body">Texte <small class="help">(un paragraphe par ligne)</small></label>
+      <label class="btn" for="c-image"><i data-lucide="image-plus"></i>Insérer une image</label>
+      <input type="file" id="c-image" accept="image/*" class="visually-hidden">
+    </div>
+    <textarea id="c-body" name="body" rows="18" aria-describedby="c-body-help"></textarea>
+    <small class="help" id="c-body-help">Les images apparaissent sous la forme <code>[image:images/…webp|légende]</code> : déplace la ligne pour changer sa place, modifie la légende après « | ».</small>
+    <p id="c-msg" class="error" aria-live="polite"></p>
+    <div class="form-actions">
+      <button value="cancel" formnovalidate>Annuler</button>
+      <button value="save" class="primary">Enregistrer le chapitre</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Confirmation -->
+<dialog id="dlg-confirm" closedby="any" aria-labelledby="dlg-confirm-h">
+  <form method="dialog">
+    <h1 id="dlg-confirm-h">Confirmer</h1>
+    <p id="confirm-text"></p>
+    <div class="form-actions">
+      <button value="cancel" autofocus>Annuler</button>
+      <button value="ok" class="danger">Supprimer</button>
+    </div>
+  </form>
+</dialog>
+</body>
+</html>

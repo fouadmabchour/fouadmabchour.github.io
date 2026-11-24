@@ -1,0 +1,57 @@
+{
+ "id": "la-cle-d-argent",
+ "title": "La Clé d'argent",
+ "author": "Auteur Exemple",
+ "summary": "Résumé d'exemple de « La Clé d'argent ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
+ "cover": "books/la-cle-d-argent/cover.webp",
+ "categories": [
+  "fantastique"
+ ],
+ "tags": [],
+ "status": "completed",
+ "updatedAt": "2026-11-24T19:31:32+00:00",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Chapitre 1",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 2,
+   "title": "Chapitre 2",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 3,
+   "title": "Chapitre 3",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 4,
+   "title": "Chapitre 4",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 5,
+   "title": "Chapitre 5",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 6,
+   "title": "Chapitre 6",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 7,
+   "title": "Chapitre 7",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  }
+ ]
+}

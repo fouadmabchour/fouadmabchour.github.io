@@ -1,0 +1,39 @@
+{
+ "id": "lettres-d-ete",
+ "title": "Lettres d'été",
+ "author": "Autrice Exemple",
+ "summary": "Résumé d'exemple de « Lettres d'été ». Une histoire factice pour tester l'application ; elle sera remplacée par un vrai récit.",
+ "cover": "books/lettres-d-ete/cover.webp",
+ "categories": [
+  "romance"
+ ],
+ "tags": [],
+ "status": "completed",
+ "updatedAt": "2026-11-24T19:31:32+00:00",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Chapitre 1",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 2,
+   "title": "Chapitre 2",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 3,
+   "title": "Chapitre 3",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  },
+  {
+   "number": 4,
+   "title": "Chapitre 4",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-24T19:31:32+00:00"
+  }
+ ]
+}
