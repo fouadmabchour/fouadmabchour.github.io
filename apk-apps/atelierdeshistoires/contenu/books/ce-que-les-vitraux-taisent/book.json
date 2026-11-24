@@ -8,8 +8,8 @@
   "romance"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-24T22:00:46Z",
+ "status": "completed",
+ "updatedAt": "2026-11-24T22:03:13Z",
  "chapters": [
   {
    "number": 1,
@@ -190,6 +190,18 @@
    "title": "L'étude",
    "file": "chapters/030.json",
    "updatedAt": "2026-11-24T22:00:46Z"
+  },
+  {
+   "number": 31,
+   "title": "Ce que les autres ont fait",
+   "file": "chapters/031.json",
+   "updatedAt": "2026-11-24T22:03:13Z"
+  },
+  {
+   "number": 32,
+   "title": "Sept heures douze",
+   "file": "chapters/032.json",
+   "updatedAt": "2026-11-24T22:03:13Z"
   }
  ]
 }
