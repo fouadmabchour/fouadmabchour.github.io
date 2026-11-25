@@ -7,9 +7,9 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Panel — Atelier des Histoires</title>
 <link rel="icon" href="../icon.png">
-<link rel="stylesheet" href="panel.css">
+<link rel="stylesheet" href="panel.css?v=4">
 <script src="https://unpkg.com/lucide@1.79.0/dist/umd/lucide.min.js" defer></script>
-<script type="module" src="panel.js"></script>
+<script type="module" src="panel.js?v=4"></script>
 </head>
 <body>
 <header class="topbar">
@@ -148,7 +148,7 @@
       <input type="file" id="c-image" accept="image/*" class="visually-hidden">
     </div>
     <div id="c-editor" class="editor" contenteditable="true" role="textbox" aria-multiline="true" aria-labelledby="c-ed-label" spellcheck="true" lang="fr"></div>
-    <small class="help">Entrée = nouveau paragraphe. Chaque réplique commence par « — » sur son propre paragraphe. L'image s'insère sous le paragraphe où se trouve le curseur ; déplace-la avec ↑ ↓.</small>
+    <small class="help ed-help">Entrée : nouveau paragraphe · bulle : parole d'un personnage (—) · guillemets : citation en italique · image : ajoutée sous le paragraphe du curseur, déplaçable avec ↑ ↓.</small>
     <p id="c-msg" class="error" aria-live="polite"></p>
     <div class="form-actions">
       <button value="cancel" formnovalidate>Annuler</button>
