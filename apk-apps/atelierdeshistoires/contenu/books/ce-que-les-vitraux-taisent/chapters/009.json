@@ -43,6 +43,11 @@
    "value": "Capucine était sur le seuil, en pyjama, avec un bol de céréales."
   },
   {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "La lettre de l'école"
+  },
+  {
    "type": "text",
    "value": "— Tu as été prise, dit-il."
   },
@@ -133,6 +138,11 @@
   {
    "type": "text",
    "value": "Il resta longtemps devant l'écran. Par la fenêtre de la sellerie, il voyait la cour, et au fond de la cour, près du hangar, Marcel qui téléphonait, debout, le dos tourné, la casquette enfoncée sur les yeux. Marcel ne téléphonait jamais. Il avait un vieux portable à clapet qu'il laissait d'habitude dans la boîte à gants du tracteur, et quand on l'appelait, il ne répondait pas, il rappelait le lendemain."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Marcel au téléphone"
   },
   {
    "type": "text",

@@ -31,6 +31,11 @@
    "value": "Il but une gorgée de chocolat. Une moustache brune resta sur sa lèvre, et l'aide à domicile l'essuya avec une serviette, et il la laissa faire avec une dignité de vieux roi."
   },
   {
+   "type": "image",
+   "src": "images/ch19-2.webp",
+   "caption": "Le chocolat chaud"
+  },
+  {
    "type": "text",
    "value": "— Où est l'original ? demanda Inès."
   },
@@ -162,6 +167,11 @@
   {
    "type": "text",
    "value": "— J'y étais. Au train de sept heures douze. Et à celui de neuf heures quarante. Et à celui de onze heures cinq."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-3.webp",
+   "caption": "Le quai, un an plus tard"
   },
   {
    "type": "text",

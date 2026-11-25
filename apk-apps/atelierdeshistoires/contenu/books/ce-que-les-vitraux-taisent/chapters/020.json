@@ -148,6 +148,11 @@
    "value": "Il hocha la tête. Il mit la boîte dans la poche de son pantalon. Il enleva ses lunettes et les essuya avec le bas de sa chemise, puisqu'il n'avait pas de cravate aujourd'hui, et il les remit."
   },
   {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "La boîte rendue"
+  },
+  {
    "type": "text",
    "value": "— C'est lui, dit-il."
   },
@@ -198,6 +203,11 @@
   {
    "type": "text",
    "value": "Il était sur le seuil, la main sur le chambranle fendu. Il s'arrêta. Il se retourna, et elle vit qu'il hésitait, vraiment, et que ce n'était pas l'hésitation de quelqu'un qui veut revenir sur ce qui vient de se passer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Le chambranle fendu"
   },
   {
    "type": "text",

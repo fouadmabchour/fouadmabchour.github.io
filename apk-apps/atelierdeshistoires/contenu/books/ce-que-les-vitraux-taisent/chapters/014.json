@@ -67,6 +67,11 @@
    "value": "Le portier lui ouvrit la porte. On le fit monter au premier étage, dans un salon aux boiseries vert pâle, avec une cheminée où brûlait un vrai feu et des fauteuils qui avaient l'air d'avoir coûté le prix d'une barrique chacun."
   },
   {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Rue d'Alsace"
+  },
+  {
    "type": "text",
    "value": "Saint-Amand était debout devant la cheminée. Il portait un costume gris, une cravate bordeaux. Et ses gants. Toujours ses gants, même à l'intérieur, même devant le feu."
   },
@@ -178,6 +183,11 @@
   {
    "type": "text",
    "value": "Gabriel se rassit. Lentement. Il regarda le feu, la carafe de vin noir, la caisse ouverte à ses pieds avec les deux mains qui ne se touchaient pas. Il pensait à Capucine sous ses rosaces punaisées, à son visage quand elle avait replié la lettre de l'Atelier Delorme en suivant les plis d'origine. Cent cinquante mille euros. Le calcul tombait juste, pour une fois. Il tombait même trop juste. Saint-Amand connaissait le montant de l'acompte, la date limite, le nom de l'école."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "La caisse ouverte"
   },
   {
    "type": "text",

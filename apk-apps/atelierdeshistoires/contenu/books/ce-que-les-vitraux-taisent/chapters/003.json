@@ -92,6 +92,11 @@
    "value": "Il coupa trop court un sarment et entailla le bois de l'année. Il resta là, le sécateur en l'air, à regarder la blessure blanche du cep."
   },
   {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Les Petits Noizons"
+  },
+  {
    "type": "text",
    "value": "En redescendant vers la maison, il passa devant la chapelle. Il n'avait pas prévu de passer devant la chapelle. Le chemin le plus court pour rentrer passait devant la chapelle, c'est tout."
   },
@@ -182,6 +187,11 @@
   {
    "type": "text",
    "value": "Capucine était dans la cuisine quand il rentra, en train de beurrer une tartine avec une concentration de chirurgienne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "La tartine"
   },
   {
    "type": "text",

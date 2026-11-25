@@ -35,6 +35,11 @@
    "value": "Marcel regarda ses bottes."
   },
   {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "Les bottes de Marcel"
+  },
+  {
    "type": "text",
    "value": "— Cette nuit, dit Gabriel. Tu as vu l'échelle. Tu as vu la lumière dans la sacristie. Tu as appelé Saint-Amand."
   },
@@ -198,6 +203,11 @@
   {
    "type": "text",
    "value": "Il décrocha. Il ne dit rien."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "L'appel du soir"
   },
   {
    "type": "text",

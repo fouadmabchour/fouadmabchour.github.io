@@ -192,6 +192,11 @@
    "value": "Le poêle ronflait. La pendule de la cuisine, une vieille comtoise contre le mur du fond, battait trop fort, ou peut-être qu'elle battait comme d'habitude et qu'ils l'entendaient trop. Inès posa sa fourchette."
   },
   {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "La comtoise"
+  },
+  {
    "type": "text",
    "value": "— Tu es parti, dit-elle."
   },
@@ -326,6 +331,11 @@
   {
    "type": "text",
    "value": "Inès s'assit sur la marche du perron. La pierre était glacée à travers son jean."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "Sur la marche gelée"
   },
   {
    "type": "text",

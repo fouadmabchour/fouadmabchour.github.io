@@ -72,6 +72,11 @@
    "value": "Elle entra, posa la chose sur le bureau, sur les colonnes de chiffres, et retira les mains. C'était une enveloppe. Une enveloppe jaunie, gondolée, tachée de gris. Une feuille de papier dépliée à côté."
   },
   {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Dans la sellerie"
+  },
+  {
    "type": "text",
    "value": "Il reconnut son écriture avant de reconnaître l'enveloppe. Il la reconnut comme on reconnaît sa propre voix sur un enregistrement : avec gêne, avec incrédulité, avec ce petit écœurement de s'entendre de l'extérieur."
   },
@@ -246,6 +251,11 @@
   {
    "type": "text",
    "value": "Elle s'interrompit. Gabriel attendit. Il voyait ses mains à elle, posées sur le bord du bureau, et la petite cicatrice pâle sur le dos de la main gauche, une ancienne brûlure, qu'il ne connaissait pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "La petite cicatrice"
   },
   {
    "type": "text",

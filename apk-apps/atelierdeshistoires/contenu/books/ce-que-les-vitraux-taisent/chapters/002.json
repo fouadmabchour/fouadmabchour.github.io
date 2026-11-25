@@ -119,6 +119,11 @@
    "value": "Il ne dit rien d'autre. Il marcha devant elle à travers la cour, contourna la remise, prit un sentier de gravier entre deux haies de buis mal taillées. La maison du régisseur était une petite bâtisse carrée à l'écart, avec un perron de trois marches et une porte peinte en vert bouteille. À l'intérieur, une pièce principale avec un poêle, une table, un canapé affaissé couvert d'un plaid écossais ; une chambre ; une salle d'eau minuscule avec un chauffe-eau qui fit un bruit de moteur d'avion quand Marcel l'alluma."
   },
   {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La maison du régisseur"
+  },
+  {
    "type": "text",
    "value": "— Le bois est sous l'appentis, dit-il. Le chauffe-eau, faut attendre vingt minutes. La télé marche pas."
   },
@@ -197,6 +202,11 @@
   {
    "type": "text",
    "value": "Il lui tendit la clé de fer. Elle la prit. Elle était lourde et glacée, et sa main à lui ne toucha pas la sienne, ce qui demandait un certain talent vu la taille de l'objet."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "La clé de fer"
   },
   {
    "type": "text",

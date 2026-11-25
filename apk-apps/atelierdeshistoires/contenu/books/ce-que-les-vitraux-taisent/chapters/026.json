@@ -23,6 +23,11 @@
    "value": "Elle referma la valise. Elle ne fermait pas. Elle s'assit dessus."
   },
   {
+   "type": "image",
+   "src": "images/ch26-2.webp",
+   "caption": "La valise"
+  },
+  {
    "type": "text",
    "value": "Elle pensait à ses pinceaux en martre réduits en cendres sur le banc de pierre. À son atelier de Lyon avec sa porte fendue. À sa mère, qui resterait une voleuse sur le papier, dans un tiroir, pour toujours. À la phrase d'Armand, *qu'elle sache qu'elle n'a jamais rien volé*, qui avait existé pendant quatre jours sur des bandes de papier dans un plomb de vingt millimètres et qui n'existait plus nulle part."
   },
@@ -202,6 +207,11 @@
   {
    "type": "text",
    "value": "Elle posa la main sur la joue d'Inès, très légèrement, comme le soir du 22 août dans le noir."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-3.webp",
+   "caption": "La main sur la joue"
   },
   {
    "type": "text",

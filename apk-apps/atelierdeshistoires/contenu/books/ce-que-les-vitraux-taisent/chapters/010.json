@@ -35,6 +35,11 @@
    "value": "La neige arriva le mercredi."
   },
   {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "La neige"
+  },
+  {
    "type": "text",
    "value": "Capucine l'avait annoncée tout le week-end, avec la gourmandise d'une enfant à qui on a promis un jour sans école, et personne ne l'avait crue, parce que la neige qui tient en Côte-d'Or, à basse altitude, ça arrive une fois tous les cinq ans et jamais quand on l'annonce. Elle commença à tomber à midi, de gros flocons mous et lents qui fondaient sur le gravier. À quinze heures, ils ne fondaient plus. À dix-huit heures, la cour était blanche, la chapelle avait un bonnet, et les platanes de l'allée tenaient chacun une ligne de neige sur chaque branche, d'une netteté de dessin à l'encre."
   },
@@ -97,6 +102,11 @@
   {
    "type": "text",
    "value": "Ils mangèrent assis sur le banc de pierre de la sacristie, dos au mur, la gamelle entre eux, avec deux cuillères. La soupe était trop poivrée. La bouteille était un Petits Noizons, encore, un 2020 cette fois. Gabriel ne dit rien du vin, et elle ne lui demanda rien. La neige tombait derrière la fenêtre grillagée, en grosses masses grises dans la lumière de la lampe."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "La soupe de potiron"
   },
   {
    "type": "text",

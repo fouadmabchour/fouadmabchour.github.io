@@ -27,6 +27,11 @@
    "value": "Il prit sa main, embrassa le pansement, et revint à son sandwich. Elle pensa à la compresse, au marc à soixante degrés, à une main qui serrait la sienne sans rien dire, et elle mordit dans son pain un peu trop fort."
   },
   {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Le pansement"
+  },
+  {
    "type": "text",
    "value": "— Thomas. Saint-Amand, tu le connais bien ?"
   },
@@ -157,6 +162,11 @@
   {
    "type": "text",
    "value": "Hélène ferma le robinet. Elle s'essuya les mains sur un torchon, longtemps, doigt par doigt, comme Inès l'avait vue faire mille fois, et quand elle se retourna, elle souriait, et c'était le sourire le plus triste qu'Inès lui ait jamais vu."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Le torchon"
   },
   {
    "type": "text",

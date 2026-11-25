@@ -7,6 +7,11 @@
    "value": "Il revint avec une brassée de bûches contre la poitrine et la vit debout au milieu de la sacristie, dans son manteau à lui, la feuille dépliée à la main."
   },
   {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "La brassée de bûches"
+  },
+  {
    "type": "text",
    "value": "Il s'arrêta sur le seuil. Les bûches glissèrent un peu dans ses bras. Il ne les rattrapa pas, et l'une d'elles tomba sur les dalles avec un bruit sourd qui résonna sous la voûte."
   },
@@ -238,6 +243,11 @@
   {
    "type": "text",
    "value": "Hélène tendit la main par-dessus la table. Inès ne la prit pas. La main resta là, ouverte, entre le sucrier et la photocopie, petite, avec ses veines bleues et son alliance qu'elle portait encore seize ans après le départ du père d'Inès."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "La main tendue"
   },
   {
    "type": "text",

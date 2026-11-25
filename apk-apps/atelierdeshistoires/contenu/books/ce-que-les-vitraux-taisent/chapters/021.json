@@ -67,6 +67,11 @@
    "value": "Inès le rejoignit à la fenêtre."
   },
   {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "À la fenêtre"
+  },
+  {
    "type": "text",
    "value": "— Alors on fait comme les pêcheurs, dit-elle."
   },
@@ -157,6 +162,11 @@
   {
    "type": "text",
    "value": "Capucine ne répondit pas. Elle reposa sa tartine sur le papier, bien droite, et regarda au loin, vers les vignes nues. Puis elle dit :"
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "La tartine posée"
   },
   {
    "type": "text",
