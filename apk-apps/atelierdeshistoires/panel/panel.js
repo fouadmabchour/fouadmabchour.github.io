@@ -385,28 +385,132 @@ async function openChapter(ref) {
   const isNew = !ref;
   ref ??= { number: book.chapters.length + 1, title: `Chapitre ${book.chapters.length + 1}`, file: nextChapterFile(book) };
   state.chapter = { ref, isNew, dirty: false };
+  state.edRange = null;
   $('#c-title').value = ref.title;
-  $('#c-body').value = '';
+  loadEditor([]);
   $('#c-msg').textContent = '';
   if (!isNew) {
     $('#c-msg').textContent = 'Chargement…';
     const txt = await readText(`books/${book.id}/${ref.file}`);
     const ch = txt ? JSON.parse(txt) : { blocks: [] };
-    $('#c-body').value = ch.blocks.map((b) => (b.type === 'image' ? `[image:${b.src}|${b.caption ?? ''}]` : b.value)).join('\n\n');
+    loadEditor(ch.blocks);
     $('#c-msg').textContent = '';
   }
   $('#dlg-chapter').showModal();
+  $('#c-editor').scrollTop = 0; $('#dlg-chapter').scrollTop = 0;
   $('#c-title').focus();
+}
+
+// ───────────── Éditeur de chapitre : texte et images à leur place ─────────────
+const ED = () => $('#c-editor');
+const esc = (t) => t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+/** "*italique*" → <em> */
+const toHtml = (t) => esc(t).replace(/\*([^*]+)\*/g, '<em>$1</em>');
+/** Contenu d'un paragraphe → texte au format des chapitres (italique = *…*, <br> = coupure). */
+function nodeText(n) {
+  if (n.nodeType === 3) return n.nodeValue;
+  if (n.nodeName === 'BR') return '\n';
+  const inner = [...n.childNodes].map(nodeText).join('');
+  const it = ['EM', 'I'].includes(n.nodeName) || n.style?.fontStyle === 'italic';
+  return it && inner.trim() ? inner.split('\n').map((x) => (x.trim() ? `*${x}*` : x)).join('\n') : inner;
+}
+const clean = (t) => t.replace(/\*\*/g, '').replace(/[ \t]+/g, ' ').trim();
+
+function makeFigure(src, caption) {
+  const book = currentBook();
+  const fig = document.createElement('figure');
+  fig.contentEditable = 'false'; fig.dataset.src = src;
+  const img = document.createElement('img');
+  img.alt = caption || ''; img.src = imageUrl(`books/${book.id}/${src}`);
+  const cap = document.createElement('input');
+  cap.className = 'cap'; cap.placeholder = 'Légende (facultative)'; cap.value = caption || '';
+  cap.setAttribute('aria-label', 'Légende de l\'image');
+  cap.addEventListener('keydown', (e) => { if (e.key === 'Enter') e.preventDefault(); });
+  cap.addEventListener('input', () => { state.chapter.dirty = true; });
+  const tools = document.createElement('div');
+  tools.className = 'fig-tools';
+  const btn = (icon, label, fn) => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.title = label; b.setAttribute('aria-label', label);
+    b.innerHTML = `<i data-lucide="${icon}"></i>`;
+    b.addEventListener('click', () => { fn(); state.chapter.dirty = true; });
+    return b;
+  };
+  tools.append(
+    btn('arrow-up', 'Monter l\'image', () => { const p = fig.previousElementSibling; if (p) p.before(fig); fig.scrollIntoView({ block: 'nearest' }); }),
+    btn('arrow-down', 'Descendre l\'image', () => { const n = fig.nextElementSibling; if (n) n.after(fig); fig.scrollIntoView({ block: 'nearest' }); }),
+    btn('trash-2', 'Retirer l\'image', () => { if (confirm('Retirer cette image du chapitre ?')) fig.remove(); }),
+  );
+  fig.append(tools, img, cap);
+  return fig;
+}
+
+function paragraph(text) {
+  const p = document.createElement('p');
+  p.innerHTML = text ? toHtml(text) : '<br>';
+  return p;
+}
+
+function loadEditor(blocks) {
+  const ed = ED();
+  ed.replaceChildren(...blocks.map((b) => (b.type === 'image' ? makeFigure(b.src, b.caption) : paragraph(b.value))));
+  if (!ed.lastElementChild || ed.lastElementChild.nodeName === 'FIGURE') ed.append(paragraph(''));
+  icons();
+}
+
+function readEditor() {
+  const out = [];
+  for (const n of ED().childNodes) {
+    if (n.nodeName === 'FIGURE') { out.push({ type: 'image', src: n.dataset.src, caption: n.querySelector('.cap').value.trim() }); continue; }
+    for (const line of nodeText(n).split('\n')) { const v = clean(line); if (v) out.push({ type: 'text', value: v }); }
+  }
+  return out;
+}
+
+/** Paragraphe (enfant direct de l'éditeur) qui contient le curseur. */
+function currentPara() {
+  const sel = getSelection();
+  let n = sel.rangeCount && ED().contains(sel.getRangeAt(0).startContainer) ? sel.getRangeAt(0).startContainer : state.edRange?.startContainer;
+  while (n && n.parentNode !== ED()) n = n.parentNode;
+  return n && ED().contains(n) ? n : null;
+}
+function restoreRange() {
+  if (!state.edRange) return;
+  const sel = getSelection(); sel.removeAllRanges(); sel.addRange(state.edRange);
+}
+function caretAt(node) {
+  const r = document.createRange(); r.setStart(node, 0); r.collapse(true);
+  const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r);
+}
+document.addEventListener('selectionchange', () => {
+  const sel = getSelection();
+  if (sel.rangeCount && ED()?.contains(sel.getRangeAt(0).startContainer)) state.edRange = sel.getRangeAt(0).cloneRange();
+});
+
+function edCommand(cmd) {
+  const ed = ED();
+  ed.focus(); restoreRange();
+  if (cmd === 'italic') document.execCommand('italic');
+  else if (cmd === 'ellipsis') document.execCommand('insertText', false, '…');
+  else if (cmd === 'quotes') document.execCommand('insertText', false, `« ${getSelection().toString()} »`);
+  else if (cmd === 'dialogue') {
+    let p = currentPara();
+    if (!p || p.nodeName === 'FIGURE') { p = paragraph(''); ed.append(p); }
+    if (!p.textContent.trimStart().startsWith('—')) { caretAt(p); document.execCommand('insertText', false, '— '); }
+  } else if (cmd === 'scene') {
+    const p = currentPara();
+    const s = paragraph('⁂'); const after = paragraph('');
+    if (p) p.after(s, after); else ed.append(s, after);
+    caretAt(after);
+  }
+  state.chapter.dirty = true;
 }
 
 function saveChapter() {
   const book = currentBook();
   const { ref, isNew } = state.chapter;
   const title = $('#c-title').value.trim() || ref.title;
-  const blocks = $('#c-body').value.split('\n').map((l) => l.trim()).filter(Boolean).map((l) => {
-    const m = l.match(IMG);
-    return m ? { type: 'image', src: m[1].trim(), caption: (m[2] ?? '').trim() } : { type: 'text', value: l };
-  });
+  const blocks = readEditor();
   const updatedAt = now();
   write(`books/${book.id}/${ref.file}`, { number: ref.number, title, blocks });
   if (isNew) book.chapters.push({ ...ref, title, updatedAt });
@@ -424,11 +528,12 @@ async function insertImage(file) {
   const base = ref.file.replace(/^chapters\//, '').replace(/\.json$/, '');
   const rel = `images/${base}-${Date.now().toString(36)}.webp`;
   write(`books/${book.id}/${rel}`, blob);
-  const ta = $('#c-body');
-  const at = ta.selectionStart ?? ta.value.length;
-  const marker = `\n[image:${rel}|]\n`;
-  ta.setRangeText(marker, at, at, 'end');
-  ta.focus();
+  const fig = makeFigure(rel, '');
+  const p = currentPara();
+  if (p) p.after(fig); else ED().append(fig);
+  if (!fig.nextElementSibling) fig.after(paragraph(''));
+  icons();
+  fig.scrollIntoView({ block: 'center' });
   state.chapter.dirty = true;
   $('#c-msg').textContent = `Image ajoutée (${Math.round(blob.size / 1024)} Ko).`;
 }
@@ -531,7 +636,20 @@ $('#cover-file').addEventListener('change', async (e) => {
 });
 $('#btn-new-chapter').addEventListener('click', () => openChapter(null));
 $('#c-image').addEventListener('change', async (e) => { const f = e.target.files[0]; if (f) await insertImage(f); e.target.value = ''; });
-$('#c-body').addEventListener('input', () => { if (state.chapter) state.chapter.dirty = true; });
+$('#c-editor').addEventListener('input', () => { if (state.chapter) state.chapter.dirty = true; });
+// coller du texte : un paragraphe par ligne, sans la mise en forme de la source
+$('#c-editor').addEventListener('paste', (e) => {
+  if (e.target.closest?.('.cap')) return;
+  e.preventDefault();
+  const lines = (e.clipboardData.getData('text/plain') || '').split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+  if (lines.length <= 1) document.execCommand('insertText', false, lines[0] ?? '');
+  else document.execCommand('insertHTML', false, lines.map((l) => `<p>${toHtml(l)}</p>`).join(''));
+});
+document.querySelectorAll('[data-ed]').forEach((b) => {
+  b.addEventListener('mousedown', (e) => e.preventDefault()); // garde le curseur dans le texte
+  b.addEventListener('click', () => edCommand(b.dataset.ed));
+});
+document.execCommand('defaultParagraphSeparator', false, 'p');
 $('#c-title').addEventListener('input', () => { if (state.chapter) state.chapter.dirty = true; });
 // Échap / Annuler : on confirme si le chapitre a été modifié
 $('#dlg-chapter').addEventListener('cancel', (e) => {

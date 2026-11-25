@@ -73,7 +73,7 @@ input:not([type=checkbox], [type=radio]), textarea, select {
   font: inherit; color: inherit; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; width: 100%;
 }
 textarea { resize: vertical; }
-#c-body { font-family: Georgia, serif; font-size: 1rem; line-height: 1.6; }
+
 fieldset { border: 1px solid var(--line); border-radius: 8px; margin: 14px 0 0; padding: 8px 12px 12px; }
 legend { font-weight: 600; font-size: .9rem; padding: 0 4px; }
 .checks { display: flex; flex-wrap: wrap; align-items: center; row-gap: 8px; margin-top: 8px; }
@@ -99,3 +99,20 @@ dialog::backdrop { background: rgb(0 0 0 / .45); overflow: hidden; overscroll-be
 
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 code { font-size: .85em; background: var(--surface-2); padding: 1px 4px; border-radius: 4px; }
+
+
+.label { font-weight: 600; font-size: .9rem; }
+.ed-toolbar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; padding: 6px; margin-top: 6px;
+  background: var(--surface-2); border: 1px solid var(--line); border-bottom: 0; border-radius: var(--radius) var(--radius) 0 0; }
+.ed-toolbar button, .ed-toolbar .btn { display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; font-size: .9rem; }
+.ed-toolbar .btn { margin-left: auto; }
+.editor { min-height: 50vh; max-height: 62vh; overflow: auto; padding: 14px 18px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: 0 0 var(--radius) var(--radius);
+  font-family: Georgia, "Times New Roman", serif; font-size: 1.05rem; line-height: 1.65; outline: none; }
+.editor:focus-visible { border-color: var(--amber); }
+.editor p { margin: 0 0 .7em; }
+.editor figure { position: relative; margin: 1em 0; padding: 8px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface-2); text-align: center; }
+.editor figure img { display: block; margin: 0 auto; max-width: 100%; max-height: 360px; border-radius: 8px; }
+.editor figure .cap { width: 100%; margin-top: 6px; text-align: center; font-style: italic; font-family: inherit; }
+.fig-tools { position: absolute; top: 12px; right: 12px; display: flex; gap: 4px; }
+.fig-tools button { padding: 6px; display: inline-flex; background: var(--surface); }

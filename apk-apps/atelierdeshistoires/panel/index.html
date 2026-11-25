@@ -139,13 +139,18 @@
     <h1 id="dlg-chapter-h">Chapitre</h1>
     <label for="c-title">Titre du chapitre</label>
     <input id="c-title" name="title" required maxlength="120" autocomplete="off">
-    <div class="row-head">
-      <label for="c-body">Texte <small class="help">(un paragraphe par ligne)</small></label>
+    <span class="label" id="c-ed-label">Texte du chapitre</span>
+    <div class="ed-toolbar" role="toolbar" aria-label="Mise en forme">
+      <button type="button" data-ed="italic" title="Italique (Ctrl+I) : pensées, titres, messages"><i data-lucide="italic"></i>Italique</button>
+      <button type="button" data-ed="dialogue" title="Ajoute le tiret de dialogue au début du paragraphe">— Dialogue</button>
+      <button type="button" data-ed="quotes" title="Met la sélection entre guillemets">« » Citation</button>
+      <button type="button" data-ed="ellipsis" title="Points de suspension">…</button>
+      <button type="button" data-ed="scene" title="Changement de scène (⁂)"><i data-lucide="asterisk"></i>Scène</button>
       <label class="btn" for="c-image"><i data-lucide="image-plus"></i>Insérer une image</label>
       <input type="file" id="c-image" accept="image/*" class="visually-hidden">
     </div>
-    <textarea id="c-body" name="body" rows="18" aria-describedby="c-body-help"></textarea>
-    <small class="help" id="c-body-help">Les images apparaissent sous la forme <code>[image:images/…webp|légende]</code> : déplace la ligne pour changer sa place, modifie la légende après « | ».</small>
+    <div id="c-editor" class="editor" contenteditable="true" role="textbox" aria-multiline="true" aria-labelledby="c-ed-label" spellcheck="true" lang="fr"></div>
+    <small class="help">Entrée = nouveau paragraphe. Chaque réplique commence par « — » sur son propre paragraphe. L'image s'insère sous le paragraphe où se trouve le curseur ; déplace-la avec ↑ ↓.</small>
     <p id="c-msg" class="error" aria-live="polite"></p>
     <div class="form-actions">
       <button value="cancel" formnovalidate>Annuler</button>
