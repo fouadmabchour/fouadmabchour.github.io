@@ -173,6 +173,7 @@ async function loadCatalog() {
     state.catalog = txt ? JSON.parse(txt) : { version: 1, updatedAt: now(), categories: [], books: [] };
     setStatus(txt ? '' : 'Catalogue vide : crée ta première histoire.');
     renderList();
+    await route();
   } catch (e) {
     setStatus(`Impossible de lire le dépôt : ${e.message}`);
   }
@@ -186,14 +187,13 @@ function renderList() {
   const books = [...state.catalog.books].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
   for (const b of books) {
     const li = document.createElement('li');
-    const btn = document.createElement('button');
-    btn.type = 'button';
+    const btn = document.createElement('a');
+    btn.href = link.book(b.id);
     const img = document.createElement('img');
     img.alt = ''; img.loading = 'lazy'; img.src = imageUrl(b.cover);
     const t = document.createElement('strong'); t.textContent = b.title;
     const s = document.createElement('small'); s.textContent = `${b.chapterCount} chapitre(s) · ${b.status === 'completed' ? 'terminé' : 'en cours'}${b.featured ? ' · à la une' : ''}`;
     btn.append(img, t, s);
-    btn.addEventListener('click', () => openBook(b.id));
     li.append(btn); ul.append(li);
   }
 }
@@ -311,6 +311,7 @@ function saveBook(ev) {
   $('#btn-delete-book').hidden = false;
   $('#btn-new-chapter').disabled = false;
   $('#book-title-h').textContent = book.title;
+  if (isNew) history.replaceState(null, '', link.book(id));
   setStatus(isNew ? 'Histoire créée. Ajoute ses chapitres puis publie.' : 'Enregistré. Pense à publier.');
 }
 
@@ -322,7 +323,7 @@ async function deleteBook() {
   state.deletePrefixes.add(`books/${b.id}`);
   state.books.delete(b.id);
   saveCatalog();
-  showView('list');
+  location.hash = link.list();
 }
 
 // ───────────── Chapitres ─────────────
@@ -345,7 +346,7 @@ function renderChapters() {
     li.append(n, t,
       mk('arrow-up', 'Monter', () => moveChapter(i, -1), i === 0),
       mk('arrow-down', 'Descendre', () => moveChapter(i, 1), i === book.chapters.length - 1),
-      mk('pencil', 'Modifier', () => openChapter(c)),
+      mk('pencil', 'Modifier', () => { location.hash = link.chapter(book.id, c.number); }),
       mk('trash-2', 'Supprimer', () => deleteChapter(i)));
     ol.append(li);
   });
@@ -622,12 +623,13 @@ $('#dlg-settings').addEventListener('close', () => {
   d.returnValue = '';
 });
 $('#btn-publish').addEventListener('click', publish);
-$('#btn-new-book').addEventListener('click', () => openBook(null));
-$('#btn-back').addEventListener('click', () => showView('list'));
-$('#btn-categories').addEventListener('click', () => { renderCats(); $('#dlg-cats').showModal(); });
+$('#btn-new-book').addEventListener('click', () => { location.hash = link.newBook(); });
+$('#btn-back').addEventListener('click', () => { location.hash = link.list(); });
+$('#btn-categories').addEventListener('click', () => { location.hash = link.cats(); });
 $('#btn-add-cat').addEventListener('click', addCat);
 $('#new-cat').addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); addCat(); } });
-$('#dlg-cats').addEventListener('close', () => { if (!$('#view-book').hidden) renderCatChecks([...document.querySelectorAll('input[name=categories]:checked')].map((c) => c.value)); renderList(); });
+$('#dlg-cats').addEventListener('close', () => {
+  if (location.hash.startsWith(link.cats())) history.replaceState(null, '', state.bookId && !$('#view-book').hidden ? link.book(state.bookId) : link.list()); if (!$('#view-book').hidden) renderCatChecks([...document.querySelectorAll('input[name=categories]:checked')].map((c) => c.value)); renderList(); });
 $('#book-form').addEventListener('submit', saveBook);
 $('#btn-delete-book').addEventListener('click', deleteBook);
 $('#f-title').addEventListener('input', () => { if (!state.bookId) $('#f-id').value = slug($('#f-title').value); });
@@ -663,8 +665,51 @@ $('#dlg-chapter').addEventListener('close', () => {
   if (d.returnValue === 'save' && state.chapter) saveChapter();
   else if (d.returnValue === 'cancel' && state.chapter?.dirty && !window.confirm('Abandonner les modifications de ce chapitre ?')) { d.returnValue = ''; d.showModal(); return; }
   d.returnValue = '';
+  if (location.hash.includes('/chapitre/') && state.bookId) history.replaceState(null, '', link.book(state.bookId));
 });
 window.addEventListener('beforeunload', (e) => { if (state.pending.size || state.deletes.size || state.deletePrefixes.size) e.preventDefault(); });
+
+// ───────────── Liens (une adresse par écran) ─────────────
+// #/                         liste des histoires
+// #/nouvelle                 nouvelle histoire
+// #/histoire/<id>            fiche d'une histoire
+// #/histoire/<id>/chapitre/<n>   éditeur du chapitre n
+// #/categories               catégories
+const link = {
+  list: () => '#/',
+  newBook: () => '#/nouvelle',
+  book: (id) => `#/histoire/${encodeURIComponent(id)}`,
+  chapter: (id, n) => `#/histoire/${encodeURIComponent(id)}/chapitre/${n}`,
+  cats: () => '#/categories',
+};
+
+async function route() {
+  if (!state.catalog) return;
+  const p = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
+  if (p[0] === 'histoire' && p[1]) {
+    if (!state.catalog.books.some((b) => b.id === p[1]) && !state.books.has(p[1])) {
+      setStatus(`Histoire introuvable : ${p[1]}`); history.replaceState(null, '', link.list()); showView('list'); return;
+    }
+    if (state.bookId !== p[1] || $('#view-book').hidden) await openBook(p[1]);
+    if (p[2] === 'chapitre' && p[3]) {
+      const ref = currentBook()?.chapters.find((c) => String(c.number) === p[3]);
+      if (!ref) { setStatus(`Chapitre ${p[3]} introuvable.`); history.replaceState(null, '', link.book(p[1])); return; }
+      if (!$('#dlg-chapter').open) await openChapter(ref);
+    } else if ($('#dlg-chapter').open) {
+      $('#dlg-chapter').close('cancel');
+    }
+  } else if (p[0] === 'nouvelle') {
+    if (state.bookId || $('#view-book').hidden) await openBook(null);
+  } else if (p[0] === 'categories') {
+    renderCats();
+    if (!$('#dlg-cats').open) $('#dlg-cats').showModal();
+  } else {
+    if ($('#dlg-chapter').open) $('#dlg-chapter').close('cancel');
+    state.bookId = null;
+    showView('list');
+  }
+}
+window.addEventListener('hashchange', route);
 
 // ───────────── Démarrage ─────────────
 icons();

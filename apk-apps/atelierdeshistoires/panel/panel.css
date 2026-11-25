@@ -53,8 +53,8 @@ button.icon { padding: 8px; }
 :focus-visible { outline: 3px solid var(--amber); outline-offset: 2px; }
 
 .book-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 18px; }
-.book-grid button { all: unset; cursor: pointer; display: block; width: 100%; }
-.book-grid button:focus-visible { outline: 3px solid var(--amber); border-radius: 10px; }
+.book-grid a { all: unset; cursor: pointer; display: block; width: 100%; color: inherit; }
+.book-grid a:focus-visible { outline: 3px solid var(--amber); border-radius: 10px; }
 .book-grid img, .book-grid .noimg { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 10px; background: var(--surface-2); display: block; }
 .book-grid strong { display: block; margin-top: 6px; font-size: .95rem; }
 .book-grid small { color: var(--muted); }
