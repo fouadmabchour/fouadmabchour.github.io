@@ -144,6 +144,11 @@
    "value": "*Mon frère. Je viens te chercher. Ne bouge pas. Et surtout ne parle à personne.*"
   },
   {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "La ruelle"
+  },
+  {
    "type": "text",
    "value": "Il ne dormit pas cette nuit-là. Il resta assis sur le toit-terrasse de la maison du Panier, au-dessus de la chambre de Mamie Odile, à regarder les lumières de la ville et le phare du Frioul, et il prit la seule décision qu'il aurait dû prendre un mois plus tôt."
   },

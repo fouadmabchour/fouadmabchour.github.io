@@ -179,6 +179,11 @@
    "value": "— C'est un athlète, dit Maëlle."
   },
   {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "Le carnet de Léa"
+  },
+  {
    "type": "text",
    "value": "Elles éclatèrent de rire. Elles ne savaient plus pourquoi elles riaient. Elles riaient parce qu'il était deux heures du matin, parce qu'elles avaient bu du whisky de naufrage, parce que la situation était tellement absurde qu'elle en devenait comique. Elles riaient de lui, de sa toque, de ses chutes du bateau, de sa pâte à choux plate, de son briquet vert pomme. Elles riaient d'elles-mêmes, de leurs aveuglements, des quarante-trois accordeurs du département."
   },
@@ -286,6 +291,11 @@
   {
    "type": "text",
    "value": "Il prit l'éponge. Il effaça tout. Lentement. Colonne par colonne. Il ne resta sur le tableau que le mot *DEMAIN*, en bas, en capitales, souligné trois fois, que Kader avait écrit au feutre indélébile pour qu'il ne puisse jamais l'effacer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "L'éponge"
   },
   {
    "type": "text",

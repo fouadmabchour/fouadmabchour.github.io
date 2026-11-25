@@ -19,6 +19,11 @@
    "value": "L'enquêtrice prit une feuille de papier et un crayon."
   },
   {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "L'enquêtrice"
+  },
+  {
    "type": "text",
    "value": "*Fait numéro 1 : la photo de Léa montre un homme qui a la cicatrice de Sacha, l'épaule de Sacha, la main sous l'oreiller de Sacha.*"
   },
@@ -129,6 +134,11 @@
   {
    "type": "text",
    "value": "— Assieds-toi, mon garçon, dit-elle de sa voix chevrotante, avec l'accent. Premier rang. Ne fais pas de bruit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "La veuve"
   },
   {
    "type": "text",

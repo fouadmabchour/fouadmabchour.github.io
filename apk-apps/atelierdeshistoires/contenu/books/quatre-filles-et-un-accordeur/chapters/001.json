@@ -11,6 +11,11 @@
    "value": "Sacha Delorme gara Mistinguett, sa Vespa vert pomme de 1978, devant un immeuble du boulevard Périer, de ceux qui ont un gardien en costume et des boîtes aux lettres en laiton. Il retira son casque, secoua ses boucles brunes collées par la chaleur, et tapota trois fois le guidon."
   },
   {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Mistinguett"
+  },
+  {
    "type": "text",
    "value": "— Sois sage, dit-il au scooter. Je n'en ai pas pour longtemps."
   },
@@ -362,6 +367,11 @@
   {
    "type": "text",
    "value": "— Fais attention à ne pas te coincer les doigts dedans."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le conseil de Mamie"
   },
   {
    "type": "text",

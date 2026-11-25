@@ -220,6 +220,11 @@
    "value": "— Ça s'appelle *Colère*, dit-elle. C'est mon dessert préféré."
   },
   {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Colère"
+  },
+  {
    "type": "text",
    "value": "— Ça vous ressemble."
   },

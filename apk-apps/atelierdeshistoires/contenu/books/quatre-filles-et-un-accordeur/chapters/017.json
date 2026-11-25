@@ -232,6 +232,11 @@
    "value": "La bonne."
   },
   {
+   "type": "image",
+   "src": "images/ch17-3.webp",
+   "caption": "La basse"
+  },
+  {
    "type": "text",
    "value": "— Je n'ai pas encore décidé ce que je vais faire de toi, dit-elle."
   },

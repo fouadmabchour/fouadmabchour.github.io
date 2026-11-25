@@ -95,6 +95,11 @@
    "value": "Elle le gifla."
   },
   {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "La gifle"
+  },
+  {
    "type": "text",
    "value": "Ce ne fut pas une gifle de théâtre. Ce fut une vraie gifle, sèche, qui résonna dans la salle vide."
   },
@@ -209,6 +214,11 @@
   {
    "type": "text",
    "value": "— C'est toi qui vas leur dire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "Le pacte"
   },
   {
    "type": "text",
