@@ -16,6 +16,10 @@
   {
    "id": "horreur",
    "name": "Horreur"
+  },
+  {
+   "id": "science-fiction",
+   "name": "Science-fiction"
   }
  ],
  "books": [
@@ -104,7 +108,24 @@
    "updatedAt": "2026-11-25T20:23:09Z",
    "chapterCount": 30,
    "featured": false
+  },
+  {
+   "id": "apres-1000-ans",
+   "publishedAt": "2026-11-25T22:04:29Z",
+   "order": 5,
+   "title": "Après 1000 ans",
+   "author": "FouLaude",
+   "cover": "books/apres-1000-ans/cover.webp",
+   "summary": "En 2189, la Terre se meurt. Il reste un espoir : Thalassa, une planète océan à neuf ans de voyage, et cinq astronautes envoyés pour dire si l'humanité peut y vivre. Amara, la commandante. Freya, la médecin. Kenji, le navigateur. Elias, le physicien. Mathis, l'ingénieur. Des années de solitude, des messages de la Terre qui les font tenir, des liens qui naissent sans qu'ils l'aient voulu. Mais dans les calculs de Kenji, une seule donnée était fausse. Sur leur route, un trou noir que personne n'avait vu les attendait. Quelques heures à bord. Des siècles sur Terre. Quand ils rentrent enfin, la Terre est verte, silencieuse, guérie. Il n'y a plus personne pour les accueillir. Mille ans ont passé. Ils sont les derniers.",
+   "categories": [
+    "science-fiction"
+   ],
+   "tags": [],
+   "status": "ongoing",
+   "updatedAt": "2026-11-25T22:04:29Z",
+   "chapterCount": 0,
+   "featured": false
   }
  ],
- "updatedAt": "2026-11-25T20:23:09Z"
+ "updatedAt": "2026-11-25T22:04:29Z"
 }
