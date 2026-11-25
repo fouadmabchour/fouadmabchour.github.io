@@ -1,0 +1,345 @@
+{
+ "number": 11,
+ "title": "La clairière",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ezra marchait devant."
+  },
+  {
+   "type": "text",
+   "value": "Il ne se retournait pas. Il n'en avait pas besoin. Il savait qu'ils suivaient, comme on sait qu'une ombre suit, et il avançait entre les hêtres d'un pas égal, les mains ouvertes le long du corps, les cheveux blancs collés à la nuque par la sueur. Il fredonnait quelque chose. Nora mit un long moment à reconnaître l'air. Ce n'était pas une de ses chansons à lui."
+  },
+  {
+   "type": "text",
+   "value": "C'était l'air que la vieille chantait dans le couloir."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut qu'on parte, souffla Nora. Maintenant. Pendant qu'il est devant."
+  },
+  {
+   "type": "text",
+   "value": "Dylan ne répondit pas tout de suite. Il regardait Skye, qui marchait juste derrière Ezra, à deux pas, les yeux fixés sur son dos comme sur une bouée. Elle avait passé la matinée à lui toucher le bras, à lui demander s'il avait mal, s'il avait faim, s'il se souvenait de la route. Il répondait toujours la même chose, d'une voix douce et lente."
+  },
+  {
+   "type": "text",
+   "value": "*Tout va bien. Vous allez voir.*"
+  },
+  {
+   "type": "text",
+   "value": "— Sans elle ? demanda Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne dit rien. Elle pensait aux mots d'Ezra, derrière la Golf, sa bouche contre son oreille. *Je sais pour toi et Dylan. Elle me l'a dit.* Elle avait gardé ça pour elle depuis la voiture, une pierre chaude au fond de la gorge. Elle n'avait rien dit à Dylan. Elle ne savait pas comment on dit une chose pareille au milieu d'une forêt."
+  },
+  {
+   "type": "text",
+   "value": "— On ne la laisse pas, dit-elle enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on reste ensemble, dit Dylan. Et au premier truc bizarre, on court. Tous. Je la porte s'il faut."
+  },
+  {
+   "type": "text",
+   "value": "Le premier truc bizarre, pensa Nora, c'était déjà tout ce qui se passait depuis trois jours."
+  },
+  {
+   "type": "text",
+   "value": "Le chemin descendait. La lumière changeait. Les arbres s'écartaient lentement, comme des gens qui se poussent pour laisser voir quelque chose au bout d'une file."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut d'abord l'odeur."
+  },
+  {
+   "type": "text",
+   "value": "Sucrée. Lourde. La même que dans la maison, la même que dans les tasses, mais cent fois plus forte, une odeur de confiture tournée et de terre mouillée qui collait au palais. Skye porta la main à sa bouche."
+  },
+  {
+   "type": "text",
+   "value": "— C'est elle, murmura Ezra, sans s'arrêter. Vous sentez ? C'est la fleur."
+  },
+  {
+   "type": "text",
+   "value": "Puis les arbres finirent."
+  },
+  {
+   "type": "text",
+   "value": "La clairière était immense. Beaucoup plus grande que ce qu'une forêt devrait permettre. Une cuvette d'herbe haute, cernée de sapins noirs, et sur toute sa surface, à perte de vue, des fleurs violettes. Des milliers. Petites, serrées, la tête penchée, toutes tournées dans le même sens. Vers eux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "La clairière"
+  },
+  {
+   "type": "text",
+   "value": "Nora leva son appareil par réflexe. Elle ne prit pas la photo. Son doigt resta posé sur le déclencheur, immobile."
+  },
+  {
+   "type": "text",
+   "value": "— Oh, fit Skye. Oh, c'est…"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne finit pas. Elle souriait. Un vrai sourire, le premier depuis la maison, celui des stories, celui de l'été. Elle fit un pas dans les fleurs, et l'herbe se referma sur ses chevilles."
+  },
+  {
+   "type": "text",
+   "value": "— Skye, attends, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— C'est magnifique, Dyl. Regarde. Il avait raison. Il avait raison depuis le début."
+  },
+  {
+   "type": "text",
+   "value": "Ezra s'était arrêté au bord de la cuvette. Il les regardait enfin. Il avait les yeux humides."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous l'avais dit, dit-il. Je vous l'avais promis, à Lyon. On l'a trouvée."
+  },
+  {
+   "type": "text",
+   "value": "Nora regardait le sol."
+  },
+  {
+   "type": "text",
+   "value": "Au début, elle avait cru à des taupinières. Des bosses dans l'herbe, régulières, alignées. Puis elle vit que certaines n'étaient pas des bosses mais des creux. Des trous. Rectangulaires. De la longueur d'un corps couché. La terre, autour, était plus sombre, et les fleurs y poussaient plus serrées, plus hautes, plus violettes qu'ailleurs."
+  },
+  {
+   "type": "text",
+   "value": "Comme si quelque chose les nourrissait."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était sortie toute petite. Il l'entendit quand même. Il suivit son regard."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait des bâtons. Elle ne les avait pas vus tout de suite parce qu'ils étaient gris comme l'écorce et que les fleurs montaient presque jusqu'à leur sommet. Des branches taillées, plantées droites dans la terre, au bout de chaque bosse. Des dizaines. Plus loin, d'autres. Et encore d'autres, jusqu'aux sapins."
+  },
+  {
+   "type": "text",
+   "value": "Et à chaque bâton, quelque chose était accroché."
+  },
+  {
+   "type": "text",
+   "value": "Une paire de lunettes, une branche cassée, qui tournait doucement au vent. Un bracelet brésilien délavé. Une casquette de baseball rongée par la pluie. Un porte-clés en forme de tour Eiffel. Une écharpe rayée. Une peluche, un petit lapin de tissu rose, un œil en moins, pendu par l'oreille."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "Les bâtons"
+  },
+  {
+   "type": "text",
+   "value": "Nora sentit ses genoux se dérober. Dylan l'attrapa par le coude."
+  },
+  {
+   "type": "text",
+   "value": "— Ne tombe pas, dit-il très bas. Pas ici."
+  },
+  {
+   "type": "text",
+   "value": "— C'est à un enfant, souffla-t-elle. Dylan. Ça, c'est à un enfant."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Il y avait un enfant."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Nora. Respire."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne respirait pas. Elle voyait le lapin rose tourner sur lui-même, lentement, un tour, un autre, et elle pensait à une petite main qui l'avait tenu, quelque part, une nuit, avant une tasse de thé."
+  },
+  {
+   "type": "text",
+   "value": "Skye s'était arrêtée au milieu des fleurs. Elle avait vu, elle aussi. Elle se tenait devant un bâton où pendait un téléphone dans une coque à paillettes, l'écran étoilé de fissures. Le même modèle que le sien. Elle ne bougeait plus du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra, dit-elle d'une voix d'enfant. Ezra, c'est quoi, ça ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ce sont ceux qui ont vu la fleur, répondit-il doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Où ils sont ?"
+  },
+  {
+   "type": "text",
+   "value": "Ezra pencha la tête, comme si la question était un peu bête, un peu touchante."
+  },
+  {
+   "type": "text",
+   "value": "— Ils sont restés."
+  },
+  {
+   "type": "text",
+   "value": "Dylan lâcha le bras de Nora et descendit dans la cuvette. Vite, sans courir. Il marchait comme on marche vers un chien qui grogne, les épaules basses, la voix calme."
+  },
+  {
+   "type": "text",
+   "value": "— Skye. Mon cœur. Tu reviens vers moi. Doucement. Tu ne touches à rien."
+  },
+  {
+   "type": "text",
+   "value": "— Dyl, c'est des tombes."
+  },
+  {
+   "type": "text",
+   "value": "— Oui. Tu reviens vers moi."
+  },
+  {
+   "type": "text",
+   "value": "— C'est des tombes, Dyl, c'est des…"
+  },
+  {
+   "type": "text",
+   "value": "Sa voix se cassa. Dylan arriva près d'elle, la prit par la taille, la tourna vers lui pour qu'elle ne voie plus le téléphone à paillettes. Elle s'agrippa à son débardeur gris à deux mains. Par-dessus son épaule, il chercha Nora des yeux."
+  },
+  {
+   "type": "text",
+   "value": "Nora, elle, regardait Ezra."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas bougé du bord de la clairière. Il avait sorti son téléphone, celui qui ne captait plus rien depuis la piste, et il les filmait. Le petit voyant rouge était allumé. Il tenait l'appareil bien droit, à hauteur de poitrine, comme pour ses vidéos, le cadre propre, la main stable."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra, dit Nora. Arrête ça."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la meilleure séquence de ma vie, dit-il, et il avait l'air sincère."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra, ce sont des gens morts."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Il baissa le téléphone, un peu. Il la regarda par-dessus. Et Nora vit dans ses yeux bleu pâle quelque chose qui n'était pas lui, ou qui était lui mais très loin, au fond, comme une silhouette derrière une vitre embuée. Un instant, elle crut qu'il allait pleurer. Sa bouche trembla. Il gratta, sans s'en rendre compte, le petit point rouge au creux de son bras."
+  },
+  {
+   "type": "text",
+   "value": "Puis cela passa."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a dit que tu comprendrais, dit-il. Que tu étais celle qui comprendrait le mieux."
+  },
+  {
+   "type": "text",
+   "value": "— Comprendre quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Que tout le monde cache quelque chose. Que tout le monde finit par le montrer. Ici."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit les bras, englobant les fleurs, les bâtons, les trous."
+  },
+  {
+   "type": "text",
+   "value": "Nora recula d'un pas. Son talon buta contre quelque chose de dur. Elle baissa les yeux. Un bâton, à ses pieds, plus récent que les autres, l'écorce encore claire, la coupe encore humide de sève. Rien n'y était accroché."
+  },
+  {
+   "type": "text",
+   "value": "Pas encore."
+  },
+  {
+   "type": "text",
+   "value": "Il y en avait quatre comme celui-là. Quatre bâtons neufs, en ligne, au bord de la clairière, devant quatre rectangles de terre fraîchement ouverte. Personne n'avait encore rempli les trous."
+  },
+  {
+   "type": "text",
+   "value": "Ils attendaient."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan, dit-elle. On s'en va."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne cria pas. C'était pire que de crier. Dylan comprit au son de sa voix. Il souleva Skye à moitié, la tira vers le bord de la cuvette, vers Nora, vers le chemin par lequel ils étaient venus."
+  },
+  {
+   "type": "text",
+   "value": "Le vent tomba."
+  },
+  {
+   "type": "text",
+   "value": "D'un coup. Les fleurs cessèrent de bouger. Le lapin rose s'immobilisa au bout de son bâton. Même les oiseaux, que Nora n'avait pas remarqués jusque-là, se turent tous ensemble, et le silence qui les remplaça était si épais qu'elle entendit son propre sang battre dans ses oreilles."
+  },
+  {
+   "type": "text",
+   "value": "À sa droite, dans les sapins, une branche craqua."
+  },
+  {
+   "type": "text",
+   "value": "À sa gauche, une autre."
+  },
+  {
+   "type": "text",
+   "value": "Exactement en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Sorin sortit des arbres à droite. Sa barbe rousse, sa veste de travail brune, ses mains énormes ouvertes le long du corps. Il ne se pressait pas. Il marchait dans les fleurs comme dans son jardin."
+  },
+  {
+   "type": "text",
+   "value": "À gauche, Vasile. Le crâne chauve luisant sous le soleil, le même pas lent, le même visage fermé, sans colère, sans rien. Ils avaient laissé entre eux toute la largeur de la clairière. Ils n'avaient pas besoin de se parler. Ils n'avaient jamais eu besoin de parler."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "Le cercle"
+  },
+  {
+   "type": "text",
+   "value": "Ils fermaient le cercle."
+  },
+  {
+   "type": "text",
+   "value": "Skye poussa un son aigu, un gémissement de bête. Dylan la plaqua contre lui. Nora chercha le chemin derrière elle, la trouée entre les hêtres, la seule sortie, et elle se tourna vers Ezra pour lui hurler de courir avec eux, de courir, de revenir, de redevenir lui."
+  },
+  {
+   "type": "text",
+   "value": "Ezra se tenait au milieu de la trouée. Juste devant la sortie."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougeait pas."
+  },
+  {
+   "type": "text",
+   "value": "Il souriait."
+  }
+ ]
+}

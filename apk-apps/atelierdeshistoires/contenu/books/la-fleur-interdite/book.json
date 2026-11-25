@@ -8,7 +8,188 @@
   "horreur"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-25T18:32:34Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-25T20:23:09Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Deux mille kilomètres",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 2,
+   "title": "Ljubljana",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 3,
+   "title": "Budapest",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 4,
+   "title": "La frontière",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 5,
+   "title": "Plus de réseau",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 6,
+   "title": "Le thé",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 7,
+   "title": "La nuit dans la maison",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 8,
+   "title": "Les fils",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 9,
+   "title": "La forêt qui tourne",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 10,
+   "title": "Ce qu'Ezra a vu",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 11,
+   "title": "La clairière",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 12,
+   "title": "Ezra",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 13,
+   "title": "La fosse",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 14,
+   "title": "Trois",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 15,
+   "title": "Ce que la vieille sait",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 16,
+   "title": "Skye",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 17,
+   "title": "Le pont",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 18,
+   "title": "Deux",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 19,
+   "title": "Le poste abandonné",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 20,
+   "title": "La radio",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 21,
+   "title": "La voix de Skye",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 22,
+   "title": "Le siège",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 23,
+   "title": "Le sacrifice",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 24,
+   "title": "Courir",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 25,
+   "title": "Erzsi",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 26,
+   "title": "La route",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 27,
+   "title": "Le virage",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 28,
+   "title": "La police",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 29,
+   "title": "Ce qu'on cache",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  },
+  {
+   "number": 30,
+   "title": "La fleur",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-25T20:23:09Z"
+  }
+ ]
 }

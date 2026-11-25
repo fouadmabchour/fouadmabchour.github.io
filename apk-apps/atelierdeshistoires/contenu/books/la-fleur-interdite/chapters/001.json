@@ -1,0 +1,341 @@
+{
+ "number": 1,
+ "title": "Deux mille kilomètres",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "À cinq heures du matin, Lyon ressemblait à une ville qu'on aurait oublié d'allumer."
+  },
+  {
+   "type": "text",
+   "value": "La rue Paul-Bert était vide, mouillée par l'arrosage municipal, et la vieille Golf break d'Ezra attendait devant l'immeuble avec son hayon ouvert comme une bouche. Elle était grise, ou elle l'avait été. Il y avait une rayure sur toute la portière arrière gauche, un autocollant de festival à moitié arraché sur la vitre, et une odeur de chien mouillé à l'intérieur, alors qu'Ezra n'avait jamais eu de chien."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a deux cent quatre-vingt mille kilomètres, dit Ezra en tapotant le toit. Elle en fera deux mille de plus. Elle en a vu d'autres."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a vu quoi, exactement ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— La vie, bébé."
+  },
+  {
+   "type": "text",
+   "value": "Il l'embrassa sur la tempe, sans la regarder, parce qu'il était déjà en train de régler son téléphone sur la perche. Nora resta une seconde avec la sensation de ce baiser posé là, comme un tampon sur un formulaire."
+  },
+  {
+   "type": "text",
+   "value": "Trois ans. Trois ans avec Ezra Lambert, ses cheveux décolorés blanc platine, ses avant-bras tatoués de lignes fines, sa guitare, sa chaîne de vidéos qui s'appelait *Ezra Hors Piste* et qui comptait quarante et un mille abonnés. Trois ans qu'elle se réveillait à côté de lui et qu'elle se demandait, certains matins, à quel moment elle avait arrêté de choisir."
+  },
+  {
+   "type": "text",
+   "value": "Elle vérifia l'appareil photo qui pendait à son cou. Un Pentax argentique, celui de son père, avec une bosse sur le capot et un compteur de vues qui accrochait au chiffre douze. Trente-six poses. Elle s'était promis de ne pas les gâcher."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ! Ton sac pèse plus lourd que moi !"
+  },
+  {
+   "type": "text",
+   "value": "Skye descendait l'escalier de l'immeuble en traînant une valise rose à roulettes, ses longs cheveux blonds attachés n'importe comment, un sweat trop grand sur son crop top blanc. Elle avait vingt-deux ans, des yeux verts qui riaient avant sa bouche, et elle était la meilleure amie de Nora depuis la seconde, depuis le jour où elles s'étaient fait exclure ensemble d'un cours de physique pour fou rire."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ta valise ou celle d'un régiment ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— La mienne. Et ne me dis pas qu'on part en forêt."
+  },
+  {
+   "type": "text",
+   "value": "— On part en forêt."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. J'ai pris des tenues forêt."
+  },
+  {
+   "type": "text",
+   "value": "Derrière elle, Dylan portait deux sacs, le sien et celui de Nora, qu'elle avait laissé dans l'entrée."
+  },
+  {
+   "type": "text",
+   "value": "Il ne disait rien. Il ne disait jamais grand-chose à cinq heures du matin, ni à midi d'ailleurs. Dylan Mercier, vingt-quatre ans, le crâne rasé presque à blanc, des épaules d'ancien pilier de rugby, des yeux gris qui avaient l'air de compter les choses avant de les regarder. Interne en médecine. Il lisait les notices des médicaments par plaisir. Skye disait qu'il était « une armoire avec un cerveau dedans », et c'était tendre, et c'était vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Donne, dit Nora en tendant la main vers son sac. Je peux le porter."
+  },
+  {
+   "type": "text",
+   "value": "— Il est lourd."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais qu'il est lourd, c'est le mien."
+  },
+  {
+   "type": "text",
+   "value": "Il le lui tendit. Leurs doigts se touchèrent sur la sangle. Pas longtemps. Une seconde. Une seconde de trop, la peau chaude de sa main contre la sienne, et ils s'écartèrent en même temps, trop vite, comme deux personnes qui ont touché une plaque électrique."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Avant l'aube"
+  },
+  {
+   "type": "text",
+   "value": "Le sac tomba sur le trottoir."
+  },
+  {
+   "type": "text",
+   "value": "— Bravo, dit Skye en riant. Les deux plus maladroits du monde."
+  },
+  {
+   "type": "text",
+   "value": "— C'est l'heure, dit Dylan. Personne n'est fait pour exister à cette heure-là."
+  },
+  {
+   "type": "text",
+   "value": "Il ramassa le sac, le cala lui-même dans le coffre, et alla s'asseoir à l'arrière sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "Nora resta sur le trottoir. Elle avait chaud aux doigts. Elle détestait avoir chaud aux doigts."
+  },
+  {
+   "type": "text",
+   "value": "— On est en direct ? Non, on n'est pas en direct. On enregistre. OK."
+  },
+  {
+   "type": "text",
+   "value": "Ezra s'était posté devant le capot, la perche tendue, la lumière du lampadaire sur ses cheveux blancs. Il avait sa voix de vidéo, une demi-octave plus grave que sa vraie voix."
+  },
+  {
+   "type": "text",
+   "value": "— Salut la team Hors Piste. Il est cinq heures douze, on est à Lyon, et aujourd'hui on part pour le voyage le plus fou de la chaîne. Deux mille kilomètres. Quatre personnes. Une Golf qui va peut-être mourir en route."
+  },
+  {
+   "type": "text",
+   "value": "— Elle va mourir, dit Skye hors champ."
+  },
+  {
+   "type": "text",
+   "value": "— Elle va peut-être mourir. Et au bout, les Carpates. La Roumanie. La forêt de Vâlcea."
+  },
+  {
+   "type": "text",
+   "value": "Il fit une pause, regarda l'objectif comme s'il y avait quelqu'un dedans."
+  },
+  {
+   "type": "text",
+   "value": "— Là-bas, il y a une légende. Les vieux des villages l'appellent *floarea de Vâlcea*. La fleur de Vâlcea. Une petite fleur violette qui ne pousse nulle part ailleurs. Ils disent qu'elle te montre ce que tu caches. Ce que tu caches aux autres. Ce que tu te caches à toi-même."
+  },
+  {
+   "type": "text",
+   "value": "Nora sentit quelque chose se resserrer sous ses côtes."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne l'a jamais photographiée, continua Ezra. Personne. Il y a des forums entiers là-dessus, des gens qui sont partis la chercher. Nous, on va la trouver. Et vous allez la voir. Abonnez-vous, activez la cloche, et dites-moi en commentaire : vous, qu'est-ce que vous cachez ?"
+  },
+  {
+   "type": "text",
+   "value": "Il baissa la perche, ravi."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est bien, celle-là. *Qu'est-ce que vous cachez.* Ça va tourner."
+  },
+  {
+   "type": "text",
+   "value": "— C'est flippant, ton truc, dit Skye."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le but. Les gens adorent avoir peur depuis leur canapé."
+  },
+  {
+   "type": "text",
+   "value": "— Les gens qui sont partis la chercher, demanda Dylan depuis la voiture, vitre baissée, ils l'ont trouvée ?"
+  },
+  {
+   "type": "text",
+   "value": "Ezra haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne poste jamais la suite. C'est ça qui est génial."
+  },
+  {
+   "type": "text",
+   "value": "Il rit. Skye rit avec lui. Nora prit une photo d'eux deux, éclairés par le lampadaire, bouche ouverte, flous de rire. Sa première pose. Elle regarda le compteur : un. Elle ne savait pas pourquoi elle avait choisi cette image-là."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Première pose"
+  },
+  {
+   "type": "text",
+   "value": "Ils quittèrent Lyon dans le jour bleu. Le Rhône, puis l'autoroute, puis les Alpes qui montaient au loin comme une vague figée."
+  },
+  {
+   "type": "text",
+   "value": "Ezra conduisait. Skye avait pris la place passager et le contrôle de la musique, ce qui voulait dire des chansons qu'elle connaissait par cœur et qu'elle chantait faux, en se filmant. Nora et Dylan étaient derrière, chacun contre sa fenêtre, le sac de vivres entre eux comme une frontière."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne le regardait pas. Elle regardait les montagnes. Mais dans le reflet de la vitre, il y avait son profil à lui, sa mâchoire carrée, ses yeux fermés, et elle voyait qu'il ne dormait pas. Sa respiration était trop régulière. Trop contrôlée. Comme quelqu'un qui fait semblant."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa : *arrête.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa : *tu n'as rien fait.*"
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. Elle n'avait rien fait. Depuis un an, depuis cette soirée chez Skye où Dylan était arrivé pour la première fois avec une bouteille de vin trop chère et un livre de botanique dans la poche de son manteau, elle n'avait rien fait. Ils n'avaient rien fait. Ils avaient parlé, parfois, dans des cuisines, à la fin des fêtes. Ils s'étaient évités, souvent. C'était tout. Ce n'était rien."
+  },
+  {
+   "type": "text",
+   "value": "C'était un rien qui prenait beaucoup de place dans une voiture."
+  },
+  {
+   "type": "text",
+   "value": "— Le tunnel du Fréjus ! cria Skye. Tout le monde retient sa respiration !"
+  },
+  {
+   "type": "text",
+   "value": "— C'est treize kilomètres, dit Dylan sans ouvrir les yeux. Tu vas mourir."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je mourrai belle."
+  },
+  {
+   "type": "text",
+   "value": "Elle retint sa respiration. Ezra aussi, pour la caméra. Nora ne joua pas. Dans le noir orange du tunnel, elle sentit le genou de Dylan, à vingt centimètres du sien, et elle compta les lampes au plafond pour penser à autre chose."
+  },
+  {
+   "type": "text",
+   "value": "L'aire d'autoroute s'appelait Arda Ovest, quelque part après Turin. Il faisait déjà trente degrés à onze heures. Le bitume sentait le caoutchouc chaud et le café brûlé."
+  },
+  {
+   "type": "text",
+   "value": "Ezra et Skye étaient partis à la boutique acheter des choses inutiles. Dylan faisait le plein. Nora s'assit sur un muret à l'ombre d'un pin parasol et ralluma son téléphone, qu'elle avait laissé en mode avion pour économiser la batterie."
+  },
+  {
+   "type": "text",
+   "value": "Les messages tombèrent d'un coup. Sa mère : *Tu m'envoies une photo quand vous arrivez ?* Un groupe d'amis. Une pub pour une banque. Une notification de la chaîne d'Ezra."
+  },
+  {
+   "type": "text",
+   "value": "Et un message d'un numéro qu'elle ne connaissait pas."
+  },
+  {
+   "type": "text",
+   "value": "Un numéro long, avec un indicatif qu'elle ne reconnut pas, qui commençait par +40. Reçu à 5 h 12. L'heure exacte où Ezra avait dit *salut la team Hors Piste* devant la Golf."
+  },
+  {
+   "type": "text",
+   "value": "Trois mots, en français."
+  },
+  {
+   "type": "text",
+   "value": "*Ne venez pas.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle relut. Les lettres ne changèrent pas. Pas de point d'exclamation, pas de faute. Juste ces trois mots, posés là, calmes, comme un conseil donné par quelqu'un qui n'avait plus besoin de crier."
+  },
+  {
+   "type": "text",
+   "value": "Elle sentit la sueur refroidir dans son dos."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ? Ça va ?"
+  },
+  {
+   "type": "text",
+   "value": "Dylan était devant elle, les clés de la voiture à la main. Elle tourna l'écran vers lui sans rien dire. Il lut. Elle vit ses yeux gris s'arrêter sur le numéro, plus longtemps que sur le message."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Ne venez pas"
+  },
+  {
+   "type": "text",
+   "value": "— Plus quarante, dit-il. C'est la Roumanie."
+  },
+  {
+   "type": "text",
+   "value": "— Comment quelqu'un en Roumanie a mon numéro ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas tout de suite. Ezra arrivait, un paquet de chips dans une main, une figurine de Ferrari dans l'autre, Skye pendue à son bras."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ? Vous faites des têtes d'enterrement."
+  },
+  {
+   "type": "text",
+   "value": "Nora lui montra le téléphone. Ezra lut, et pendant une seconde, une seule, quelque chose passa sur son visage. Puis il éclata de rire."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un abonné ! J'ai posté la story ce matin, le teaser, avec la légende. Il y a toujours un mec qui fait le malin. Ton numéro est sur ton Insta pro, bébé, je t'ai dit cent fois de l'enlever."
+  },
+  {
+   "type": "text",
+   "value": "— Mon Insta pro a deux cents abonnés."
+  },
+  {
+   "type": "text",
+   "value": "— Eh bien, un de tes deux cents abonnés est roumain et il a de l'humour."
+  },
+  {
+   "type": "text",
+   "value": "Il lui prit le téléphone des mains, fit une capture d'écran."
+  },
+  {
+   "type": "text",
+   "value": "— C'est parfait. C'est même trop parfait. Je le mets dans la vidéo. *Avant même d'arriver, on a reçu un avertissement.* Les gens vont devenir fous."
+  },
+  {
+   "type": "text",
+   "value": "Skye riait. Dylan ne riait pas. Il regardait Nora. Nora regardait l'écran dans la main d'Ezra."
+  },
+  {
+   "type": "text",
+   "value": "— Ta story, dit Dylan doucement. Tu l'as postée à quelle heure ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pas. Six heures ? Six heures et demie ?"
+  },
+  {
+   "type": "text",
+   "value": "Personne ne releva. Le message, lui, était arrivé à 5 h 12."
+  },
+  {
+   "type": "text",
+   "value": "Il était toujours là. Trois mots. Et en dessous, pendant qu'elle le fixait, trois petits points apparurent, ceux qui disent que quelqu'un, quelque part, à mille cinq cents kilomètres, est en train d'écrire."
+  },
+  {
+   "type": "text",
+   "value": "Puis les points disparurent, et rien ne vint."
+  }
+ ]
+}

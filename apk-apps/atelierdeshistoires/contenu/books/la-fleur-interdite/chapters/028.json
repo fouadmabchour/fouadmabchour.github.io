@@ -1,0 +1,365 @@
+{
+ "number": 28,
+ "title": "La police",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Quand les voitures de police entrèrent sur la place, le banc sous le tilleul était vide."
+  },
+  {
+   "type": "text",
+   "value": "Les pigeons étaient encore là. Ils picoraient les dernières miettes, tranquilles. Il n'y avait pas de tasse. Il n'y avait pas de sac de papier. Nora traversa la place en boitant, sous le regard des policiers qui descendaient de voiture, et elle posa la main sur le bois du banc."
+  },
+  {
+   "type": "text",
+   "value": "Il était tiède."
+  },
+  {
+   "type": "text",
+   "value": "— Madame ! Madame, revenez !"
+  },
+  {
+   "type": "text",
+   "value": "Elle revint. Elle ne dit rien à personne. Pas encore. Elle savait déjà de quoi elle aurait l'air."
+  },
+  {
+   "type": "text",
+   "value": "L'ambulance emporta Erzsi, toujours inconsciente, la photo de Bence serrée dans le poing. Un infirmier essaya de la lui retirer pour poser une perfusion. Les doigts refusèrent de s'ouvrir. Il laissa la photo."
+  },
+  {
+   "type": "text",
+   "value": "Nora et Dylan, on les emmena à Râmnicu Vâlcea. Pas dans la même voiture."
+  },
+  {
+   "type": "text",
+   "value": "Le commissariat sentait le café brûlé et le produit pour les sols. Des néons. Des chaises en plastique orange vissées au mur. Une femme agent leur donna des vêtements trop grands, un survêtement gris, des sandales. On prit les habits de Nora dans un sac transparent, le short, le t-shirt qui n'était plus blanc. Elle les regarda partir comme on regarde partir quelqu'un."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "Le commissariat"
+  },
+  {
+   "type": "text",
+   "value": "On lui prit son appareil photo aussi. Elle s'agrippa à la sangle."
+  },
+  {
+   "type": "text",
+   "value": "— C'est à moi."
+  },
+  {
+   "type": "text",
+   "value": "— On vous le rendra, madame. C'est une pièce."
+  },
+  {
+   "type": "text",
+   "value": "Elle le lâcha. Elle se sentit nue."
+  },
+  {
+   "type": "text",
+   "value": "Puis la salle. Une table, deux chaises, une caméra au plafond. L'homme qui l'interrogea s'appelait l'inspecteur Mihai Dragomir. Cinquante ans, lunettes fines, costume froissé, un français appris à Grenoble pendant ses études, disait-il, il y a très longtemps. Il était poli. Il prenait des notes à la main, dans un carnet à spirale."
+  },
+  {
+   "type": "text",
+   "value": "— Reprenons depuis le début, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Elle reprit depuis le début."
+  },
+  {
+   "type": "text",
+   "value": "Lyon. La Golf. Ljubljana, Budapest. La fleur sur le pare-brise. Brădeni, le garagiste, la radio. La piste, la boue, la maison. Le thé. Le placard aux sacs à dos."
+  },
+  {
+   "type": "text",
+   "value": "Dragomir écrivait. Il ne levait pas les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Elle raconta les fils. La forêt qui tournait. Ezra qui revenait en souriant. La clairière, les bâtons plantés, les lunettes, la peluche. Ezra qui criait *Courez !*. La fosse. Skye sur le pont, Vasile, la rivière."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne raconta pas le baiser dans la cabane. Elle ne raconta pas ce que la vieille lui avait dit au bord du ruisseau. Il y avait des choses qu'on ne met pas dans un carnet à spirale."
+  },
+  {
+   "type": "text",
+   "value": "— Et cette femme, dit Dragomir. Mère Ilinca. Elle savait vos noms."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Avant que vous les disiez."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Il posa son stylo."
+  },
+  {
+   "type": "text",
+   "value": "— Madame Vasseur. Vous aviez bu ce thé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Pas moi."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes sûre ? Trois jours sans dormir, la peur, la faim. Le cerveau fabrique des choses. Ce n'est pas un reproche."
+  },
+  {
+   "type": "text",
+   "value": "Nora le regarda."
+  },
+  {
+   "type": "text",
+   "value": "— Allez voir, dit-elle. Allez juste voir."
+  },
+  {
+   "type": "text",
+   "value": "On les laissa attendre toute la journée. Séparément. Nora dormit une heure sur une banquette, d'un sommeil sans rêves, et se réveilla en hurlant parce qu'une porte avait claqué. On lui apporta une soupe. Elle la mangea. Elle se détesta d'avoir faim."
+  },
+  {
+   "type": "text",
+   "value": "Par la vitre du couloir, elle vit Dylan une seule fois, de loin, assis dans une autre salle, la tête dans les mains. Il ne la vit pas. Elle eut envie de cogner à la vitre. Elle ne le fit pas."
+  },
+  {
+   "type": "text",
+   "value": "Vers seize heures, une femme de l'ambassade arriva de Bucarest. Tailleur bleu, chignon serré, une voix de radio. Elle s'assit à côté de Nora et lui parla de rapatriement, de familles prévenues, de cellule psychologique, d'avocat si nécessaire. Nora hochait la tête. Les mots glissaient sur elle comme de l'eau sur une vitre."
+  },
+  {
+   "type": "text",
+   "value": "— Votre mère a appelé, dit la femme. Six fois. Elle prend l'avion demain."
+  },
+  {
+   "type": "text",
+   "value": "— Vous lui avez dit quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Que vous étiez vivante."
+  },
+  {
+   "type": "text",
+   "value": "Nora regarda ses mains. Il restait du sang d'Erzsi sous ses ongles, malgré le savon. Elle avait frotté jusqu'à s'écorcher."
+  },
+  {
+   "type": "text",
+   "value": "— Et les parents de Skye ?"
+  },
+  {
+   "type": "text",
+   "value": "La femme ne répondit pas tout de suite. Elle posa une main sur le genou de Nora, une main sèche, professionnelle, qui ne savait pas consoler."
+  },
+  {
+   "type": "text",
+   "value": "— Nous attendons d'en savoir plus avant de les rappeler."
+  },
+  {
+   "type": "text",
+   "value": "Le soir, Dragomir revint. Il n'avait plus son carnet. Il avait le visage gris d'un homme qui a vu quelque chose."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "L'inspecteur"
+  },
+  {
+   "type": "text",
+   "value": "Il s'assit en face d'elle. Il mit du temps à parler."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons trouvé le poste, dit-il. Brûlé. Le corps du brigadier Pop était à deux kilomètres, au bord d'une piste, près d'une Dacia dans un fossé. Il avait encore son mégaphone."
+  },
+  {
+   "type": "text",
+   "value": "Nora ferma les yeux. Elle revit la moustache grise. Les tasses de café. La photo d'Ioana, que Dylan avait sortie du cadre fendu et glissée dans sa poche."
+  },
+  {
+   "type": "text",
+   "value": "— Il vous croyait, dit Dragomir. Lui, il vous croyait. Depuis douze ans, il écrivait des rapports. Personne ne les lisait. Moi non plus."
+  },
+  {
+   "type": "text",
+   "value": "Il se frotta les yeux sous ses lunettes."
+  },
+  {
+   "type": "text",
+   "value": "— La camionnette, au fond du ravin. Un homme mort, à l'intérieur. Petru Lungu, garagiste à Brădeni. Il avait un fusil. Et une radio."
+  },
+  {
+   "type": "text",
+   "value": "Il continua, d'une voix plate, comme s'il lisait une liste de courses, parce que c'était la seule manière de la dire."
+  },
+  {
+   "type": "text",
+   "value": "— Les équipes sont allées dans la forêt avec vos indications et les cartes du brigadier. Nous avons trouvé la clairière. Les bâtons. Les objets."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons commencé à creuser. Nous en sommes à vingt-trois. Il y en aura d'autres. Les fleurs violettes poussent sur toute la surface. Très bien. Elles poussent très bien, là."
+  },
+  {
+   "type": "text",
+   "value": "Nora mit la main sur sa bouche."
+  },
+  {
+   "type": "text",
+   "value": "— L'homme à la barbe rousse, Sorin, a été arrêté cet après-midi près du moulin. Il ne parle pas. Il n'a pas dit un seul mot. Il regarde par la fenêtre et il sourit. Le chauve, Vasile, nous l'avons trouvé dans la rivière, coincé dans des branches, à six kilomètres en aval du pont."
+  },
+  {
+   "type": "text",
+   "value": "Il hésita."
+  },
+  {
+   "type": "text",
+   "value": "— Votre amie Skye Garnier était à quelques mètres de lui."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne pleura pas. Elle avait cru qu'elle pleurerait. Elle sentit seulement quelque chose se fermer en elle, une porte, très lentement, sans bruit."
+  },
+  {
+   "type": "text",
+   "value": "— Et Ezra ?"
+  },
+  {
+   "type": "text",
+   "value": "— Nous cherchons. Nous n'avons pas encore trouvé monsieur Lambert."
+  },
+  {
+   "type": "text",
+   "value": "— Vous allez le trouver ?"
+  },
+  {
+   "type": "text",
+   "value": "Dragomir ne répondit pas. Il regarda la table."
+  },
+  {
+   "type": "text",
+   "value": "— Et elle ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Personne. La maison était vide quand nous sommes arrivés. Elle avait brûlé, elle aussi. Pas d'empreinte, pas de trace. Aucun voisin ne sait son nom de famille. Au village, les gens disent qu'elle a toujours été vieille. Que leurs grands-parents la connaissaient déjà vieille."
+  },
+  {
+   "type": "text",
+   "value": "— Elle était à Valea Rece ce matin, dit Nora. Sur la place. Sur un banc."
+  },
+  {
+   "type": "text",
+   "value": "Dragomir la regarda longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez ?"
+  },
+  {
+   "type": "text",
+   "value": "— Une femme du village l'a vue aussi. Elle a dit à mes agents qu'une vieille dame donnait à manger aux pigeons, qu'elle ne l'avait jamais vue avant. Elle a dit que les pigeons, ensuite, ne se sont pas envolés pendant une heure. Qu'ils sont restés là, à regarder le banc."
+  },
+  {
+   "type": "text",
+   "value": "Il retira ses lunettes. Sans elles, il avait l'air plus vieux et plus jeune à la fois."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis policier, madame Vasseur. Je crois aux empreintes. Aux analyses. Le thé que nous avons trouvé dans la maison contenait un sédatif puissant, mélangé à des plantes. C'est une chimie. Pas une magie. Je veux croire à ça."
+  },
+  {
+   "type": "text",
+   "value": "— Mais ?"
+  },
+  {
+   "type": "text",
+   "value": "— Mais je ne dors pas très bien, cette nuit."
+  },
+  {
+   "type": "text",
+   "value": "Il resta silencieux un moment. Puis il sortit d'une enveloppe kraft une photographie grand format, et la posa sur la table, tournée vers elle."
+  },
+  {
+   "type": "text",
+   "value": "La maison. Ou ce qu'il en restait. Des poutres noires, effondrées, un poêle debout au milieu des cendres, tordu par la chaleur. Le placard aux sacs à dos n'était plus qu'une forme carbonisée contre un mur."
+  },
+  {
+   "type": "text",
+   "value": "— Tout a brûlé, dit-il. Les passeports, les téléphones. Quarante ans de voyageurs. Tout. Sauf ceci."
+  },
+  {
+   "type": "text",
+   "value": "Il posa une deuxième photo. Un gros plan."
+  },
+  {
+   "type": "text",
+   "value": "Dans les cendres, une boîte en fer. Une vieille boîte à biscuits, rectangulaire, avec un décor de roses à moitié effacé. Pas une trace de suie. Comme si on l'avait posée là après l'incendie. Comme si on l'avait laissée là exprès."
+  },
+  {
+   "type": "text",
+   "value": "— Nos techniciens ne comprennent pas comment elle a pu rester intacte, dit Dragomir. Le métal aurait dû noircir. Il est propre."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qu'il y avait dedans ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il posa la troisième photo."
+  },
+  {
+   "type": "text",
+   "value": "Nora reconnut le pont avant de comprendre ce qu'elle voyait. Les lions de pierre. Les câbles, les lampadaires allumés, le Danube noir et or en dessous. Budapest. La nuit où Ezra flirtait avec la serveuse. La nuit où elle était partie."
+  },
+  {
+   "type": "text",
+   "value": "Sur le pont, deux silhouettes. Une fille en t-shirt blanc, les cheveux ondulés dans le vent. Un garçon au crâne rasé, immense à côté d'elle. Ils étaient face à face. Très près. Leurs fronts se touchaient presque. La main du garçon était levée vers la joue de la fille, et ne la touchait pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "La photo"
+  },
+  {
+   "type": "text",
+   "value": "Personne n'avait pris cette photo. Personne, sauf ce flash très court, depuis la rive de Pest, qu'elle avait pris pour un reflet. Elle s'était retournée. Il n'y avait eu qu'un vieux monsieur et son chien minuscule."
+  },
+  {
+   "type": "text",
+   "value": "Elle était à des centaines de kilomètres de la maison. La veille du jour où ils y étaient entrés."
+  },
+  {
+   "type": "text",
+   "value": "— C'est vous, madame Vasseur ? demanda doucement l'inspecteur. Vous et monsieur Mercier ?"
+  },
+  {
+   "type": "text",
+   "value": "Nora ne pouvait pas détacher ses yeux de l'image."
+  },
+  {
+   "type": "text",
+   "value": "Au dos, retournée par Dragomir, une écriture penchée, à l'encre violette, en français d'école ancien :"
+  },
+  {
+   "type": "text",
+   "value": "*Ce que tu caches.*"
+  }
+ ]
+}

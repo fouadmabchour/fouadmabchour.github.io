@@ -1,0 +1,357 @@
+{
+ "number": 20,
+ "title": "La radio",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Son petit-fils, répéta Dylan. Et il nous a envoyés chez elle."
+  },
+  {
+   "type": "text",
+   "value": "— Il envoie tout le monde chez elle, dit Pop. Depuis qu'il a repris le garage de son père. Une crevaison, un pneu à changer, une question sur la route. Il est gentil, Petru. Tout le monde l'aime bien au village. Il répare les vélos des enfants gratuitement."
+  },
+  {
+   "type": "text",
+   "value": "Il referma le dossier, très doucement, comme on ferme un cercueil."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais pu le prouver. Pas une fois."
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant, vous pouvez, dit Nora. On est là. On est des témoins. On a tout vu."
+  },
+  {
+   "type": "text",
+   "value": "Pop la regarda avec une tendresse fatiguée."
+  },
+  {
+   "type": "text",
+   "value": "— Alors il faut que vous restiez vivants jusqu'à ce que quelqu'un vous entende."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva et alla vers le fond de la pièce, où une grosse radio de métal vert était posée sur une table, avec un combiné à fil et des cadrans à aiguilles. Une antenne sortait par un trou dans le mur. Il actionna l'interrupteur."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Il recommença. Il tapota le boîtier. Il se pencha derrière, et Nora le vit se figer."
+  },
+  {
+   "type": "text",
+   "value": "— *Dumnezeule*, murmura-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Il tira la radio vers lui. Les fils qui sortaient de l'arrière étaient coupés. Pas arrachés : coupés net, proprement, et chaque bout de cuivre avait été replié sur lui-même, soigneusement, comme on range un ourlet. Entre deux fils, quelqu'un avait glissé un pétale violet séché."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "Les fils coupés"
+  },
+  {
+   "type": "text",
+   "value": "Personne ne parla."
+  },
+  {
+   "type": "text",
+   "value": "Pop décrocha le téléphone fixe, un vieil appareil beige à cadran. Il porta le combiné à son oreille. Nora entendit le silence d'ici. Pas de tonalité. Juste un souffle vide."
+  },
+  {
+   "type": "text",
+   "value": "— La ligne passe par la forêt, dit-il. Sur des poteaux. Il suffit d'une pince."
+  },
+  {
+   "type": "text",
+   "value": "— Quand est-ce que vous l'avez utilisée pour la dernière fois ? demanda Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Ce matin. J'ai appelé la préfecture pour dire qu'on m'avait volé ma voiture."
+  },
+  {
+   "type": "text",
+   "value": "— Donc c'est arrivé aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "— Pendant que j'étais dans la cour à chercher des traces de pneus, dit Pop. Je suis resté dehors dix minutes. Peut-être quinze."
+  },
+  {
+   "type": "text",
+   "value": "Nora pensa à Skye au bord du ruisseau. Dix minutes. Peut-être quinze. C'était toujours ce temps-là. Juste assez pour tourner le dos."
+  },
+  {
+   "type": "text",
+   "value": "Pop ne perdit pas de temps. Il avait des gestes de quelqu'un qui avait imaginé cette nuit des milliers de fois. Il chargea son fusil, glissa des cartouches dans les poches de sa veste. Il sortit d'un tiroir un pistolet de service dans son étui, le regarda, le remit dans le tiroir sans le refermer à clé."
+  },
+  {
+   "type": "text",
+   "value": "— Ma voiture, dit-il. Vous avez dit qu'elle était à deux kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "— À peu près, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on va la chercher. Elle nous emmènera à Râmnicu cette nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y avait pas les clés."
+  },
+  {
+   "type": "text",
+   "value": "Pop sortit un trousseau de sa poche et le fit tinter."
+  },
+  {
+   "type": "text",
+   "value": "— Les clés, c'est moi qui les ai. Ce qu'ils ont pris, c'est la voiture, pas les clés. Ils n'en ont pas besoin. Ils n'ont besoin de rien, ces gens-là."
+  },
+  {
+   "type": "text",
+   "value": "Ils y allèrent à trois, avec la lampe à pétrole et le fusil. La nuit était tombée tout à fait. Le chemin semblait plus long qu'à l'aller. Nora marchait entre les deux hommes et comptait ses pas pour ne pas compter les ombres."
+  },
+  {
+   "type": "text",
+   "value": "La Dacia était toujours là. La portière toujours ouverte."
+  },
+  {
+   "type": "text",
+   "value": "La tasse avait disparu."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne fit de remarque. Dylan regarda le siège vide, puis Nora, et elle comprit qu'il ne fallait pas en parler, que parler la rendrait plus réelle."
+  },
+  {
+   "type": "text",
+   "value": "Pop s'assit au volant et tourna la clé. Le démarreur toussa. Le moteur cracha, s'étouffa. Il recommença. L'aiguille de la jauge restait collée tout en bas, sous le zéro."
+  },
+  {
+   "type": "text",
+   "value": "Il descendit avec la lampe, s'accroupit près du réservoir. Le bouchon avait été dévissé. Dessous, sur la terre, une grande tache sombre qui sentait encore l'essence."
+  },
+  {
+   "type": "text",
+   "value": "— Vidée, dit-il. Ils l'ont vidée."
+  },
+  {
+   "type": "text",
+   "value": "— Alors pourquoi la laisser tiède ? demanda Nora. Pourquoi la tasse ?"
+  },
+  {
+   "type": "text",
+   "value": "Pop se releva. Il regarda les arbres noirs au bord de la route."
+  },
+  {
+   "type": "text",
+   "value": "— Pour que vous la voyiez. Pour que vous veniez chez moi. Elle aime bien rassembler ce qu'elle va prendre."
+  },
+  {
+   "type": "text",
+   "value": "Ils rentrèrent au poste et barricadèrent tout."
+  },
+  {
+   "type": "text",
+   "value": "Pop savait faire. Le bureau de métal contre la porte d'entrée. L'armoire contre la fenêtre de derrière. Des planches clouées sur les autres, avec un marteau dont le manche était fendu. Dylan l'aidait sans un mot. Nora remplissait des bouteilles d'eau au robinet, qui crachait un filet marron avant de couler clair."
+  },
+  {
+   "type": "text",
+   "value": "— Demain, à l'aube, dit Pop, on part à pied. Il y a une ferme à six kilomètres, les Moldovan. Ils ont un tracteur, un téléphone, et ils ne l'aiment pas, elle. Personne ne l'aime vraiment. Ils ont peur, c'est tout."
+  },
+  {
+   "type": "text",
+   "value": "— Et cette nuit ? demanda Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Cette nuit, je veille. Vous, vous dormez."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux veiller avec vous."
+  },
+  {
+   "type": "text",
+   "value": "Pop regarda la tempe de Dylan, ses mains écorchées par les cordes du pont, ses yeux rouges."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes médecin, non ? Alors vous savez ce qui arrive à un homme qui n'a pas dormi depuis deux nuits."
+  },
+  {
+   "type": "text",
+   "value": "Dylan ne discuta pas. Il insista seulement pour nettoyer les écorchures de Nora avec l'alcool de la trousse de secours du poste, une boîte en fer rouillée dont la moitié du contenu avait périmé en 2011. Elle s'assit sur le bord du bureau. Il s'agenouilla devant elle et passa la compresse sur ses jambes griffées par les ronces, lentement, méthodiquement, avec des gestes de médecin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "Les soins"
+  },
+  {
+   "type": "text",
+   "value": "Ça brûlait. Elle serra les dents. Elle regardait le haut de son crâne rasé, la plaie à sa tempe, ses mains larges qui la touchaient avec une délicatesse qu'elle ne leur connaissait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va ? demanda-t-il sans lever les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas vrai, et ce n'était pas l'alcool. Il le savait. Il finit le pansement, se releva, et recula d'un pas, comme on recule d'un feu."
+  },
+  {
+   "type": "text",
+   "value": "Pop, dans son coin, faisait semblant de nettoyer son fusil."
+  },
+  {
+   "type": "text",
+   "value": "Pop leur montra une petite pièce à l'arrière, l'ancienne cellule de garde à vue. Une porte de fer avec un judas, qui ne fermait plus. Une banquette de bois fixée au mur, un matelas de mousse mince, des couvertures. Ça sentait le renfermé et le métal."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la pièce la plus solide, dit Pop. Les murs font quarante centimètres."
+  },
+  {
+   "type": "text",
+   "value": "Il les laissa. Ils entendirent sa chaise grincer dans le bureau, le cliquetis du fusil posé sur ses genoux, le bruit de la cafetière qu'il remettait sur le réchaud."
+  },
+  {
+   "type": "text",
+   "value": "Nora et Dylan restèrent debout devant la banquette étroite."
+  },
+  {
+   "type": "text",
+   "value": "Ils ne se regardaient pas. La pièce était trop petite pour ne pas se regarder, et ils y arrivaient quand même."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux dormir par terre, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Il fait froid par terre."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis habitué. Les gardes à l'hôpital, on dort n'importe où."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux pas être seule, dit-elle. C'est tout. Juste ça."
+  },
+  {
+   "type": "text",
+   "value": "Il hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "Ils se couchèrent tout habillés, sous les deux couvertures, elle contre le mur, lui au bord. Puis elle se retourna, et il passa un bras autour d'elle, par-dessus la couverture, sa respiration dans ses cheveux. Elle sentait sa chaleur, le battement lent de son cœur dans son dos. Il ne bougea pas. Sa main restait posée là, immobile, comme pour la retenir de tomber."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit sa main et la serra. Elle ne la lâcha pas."
+  },
+  {
+   "type": "text",
+   "value": "— On a le droit ? murmura-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— De quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— D'être bien. Là. Maintenant. Avec eux qui sont…"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pas, dit-il. Mais je crois qu'on va le prendre quand même."
+  },
+  {
+   "type": "text",
+   "value": "Elle ferma les yeux. Pour la première fois depuis la maison, elle n'entendit pas la comptine dans sa tête. Elle n'entendit que lui. La pluie avait cessé, dehors. Pop toussait doucement dans le bureau. La cafetière chuchotait. Elle pensa : une heure. Juste une heure. Après, je paierai."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'endormit."
+  },
+  {
+   "type": "text",
+   "value": "Elle se réveilla d'un coup, sans savoir pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "La lampe à pétrole du bureau envoyait une lueur orange par le judas. Dylan dormait contre elle, la respiration lourde, le bras toujours autour d'elle. Dans le bureau, Pop ne bougeait pas. Elle entendait seulement le tic-tac de la pendule murale."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna la tête. Les aiguilles phosphorescentes de la montre de Dylan, sur son poignet, près de son visage."
+  },
+  {
+   "type": "text",
+   "value": "3 h 02."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle entendit ce qui l'avait réveillée."
+  },
+  {
+   "type": "text",
+   "value": "On frappait à la porte d'entrée."
+  },
+  {
+   "type": "text",
+   "value": "Pas fort. Pas comme on frappe quand on veut entrer de force. Trois petits coups, doux, timides. Comme on frappe chez une amie tard le soir, quand on a peur de réveiller ses parents."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Trois coups"
+  },
+  {
+   "type": "text",
+   "value": "Dylan ouvrit les yeux contre sa nuque. Elle sentit son corps entier se tendre."
+  },
+  {
+   "type": "text",
+   "value": "Dans le bureau, la chaise de Pop grinça. Le cliquetis du fusil."
+  },
+  {
+   "type": "text",
+   "value": "Trois petits coups encore."
+  },
+  {
+   "type": "text",
+   "value": "Et puis une voix. Étouffée par le bois, par le bureau de métal poussé contre la porte, par les quarante centimètres de mur. Une voix qui grelottait, une voix mouillée, épuisée, que Nora aurait reconnue au fond de n'importe quelle nuit, parce qu'elle l'avait entendue rire, pleurer, chanter faux, lui chuchoter des secrets sous les draps à quinze ans."
+  },
+  {
+   "type": "text",
+   "value": "— Nora… ouvre-moi… j'ai froid."
+  }
+ ]
+}

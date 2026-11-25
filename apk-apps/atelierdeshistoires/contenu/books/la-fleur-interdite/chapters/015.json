@@ -1,0 +1,341 @@
+{
+ "number": 15,
+ "title": "Ce que la vieille sait",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Nora voulut crier le nom de Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Rien ne sortit. Sa bouche s'ouvrit sur du vide. Elle tourna la tête vers le ruisseau, et le ruisseau était là, à vingt pas, la pierre plate, l'eau grise. Mais elle ne voyait pas Skye. Elle ne voyait pas Dylan. Elle voyait la brume, qui était redescendue d'un coup, épaisse comme du lait, et qui avalait tout au-delà de quelques mètres."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne t'entendent pas, dit la vieille. Ils sont occupés. Laisse-les."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était douce. Un français d'école, ancien, aux r roulés, appliqué comme une dictée."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous voulez ? souffla Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Que tu boives. Tu as froid. Tu as faim. Tu as peur. Le thé, c'est pour ça."
+  },
+  {
+   "type": "text",
+   "value": "— Votre thé, c'est un somnifère."
+  },
+  {
+   "type": "text",
+   "value": "La vieille eut un petit rire, comme si une enfant venait de dire une chose savante et fausse."
+  },
+  {
+   "type": "text",
+   "value": "— Le docteur te l'a dit. Il est malin, le docteur. Il lit beaucoup."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa la tasse et la soucoupe sur une pierre, entre elles deux, avec un soin de dame qui sert le dimanche. Puis elle s'assit sur une souche en face de Nora, en lissant son tablier sur ses genoux. Elle était petite. Si petite. On aurait dit une grand-mère de carte postale."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "La confession"
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as pas bu, chez moi. Le docteur non plus. Les deux qui ne boivent pas. Les deux qui se méfient. Les deux qui se ressemblent."
+  },
+  {
+   "type": "text",
+   "value": "Elle pencha la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais pourquoi, toi, tu ne bois pas ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que je ne vous fais pas confiance."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Parce que tu as peur de ce que tu verrais."
+  },
+  {
+   "type": "text",
+   "value": "Le froid sur la nuque de Nora s'étendait. Il descendait le long de son dos, vertèbre par vertèbre. Elle voulait se lever. Ses jambes ne répondaient pas. Elle avait l'impression d'être assise dans un rêve, de ces rêves où l'on sait qu'on rêve et où l'on ne peut pas se réveiller."
+  },
+  {
+   "type": "text",
+   "value": "*C'est un rêve*, se dit-elle. *Je me suis endormie sur la souche. C'est un rêve.*"
+  },
+  {
+   "type": "text",
+   "value": "— Ta maman, dit la vieille. Elle s'appelle Martine. Elle boit du vin blanc dans la cuisine, le soir, quand ton père dort. Une bouteille. Parfois plus. Elle cache les bouteilles vides dans le sac des journaux. Tu l'as découvert à douze ans. Tu n'as jamais rien dit."
+  },
+  {
+   "type": "text",
+   "value": "Nora sentit son ventre se nouer."
+  },
+  {
+   "type": "text",
+   "value": "— Comment vous…"
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne l'as jamais dit à personne. Ni à Ezra. Ni à la petite blonde. Ni au docteur."
+  },
+  {
+   "type": "text",
+   "value": "— Arrêtez."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas commencé."
+  },
+  {
+   "type": "text",
+   "value": "La vieille sourit. Elle avait les dents petites, très blanches, trop régulières pour son âge."
+  },
+  {
+   "type": "text",
+   "value": "— Tu avais dix-huit ans. C'était en février. Il neigeait sur Lyon. Tu y es allée seule, à la clinique, en bus, la ligne C3. Tu avais dit à ta mère que tu dormais chez la petite blonde. Tu as gardé le bracelet en papier de l'hôpital dans une boîte à chaussures, sous ton lit, pendant trois ans. Puis tu l'as brûlé dans l'évier."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne savait. Personne. Pas Skye. Pas Ezra, qu'elle n'avait rencontré qu'après. Pas sa mère. Pas un médecin qu'elle aurait revu. Elle n'avait jamais écrit ce mot nulle part, dans aucun téléphone, aucun journal, aucun message. Elle l'avait mis dans une boîte, et la boîte au fond d'elle, et elle avait recouvert la boîte de tout le reste de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— Qui vous a dit ça ?"
+  },
+  {
+   "type": "text",
+   "value": "— La fleur."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de fleur. C'est une légende. C'est un piège. C'est vous qui avez inventé tout ça pour attirer des gens et les…"
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit la vieille."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait dit oui simplement. Sans gêne."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un piège. Bien sûr que c'est un piège. Et pourtant, je sais. Alors, d'où je le sais, ma fille ?"
+  },
+  {
+   "type": "text",
+   "value": "Nora n'avait pas de réponse. Elle n'en aurait jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Et le docteur, reprit la vieille, d'une voix plus basse, presque gourmande. Le docteur."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Tu le regardes depuis un an. Depuis la fête chez la petite blonde, le soir où il a réparé la porte de la salle de bains avec un couteau à beurre. Tu es rentrée chez toi et tu as pleuré dans la douche. Tu ne savais pas pourquoi. Moi, je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Taisez-vous."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as choisi le chanteur parce qu'il était facile. Parce qu'il ne te regardait pas vraiment. Parce qu'avec lui, tu n'avais pas peur."
+  },
+  {
+   "type": "text",
+   "value": "— TAISEZ-VOUS."
+  },
+  {
+   "type": "text",
+   "value": "— Et cette nuit, dans la cabane, tu l'as embrassé à trois mètres de ton amie."
+  },
+  {
+   "type": "text",
+   "value": "La vieille se pencha en avant. Ses yeux étaient très noirs, très brillants, comme deux gouttes d'encre dans un visage de papier froissé."
+  },
+  {
+   "type": "text",
+   "value": "— La fleur montre ce qu'on cache, dit-elle. C'est tout ce qu'elle fait. Elle n'invente rien. Elle montre."
+  },
+  {
+   "type": "text",
+   "value": "Elle laissa passer un temps. L'eau coulait. Quelque part, très loin, un oiseau appela, deux notes, une montante, une descendante."
+  },
+  {
+   "type": "text",
+   "value": "— Toi, tu caches que tu veux qu'ils meurent. Pour l'avoir."
+  },
+  {
+   "type": "text",
+   "value": "Nora se leva."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne savait pas comment ses jambes avaient fini par obéir. Elle était debout, les poings serrés, et elle hurlait. Elle hurlait des mots qui n'en étaient pas, elle hurlait non, elle hurlait que c'était faux, que c'était dégueulasse, que la vieille était une meurtrière, une folle, un monstre, qu'Ezra était mort à cause d'elle, que…"
+  },
+  {
+   "type": "text",
+   "value": "Elle hurlait sur une souche vide."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "La souche vide"
+  },
+  {
+   "type": "text",
+   "value": "La vieille n'était plus là."
+  },
+  {
+   "type": "text",
+   "value": "La pierre, devant elle, était vide aussi. Pas de tasse. Pas de soucoupe. Juste de la mousse, et un cercle humide, parfaitement rond, de la taille d'une soucoupe, qui séchait déjà."
+  },
+  {
+   "type": "text",
+   "value": "Nora tourna sur elle-même. La brume. Les arbres. Les feuilles mortes. Aucune trace de chaussons. Aucune trace de rien."
+  },
+  {
+   "type": "text",
+   "value": "Seulement, au creux de l'oreille, très doucement, le deuxième couplet, la berceuse du couloir, celle de la première nuit :"
+  },
+  {
+   "type": "text",
+   "value": "*Dormi, puiule, dormi încet,*"
+  },
+  {
+   "type": "text",
+   "value": "*floarea vede ce-ai ascuns în piept.*"
+  },
+  {
+   "type": "text",
+   "value": "Dors, mon petit, dors doucement, la fleur voit ce que tu caches dans ton cœur."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan !"
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, sa voix sortit. Elle sortit si fort qu'elle lui déchira la gorge."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan ! Skye !"
+  },
+  {
+   "type": "text",
+   "value": "Elle courut vers le ruisseau. Vingt pas. Elle les avait comptés tout à l'heure. Elle en fit trente, quarante. La brume se déchira d'un coup, et le ruisseau fut là, gris, rapide."
+  },
+  {
+   "type": "text",
+   "value": "La pierre plate était là. Celle où Skye trempait son pied."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait personne dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan ?"
+  },
+  {
+   "type": "text",
+   "value": "Personne sur la rive. Personne sur l'autre rive. Le sac kaki n'était plus à ses pieds à elle, elle s'en rendit compte seulement maintenant : elle l'avait laissé près de la souche, ou bien il n'était plus nulle part. Elle avait encore l'appareil photo contre sa poitrine. C'était tout ce qu'elle avait."
+  },
+  {
+   "type": "text",
+   "value": "— SKYE !"
+  },
+  {
+   "type": "text",
+   "value": "L'eau répondit. Seulement l'eau."
+  },
+  {
+   "type": "text",
+   "value": "Elle chercha des traces. Les feuilles autour de la pierre étaient retournées, écrasées, comme piétinées. Une branche basse était cassée net, à hauteur d'homme. Une très grande hauteur d'homme."
+  },
+  {
+   "type": "text",
+   "value": "Combien de temps était-elle restée assise sur cette souche ? Cinq minutes ? Une heure ? Le soleil, derrière la brume, avait bougé. Il était beaucoup plus bas. Beaucoup trop bas."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa : *ils sont partis sans moi.*"
+  },
+  {
+   "type": "text",
+   "value": "L'idée arriva toute seule, froide, nette. Ils l'avaient vue hurler sur une souche vide. Ils avaient eu peur d'elle. Skye avait dit à Dylan *laisse-la, elle est folle, elle nous fera tuer*, et Dylan avait hésité, et Dylan était parti."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle eut honte d'avoir pensé ça. Dylan ne serait jamais parti. Pas sans elle. Pas lui."
+  },
+  {
+   "type": "text",
+   "value": "*Toi, tu caches que tu veux qu'ils meurent.*"
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-elle à voix haute, à personne. Non. Je veux qu'ils reviennent. Je veux qu'ils reviennent tous les deux."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix sonnait mince, ridicule, avalée par les arbres. Elle se demanda si la vieille l'entendait. Elle se demanda si c'était à elle qu'elle parlait."
+  },
+  {
+   "type": "text",
+   "value": "Elle appela encore. Elle remonta le ruisseau sur vingt mètres, le redescendit sur trente. Elle regarda derrière chaque rocher, sous chaque tronc couché, avec la terreur de trouver quelque chose et la terreur de ne rien trouver. Rien. Pas un bruit de pas. Pas un cri étouffé. La forêt avait refermé ses mains sur eux comme sur une pièce de monnaie."
+  },
+  {
+   "type": "text",
+   "value": "Elle descendit au bord du ruisseau, glissa sur les cailloux, se rattrapa dans l'eau glacée jusqu'aux mollets. Le froid lui coupa le souffle."
+  },
+  {
+   "type": "text",
+   "value": "Et elle la vit."
+  },
+  {
+   "type": "text",
+   "value": "Coincée entre deux pierres, au milieu du courant, qui tremblait sous l'eau qui passait dessus. Une basket blanche. Une seule. Le lacet défait, qui flottait comme une petite algue. La semelle salie de terre et, sur la toile, à l'intérieur, au feutre, les initiales que Skye y avait dessinées un soir de lycée, un S et un N entrelacés dans un cœur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "La basket"
+  },
+  {
+   "type": "text",
+   "value": "Skye et Nora."
+  },
+  {
+   "type": "text",
+   "value": "La chaussure de Skye. Celle que Dylan lui avait retirée la veille au bord de la fosse, et qu'elle avait relacée au bord de l'eau, en grimaçant, sans laisser Nora l'aider."
+  },
+  {
+   "type": "text",
+   "value": "Le ruisseau continuait de couler autour, indifférent, et quelque part derrière Nora, très loin dans la forêt, quelqu'un se mit à rire."
+  }
+ ]
+}

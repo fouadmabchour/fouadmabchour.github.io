@@ -1,0 +1,337 @@
+{
+ "number": 8,
+ "title": "Les fils",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Personne ne bougea."
+  },
+  {
+   "type": "text",
+   "value": "La lampe tremblait dans la main de Nora, et le cercle de lumière tremblait avec elle sur le visage de la vieille, sur le foulard gris, sur les mains croisées. Mère Ilinca continuait de se balancer. Le bois de la chaise grinçait. Un. Deux. Un. Deux."
+  },
+  {
+   "type": "text",
+   "value": "— Laissez-nous passer, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était minuscule."
+  },
+  {
+   "type": "text",
+   "value": "— Mais tu es libre, ma fille. La porte est là."
+  },
+  {
+   "type": "text",
+   "value": "La vieille leva la main et montra, au bout du couloir, la porte d'entrée. Puis elle montra l'autre côté, la porte d'Ezra, contre laquelle sa chaise était appuyée."
+  },
+  {
+   "type": "text",
+   "value": "— Seulement, lui, il dort. Il a bu. Il voulait voir. On ne réveille pas quelqu'un qui veut voir."
+  },
+  {
+   "type": "text",
+   "value": "Dylan était sorti de la chambre derrière Nora. Elle sentit sa présence dans son dos, sa chaleur, sa masse."
+  },
+  {
+   "type": "text",
+   "value": "— Poussez-vous, madame, dit-il calmement. On prend notre ami et on s'en va. On ne dira rien à personne."
+  },
+  {
+   "type": "text",
+   "value": "Mère Ilinca sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Tu mens bien, toi. Tu mens tous les jours."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna à demi vers l'obscurité, derrière elle, et dit un seul mot en roumain. Doux. Presque un soupir."
+  },
+  {
+   "type": "text",
+   "value": "— Sorin."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit du noir comme s'il en était fait."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne l'avait pas vu arriver. Il n'y avait rien derrière la vieille, une seconde plus tôt, que le mur et une icône. Et maintenant il était là, la barbe rousse prise dans la lumière, les épaules qui touchaient presque les deux murs du couloir, les mains ouvertes le long du corps. Énormes. Il ne courait pas. Il marchait vers eux."
+  },
+  {
+   "type": "text",
+   "value": "— Recule, dit Dylan. Nora, recule."
+  },
+  {
+   "type": "text",
+   "value": "Elle recula. Son dos heurta le chambranle de la chambre. Dylan passa devant elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait vu Dylan jouer au rugby une seule fois, l'hiver dernier, un match de fin de saison où Skye l'avait traînée. Elle se souvenait de l'avoir trouvé lent. Massif et lent. Elle s'était trompée. Il partit d'un coup, tête baissée, l'épaule en avant, et percuta Sorin au niveau de la poitrine avec un bruit sourd, un bruit de sac de sable."
+  },
+  {
+   "type": "text",
+   "value": "Sorin recula d'un pas. Un seul."
+  },
+  {
+   "type": "text",
+   "value": "Puis il referma les bras."
+  },
+  {
+   "type": "text",
+   "value": "Nora entendit l'air sortir des poumons de Dylan. Un râle. Le colosse le soulevait du sol comme un enfant, l'écrasait contre lui, en silence, sans effort apparent, et son visage restait parfaitement vide. Pas de colère. Rien. Les yeux de Sorin regardaient par-dessus l'épaule de Dylan, droit sur Nora."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "L'étreinte"
+  },
+  {
+   "type": "text",
+   "value": "— Lâche-le ! hurla-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne réfléchit pas. Elle attrapa la première chose qui lui vint sous la main, l'icône accrochée près de la porte, un saint aux yeux noirs dans un cadre de bois lourd, et l'abattit de toutes ses forces sur la tempe de Sorin."
+  },
+  {
+   "type": "text",
+   "value": "Le cadre éclata. Sorin tourna la tête vers elle, lentement. Il saignait au-dessus du sourcil. Il ne lâcha pas."
+  },
+  {
+   "type": "text",
+   "value": "Mais Dylan avait un bras libre. Nora vit l'éclat de l'Opinel, encore ouvert depuis la porte. Elle vit le geste, bref, vers la main énorme qui le tenait. Sorin ouvrit les doigts d'un coup, sans un cri, et Dylan tomba sur le plancher à quatre pattes, toussant, crachant."
+  },
+  {
+   "type": "text",
+   "value": "— Skye, haleta-t-il. Prends Skye."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra..."
+  },
+  {
+   "type": "text",
+   "value": "— Prends Skye !"
+  },
+  {
+   "type": "text",
+   "value": "Elle se jeta dans la chambre."
+  },
+  {
+   "type": "text",
+   "value": "Skye ne voulait pas se réveiller."
+  },
+  {
+   "type": "text",
+   "value": "Nora la tira par les bras, la fit glisser du lit, la mit assise par terre. Sa tête roulait sur son épaule. Ses cheveux blonds collaient à ses joues."
+  },
+  {
+   "type": "text",
+   "value": "— Skye. Skye, s'il te plaît. Lève-toi. Je t'en supplie, lève-toi."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ? murmura Skye. Pourquoi tu cries..."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut partir. Debout. Debout, ma belle."
+  },
+  {
+   "type": "text",
+   "value": "Elle passa le bras de Skye autour de son cou et la hissa. Skye pesait le poids d'un sac de ciment. Ses jambes se dérobaient, ses pieds nus traînaient sur le sol. Elle riait un peu, d'un rire d'ivrogne, sans comprendre."
+  },
+  {
+   "type": "text",
+   "value": "Dans le couloir, il y eut un fracas. Le bois qui cède. Un cri étouffé de Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Nora arriva sur le seuil, Skye pendue à elle. Dylan était debout, le dos contre le mur, le souffle court, un filet de sang au coin de la bouche. Sorin était à trois mètres. Il ne bougeait plus. Il attendait. Derrière lui, la chaise de la vieille était vide."
+  },
+  {
+   "type": "text",
+   "value": "La porte de la chambre d'Ezra était grande ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra ! cria Nora."
+  },
+  {
+   "type": "text",
+   "value": "Elle traîna Skye jusqu'à l'embrasure. Elle balaya la pièce avec la lampe. Le lit en fer. L'édredon brodé, défait. L'empreinte du corps d'Ezra encore creusée dans la laine."
+  },
+  {
+   "type": "text",
+   "value": "Le lit était vide."
+  },
+  {
+   "type": "text",
+   "value": "Les volets de la petite fenêtre étaient clos. Il n'y avait pas d'autre porte. Ses baskets n'étaient plus là. Personne n'était passé dans le couloir. Personne. Elle l'aurait vu."
+  },
+  {
+   "type": "text",
+   "value": "— Il était là, dit-elle. Dylan, il était là, il dormait, il..."
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Il faut sortir."
+  },
+  {
+   "type": "text",
+   "value": "— On ne part pas sans lui !"
+  },
+  {
+   "type": "text",
+   "value": "— On ne peut pas l'aider si on est morts !"
+  },
+  {
+   "type": "text",
+   "value": "Il ne l'avait jamais crié comme ça. Sorin fit un pas vers eux. Puis un autre. Lentement, comme on rabat du bétail vers un enclos. Il les poussait vers le fond du couloir, loin de la porte d'entrée."
+  },
+  {
+   "type": "text",
+   "value": "Dylan regarda autour de lui. La chambre d'Ezra. La fenêtre. Les volets."
+  },
+  {
+   "type": "text",
+   "value": "— Là, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Il entra dans la chambre, prit le lit en fer par le pied et le traîna d'un coup sous la fenêtre. Il monta dessus. Il frappa les volets du talon, une fois, deux fois. Le bois pourri craqua à la troisième. Les clous sautèrent. L'air de la nuit entra, froid, noir, plein d'odeur de feuilles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Les volets"
+  },
+  {
+   "type": "text",
+   "value": "— Passe-la-moi."
+  },
+  {
+   "type": "text",
+   "value": "Ils soulevèrent Skye à deux. Elle gémissait, se débattait mollement, et ses ongles griffèrent le bras de Nora. Dylan la fit basculer par la fenêtre, la retint par les poignets, la laissa glisser contre le mur. Nora entendit le bruit mou de son corps dans l'herbe, et Skye qui se mit à pleurer, très doucement."
+  },
+  {
+   "type": "text",
+   "value": "— À toi."
+  },
+  {
+   "type": "text",
+   "value": "Nora se retourna une dernière fois vers la porte. Sorin était là, sur le seuil, immobile. Il ne cherchait pas à les rattraper. Il les regardait partir. C'était ça, le plus horrible. Il les regardait partir comme si ça n'avait aucune importance. Comme s'ils ne pouvaient aller nulle part."
+  },
+  {
+   "type": "text",
+   "value": "Elle passa par la fenêtre. Elle s'écorcha les cuisses sur le rebord, tomba sur le côté, sentit son appareil photo cogner contre ses côtes. Dylan atterrit à côté d'elle une seconde plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva les yeux vers la fenêtre. Le rectangle de lumière jaune de son téléphone, abandonné sur le lit, éclairait le plafond. Une ombre passa devant. Large. Lente. Puis la lampe s'éteignit, comme si quelqu'un avait posé la main dessus."
+  },
+  {
+   "type": "text",
+   "value": "Pas de sac. Pas d'eau. Plus de téléphone pour elle. Ils n'avaient rien."
+  },
+  {
+   "type": "text",
+   "value": "— Cours, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Il souleva Skye sur son dos, ses bras autour de son cou, et partit vers les arbres."
+  },
+  {
+   "type": "text",
+   "value": "La forêt était noire. Pas sombre : noire. Nora courait les bras en avant, les branches lui fouettant le visage, la main de Dylan cherchée et perdue et retrouvée dans le noir. Elle trébucha sur une racine, se rattrapa à un tronc couvert de mousse humide. Derrière elle, le souffle de Dylan, rauque, régulier, et les sanglots de Skye contre sa nuque."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne savait pas combien de temps ils couraient. Elle n'entendait plus que son propre cœur, énorme, qui lui cognait jusque dans les dents. Une branche lui ouvrit la joue. Elle ne sentit rien sur le moment, juste une chaleur qui coulait jusqu'à son menton."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan, attends... Attends !"
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Je vois rien !"
+  },
+  {
+   "type": "text",
+   "value": "— Suis ma voix. Je suis là. Je suis là."
+  },
+  {
+   "type": "text",
+   "value": "Il le répétait comme une incantation, sans se retourner, et elle se raccrochait à ce *je suis là* comme à une corde dans le noir. Une fois, elle le perdit pour de bon. Elle s'arrêta, tourna sur elle-même, les mains tendues dans le vide. Tout autour, des troncs. Des formes. Des craquements. Elle crut voir, à dix mètres, une silhouette immobile entre deux arbres. Large. Haute. Qui ne bougeait pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche pour hurler. Une main se referma sur la sienne."
+  },
+  {
+   "type": "text",
+   "value": "— C'est moi, souffla Dylan. C'est moi. Viens."
+  },
+  {
+   "type": "text",
+   "value": "Quand elle regarda de nouveau vers les arbres, il n'y avait plus de silhouette. Il n'y en avait peut-être jamais eu."
+  },
+  {
+   "type": "text",
+   "value": "Skye, sur le dos de Dylan, s'était mise à fredonner. Une mélodie lente, à moitié endormie, sans paroles. Nora mit plusieurs secondes à la reconnaître. C'était l'air de la vieille. La berceuse du couloir."
+  },
+  {
+   "type": "text",
+   "value": "— Tais-toi, Skye, dit-elle. S'il te plaît, tais-toi."
+  },
+  {
+   "type": "text",
+   "value": "Skye se tut. Elle pleurait de nouveau."
+  },
+  {
+   "type": "text",
+   "value": "Ils coururent jusqu'à ce que la maison ne soit plus qu'une forme noire entre les troncs, très loin. Alors Dylan s'arrêta, posa Skye contre un arbre, se plia en deux, les mains sur les genoux."
+  },
+  {
+   "type": "text",
+   "value": "Nora se retourna."
+  },
+  {
+   "type": "text",
+   "value": "C'est à ce moment-là que la maison s'alluma."
+  },
+  {
+   "type": "text",
+   "value": "Pas une fenêtre. Toutes. D'un seul coup, comme on actionne un interrupteur général, chaque fenêtre, chaque fente de volet, chaque interstice entre les planches se mit à brûler d'une lumière jaune, violente, qui découpa la forme de la maison dans la nuit comme une lanterne. Une maison qui n'avait que deux lampes à pétrole et une veilleuse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "La maison s'allume"
+  },
+  {
+   "type": "text",
+   "value": "Et du fond de cette lumière, déchirant le silence de la forêt, une voix s'éleva. Une voix qu'elle aurait reconnue entre mille, qu'elle entendait chaque matin depuis trois ans."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ! NORA !"
+  },
+  {
+   "type": "text",
+   "value": "C'était Ezra. Et il criait depuis l'intérieur."
+  }
+ ]
+}

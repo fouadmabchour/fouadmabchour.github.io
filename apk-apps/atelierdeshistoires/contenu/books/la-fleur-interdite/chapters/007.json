@@ -1,0 +1,369 @@
+{
+ "number": 7,
+ "title": "La nuit dans la maison",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elle ne le dit pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Elle referma le placard, doucement, du bout des doigts, comme si le bois pouvait la mordre. Elle plia le torchon. Elle essuya une tasse, puis une autre. Ses mains tremblaient tellement que l'émail tintait contre l'évier. La vieille revint du couloir et lui sourit, et Nora lui sourit aussi, et ce fut la chose la plus difficile qu'elle ait faite de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— Vos lits sont prêts, mes enfants. Deux chambres. Les couples ensemble, c'est mieux, non ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est parfait, dit Ezra d'une voix pâteuse. Vous êtes parfaite."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva, tituba, éclata de rire. Skye dormait déjà presque debout, accrochée au bras de Dylan. Ses yeux s'ouvraient et se fermaient au ralenti, comme ceux d'une poupée qu'on penche."
+  },
+  {
+   "type": "text",
+   "value": "La chambre de Nora et Ezra était au bout du couloir. Un lit en fer, un édredon brodé, une petite fenêtre aux volets clos, une icône au-dessus du lit. Ezra s'effondra sur l'édredon tout habillé, ses baskets encore aux pieds."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est géniale, marmonna-t-il. Demain, je lui demande de faire une interview. Demain la fleur. Demain..."
+  },
+  {
+   "type": "text",
+   "value": "Il ne finit pas sa phrase. Il dormait."
+  },
+  {
+   "type": "text",
+   "value": "Nora resta debout au milieu de la chambre. Elle écouta. Le poêle, au loin. Un craquement. Les chaussons de la vieille qui s'éloignaient. Une porte. Puis rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle compta jusqu'à trois cents."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir était noir. Elle n'osa pas allumer la lampe de son téléphone. Elle avança à tâtons, la main contre le mur, le crépi rugueux sous ses doigts. La chambre de Dylan et Skye était juste à côté. Elle gratta à la porte avec un ongle."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'ouvrit tout de suite. Il ne dormait pas non plus."
+  },
+  {
+   "type": "text",
+   "value": "Il la tira à l'intérieur sans un mot et referma. Dans la pénombre, elle distinguait la forme de Skye sous l'édredon, la masse claire de ses cheveux étalés sur l'oreiller. Elle respirait fort. Trop fort. Un souffle lent, profond, presque un ronflement."
+  },
+  {
+   "type": "text",
+   "value": "— Le placard, chuchota Nora. Dans la cuisine. Dylan, il y a..."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'arrivait pas à le dire. Il lui prit les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Respire. Doucement. Qu'est-ce qu'il y a ?"
+  },
+  {
+   "type": "text",
+   "value": "— Des sacs. Des dizaines de sacs à dos. Des téléphones. Des passeports. Plein. Allemands, canadiens, je sais pas. Et il y a mon appareil. Le même. Avec une étiquette. 2009."
+  },
+  {
+   "type": "text",
+   "value": "Elle sentit ses mains se figer sur ses épaules. Elles étaient chaudes, larges, et elle aurait voulu qu'il ne les retire jamais. Il les retira."
+  },
+  {
+   "type": "text",
+   "value": "— OK, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Il dit seulement ça. *OK.* Et c'était pire que s'il avait crié."
+  },
+  {
+   "type": "text",
+   "value": "Il se pencha sur Skye. Il lui souleva une paupière avec le pouce, approcha l'écran de son téléphone, réglé au plus bas. La pupille était minuscule. Il lui prit le poignet, compta, les lèvres bougeant en silence."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "Sédatée"
+  },
+  {
+   "type": "text",
+   "value": "— Skye. Skye, réveille-toi."
+  },
+  {
+   "type": "text",
+   "value": "Il la secoua. Doucement d'abord, puis plus fort. Skye gémit, tourna la tête, marmonna quelque chose qui ressemblait à *encore cinq minutes*, et retomba."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est sédatée, dit Dylan. C'est pas de la fatigue. Pouls lent, myosis, aucune réponse à la stimulation. Le thé. Il y avait quelque chose dans ce thé. Un somnifère, une benzo, je sais pas quoi. Une bonne dose."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra aussi. Il dort avec ses chaussures."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de tasses il a bu ?"
+  },
+  {
+   "type": "text",
+   "value": "— Deux. Peut-être trois."
+  },
+  {
+   "type": "text",
+   "value": "Dylan jura entre ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— On doit partir, dit Nora. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Avec eux deux dans cet état ?"
+  },
+  {
+   "type": "text",
+   "value": "— On les porte. On les traîne. Je m'en fous. Dylan, il y a des passeports dans un placard. Tu sais ce que ça veut dire, des passeports dans un placard ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Ils se regardèrent dans le noir. Elle voyait à peine ses yeux, deux éclats gris. Elle entendait sa respiration, plus rapide qu'il ne voulait le laisser paraître."
+  },
+  {
+   "type": "text",
+   "value": "— La voiture est embourbée, dit-il. Les clés sont peut-être dans le contact, peut-être pas. On ne sait même pas où on est. On n'a pas de réseau. Et il y a deux types de deux mètres quelque part dans cette maison."
+  },
+  {
+   "type": "text",
+   "value": "— Tu veux qu'on attende le matin ? Qu'on prenne le petit-déjeuner ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je veux qu'on réfléchisse dix secondes."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai réfléchi. J'ai réfléchi devant le placard."
+  },
+  {
+   "type": "text",
+   "value": "Il passa la main sur son crâne rasé, un geste qu'elle lui connaissait, quand il étudiait ses partiels sur la terrasse de Skye. Puis il hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord. On prend les sacs. Juste l'eau, les lampes, les papiers. On réveille Ezra en premier, il pèse moins lourd que Skye. Je le mets debout, tu prends Skye avec moi. On sort par la porte de devant, on suit le chemin jusqu'à la voiture."
+  },
+  {
+   "type": "text",
+   "value": "Il marcha jusqu'à la porte de la chambre. Posa la main sur la poignée. La tourna."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne s'ouvrit pas."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna encore. Tira. La porte bougea d'un millimètre dans son cadre, puis s'arrêta net, avec un petit bruit métallique, de l'autre côté. Un loquet. Un verrou extérieur."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens de l'ouvrir, souffla Nora. Il y a deux minutes. Je viens de rentrer par là."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y avait personne dans le couloir."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Nora."
+  },
+  {
+   "type": "text",
+   "value": "Elle alla à la fenêtre. Les volets. Elle passa les doigts dans l'interstice, trouva le crochet. Les volets ne bougèrent pas. Ils étaient cloués. Elle sentit les têtes de clous sous ses doigts, rouillées, anciennes. Pas récentes. Anciennes. Ces volets étaient cloués depuis des années."
+  },
+  {
+   "type": "text",
+   "value": "Elle recula jusqu'au lit. Ses jambes ne la tenaient plus. Elle s'assit au bord, à côté de Skye qui respirait comme une machine."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra est tout seul, dit-elle. Dans l'autre chambre."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Arrête de dire *je sais*."
+  },
+  {
+   "type": "text",
+   "value": "Il vint s'accroupir devant elle. Il prit ses mains. Cette fois, il ne les lâcha pas."
+  },
+  {
+   "type": "text",
+   "value": "— Regarde-moi. On va sortir. Je te le promets. Ce sont des vieilles portes, des vieux verrous. Je vais trouver."
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête. Elle avait envie de pleurer et de le gifler et de le serrer contre elle, tout en même temps. Elle ne fit rien. Elle sentait ses pouces sur le dos de ses mains, qui bougeaient à peine, un va-et-vient minuscule, pour la calmer. C'était la première fois qu'il la touchait vraiment. Ce fut dans une chambre fermée à clé, avec sa meilleure amie droguée à cinquante centimètres."
+  },
+  {
+   "type": "text",
+   "value": "*Tu es horrible*, pensa-t-elle. *Tu es une personne horrible.*"
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi toi ? murmura-t-elle. Pourquoi tu n'as pas bu ?"
+  },
+  {
+   "type": "text",
+   "value": "Il haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— L'odeur. Trop sucrée. Ça masquait quelque chose d'amer, en dessous. Et puis elle nous attendait avec quatre tasses. Personne n'attend des inconnus avec quatre tasses."
+  },
+  {
+   "type": "text",
+   "value": "— Tu aurais pu le dire."
+  },
+  {
+   "type": "text",
+   "value": "— Dire quoi ? Que j'avais un mauvais pressentiment à cause d'une odeur ? Ezra m'aurait filmé en train de le dire et il aurait mis une musique de film d'horreur derrière."
+  },
+  {
+   "type": "text",
+   "value": "Elle faillit rire. Ça ne sortit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi ? demanda-t-il. Pourquoi tu n'as pas bu ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle réfléchit. Elle revit la tasse sous son nez, les pétales gonflés, cette crispation dans son ventre."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que tu ne buvais pas, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. Elle l'avait regardé. Elle le regardait toujours, depuis Lyon, depuis bien avant Lyon, et elle avait fait comme lui sans y penser. Il ne répondit rien. Il baissa les yeux sur leurs mains."
+  },
+  {
+   "type": "text",
+   "value": "Sous l'édredon, Skye murmura quelque chose dans son sommeil. Un prénom. Nora n'aurait pas su dire lequel. Ils se lâchèrent en même temps, comme deux enfants pris en faute."
+  },
+  {
+   "type": "text",
+   "value": "Dylan se releva, fouilla la chambre. Il n'y avait rien. Une commode vide, qui sentait la naphtaline. Un broc d'eau sur une chaise. Il le renifla, le reposa sans y toucher. Sur le mur, au-dessus du lit, une autre icône, une vierge noire aux yeux immenses, et en dessous, gravés dans le crépi à la pointe d'un objet, des petits traits. Des bâtons. Regroupés par cinq, comme on compte les jours en prison."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "Les traits"
+  },
+  {
+   "type": "text",
+   "value": "Nora en compta une vingtaine avant de s'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Dylan travailla sur la porte pendant vingt minutes."
+  },
+  {
+   "type": "text",
+   "value": "Avec la lame de son Opinel, il glissa entre le battant et le chambranle, chercha le pêne, le trouva, fit levier. Le bois était vieux, sec, il gémissait. À chaque craquement, ils s'arrêtaient et écoutaient. La maison ne répondait rien. Le poêle s'était tu. On n'entendait plus que Skye."
+  },
+  {
+   "type": "text",
+   "value": "Puis il y eut un déclic. Un vrai. Le loquet extérieur céda, sauta de son anneau, et la porte s'entrouvrit sur le noir."
+  },
+  {
+   "type": "text",
+   "value": "Dylan se retourna vers elle. Il souriait presque."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois."
+  },
+  {
+   "type": "text",
+   "value": "Nora se leva. Elle prit son téléphone, garda le pouce sur la lampe sans l'allumer. Elle passa devant lui. Elle voulait voir Ezra. Elle voulait l'atteindre avant que quelque chose ne l'atteigne."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit dans le couloir."
+  },
+  {
+   "type": "text",
+   "value": "Il faisait plus froid qu'avant. Beaucoup plus froid, comme si quelqu'un avait ouvert une fenêtre sur la forêt. L'odeur des fleurs était revenue, plus lourde, presque palpable."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit un pas. Deux."
+  },
+  {
+   "type": "text",
+   "value": "Quelque chose craqua, devant elle. Le grincement très doux d'un bois qui porte un poids. Une chaise. Un rythme lent, régulier. Une chaise qui se balance."
+  },
+  {
+   "type": "text",
+   "value": "Nora alluma la lampe."
+  },
+  {
+   "type": "text",
+   "value": "Mère Ilinca était assise au milieu du couloir, sur une chaise paillée, les mains croisées sur son tablier. Juste devant la porte de la chambre d'Ezra. Elle n'avait pas sursauté sous la lumière. Elle ne clignait pas des yeux. Elle ne les avait peut-être jamais fermés de la nuit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "Le couloir"
+  },
+  {
+   "type": "text",
+   "value": "Elle chantonnait, très bas, d'une voix douce de berceuse."
+  },
+  {
+   "type": "text",
+   "value": "*Dormi, puiule, dormi încet,*"
+  },
+  {
+   "type": "text",
+   "value": "*floarea vede ce-ai ascuns în piept.*"
+  },
+  {
+   "type": "text",
+   "value": "C'était l'air de la petite fille de Brădeni. Les trois mêmes notes. Mais pas les mêmes paroles : un autre couplet, celui qu'on chante plus bas, quand l'enfant a déjà les yeux fermés."
+  },
+  {
+   "type": "text",
+   "value": "Nora connaissait trois mots de roumain. Elle comprit pourtant. *Dors, mon petit, dors doucement, la fleur voit ce que tu caches dans ton cœur.*"
+  },
+  {
+   "type": "text",
+   "value": "La vieille sourit, sans cesser de se balancer, et ajouta en français, du même ton tendre :"
+  },
+  {
+   "type": "text",
+   "value": "— On ne part pas avant d'avoir vu la fleur."
+  }
+ ]
+}

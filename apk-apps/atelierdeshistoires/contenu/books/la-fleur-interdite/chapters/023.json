@@ -1,0 +1,357 @@
+{
+ "number": 23,
+ "title": "Le sacrifice",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le monde était à l'envers et il gouttait."
+  },
+  {
+   "type": "text",
+   "value": "C'est la première chose que Nora comprit : quelque chose gouttait sur son visage, tiède, avec une odeur de gasoil. Elle était suspendue par la ceinture de sécurité, la tête en bas, les cheveux pendant vers le toit enfoncé. Le cadre de Pop avait glissé quelque part. Ses oreilles bourdonnaient. Dans sa bouche, un goût de cuivre."
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Nora, réponds-moi."
+  },
+  {
+   "type": "text",
+   "value": "Dylan. Quelque part à sa gauche, dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là. Je suis là. Je crois que je n'ai rien."
+  },
+  {
+   "type": "text",
+   "value": "— Bouge les doigts. Les pieds. Tu sens tes pieds ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle sentait ses pieds. Il lui fit bouger le cou, lentement, une main sur sa nuque, la voix d'interne de garde, plate et douce, celle qu'il devait prendre aux urgences à quatre heures du matin. Puis il défit la ceinture en retenant tout son poids contre lui, et elle tomba dans ses bras, sur le verre pilé du plafond."
+  },
+  {
+   "type": "text",
+   "value": "— La portière, dit-il. Celle de mon côté s'ouvre encore."
+  },
+  {
+   "type": "text",
+   "value": "Ils rampèrent dehors. L'herbe était haute, mouillée de rosée, et sentait la menthe sauvage. La Dacia gisait au fond du fossé comme un insecte retourné, une roue tournait encore dans le vide, lentement. Plus haut, sur la piste, les phares de la camionnette éclairaient la nuit, immobiles. Le moteur tournait au ralenti. Personne n'en descendait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "Le fossé"
+  },
+  {
+   "type": "text",
+   "value": "— Pop, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Il était toujours à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Dylan rampa de l'autre côté. Nora le suivit. Le brigadier était tassé contre sa portière écrasée, à moitié assis sur le plafond, la tête contre le montant. Ses yeux étaient ouverts. Il respirait, une respiration courte, sifflante, qui faisait trembler sa moustache."
+  },
+  {
+   "type": "text",
+   "value": "— Ah, dit-il. Les enfants."
+  },
+  {
+   "type": "text",
+   "value": "Dylan passa le bras par la vitre éclatée, le toucha au cou, à la poitrine, puis plus bas. Nora vit son visage se fermer. Elle connaissait ce visage maintenant. C'était celui qu'il avait eu au bord de la fosse."
+  },
+  {
+   "type": "text",
+   "value": "— Sa jambe est coincée, dit-il. Sous le tableau de bord. Et il y a… il saigne. Beaucoup. Je ne peux pas le sortir sans le déplacer et si je le déplace…"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Pop. Je sais ce que c'est. Je suis vieux, pas idiot."
+  },
+  {
+   "type": "text",
+   "value": "Il voulut rire. Ça lui fit mal. Il serra les dents et le rire devint un grognement."
+  },
+  {
+   "type": "text",
+   "value": "Sur la piste, une portière claqua. Des voix, basses, en roumain. Celle de Petru, nasillarde, qui donnait des ordres. Pas de réponse. Sorin ne répondait jamais. Les phares ne bougeaient pas. Ils attendaient. Ils avaient tout leur temps, et c'était ça le plus terrible : personne ne se pressait jamais, dans cette famille."
+  },
+  {
+   "type": "text",
+   "value": "Nora glissa la main par la vitre et prit celle de Pop. Elle était froide et collante. Il la serra faiblement."
+  },
+  {
+   "type": "text",
+   "value": "— Ma femme, dit-il, elle disait toujours que je conduisais trop vite."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne conduisiez pas trop vite."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Pas assez."
+  },
+  {
+   "type": "text",
+   "value": "Dylan, à côté, déchirait déjà ce qui restait de son débardeur pour faire un garrot. Ses gestes étaient rapides, précis, et parfaitement inutiles, et il le savait, et il le faisait quand même. Pop le laissa serrer le tissu autour de sa cuisse sans protester. Il regardait Dylan avec une sorte de tendresse."
+  },
+  {
+   "type": "text",
+   "value": "— Bon médecin, dit-il. Bon garçon. Mais têtu."
+  },
+  {
+   "type": "text",
+   "value": "— On ne te laisse pas, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Si."
+  },
+  {
+   "type": "text",
+   "value": "— Non. On va soulever la voiture, on va…"
+  },
+  {
+   "type": "text",
+   "value": "— À deux ? Avec quels bras ? Les tiens ? Écoute-moi, *fată*. Écoute."
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main vers la sacoche de cuir, coincée contre le levier de vitesses. Dylan la dégagea et la lui posa sur les genoux. Pop l'ouvrit, à tâtons, et commença à en sortir des choses, une à une, comme un grand-père qui vide ses poches pour des petits-enfants."
+  },
+  {
+   "type": "text",
+   "value": "La carte d'abord. Une vieille carte d'état-major, pliée et repliée, avec des annotations au stylo bille, des croix, des dates."
+  },
+  {
+   "type": "text",
+   "value": "— La nationale est là. Trente kilomètres. Vous coupez par les collines, vous laissez la piste à gauche, toujours à gauche. Il y a une bergerie vide, ici. Une source, là. Ne buvez pas ailleurs."
+  },
+  {
+   "type": "text",
+   "value": "La lampe torche. Une grosse Maglite noire, éraflée."
+  },
+  {
+   "type": "text",
+   "value": "— Elle tient six heures. Ne l'allumez que si vous êtes sûrs."
+  },
+  {
+   "type": "text",
+   "value": "Puis le pistolet de service. Il le tendit à Dylan par la crosse."
+  },
+  {
+   "type": "text",
+   "value": "Dylan regarda l'arme sans la prendre."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais t'en servir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais touché une arme. Je suis médecin. Je ne…"
+  },
+  {
+   "type": "text",
+   "value": "— Tu étais médecin à Lyon, dit Pop. Ici, tu es un homme qui doit ramener une fille chez elle. Prends-le."
+  },
+  {
+   "type": "text",
+   "value": "Dylan ne bougeait pas. Nora vit sa mâchoire trembler. Elle vit, derrière lui, sur la piste, une silhouette passer devant les phares de la camionnette. Immense. Lente. Puis une deuxième, plus petite."
+  },
+  {
+   "type": "text",
+   "value": "— Dylan, souffla-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il prit le pistolet. Pop lui montra la sécurité, le chargeur, en trois gestes et six mots, puis lui referma les doigts dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Huit balles. Ne tire pas pour faire peur. Ils n'ont pas peur."
+  },
+  {
+   "type": "text",
+   "value": "Il fouilla une dernière fois dans la sacoche. Il en sortit le cadre, celui qu'il avait arraché au mur du poste. Le verre était fendu en étoile. Derrière, une jeune fille de seize ou dix-sept ans, des cheveux noirs tirés en queue de cheval, un appareil dentaire, un rire. Ioana."
+  },
+  {
+   "type": "text",
+   "value": "Il referma la sacoche, où il ne restait qu'une petite trousse de secours, et la passa au cou de Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Ça, c'est pour toi, dit-il à Nora. Tu es photographe. Tu sais ce que c'est, une photo. C'est une preuve qu'on a existé."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas la prendre."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un doit la sortir de cette forêt. Moi, je n'ai pas réussi. Toi, tu vas réussir."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit le cadre. Elle le serra contre sa poitrine, comme elle avait serré la chaussure de Skye."
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant, partez. Moi, je reste ici. Je les retiens. J'ai encore le fusil et douze cartouches. Ils devront venir me chercher, et ils viendront, parce qu'elle me veut depuis douze ans."
+  },
+  {
+   "type": "text",
+   "value": "— Andrei…"
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois que Dylan l'appelait par son prénom. Pop le regarda, et quelque chose passa sur son visage gris, une douceur bizarre."
+  },
+  {
+   "type": "text",
+   "value": "— Prends-lui la main, dit-il. Ne la lâche pas. Pas comme moi."
+  },
+  {
+   "type": "text",
+   "value": "Ils partirent en rampant dans le fossé, puis à quatre pattes dans les herbes, puis en courant courbés, vers le noir des collines. Nora tenait le cadre d'une main et la main de Dylan de l'autre. Ses chaussures de randonnée, elle les avait remises au poste, mal lacées, et elles claquaient sur ses chevilles."
+  },
+  {
+   "type": "text",
+   "value": "Nora se retourna une seule fois. Dans la lueur des phares, elle vit la main de Pop sortir par la vitre de la Dacia renversée, poser le canon du fusil sur la tôle, bien calé. Une main de vieil homme, calme, qui ne tremblait pas. Elle pensa qu'elle aurait voulu la photographier. Son appareil battait contre sa poitrine, au bout de sa sangle, avec ses dernières vues. Elle ne le leva pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Il reste"
+  },
+  {
+   "type": "text",
+   "value": "Ils n'avaient pas fait cent mètres que le premier coup de fusil éclata derrière eux."
+  },
+  {
+   "type": "text",
+   "value": "Nora s'arrêta net. Dylan la tira."
+  },
+  {
+   "type": "text",
+   "value": "— Avance."
+  },
+  {
+   "type": "text",
+   "value": "Un deuxième. Un troisième. Puis le claquement plus sec, plus aigu, d'une autre arme. Un cri, en roumain, pas celui de Pop. Puis encore le fusil. Encore."
+  },
+  {
+   "type": "text",
+   "value": "Ils montaient la pente sans voir où ils mettaient les pieds. Les herbes leur fouettaient les cuisses. Nora tomba sur les genoux, se releva. Elle comptait les tirs sans le vouloir. Sept. Huit. Neuf. Il disait douze cartouches. Il restait trois. Il restait deux."
+  },
+  {
+   "type": "text",
+   "value": "Puis ce fut un silence d'une minute entière. Ils se jetèrent à plat ventre derrière un rocher, en haut de la crête, et regardèrent en bas."
+  },
+  {
+   "type": "text",
+   "value": "On voyait la piste, la camionnette, ses phares qui éclairaient la Dacia renversée. Des ombres autour. Elles ne bougeaient pas."
+  },
+  {
+   "type": "text",
+   "value": "Un seul coup de feu. Net. Bref. Pas celui du fusil."
+  },
+  {
+   "type": "text",
+   "value": "Puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Nora enfonça son visage dans l'herbe mouillée. Elle ne pleura pas. Elle ne pouvait pas. Elle sentit la main de Dylan sur son dos, posée à plat entre ses omoplates, qui ne caressait pas, qui restait là, lourde, comme pour l'empêcher de s'envoler."
+  },
+  {
+   "type": "text",
+   "value": "— Il nous a donné le temps, dit-il d'une voix qu'elle ne reconnut pas. Il faut qu'on s'en serve. Il faut, Nora."
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête contre la terre."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa à la moustache grise. Au café qu'il leur avait servi la veille dans des verres à moutarde, en buvant le premier pour qu'ils osent. À ses chaussettes trouées sur le carrelage. À la façon dont il avait dit *ma belle* à sa voiture. Elle pensa qu'elle le connaissait depuis moins d'un jour et qu'elle allait le pleurer toute sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— On aurait dû rester, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— On serait morts tous les trois."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. On aurait dû rester quand même."
+  },
+  {
+   "type": "text",
+   "value": "Dylan ne répondit pas. Il avait sorti le pistolet de sa poche et le regardait dans le creux de sa main, comme un objet tombé du ciel."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura. Les grillons reprirent, un à un, comme si de rien n'était. Un oiseau de nuit, quelque part. Le vent dans les herbes."
+  },
+  {
+   "type": "text",
+   "value": "Et puis, venue d'en bas, une voix grésillante, énorme, déformée par un haut-parleur. Le mégaphone de la Dacia. Nora l'avait vu sur la banquette arrière, au poste, avec son fil entortillé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Le mégaphone"
+  },
+  {
+   "type": "text",
+   "value": "C'était la voix de Pop. Sa voix grave, fatiguée, avec son français d'école. Elle traînait sur les syllabes comme un disque passé trop lentement."
+  },
+  {
+   "type": "text",
+   "value": "Elle chantait."
+  },
+  {
+   "type": "text",
+   "value": "*Floare mov, floare mică,*"
+  },
+  {
+   "type": "text",
+   "value": "*cine te-a văzut nu mai pleacă.*"
+  },
+  {
+   "type": "text",
+   "value": "*Dormi, puiule, dormi încet,*"
+  },
+  {
+   "type": "text",
+   "value": "*floarea vede ce-ai ascuns în piept.*"
+  },
+  {
+   "type": "text",
+   "value": "Les deux couplets. En entier. Pop les avait traduits sur le perron, quelques heures plus tôt, avec dégoût. Jamais il ne les aurait chantés."
+  },
+  {
+   "type": "text",
+   "value": "Dylan lui prit le poignet. Nora sentit ses ongles."
+  },
+  {
+   "type": "text",
+   "value": "La voix reprit le dernier vers, plus doucement, presque tendre, comme on berce. Puis elle se tut, et dans le silence qui suivit, le mégaphone ajouta, avec la voix de Pop, d'un ton parfaitement aimable :"
+  },
+  {
+   "type": "text",
+   "value": "— Courez, mes enfants. J'arrive."
+  }
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "number": 5,
+ "title": "Plus de réseau",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Après le pont de bois, la route cessa d'être une route."
+  },
+  {
+   "type": "text",
+   "value": "Elle devint une piste de terre, d'abord large, avec deux ornières bien marquées, puis de plus en plus étroite. La forêt se referma au-dessus d'eux. Des hêtres immenses, des sapins noirs, des troncs couverts de mousse qui laissaient passer une lumière verte, épaisse, comme filtrée par une eau sale. Les branches griffaient la carrosserie. La Golf avançait au pas, en gémissant."
+  },
+  {
+   "type": "text",
+   "value": "— On est sur la carte de Petru, dit Dylan, le carton sur les genoux. La bifurcation, c'est dans trois ou quatre kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "— Le GPS dit autre chose, dit Ezra."
+  },
+  {
+   "type": "text",
+   "value": "Sur son téléphone fixé au tableau de bord, la petite flèche bleue tournait sur elle-même. Elle pointait vers le nord, puis vers l'est, puis vers le sud. Elle n'arrivait pas à se décider. Sous elle, la carte était devenue une grande tache verte sans aucun trait."
+  },
+  {
+   "type": "text",
+   "value": "En haut de l'écran, il n'y avait plus de barres. Juste les mots : *Aucun service*."
+  },
+  {
+   "type": "text",
+   "value": "— Plus de réseau, dit Skye. Plus du tout. C'est officiel, on est hors du monde."
+  },
+  {
+   "type": "text",
+   "value": "Elle le dit en riant. Elle filma l'écran pour sa story, qui ne partirait pas."
+  },
+  {
+   "type": "text",
+   "value": "Nora regarda son propre téléphone. Aucun service. Le message de l'aire d'autoroute était toujours là, en haut de la liste. *Ne venez pas.* Elle éteignit l'écran."
+  },
+  {
+   "type": "text",
+   "value": "Ils trouvèrent la bifurcation, ou ce qu'ils crurent être la bifurcation. Puis une autre, que Petru n'avait pas dessinée. Puis une troisième. Ezra choisit à chaque fois, au hasard, avec une assurance qui ne trompait plus personne."
+  },
+  {
+   "type": "text",
+   "value": "La lumière baissait. Pas d'un coup, comme en ville. Elle se retirait doucement entre les arbres, couche par couche, et les troncs les plus éloignés disparaissaient les uns après les autres, comme si la forêt avançait vers eux."
+  },
+  {
+   "type": "text",
+   "value": "— On devrait faire demi-tour, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— On est presque arrivés."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'en sais rien."
+  },
+  {
+   "type": "text",
+   "value": "— Je le sens."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sens quoi, exactement ?"
+  },
+  {
+   "type": "text",
+   "value": "Ezra ne répondit pas. Il accéléra."
+  },
+  {
+   "type": "text",
+   "value": "La piste descendait dans un creux humide. Il y avait de l'eau au fond, une flaque large et brune, l'air innocente. La Golf entra dedans à vingt kilomètres heure. Les roues avant s'enfoncèrent. Le moteur rugit. La boue gicla jusque sur le pare-brise. Ezra passa la marche arrière, puis la première, puis la marche arrière encore, en écrasant l'accélérateur."
+  },
+  {
+   "type": "text",
+   "value": "Les roues tournaient dans le vide. La voiture s'enfonçait."
+  },
+  {
+   "type": "text",
+   "value": "— Arrête, dit Dylan. Arrête, tu vas casser l'embrayage."
+  },
+  {
+   "type": "text",
+   "value": "Ezra frappa le volant des deux mains. Puis il coupa le moteur."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "Un silence énorme. Pas d'oiseaux. Pas de vent. Juste le cliquetis du moteur qui refroidissait, et leur respiration à tous les quatre, dans l'habitacle qui sentait la boue et le chien mouillé."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent. Ils essayèrent de pousser. Dylan seul déplaçait plus que les trois autres réunis, et la Golf ne bougea pas d'un centimètre. La boue montait jusqu'aux chevilles de Nora, froide, collante, avec une odeur de feuilles pourries."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Embourbés"
+  },
+  {
+   "type": "text",
+   "value": "— Bon, dit Ezra, les mains sur les hanches, couvert de boue jusqu'aux genoux. Bon. Ça fait partie de l'aventure."
+  },
+  {
+   "type": "text",
+   "value": "— Ezra, dit Skye. Il fait presque nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Petru a dit que la maison était près de la piste. On marche. On trouve la vieille. Demain, ses fils nous aident à sortir la voiture."
+  },
+  {
+   "type": "text",
+   "value": "— Et si on ne la trouve pas ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— On la trouvera."
+  },
+  {
+   "type": "text",
+   "value": "Dylan regarda la forêt, puis le ciel, puis sa montre."
+  },
+  {
+   "type": "text",
+   "value": "— On a une heure de lumière, dit-il. Peut-être moins. On prend les sacs, l'eau, les lampes frontales. On suit la piste, on ne la quitte pas. Si dans quarante-cinq minutes on n'a rien trouvé, on revient dormir dans la voiture."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne discuta. C'était le ton de l'hôpital. Le ton qu'il avait au téléphone avec sa mère."
+  },
+  {
+   "type": "text",
+   "value": "Ils prirent les sacs à dos. Nora vérifia son appareil photo. Elle prit une photo de la Golf enfoncée dans sa flaque, ses phares éteints comme des yeux fermés. Dix poses."
+  },
+  {
+   "type": "text",
+   "value": "Ils marchèrent."
+  },
+  {
+   "type": "text",
+   "value": "Ezra devant, la perche à la main, la lampe de son téléphone allumée, filmant sans arrêt et commentant à voix basse pour sa vidéo. Skye derrière lui, qui ne riait plus. Puis Nora. Puis Dylan, en dernier, qui se retournait souvent."
+  },
+  {
+   "type": "text",
+   "value": "La piste montait entre les arbres. Le sol était mou. Des racines sortaient de terre comme des doigts tordus. Il faisait plus frais, d'un coup, presque froid, et Nora regretta son mini short. Ses jambes nues se couvraient de chair de poule."
+  },
+  {
+   "type": "text",
+   "value": "— Vous entendez ? dit Skye."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'arrêtèrent."
+  },
+  {
+   "type": "text",
+   "value": "Rien. C'était ça qu'on entendait. Rien du tout. Pas un oiseau, pas un insecte, pas une branche qui craque. Une forêt de cette taille, en juillet, aurait dû bourdonner de vie. Elle était muette. Elle retenait son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le soir, dit Dylan. Les oiseaux se taisent le soir."
+  },
+  {
+   "type": "text",
+   "value": "Nora savait qu'il n'y croyait pas. Elle le savait au ton de sa voix."
+  },
+  {
+   "type": "text",
+   "value": "Ils repartirent."
+  },
+  {
+   "type": "text",
+   "value": "Au bout de vingt minutes, Ezra poussa un cri."
+  },
+  {
+   "type": "text",
+   "value": "— Là ! Là ! Regardez !"
+  },
+  {
+   "type": "text",
+   "value": "Il s'était accroupi au bord de la piste, la caméra braquée sur le sol. Ils le rejoignirent."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'herbe, au pied d'un hêtre, il y avait des fleurs."
+  },
+  {
+   "type": "text",
+   "value": "Des petites fleurs violettes. Cinq pétales en étoile. Une couleur profonde, presque noire sur les bords. Exactement la même que celle de Budapest, glissée dans la boîte à gants. Mais vivantes, celles-là. Fraîches. Elles brillaient doucement dans la pénombre, comme si elles gardaient pour elles le dernier reste de lumière."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "La ligne violette"
+  },
+  {
+   "type": "text",
+   "value": "Il y en avait une, puis trois, puis dix. Plus loin, sur le bord de la piste, une ligne entière de fleurs violettes qui s'enfonçait dans le noir, comme un chemin tracé exprès."
+  },
+  {
+   "type": "text",
+   "value": "— *Floarea de Vâlcea*, souffla Ezra. Elle existe. Putain, elle existe."
+  },
+  {
+   "type": "text",
+   "value": "Il filmait, la voix tremblante, les yeux brillants, extatique, comme un enfant devant un sapin de Noël."
+  },
+  {
+   "type": "text",
+   "value": "— Vous voyez ? Vous voyez ? Je vous l'avais dit ! Personne ne l'a jamais filmée. Personne. Et nous, on est là. On est là !"
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main pour en cueillir une."
+  },
+  {
+   "type": "text",
+   "value": "— Ne touche pas, dit Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— On ne sait pas ce que c'est. Il y a des plantes qui brûlent la peau. D'autres qui sont toxiques au simple contact."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une fleur, Dylan."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a quelqu'un qui en a posé une sur notre pare-brise à Budapest. Pense à ça avant de la mettre dans ta poche."
+  },
+  {
+   "type": "text",
+   "value": "Ezra hésita. Puis il retira sa main, de mauvaise grâce, et continua de filmer."
+  },
+  {
+   "type": "text",
+   "value": "Nora s'accroupit à côté de lui. L'odeur montait du sol. Miel et cave. Plus forte qu'à Budapest. Plus lourde. Elle lui piquait le fond de la gorge. Elle leva son appareil pour photographier la ligne de fleurs qui s'enfonçait dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "Dans le viseur, au bout de la ligne, entre les troncs, il y avait une lumière."
+  },
+  {
+   "type": "text",
+   "value": "Elle baissa l'appareil. La lumière était toujours là. Jaune, chaude, immobile. Une fenêtre."
+  },
+  {
+   "type": "text",
+   "value": "— Là-bas, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "La maison était au fond d'une petite clairière, à moins de deux cents mètres."
+  },
+  {
+   "type": "text",
+   "value": "Une maison basse, en bois sombre, avec un toit de bardeaux qui descendait presque jusqu'au sol, et une cheminée d'où sortait un mince filet de fumée blanche. Des fleurs violettes poussaient tout autour, contre les murs, sous les fenêtres, entre les marches du perron, comme si la maison avait poussé au milieu d'elles. Une lampe à pétrole était posée sur le rebord d'une fenêtre. Une autre pendait au-dessus de la porte."
+  },
+  {
+   "type": "text",
+   "value": "Et sur le seuil, il y avait une vieille femme."
+  },
+  {
+   "type": "text",
+   "value": "Petite. Voûtée. Un foulard gris noué sous le menton. Un gilet de laine sur une robe à fleurs, un tablier par-dessus, des chaussons aux pieds. Elle était debout, les mains croisées sur le ventre, parfaitement immobile, et elle les regardait arriver."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Sur le seuil"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne paraissait pas surprise. Elle n'avait pas l'air de quelqu'un qui découvre des étrangers sortis de la forêt à la nuit tombée. Elle avait l'air de quelqu'un qui attend des invités et qui les voit enfin arriver, avec un peu de retard."
+  },
+  {
+   "type": "text",
+   "value": "À côté d'elle, sur une petite table en bois, devant la porte, il y avait un plateau."
+  },
+  {
+   "type": "text",
+   "value": "Une théière en terre. Et quatre tasses."
+  },
+  {
+   "type": "text",
+   "value": "Quatre."
+  },
+  {
+   "type": "text",
+   "value": "Nora s'arrêta net. Dylan, derrière elle, s'arrêta aussi. Elle sentit sa main se poser, une seconde, sur le creux de son dos. Puis s'écarter."
+  },
+  {
+   "type": "text",
+   "value": "Ezra, lui, continuait d'avancer, la caméra tendue."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir ! *Bună seara* ! C'est Petru qui nous envoie ! Petru, du garage !"
+  },
+  {
+   "type": "text",
+   "value": "La vieille ne répondit pas. Elle souriait. Un petit sourire poli, très doux, qui plissait ses joues comme une pomme oubliée trop longtemps dans un panier."
+  },
+  {
+   "type": "text",
+   "value": "Quelque part derrière la maison, une voix chantonnait. Très bas. Trois notes qui montaient et descendaient. Nora reconnut la mélodie avant les mots."
+  },
+  {
+   "type": "text",
+   "value": "*Floare mov, floare mică…*"
+  },
+  {
+   "type": "text",
+   "value": "Puis la voix se tut."
+  },
+  {
+   "type": "text",
+   "value": "La vieille décroisa les mains. Elle fit un pas sur le seuil. Ses yeux passèrent sur eux, un par un, lentement, comme on compte des moutons qui rentrent à l'étable."
+  },
+  {
+   "type": "text",
+   "value": "— Entrez, mes enfants, dit-elle en français."
+  },
+  {
+   "type": "text",
+   "value": "Un français ancien, soigné, presque sans accent, le français des vieux livres d'école."
+  },
+  {
+   "type": "text",
+   "value": "Elle les regarda encore, chacun à son tour, et dit leurs noms. Dans l'ordre. Sans hésiter."
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Ezra. Skye. Dylan."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne lui avait dit leurs noms."
+  }
+ ]
+}
