@@ -9,7 +9,128 @@
   "comedie"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-25T00:51:46Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-25T01:34:54Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Le la de Léa",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 2,
+   "title": "Un piano sur l'eau",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 3,
+   "title": "Pleyel et piment",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 4,
+   "title": "Le piano qui n'existe pas",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 5,
+   "title": "Le jeudi de Paco",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 6,
+   "title": "Quatre emplois du temps",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 7,
+   "title": "Le déjeuner de Mamie Odile",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 8,
+   "title": "La soirée qui sauve tout",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 9,
+   "title": "Le mec de Jade",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 10,
+   "title": "Le cœur qui flanche",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 11,
+   "title": "Le silence de Rosalie",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 12,
+   "title": "Le pacte de Rosalie",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 13,
+   "title": "Indices",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 14,
+   "title": "La veille",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 15,
+   "title": "Le mariage de Clémence",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 16,
+   "title": "Le club des quatre",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 17,
+   "title": "La vengeance",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 18,
+   "title": "La proposition folle",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 19,
+   "title": "Les quatre à sa poursuite",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  },
+  {
+   "number": 20,
+   "title": "Accords parfaits",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-25T01:34:54Z"
+  }
+ ]
 }

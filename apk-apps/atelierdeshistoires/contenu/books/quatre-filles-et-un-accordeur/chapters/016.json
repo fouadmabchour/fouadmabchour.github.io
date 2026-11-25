@@ -1,0 +1,383 @@
+{
+ "number": 16,
+ "title": "Le club des quatre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elles roulèrent jusqu'à Marseille dans la voiture de Léa, une berline allemande grise qui n'avait jamais transporté autre chose que des dossiers et qui, ce soir-là, transporta quatre robes de couleur, une paire de chaussures en moins, et un silence de cathédrale."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne parla pendant trente kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "À l'entrée de Marseille, au premier feu rouge, Maëlle dit :"
+  },
+  {
+   "type": "text",
+   "value": "— Le bateau."
+  },
+  {
+   "type": "text",
+   "value": "Les trois autres la regardèrent."
+  },
+  {
+   "type": "text",
+   "value": "— On va sur le bateau, dit Maëlle. Personne ne viendra nous chercher là-bas. Et s'il vient, je largue les amarres."
+  },
+  {
+   "type": "text",
+   "value": "À minuit, elles étaient toutes les quatre sur le pont du *Gwenn-Ha-Du*, amarré au ponton 4 du Vieux-Port, dans la nuit chaude, sous les étoiles, avec les lumières de la ville qui tremblaient sur l'eau noire."
+  },
+  {
+   "type": "text",
+   "value": "Maëlle sortit toutes les bouteilles qu'elle avait à bord : du cidre, du chouchen, une bouteille de rhum à moitié vide, et une vieille bouteille de whisky breton que son grand-père gardait « pour les naufrages »."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un naufrage, dit-elle en la débouchant."
+  },
+  {
+   "type": "text",
+   "value": "Elles burent."
+  },
+  {
+   "type": "text",
+   "value": "Pendant la première heure, elles pleurèrent. Chacune à son tour, puis toutes ensemble. Léa pleurait sans bruit, très droite, avec des larmes qui coulaient toutes seules comme d'un robinet qu'elle avait oublié de fermer. Maëlle pleurait en jurant en breton. Jade pleurait en colère, en tapant sur le bastingage. Rosalie pleurait comme une actrice de tragédie italienne, à grands sanglots, la tête renversée, et au bout d'un moment les trois autres la regardèrent pleurer comme ça et elles ne purent pas s'empêcher de rire."
+  },
+  {
+   "type": "text",
+   "value": "— Arrête, dit Jade. Arrête, Rosalie, on dirait un opéra."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un opéra ! sanglota Rosalie. C'est *La Traviata* ! C'est *Madame Butterfly* ! Il nous a trahies !"
+  },
+  {
+   "type": "text",
+   "value": "— Il t'a trahie toi aussi, dit Léa. Mais toi, tu le savais."
+  },
+  {
+   "type": "text",
+   "value": "Le rire s'arrêta. Rosalie s'essuya les yeux avec la manche de sa robe verte."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit-elle. Je le savais. Depuis la photo. Ta photo, Léa. Du lit. J'ai reconnu son sourcil."
+  },
+  {
+   "type": "text",
+   "value": "Elle leur raconta tout. La photo, la veuve sicilienne, le théâtre vide, les quatre doigts levés. Le pacte. Les trois semaines. Elle leur raconta pourquoi elle n'avait rien dit : parce qu'elle avait eu peur de les perdre. Parce qu'elle ne voulait pas être celle qui leur brise le cœur. Parce qu'elle pensait qu'il le ferait lui-même, et qu'elle serait là pour les ramasser."
+  },
+  {
+   "type": "text",
+   "value": "Quand elle eut fini, personne ne dit rien pendant un long moment. Le bateau se balançait doucement. Une mouette cria dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Jade qui parla."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as été bête, dit-elle. Vraiment bête."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Mais moi aussi, j'ai attendu une semaine. Avec le contrat dans le pull. Je n'ai rien dit non plus. Je voulais une preuve."
+  },
+  {
+   "type": "text",
+   "value": "Elle haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— On a toutes été bêtes. Pas autant que lui. Mais bêtes."
+  },
+  {
+   "type": "text",
+   "value": "Léa tendit la main et prit celle de Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as fait attendre une heure dans mon cabinet un dimanche, dit Léa. Avec ta veuve."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon."
+  },
+  {
+   "type": "text",
+   "value": "— Elle était très bien jouée. Le perroquet surtout. Je l'ai crue."
+  },
+  {
+   "type": "text",
+   "value": "Rosalie eut un petit rire mouillé."
+  },
+  {
+   "type": "text",
+   "value": "— C'est mon métier."
+  },
+  {
+   "type": "text",
+   "value": "Vers deux heures, elles cessèrent de pleurer et commencèrent à comprendre."
+  },
+  {
+   "type": "text",
+   "value": "C'était Léa, évidemment, qui avait voulu comprendre. Elle avait sorti un carnet et un stylo de sa pochette — elle avait toujours un carnet et un stylo, même dans une pochette de soirée — et elle avait proposé de « reconstituer la chronologie ». Les trois autres avaient protesté. Puis elles avaient accepté, parce qu'il était deux heures du matin, qu'elles étaient ivres et que tout valait mieux que de penser."
+  },
+  {
+   "type": "text",
+   "value": "Léa dessina quatre colonnes sur une page. Une par femme."
+  },
+  {
+   "type": "text",
+   "value": "— Lundi 30 juin, dit-elle. Il accorde mon piano."
+  },
+  {
+   "type": "text",
+   "value": "— Mardi 1ᵉʳ juillet, dit Maëlle. Il tombe de mon bateau."
+  },
+  {
+   "type": "text",
+   "value": "— Mardi 1ᵉʳ juillet aussi, dit Léa en relisant. Le matin, il m'embrasse contre le Steinway."
+  },
+  {
+   "type": "text",
+   "value": "— Le même jour ? dit Maëlle. Le matin toi, et le soir moi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Et le lendemain, mercredi, il vient au restaurant, dit Jade. Il reste jusqu'à minuit. Jusqu'à l'huissier."
+  },
+  {
+   "type": "text",
+   "value": "— Jeudi soir, il dîne avec moi, dit Léa."
+  },
+  {
+   "type": "text",
+   "value": "— Et jeudi et vendredi, dans la journée, il est sur mon Pleyel, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "— Et samedi, dit Rosalie tout bas, il vient dans mon théâtre. Pour un piano qui n'existe pas."
+  },
+  {
+   "type": "text",
+   "value": "Elles regardèrent le carnet. Les quatre colonnes, remplies de dates, de flèches et d'heures. C'était presque exactement le tableau blanc de Kader. Elles ne le savaient pas."
+  },
+  {
+   "type": "text",
+   "value": "— En une semaine, dit Léa. Les quatre. En une semaine."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un athlète, dit Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "Elles éclatèrent de rire. Elles ne savaient plus pourquoi elles riaient. Elles riaient parce qu'il était deux heures du matin, parce qu'elles avaient bu du whisky de naufrage, parce que la situation était tellement absurde qu'elle en devenait comique. Elles riaient de lui, de sa toque, de ses chutes du bateau, de sa pâte à choux plate, de son briquet vert pomme. Elles riaient d'elles-mêmes, de leurs aveuglements, des quarante-trois accordeurs du département."
+  },
+  {
+   "type": "text",
+   "value": "Puis, peu à peu, elles riaient d'autre chose."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te souviens du premier cours ? dit Rosalie. Quand Paco nous a mises ensemble au fond de la salle ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai détestée, dit Léa. Tu parlais trop fort."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai détestée aussi. Tu avais l'air de juger tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "— Je jugeais tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "— Et moi, dit Maëlle, je vous ai marché sur les pieds toutes les trois."
+  },
+  {
+   "type": "text",
+   "value": "— Pieds nus, dit Jade. Dans une salle de danse. J'ai cru que tu étais une hippie."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis une hippie !"
+  },
+  {
+   "type": "text",
+   "value": "Elles se souvinrent de tout. Les mojitos sous le figuier. Le critique du *Guide*. L'audition de Rosalie. Le CDI de Maëlle. Le morceau de Léa. Les messages à deux heures du matin. Un mois et demi de messages, de rires, de robes prêtées."
+  },
+  {
+   "type": "text",
+   "value": "Et en se souvenant, elles comprirent une chose que ni l'une ni l'autre n'aurait osé dire seule."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Maëlle qui la dit. Parce que Maëlle disait toujours tout."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas envie de vous perdre, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait les genoux sous le menton, la chaîne de coquillages à la cheville, la robe jaune froissée, les yeux encore rouges."
+  },
+  {
+   "type": "text",
+   "value": "— Lui, je ne sais pas. Je ne sais plus. Je suis tellement en colère que j'ai envie de le noyer dans le port. Mais vous… Vous, je ne veux pas. Je ne veux pas qu'il nous ait fait ça, en plus. Qu'il nous ait prises toutes les quatre et qu'en plus il nous sépare."
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "Léa referma son carnet."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit-elle. Vous êtes les premières amies que j'aie jamais eues. Je ne vous rendrai pas. Pas à cause d'un accordeur qui ne sait pas choisir."
+  },
+  {
+   "type": "text",
+   "value": "Elles se regardèrent."
+  },
+  {
+   "type": "text",
+   "value": "Il était trois heures du matin. Le port était silencieux. Quelque part en ville, une sirène, très loin, puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Elles se prirent la main, comme la veille dans le lit de Léa, en cercle, sur le pont du *Gwenn-Ha-Du*."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "Le club des quatre"
+  },
+  {
+   "type": "text",
+   "value": "À trois rues de là, dans sa chambre du Panier, Sacha était assis sur son lit, le costume taché de crème et de caramel, une fleur en sucre écrasée dans la poche."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas allumé la lumière. Il regardait le tableau blanc au mur. Les quatre colonnes. Bleu, jaune, rouge, vert."
+  },
+  {
+   "type": "text",
+   "value": "Il prit l'éponge. Il effaça tout. Lentement. Colonne par colonne. Il ne resta sur le tableau que le mot *DEMAIN*, en bas, en capitales, souligné trois fois, que Kader avait écrit au feutre indélébile pour qu'il ne puisse jamais l'effacer."
+  },
+  {
+   "type": "text",
+   "value": "Le lendemain, il avait trois rendez-vous. Un piano à Saint-Barnabé, un à la Joliette, un dans une école de musique d'Aix."
+  },
+  {
+   "type": "text",
+   "value": "Il n'alla à aucun."
+  },
+  {
+   "type": "text",
+   "value": "Il n'ouvrit plus sa trousse. Il ne répondit plus au téléphone. Mamie Odile lui monta des plateaux qu'il ne toucha pas. Kader vint frapper à sa porte, qu'il n'ouvrit pas. Pour la première fois depuis qu'il avait six ans, Sacha Delorme passa une semaine entière sans toucher un seul piano."
+  },
+  {
+   "type": "text",
+   "value": "Le dimanche suivant, il était midi, et les Accordées étaient de nouveau sur le pont du *Gwenn-Ha-Du*."
+  },
+  {
+   "type": "text",
+   "value": "Elles avaient dormi. Elles avaient mangé. Elles avaient eu le temps d'être en colère, triste, et de nouveau en colère, chacune de son côté, pendant une semaine. Elles avaient parlé tous les soirs dans le groupe. Elles avaient pris une décision."
+  },
+  {
+   "type": "text",
+   "value": "Léa avait apporté une bouteille de champagne et un document imprimé, relié, avec une couverture transparente."
+  },
+  {
+   "type": "text",
+   "value": "Elle le posa au milieu du pont, entre les quatre."
+  },
+  {
+   "type": "text",
+   "value": "Sur la couverture, en gros caractères, elle avait écrit :"
+  },
+  {
+   "type": "text",
+   "value": "*OPÉRATION ACCORD FINAL*"
+  },
+  {
+   "type": "text",
+   "value": "*Plan de vengeance en quatre mouvements*"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai mis des articles, dit Léa. Comme pour un contrat."
+  },
+  {
+   "type": "text",
+   "value": "Jade le feuilleta. Elle sourit. Un sourire de piment."
+  },
+  {
+   "type": "text",
+   "value": "— Article 1, lut-elle à voix haute. *Chacune des Parties séduira de nouveau le Défendeur, séparément, selon sa méthode propre.*"
+  },
+  {
+   "type": "text",
+   "value": "— Article 2, lut Maëlle par-dessus son épaule. *Chacune des Parties obtiendra du Défendeur une déclaration d'amour sincère et circonstanciée.*"
+  },
+  {
+   "type": "text",
+   "value": "— Article 3, lut Rosalie, de sa voix de présentatrice de télévision. *À l'heure convenue, soit le samedi 30 août à dix-huit heures précises, les quatre Parties quitteront le Défendeur. Simultanément. Par écrit. Sans appel.*"
+  },
+  {
+   "type": "text",
+   "value": "Elles se regardèrent."
+  },
+  {
+   "type": "text",
+   "value": "— Article 4, dit Léa, qui le connaissait par cœur. *Les Parties conviennent qu'il ne leur restera plus, ensuite, qu'à danser la salsa le jeudi soir, et que c'est très bien comme ça.*"
+  },
+  {
+   "type": "text",
+   "value": "Elles levèrent leurs verres."
+  },
+  {
+   "type": "text",
+   "value": "— À l'Opération Accord Final, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "— Au Défendeur, dit Maëlle. Qu'il souffre."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'il souffre beaucoup, dit Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'il souffre précisément, corrigea Léa, à dix-huit heures."
+  },
+  {
+   "type": "text",
+   "value": "Les verres se touchèrent au-dessus du plan de vengeance, sous le soleil de midi, au milieu du Vieux-Port."
+  }
+ ]
+}

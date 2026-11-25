@@ -1,0 +1,384 @@
+{
+ "number": 3,
+ "title": "Pleyel et piment",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le téléphone ne survécut pas. Kader le déclara mort à neuf heures du matin, après l'avoir laissé une nuit entière dans un sac de riz."
+  },
+  {
+   "type": "text",
+   "value": "— Mort, dit-il. Noyé. Paix à son âme. Qu'est-ce que tu foutais dans la mer, sérieusement ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis tombé d'un bateau."
+  },
+  {
+   "type": "text",
+   "value": "— Avec l'avocate ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Avec la Bretonne."
+  },
+  {
+   "type": "text",
+   "value": "Kader posa le téléphone mort sur l'établi, très lentement, et regarda Sacha comme on regarde un homme qui vient d'annoncer qu'il a repeint sa Vespa en rose."
+  },
+  {
+   "type": "text",
+   "value": "— La Bretonne, répéta-t-il. Il y a une Bretonne."
+  },
+  {
+   "type": "text",
+   "value": "— C'est compliqué."
+  },
+  {
+   "type": "text",
+   "value": "— Mon frère, on est mercredi. Lundi, tu avais une avocate. Mardi, une Bretonne. Ce n'est pas compliqué. C'est un calendrier."
+  },
+  {
+   "type": "text",
+   "value": "Sacha acheta un téléphone d'occasion dans une boutique de la rue d'Aubagne et récupéra ses messages. Il y en avait un de Léa — *Dîner demain ? Je réserve. Ne négocie pas.* — et il lui répondit qu'il était désolé, qu'il avait noyé son téléphone, et qu'il acceptait le dîner sans négocier. La réponse arriva aussitôt : *Jeudi 20 h 30. Tenue correcte. Et explique-moi comment on noie un téléphone.* Il ne lui expliqua pas."
+  },
+  {
+   "type": "text",
+   "value": "Il y en avait un autre, aussi, d'un numéro qu'il ne connaissait pas. Un client."
+  },
+  {
+   "type": "text",
+   "value": "*Urgent. Piano à accorder AUJOURD'HUI. Restaurant Le Piment Rose, rue du Panier. Soirée très importante samedi. Je paie le double si vous venez avant 15 h. Demandez la cheffe. Ne soyez pas en retard, je déteste les gens en retard.*"
+  },
+  {
+   "type": "text",
+   "value": "Sacha regarda l'heure. Quatorze heures cinquante."
+  },
+  {
+   "type": "text",
+   "value": "Le Panier, c'était chez lui. Il y fut en sept minutes."
+  },
+  {
+   "type": "text",
+   "value": "Le Piment Rose était coincé entre une boutique de savons et un atelier de céramique, dans une ruelle si étroite qu'on pouvait toucher les deux murs en écartant les bras. Une façade peinte en rose vif, des volets verts, et dans la vitrine une montagne de choux à la crème, de tartelettes au citron et de petits gâteaux verts au pandan qui brillaient comme des bijoux."
+  },
+  {
+   "type": "text",
+   "value": "La porte était ouverte. De l'intérieur sortaient une odeur de caramel et de citronnelle, une chaleur de four et une voix."
+  },
+  {
+   "type": "text",
+   "value": "— … et si tu me ramènes encore une fois des œufs de supermarché, Mehdi, je te jure sur la tête de ma grand-mère que je te les fais manger avec la coquille ! Des œufs de PLEIN AIR ! Tu sais ce que c'est, l'air ? C'est ce que tu respires, là, avant que je te tue !"
+  },
+  {
+   "type": "text",
+   "value": "Un jeune commis en tablier sortit en courant, croisa Sacha sans le voir, et disparut au coin de la rue."
+  },
+  {
+   "type": "text",
+   "value": "Sacha entra."
+  },
+  {
+   "type": "text",
+   "value": "La salle était petite, une dizaine de tables en marbre, des murs couverts de vieilles affiches de films hongkongais et de photos de famille. Au fond, dans un coin, sous un drap blanc, la forme d'un piano droit."
+  },
+  {
+   "type": "text",
+   "value": "Derrière le comptoir, une femme le regardait."
+  },
+  {
+   "type": "text",
+   "value": "Elle était petite. C'était la première chose. Et ensuite on oubliait qu'elle était petite, parce qu'elle prenait toute la place. Des cheveux noirs brillants relevés en un chignon haut et désordonné, piqué d'une baguette en bois. Des yeux en amande, noirs, soulignés d'un trait d'eye-liner qui remontait vers les tempes comme deux lames. Un petit grain de beauté juste au-dessus de la lèvre. Une veste de cheffe noire aux manches retroussées, et autour du cou un bandana rouge cerise."
+  },
+  {
+   "type": "text",
+   "value": "Elle tenait une poche à douille comme un pistolet."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "La cheffe"
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes l'accordeur."
+  },
+  {
+   "type": "text",
+   "value": "— Sacha Delorme. Il est quatorze heures cinquante-neuf. Je suis à l'heure."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda l'horloge au-dessus de la porte. Elle eut l'air presque déçue de ne pas pouvoir crier."
+  },
+  {
+   "type": "text",
+   "value": "— Jade Nguyen. C'est mon restaurant. Le piano est là-bas. C'était celui de mon père. Il est mort, le piano. Mon père aussi, mais lui il ne m'a pas demandé de le ressusciter."
+  },
+  {
+   "type": "text",
+   "value": "Elle alla au fond de la salle et retira le drap d'un geste sec, comme un magicien."
+  },
+  {
+   "type": "text",
+   "value": "C'était un Pleyel droit des années vingt, en bois de rose, avec des chandeliers de cuivre sur la façade et des touches d'ivoire jaunies. Il était magnifique. Il était aussi dans un état épouvantable."
+  },
+  {
+   "type": "text",
+   "value": "Sacha souleva le couvercle et joua un accord. Le son qui sortit ressemblait à un chat qu'on aurait coincé dans une porte."
+  },
+  {
+   "type": "text",
+   "value": "— Ah oui, dit-il. Il est très mort."
+  },
+  {
+   "type": "text",
+   "value": "— Samedi, j'ai une soirée, dit Jade. Une soirée très importante. Si elle se passe mal, je ferme. Si elle se passe bien, je ne ferme peut-être pas. Il y aura un critique gastronomique, des gens qui ont de l'argent, et un pianiste. Le pianiste a besoin d'un piano. Vous voyez où je veux en venir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vous voulez que le piano soit juste samedi."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux que le piano soit PARFAIT samedi."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va prendre du temps. Il faudra changer des cordes, refaire des feutres, peut-être reprendre la mécanique."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ?"
+  },
+  {
+   "type": "text",
+   "value": "— Trois jours. Peut-être quatre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous en avez deux et demi."
+  },
+  {
+   "type": "text",
+   "value": "Sacha sourit. Décidément, cette semaine, toutes les femmes de Marseille lui donnaient moins de temps qu'il n'en demandait."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais faire ce que je peux."
+  },
+  {
+   "type": "text",
+   "value": "— Faites mieux que ça, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "Et elle repartit dans sa cuisine."
+  },
+  {
+   "type": "text",
+   "value": "Il travailla tout l'après-midi. La cuisine était séparée de la salle par un passe-plat, et par ce passe-plat il entendait tout : les casseroles, les commandes, les colères de Jade, qui éclataient toutes les dix minutes comme des orages d'été. Elle insultait les fournisseurs en français, les fours en vietnamien, et elle-même dans les deux langues, et Sacha s'aperçut au bout d'une heure qu'il réglait ses cordes au rythme de ses colères."
+  },
+  {
+   "type": "text",
+   "value": "Vers dix-sept heures, elle apparut au passe-plat et posa devant lui, sans un mot, une assiette."
+  },
+  {
+   "type": "text",
+   "value": "Un petit gâteau. Une sphère blanche, brillante, avec une goutte de coulis rouge dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Mangez, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que c'est ?"
+  },
+  {
+   "type": "text",
+   "value": "— Mangez, et je vous dirai."
+  },
+  {
+   "type": "text",
+   "value": "Il mangea. C'était froid, puis brûlant. Une mousse de coco, et au milieu un cœur de mangue au piment. Le piment arrivait trois secondes après, comme un rire qui éclate au mauvais moment."
+  },
+  {
+   "type": "text",
+   "value": "Il toussa. Il eut les larmes aux yeux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est… c'est incroyable."
+  },
+  {
+   "type": "text",
+   "value": "Jade le regarda tousser avec une satisfaction évidente."
+  },
+  {
+   "type": "text",
+   "value": "— Ça s'appelle *Colère*, dit-elle. C'est mon dessert préféré."
+  },
+  {
+   "type": "text",
+   "value": "— Ça vous ressemble."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elle repartit. Vingt minutes plus tard, une autre assiette arriva : un flan au caramel salé, tremblant, parfait. Puis un éclair à la pistache. Puis un petit verre de thé glacé à la citronnelle. Elle ne disait jamais rien. Elle posait l'assiette et elle repartait."
+  },
+  {
+   "type": "text",
+   "value": "Il comprit vers vingt heures. Jade Nguyen ne disait pas merci. Jade Nguyen ne disait pas *vous me plaisez*. Elle disait tout ça avec du sucre."
+  },
+  {
+   "type": "text",
+   "value": "Le restaurant ferma à vingt-trois heures. Le dernier client partit, les commis aussi. Sacha était toujours au fond de la salle, couché sur le dos sous le clavier du Pleyel, une lampe frontale sur le front, en train de démonter la mécanique."
+  },
+  {
+   "type": "text",
+   "value": "Jade s'assit sur une chaise à côté de lui. Elle avait enlevé sa veste de cheffe. Elle était en débardeur noir, les épaules luisantes de chaleur, la baguette toujours plantée dans son chignon."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne rentrez pas ? dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous m'avez donné deux jours et demi. Il m'en reste deux. Je travaille."
+  },
+  {
+   "type": "text",
+   "value": "— Les gens ne travaillent pas comme ça. Pas pour moi."
+  },
+  {
+   "type": "text",
+   "value": "— Pour qui, alors ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Pour l'argent. Pour se faire bien voir. Pour me piquer quelque chose. Mon ancien associé travaillait comme ça, la nuit. Il disait que c'était pour le restaurant. En fait, il vidait le compte."
+  },
+  {
+   "type": "text",
+   "value": "Sacha sortit de sous le piano. Il resta assis par terre, la lampe frontale de travers."
+  },
+  {
+   "type": "text",
+   "value": "— Votre ancien associé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Et ancien fiancé. Vincent. Deux pour le prix d'un. Il est parti avec l'argent et une sommelière. Et il a laissé les dettes. C'est pour ça que samedi est important."
+  },
+  {
+   "type": "text",
+   "value": "Elle dit ça vite, comme elle disait tout, mais sa voix se cassa sur le mot *dettes*, et elle se leva aussitôt pour que ça ne se voie pas."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez faim ? dit-elle. Je fais à manger."
+  },
+  {
+   "type": "text",
+   "value": "— Il est minuit."
+  },
+  {
+   "type": "text",
+   "value": "— Un cuisinier, ça mange à minuit."
+  },
+  {
+   "type": "text",
+   "value": "Il la suivit dans la cuisine."
+  },
+  {
+   "type": "text",
+   "value": "C'était un espace étroit et brûlant, tout en inox, éclairé par des néons, avec des casseroles pendues au plafond et une odeur de beurre noisette. Elle fit sauter des nouilles au wok avec une rapidité de jongleuse, des herbes, du citron vert, des cacahuètes, et elle lui tendit une baguette pour goûter directement dans la poêle."
+  },
+  {
+   "type": "text",
+   "value": "Il goûta. Ses yeux se remplirent de larmes. Encore du piment."
+  },
+  {
+   "type": "text",
+   "value": "— Vous essayez de me tuer, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Si j'essayais de vous tuer, vous seriez mort."
+  },
+  {
+   "type": "text",
+   "value": "Elle riait. C'était un rire bref et rauque. Elle avait de la farine sur la joue. Il tendit la main sans réfléchir et la retira avec son pouce."
+  },
+  {
+   "type": "text",
+   "value": "Elle arrêta de rire."
+  },
+  {
+   "type": "text",
+   "value": "Il faisait quarante degrés dans la cuisine. Elle le regardait de ses yeux en amande, sans bouger, et il voyait battre une veine dans son cou, au-dessus du bandana rouge. Personne ne dit rien. Le wok grésillait encore sur le feu éteint."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut elle qui bougea. Évidemment. Elle l'attrapa par le col de sa chemise en jean, comme on attrape un voleur, et elle le poussa en arrière. Il recula, recula encore, jusqu'à sentir dans son dos la porte en métal glacé de la chambre froide."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous préviens, dit Jade, très bas, à deux centimètres de sa bouche. Je suis une catastrophe. Je crie. Je casse des choses. Je ne fais confiance à personne."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Sacha. J'ai goûté *Colère*."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit. Elle se hissa sur la pointe des pieds."
+  },
+  {
+   "type": "text",
+   "value": "Et on frappa à la porte du restaurant."
+  },
+  {
+   "type": "text",
+   "value": "Trois coups. Forts. Officiels."
+  },
+  {
+   "type": "text",
+   "value": "Jade se figea. Elle tourna la tête vers la salle. Par le passe-plat, on voyait la porte vitrée, et derrière la porte vitrée, éclairés par le réverbère, deux hommes."
+  },
+  {
+   "type": "text",
+   "value": "L'un était un homme en costume gris, avec une serviette en cuir et une tête de quelqu'un qui n'aime pas son métier à minuit."
+  },
+  {
+   "type": "text",
+   "value": "L'autre était grand, bronzé, chemise blanche ouverte, lunettes de soleil sur la tête en pleine nuit, et il souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Vincent, souffla Jade."
+  },
+  {
+   "type": "text",
+   "value": "L'homme en costume colla une carte contre la vitre. Sacha plissa les yeux pour lire."
+  },
+  {
+   "type": "text",
+   "value": "*Maître Bonnefoy. Commissaire de justice.*"
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Minuit, rue du Panier"
+  }
+ ]
+}

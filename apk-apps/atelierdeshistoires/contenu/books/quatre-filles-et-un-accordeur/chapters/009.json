@@ -1,0 +1,332 @@
+{
+ "number": 9,
+ "title": "Le mec de Jade",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Ton mec ? dit Maëlle. Le pianiste ? Celui avec la toque ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi il porte une toque ? demanda Léa."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas, dit Jade en riant à travers ses larmes. Il a eu chaud. Il a disparu dans la chambre froide au milieu de la soirée, puis il est revenu avec une toque. Il est bizarre. C'est ce que j'aime chez lui."
+  },
+  {
+   "type": "text",
+   "value": "— Présente-le-nous ! dit Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "Elle était déjà debout, son tablier noué de travers, son verre de champagne à la main. Elle fit trois pas vers le piano."
+  },
+  {
+   "type": "text",
+   "value": "Le piano était vide."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "Le tabouret vide"
+  },
+  {
+   "type": "text",
+   "value": "Sur le tabouret, la toque de commis, posée bien droite. Sur le pupitre, une feuille de papier pliée en deux. Les bougies des chandeliers vacillaient encore, dans le courant d'air d'une porte de service qui venait de se refermer."
+  },
+  {
+   "type": "text",
+   "value": "Rosalie déplia la feuille."
+  },
+  {
+   "type": "text",
+   "value": "*Bravo Jade. Tu es la meilleure. Je suis épuisé, je rentre. Je t'appelle demain. S.*"
+  },
+  {
+   "type": "text",
+   "value": "— Il est parti, dit Rosalie, déçue."
+  },
+  {
+   "type": "text",
+   "value": "— Il fait toujours ça, dit Jade en haussant les épaules. Il disparaît. Il est timide."
+  },
+  {
+   "type": "text",
+   "value": "— Timide, répéta Léa, en regardant la toque sur le tabouret. Un pianiste timide qui joue devant quarante personnes."
+  },
+  {
+   "type": "text",
+   "value": "— Il était de dos tout le temps, dit Maëlle. Je ne l'ai même pas vu."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je l'ai vu un peu, dit Léa lentement. De profil. Quand il est revenu avec son plateau."
+  },
+  {
+   "type": "text",
+   "value": "Elle fronça les sourcils. Elle avait l'air de relire un document où quelque chose ne collait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il ressemble un peu au mien, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Rosalie éclata de rire."
+  },
+  {
+   "type": "text",
+   "value": "— Les quarante-trois accordeurs bouclés du département ! Ils sont tous là ce soir !"
+  },
+  {
+   "type": "text",
+   "value": "Maëlle rit aussi. Jade, qui n'avait pas entendu, était repartie en cuisine chercher le reste de la charlotte."
+  },
+  {
+   "type": "text",
+   "value": "Léa ne rit pas tout à fait. Elle regarda la toque encore un moment. Puis elle secoua la tête, but une gorgée de champagne, et passa à autre chose."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était qu'une impression."
+  },
+  {
+   "type": "text",
+   "value": "Elle était fatiguée. Elle avait passé huit heures dans un séminaire sur la fiscalité des holdings."
+  },
+  {
+   "type": "text",
+   "value": "Sacha était dans la ruelle derrière le restaurant, adossé contre un mur, au milieu des poubelles et des cageots de mangues vides, et il respirait comme un homme qui a couru un marathon."
+  },
+  {
+   "type": "text",
+   "value": "Il avait la chemise trempée. Les mains qui tremblaient. Et au fond de la poitrine, quelque chose qui ressemblait à de la joie, mêlée à quelque chose qui ressemblait à de la terreur, si bien mêlées qu'il n'aurait pas su dire où commençait l'une et où finissait l'autre."
+  },
+  {
+   "type": "text",
+   "value": "Elles étaient amies."
+  },
+  {
+   "type": "text",
+   "value": "Toutes les quatre."
+  },
+  {
+   "type": "text",
+   "value": "Il les avait vues. Il les avait vues tomber dans les bras les unes des autres, pleurer ensemble, rire ensemble. Il avait vu Léa, qui ne touchait jamais personne, tenir Jade par les épaules. Il avait vu Maëlle et Rosalie danser au milieu des tables. Elles n'étaient pas des inconnues qui s'étaient croisées par hasard dans un restaurant. Elles se connaissaient. Elles se connaissaient bien."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit son téléphone. Ses mains tremblaient tellement qu'il dut s'y reprendre trois fois pour taper le message."
+  },
+  {
+   "type": "text",
+   "value": "*Kader. Elles se connaissent.*"
+  },
+  {
+   "type": "text",
+   "value": "La réponse arriva tout de suite. Kader ne dormait jamais le samedi."
+  },
+  {
+   "type": "text",
+   "value": "*Qui ?*"
+  },
+  {
+   "type": "text",
+   "value": "*Elles. Les quatre. Elles sont AMIES. Elles se sont embrassées au milieu du restaurant.*"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un long silence. Les trois petits points apparurent, disparurent, réapparurent."
+  },
+  {
+   "type": "text",
+   "value": "*Mon frère. Je viens te chercher. Ne bouge pas. Et surtout ne parle à personne.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne dormit pas cette nuit-là. Il resta assis sur le toit-terrasse de la maison du Panier, au-dessus de la chambre de Mamie Odile, à regarder les lumières de la ville et le phare du Frioul, et il prit la seule décision qu'il aurait dû prendre un mois plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "Il allait leur dire."
+  },
+  {
+   "type": "text",
+   "value": "À chacune. Une par une. En face. Avant le mariage de Clémence. Avant que tout explose tout seul. Il allait leur dire la vérité, toute la vérité, et elles allaient le détester, et elles auraient raison."
+  },
+  {
+   "type": "text",
+   "value": "Il commencerait par Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "Parce que Maëlle était la plus franche. Parce qu'elle lui avait dit le premier jour, sur le pont de son bateau, qu'elle n'aimait pas les malentendus. Parce qu'elle repartait en Bretagne fin août, et qu'avec un peu de chance, avec beaucoup de chance, la vérité lui ferait moins mal qu'aux autres."
+  },
+  {
+   "type": "text",
+   "value": "Il savait que ce n'était pas vrai. Il le pensa quand même."
+  },
+  {
+   "type": "text",
+   "value": "Le dimanche soir, Maëlle l'attendait sur le *Gwenn-Ha-Du*."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait installé sur le pont, entre le mât et la barre, deux coussins, une couverture, une bouteille de cidre breton et deux galettes au sarrasin qu'elle avait faites elle-même dans sa minuscule cuisine de bateau, sur un réchaud à gaz."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai attendu hier, dit-elle en l'embrassant sur le ponton. J'étais à une soirée géniale. Le restaurant d'une copine. Il y avait un pianiste incroyable. Tu aurais adoré. Tu aurais pu lui donner des conseils."
+  },
+  {
+   "type": "text",
+   "value": "— Ah oui ? dit Sacha."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait même plus quelle tête il faisait."
+  },
+  {
+   "type": "text",
+   "value": "— Oui. Il portait une toque de cuisinier. Je n'ai jamais su pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Elle largua les amarres. Ils sortirent du port au moteur, doucement, puis à la voile, dans un petit vent tiède qui sentait l'iode et le pin. Elle mit le cap sur la calanque de Morgiou. Le soleil commençait à descendre. Tout devenait doré, comme le premier soir."
+  },
+  {
+   "type": "text",
+   "value": "Elle mouilla l'ancre dans la calanque, entre les grandes falaises blanches qui devenaient roses. Il n'y avait personne. Juste des mouettes, et le bruit de l'eau contre la coque."
+  },
+  {
+   "type": "text",
+   "value": "Ils mangèrent les galettes. Ils burent le cidre. Il cherchait ses mots. Il les cherchait depuis le matin, depuis la nuit, depuis le toit-terrasse. Il les avait répétés à Mistinguett, qui n'avait rien dit."
+  },
+  {
+   "type": "text",
+   "value": "*Maëlle, il faut que je te dise quelque chose.*"
+  },
+  {
+   "type": "text",
+   "value": "*Maëlle, je ne suis pas celui que tu crois.*"
+  },
+  {
+   "type": "text",
+   "value": "*Maëlle, je suis un salaud.*"
+  },
+  {
+   "type": "text",
+   "value": "Aucune phrase n'était la bonne. Mais il fallait en dire une. N'importe laquelle. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Maëlle, dit-il. Il faut que je te dise quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa son verre de cidre. Elle le regarda. Elle avait les joues roses, de soleil ou d'autre chose, et ses yeux de marée basse brillaient d'une façon qu'il ne leur connaissait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Moi aussi, dit-elle. Moi d'abord. Parce que si tu parles d'abord, je n'oserai plus."
+  },
+  {
+   "type": "text",
+   "value": "— Maëlle…"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Écoute."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit une grande inspiration, comme avant de plonger."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais ce que je t'ai dit le premier jour. Que je repartais à Brest fin août. Que je ne restais jamais nulle part. Que deux mois, c'était parfait."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Eh bien, c'était vrai. C'était vrai depuis toujours. J'ai vécu dans onze villes. J'ai eu quatre bateaux. Je pars toujours avant qu'on me quitte. C'est mon truc. Ma mère dit que je suis une mouette. Les mouettes ne font pas de nid. Elles se posent, elles mangent, elles s'en vont."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit, un peu nerveusement. Elle tripota la chaîne de coquillages à sa cheville."
+  },
+  {
+   "type": "text",
+   "value": "— Mais là… Le club de voile m'a proposé un contrat. Un vrai. Un CDI. Responsable de l'école de voile, à partir de septembre. Ici. À Marseille."
+  },
+  {
+   "type": "text",
+   "value": "Sacha ne dit rien. Il ne pouvait plus rien dire."
+  },
+  {
+   "type": "text",
+   "value": "— Et j'ai dit oui, continua Maëlle. Vendredi. J'ai signé. Je n'ai rien dit à personne, même pas à mes copines. Je voulais que tu sois le premier à le savoir."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda. Les falaises étaient rouges, maintenant, et le ciel violet. Sa voix trembla, très légèrement, pour la première fois depuis qu'il la connaissait."
+  },
+  {
+   "type": "text",
+   "value": "— Je reste, Sacha. Je reste à Marseille. Je jette l'ancre. Pour la première fois de ma vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui prit les deux mains."
+  },
+  {
+   "type": "text",
+   "value": "— Pour toi."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "Morgiou"
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la bouche."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda. Les cheveux pleins de sel. Le cidre, les galettes, les coussins qu'elle avait installés sur le pont. La chaîne de coquillages. Les yeux de marée basse pleins d'une chose qu'il n'avait jamais vue dedans : de la peur. La peur de quelqu'un qui vient de lâcher la barre pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Il referma la bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne dis rien, dit Maëlle. Pourquoi tu ne dis rien ?"
+  },
+  {
+   "type": "text",
+   "value": "Les mots étaient là, au fond de sa gorge. *Maëlle, il y en a trois autres.* Il les sentait comme on sent une arête de poisson. Il suffisait de les dire. Quatre mots. Il avait dit des choses plus difficiles. Non. Il n'avait jamais rien dit de plus difficile."
+  },
+  {
+   "type": "text",
+   "value": "— Sacha ? Qu'est-ce que tu voulais me dire, toi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il la prit dans ses bras. Il la serra très fort, pour qu'elle ne voie pas son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Rien, dit-il dans ses cheveux. Rien d'important. Je suis heureux. Je suis heureux que tu restes."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas un mensonge. C'était ça, le pire. C'était vrai."
+  }
+ ]
+}

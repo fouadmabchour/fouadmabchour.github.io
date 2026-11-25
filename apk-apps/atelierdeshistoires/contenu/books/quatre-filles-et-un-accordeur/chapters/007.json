@@ -1,0 +1,416 @@
+{
+ "number": 7,
+ "title": "Le déjeuner de Mamie Odile",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Comment tu les as invitées ? Tu n'as pas leurs numéros !"
+  },
+  {
+   "type": "text",
+   "value": "Mamie Odile beurrait une tartine avec une lenteur de chirurgien. Elle ne leva pas les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai mes méthodes."
+  },
+  {
+   "type": "text",
+   "value": "— Mamie !"
+  },
+  {
+   "type": "text",
+   "value": "— La comédienne, je l'avais, elle est venue m'apporter des croissants. Elle m'a laissé son numéro au cas où j'aurais « besoin d'une voix de canard pour un anniversaire ». Charmante petite. Les trois autres, je les ai trouvées dans ton téléphone pendant que tu prenais ta douche jeudi. Tu laisses toujours ton code à 1234. C'est la date de naissance de personne, mon chéri, c'est la paresse."
+  },
+  {
+   "type": "text",
+   "value": "Sacha s'assit lourdement sur la chaise de la cuisine."
+  },
+  {
+   "type": "text",
+   "value": "— Et qu'est-ce que tu leur as dit ?"
+  },
+  {
+   "type": "text",
+   "value": "— Que j'étais ta grand-mère. Que je faisais un aïoli. Que tu me parlais beaucoup d'elles et que j'avais envie de les connaître."
+  },
+  {
+   "type": "text",
+   "value": "— Et elles ont accepté ?"
+  },
+  {
+   "type": "text",
+   "value": "— Toutes les quatre. La blonde avocate m'a demandé s'il fallait apporter quelque chose. La Bretonne m'a demandé si elle pouvait venir pieds nus. La petite cheffe m'a dit qu'elle apporterait le dessert et qu'il était hors de question que je fasse le dessert. Et la comédienne m'a demandé si c'était un déguisement à thème."
+  },
+  {
+   "type": "text",
+   "value": "Mamie Odile reposa son couteau."
+  },
+  {
+   "type": "text",
+   "value": "— Elles sont formidables, Sacha. Vraiment. Je n'ai qu'une question."
+  },
+  {
+   "type": "text",
+   "value": "— Laquelle ?"
+  },
+  {
+   "type": "text",
+   "value": "— Laquelle tu vas épouser ?"
+  },
+  {
+   "type": "text",
+   "value": "Sacha posa le front sur la table de la cuisine."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais mourir, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Mais non. Tu vas déjeuner. Ce n'est pas pareil, même si les deux arrivent souvent ensemble dans cette famille."
+  },
+  {
+   "type": "text",
+   "value": "Il lui restait six jours."
+  },
+  {
+   "type": "text",
+   "value": "Il passa le lundi à essayer de convaincre Mamie Odile d'annuler. Elle refusa. Elle avait déjà acheté la morue."
+  },
+  {
+   "type": "text",
+   "value": "Il passa le mardi à essayer de trouver une solution avec Kader. Kader proposa de provoquer une fuite de gaz dans l'immeuble. Sacha refusa. Kader proposa un faux incendie. Sacha refusa. Kader proposa de kidnapper Mamie Odile et de l'emmener à la Ciotat pour la journée. Sacha hésita trop longtemps, et Kader dit qu'il plaisantait, à moitié."
+  },
+  {
+   "type": "text",
+   "value": "Le mercredi, il comprit qu'il ne pouvait pas empêcher le déjeuner. Il pouvait seulement empêcher les invitées de venir."
+  },
+  {
+   "type": "text",
+   "value": "Il commença par Léa."
+  },
+  {
+   "type": "text",
+   "value": "— Dimanche ? dit-elle au téléphone. Oui, ta grand-mère m'a appelée. Elle est adorable. Elle m'a dit qu'elle faisait un aïoli. Je n'ai jamais mangé d'aïoli. Je suis de Marseille et je n'ai jamais mangé d'aïoli, c'est d'une tristesse."
+  },
+  {
+   "type": "text",
+   "value": "— Léa, dimanche, il y a… En fait, il y a un dossier. Pour toi. Enfin, je veux dire…"
+  },
+  {
+   "type": "text",
+   "value": "— Un dossier ?"
+  },
+  {
+   "type": "text",
+   "value": "Sacha ferma les yeux. Il ne savait pas mentir. C'était peut-être son seul vrai talent, avec les pianos : il ne savait absolument pas mentir. Alors il fit la seule chose qu'il savait faire. Il dit une vérité, une petite, qui en cachait une énorme."
+  },
+  {
+   "type": "text",
+   "value": "— Ma grand-mère a invité d'autres personnes. Des gens que tu ne connais pas. Je ne suis pas sûr que tu sois à l'aise."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis avocate, Sacha. Je mange tous les jours avec des gens que je ne connais pas et que je déteste. Une grand-mère et son aïoli, je pense que je survivrai."
+  },
+  {
+   "type": "text",
+   "value": "Il raccrocha. Échec."
+  },
+  {
+   "type": "text",
+   "value": "Il essaya Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "— Dimanche ? Génial ! J'adore les grands-mères ! Ma grand-mère à moi faisait le meilleur kouign-amann du Finistère ! Je vais apporter du cidre !"
+  },
+  {
+   "type": "text",
+   "value": "Échec."
+  },
+  {
+   "type": "text",
+   "value": "Il essaya Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai déjà mon costume, dit-elle. Je viens en Provençale de 1900. J'ai trouvé une coiffe en dentelle aux puces. Ta grand-mère va adorer."
+  },
+  {
+   "type": "text",
+   "value": "Échec."
+  },
+  {
+   "type": "text",
+   "value": "Il essaya Jade."
+  },
+  {
+   "type": "text",
+   "value": "— Mon dessert est déjà en cours, dit Jade. Une charlotte. Aux abricots du Roussillon et à la verveine. Ça me prend trois jours. Tu ne me fais pas ça, Sacha. Si tu annules, je te la fais manger par les oreilles."
+  },
+  {
+   "type": "text",
+   "value": "Échec total."
+  },
+  {
+   "type": "text",
+   "value": "Le jeudi, il ne restait qu'une solution. La pire. Celle de Kader."
+  },
+  {
+   "type": "text",
+   "value": "Le plan était simple, comme tous les mauvais plans."
+  },
+  {
+   "type": "text",
+   "value": "Il fallait que trois des quatre aient, au dernier moment, une raison impérieuse de ne pas venir. Kader appela ça « l'opération Aïoli ». Il l'écrivit sur le tableau blanc. Sacha l'effaça. Kader la réécrivit plus petit."
+  },
+  {
+   "type": "text",
+   "value": "Pour Léa, il fallait un dossier urgent. Sacha ne pouvait pas inventer un dossier d'avocat. Mais il connaissait quelqu'un qui pouvait inventer n'importe quoi."
+  },
+  {
+   "type": "text",
+   "value": "C'était la partie la plus atroce du plan. Il fallait demander à Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "— Tu veux que je fasse quoi ? dit Rosalie, assise en tailleur sur son lit au milieu des costumes, en mangeant des cerises."
+  },
+  {
+   "type": "text",
+   "value": "— Que tu appelles une amie à moi. Une avocate. Et que tu te fasses passer pour une cliente. Avec un problème urgent. Dimanche matin."
+  },
+  {
+   "type": "text",
+   "value": "Rosalie cracha un noyau de cerise par la fenêtre, très loin."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que… parce que ma grand-mère l'a invitée, et que l'avocate et ma grand-mère se sont disputées une fois. Pour une histoire de… de succession. C'est très tendu. Je veux éviter un drame."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas un mensonge. C'était une construction. Il s'entendit la construire, phrase après phrase, et il se dégoûta un peu. Rosalie le regarda longtemps avec ses yeux verts. Il crut qu'elle allait voir. Elle voyait toujours tout."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Une succession, dit-elle. J'adore. Je vais être une veuve sicilienne qui a découvert que son mari avait une deuxième famille à Toulon. Avec trois enfants. Et un perroquet."
+  },
+  {
+   "type": "text",
+   "value": "— Rosalie, ce n'est pas un rôle, c'est…"
+  },
+  {
+   "type": "text",
+   "value": "— Tout est un rôle, mon amour. Donne-moi son numéro."
+  },
+  {
+   "type": "text",
+   "value": "Elle le joua. Le samedi soir, elle appela Léa d'un numéro masqué, et pendant quarante minutes, une veuve sicilienne inconsolable raconta en sanglotant la double vie de son défunt mari, le testament, la villa à Toulon, le perroquet qui parlait l'italien et le provençal, et la nécessité absolue d'un rendez-vous dimanche à midi pile, parce que la deuxième famille venait lundi chercher les meubles."
+  },
+  {
+   "type": "text",
+   "value": "Léa accepta le rendez-vous. Rosalie raccrocha, ravie."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est bonne, ton amie avocate, dit-elle. Très professionnelle. Un peu froide. Mais elle a posé de très bonnes questions sur le perroquet."
+  },
+  {
+   "type": "text",
+   "value": "Sacha sourit. Il eut envie de vomir."
+  },
+  {
+   "type": "text",
+   "value": "Pour Maëlle, ce fut plus facile : le club de voile reçut un appel anonyme signalant un voilier en difficulté au large de Planier dimanche matin, et Maëlle, de garde, partit en mer. Il n'y avait pas de voilier en difficulté. Il y avait Kader, dans une cabine téléphonique de la gare Saint-Charles, avec un mouchoir sur le combiné."
+  },
+  {
+   "type": "text",
+   "value": "Pour Rosalie, ce fut la plus atroce de toutes les trahisons, parce qu'elle était la plus simple. Sacha lui dit que le déjeuner était annulé. Mamie Odile avait mal au dos. Rosalie lui envoya douze cœurs et une photo de sa coiffe de Provençale, avec le message : *La prochaine fois !*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne restait que Jade."
+  },
+  {
+   "type": "text",
+   "value": "Jade, il ne pouvait pas l'empêcher. Il le savait. Personne au monde ne pouvait empêcher Jade Nguyen d'apporter une charlotte aux abricots qu'elle avait mis trois jours à faire."
+  },
+  {
+   "type": "text",
+   "value": "Le dimanche, à midi, il y avait cinq couverts sur la table de Mamie Odile, sous la treille, dans la petite cour du Panier. Il n'y eut que trois convives."
+  },
+  {
+   "type": "text",
+   "value": "Mamie Odile, en robe à fleurs et collier de perles. Sacha, livide. Et Jade, qui arriva à midi pile, en robe rouge, les cheveux lâchés pour la première fois, longs et noirs jusqu'au milieu du dos, portant à deux mains une charlotte si belle qu'on aurait voulu l'encadrer."
+  },
+  {
+   "type": "text",
+   "value": "— Où sont les autres ? dit-elle. Votre grand-mère m'a dit qu'il y aurait du monde."
+  },
+  {
+   "type": "text",
+   "value": "— Désistements, dit Mamie Odile sans un regard pour Sacha. Une veuve sicilienne, un naufrage et un mal de dos. La vie est pleine d'imprévus, ma chérie. Asseyez-vous."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut, malgré tout, un merveilleux déjeuner."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "L'aïoli de Mamie Odile"
+  },
+  {
+   "type": "text",
+   "value": "Mamie Odile servit l'aïoli. Jade le goûta et déclara que c'était le meilleur de Marseille, ce qui fit rougir Mamie Odile comme une jeune fille. Elles parlèrent cuisine pendant une heure, de l'ail, de la morue, de la façon de monter une sauce sans qu'elle tourne. Puis Mamie Odile raconta ses années de revue, les plumes, les escaliers, les hommes. Jade riait. Elle riait comme Sacha ne l'avait jamais vue rire, la tête en arrière, sans retenue, sans colère."
+  },
+  {
+   "type": "text",
+   "value": "Au dessert, la charlotte fit pleurer Mamie Odile."
+  },
+  {
+   "type": "text",
+   "value": "— Ma petite, dit-elle en posant sa cuillère. Vous, je vous adopte."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis déjà adoptée, dit Jade. Par une famille de restaurateurs vietnamiens de Lyon. Mais je prends. On n'a jamais trop de grands-mères."
+  },
+  {
+   "type": "text",
+   "value": "C'est à ce moment-là que la porte de la cour s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "Clémence Delorme entra comme elle entrait partout : en coup de vent, en tailleur rose, avec deux téléphones, trois classeurs et l'énergie d'une centrale nucléaire. Clémence avait trente-trois ans, elle était la sœur aînée de Sacha, et elle était organisatrice de mariages. Elle organisait celui des autres depuis dix ans, et depuis six mois, elle organisait le sien, ce qui l'avait rendue, selon ses propres mots, « un peu tendue »."
+  },
+  {
+   "type": "text",
+   "value": "— Mamie ! Il reste de l'aïoli ? Je n'ai rien mangé depuis hier, j'ai trois mariages ce mois-ci, plus le mien, et le traiteur du mien vient de me lâcher… Oh. Bonjour."
+  },
+  {
+   "type": "text",
+   "value": "Elle venait de voir Jade."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda Jade. Elle regarda la charlotte. Elle regarda les cinq couverts dont deux étaient vides. Elle regarda Sacha, qui avait l'air d'un homme qui attend un coup de foudre au sens propre."
+  },
+  {
+   "type": "text",
+   "value": "Clémence Delorme avait organisé trois cent douze mariages. Elle avait vu des fiancés en fuite, des mères hystériques, des témoins ivres, des ex surgis du passé au milieu de la messe. Elle savait reconnaître un homme coupable comme d'autres reconnaissent une odeur de brûlé."
+  },
+  {
+   "type": "text",
+   "value": "Elle mit exactement quatre secondes à comprendre."
+  },
+  {
+   "type": "text",
+   "value": "— Clémence, dit-elle en tendant la main à Jade avec un sourire parfait. La sœur."
+  },
+  {
+   "type": "text",
+   "value": "— Jade. C'est moi qui ai fait la charlotte."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a l'air sublime. Vous êtes pâtissière ?"
+  },
+  {
+   "type": "text",
+   "value": "— Cheffe. Le Piment Rose, au Panier."
+  },
+  {
+   "type": "text",
+   "value": "— Je connais ! dit Clémence. On dit le plus grand bien de vos desserts. Il est possible que j'aie un service à vous demander, d'ailleurs. Mon traiteur vient de m'abandonner. Je me marie le 23 août."
+  },
+  {
+   "type": "text",
+   "value": "Jade ouvrit de grands yeux. Les dettes, Vincent, trente jours. Sacha vit tout ça passer dans son regard, et l'espoir, juste après."
+  },
+  {
+   "type": "text",
+   "value": "— On peut en parler, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "— On va en parler, dit Clémence."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle se tourna vers son frère. Elle souriait toujours. Ses yeux ne souriaient pas du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Sacha, tu viens m'aider à chercher du pain ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il y a du pain sur la table."
+  },
+  {
+   "type": "text",
+   "value": "— Viens m'aider à chercher *d'autre* pain."
+  },
+  {
+   "type": "text",
+   "value": "Il la suivit dans la cuisine de Mamie Odile. Elle ferma la porte. Elle s'appuya contre l'évier, croisa les bras, et le regarda de la tête aux pieds, longuement, comme un plan de table raté."
+  },
+  {
+   "type": "text",
+   "value": "— Combien ? dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Combien quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Cinq couverts, deux vides, Mamie qui a sa tête de vieille fouine, et toi qui as la tête du marié qui a vu entrer son ex dans l'église. Combien, Sacha ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il leva la main. Il déplia quatre doigts."
+  },
+  {
+   "type": "text",
+   "value": "Clémence ferma les yeux. Elle respira profondément, comme on le lui avait appris dans un stage de gestion du stress pour wedding planners."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit-elle. D'accord. Je n'ai pas le temps pour ça. J'ai un mariage dans un mois. Le mien. Alors je vais te dire une chose, une seule, et tu vas m'écouter."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'approcha de lui. Elle remit droit le col de sa chemise en jean, doucement, comme quand ils étaient petits et qu'elle l'habillait pour l'école."
+  },
+  {
+   "type": "text",
+   "value": "— Je me marie le 23 août. Tu es mon témoin. Tu viens accompagné."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui tapota la joue."
+  },
+  {
+   "type": "text",
+   "value": "— D'*une* seule. Choisis."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "« D'une seule »"
+  }
+ ]
+}

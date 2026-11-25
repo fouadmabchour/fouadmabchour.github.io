@@ -1,0 +1,476 @@
+{
+ "number": 17,
+ "title": "La vengeance",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le premier mouvement de l'Opération Accord Final eut lieu le lundi."
+  },
+  {
+   "type": "text",
+   "value": "C'était le jour de Jade. Elle n'eut pas besoin de le chercher. Elle savait où il était, parce que Mamie Odile, qui était dans le secret depuis le jeudi — Rosalie lui avait tout raconté en lui apportant des croissants, et Mamie Odile avait dit : « Enfin quelqu'un qui fait quelque chose dans cette histoire » —, leur avait donné tous les renseignements."
+  },
+  {
+   "type": "text",
+   "value": "*Il ne sort plus. Il ne mange plus. Il ne joue plus. Il fixe un tableau blanc avec le mot DEMAIN. Faites ce que vous voulez de lui, mes chéries, mais faites vite. Je n'ai plus la force de monter les plateaux.*"
+  },
+  {
+   "type": "text",
+   "value": "Jade monta l'escalier de la maison du Panier avec un plateau."
+  },
+  {
+   "type": "text",
+   "value": "Dessus, il y avait une assiette. Et sur l'assiette, une sphère blanche, brillante, avec une goutte de coulis rouge."
+  },
+  {
+   "type": "text",
+   "value": "Elle frappa à la porte. Il n'ouvrit pas."
+  },
+  {
+   "type": "text",
+   "value": "— C'est Jade, dit-elle. J'ai un dessert. Si tu n'ouvres pas, je le mange devant ta porte, et je te jure que je le mange bruyamment."
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "Il était méconnaissable. Une barbe d'une semaine, les boucles plates, un vieux tee-shirt troué, des cernes de noyé. Il la regarda comme on regarde un fantôme. Puis il regarda le dessert."
+  },
+  {
+   "type": "text",
+   "value": "— *Colère*, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Jade. Goûte."
+  },
+  {
+   "type": "text",
+   "value": "Il goûta. C'était froid, puis brûlant. Une mousse de coco, et au milieu un cœur de mangue. Il attendit le piment."
+  },
+  {
+   "type": "text",
+   "value": "Le piment ne vint pas."
+  },
+  {
+   "type": "text",
+   "value": "À la place, trois secondes après, il y eut autre chose. Quelque chose de doux, de floral, presque timide. Du miel de lavande. Et une pointe de sel, tout au fond, comme une larme."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers elle."
+  },
+  {
+   "type": "text",
+   "value": "— Ça s'appelle *Pardon*, dit Jade. Je l'ai inventé cette semaine. Ce n'est pas moi qui te pardonne. C'est le dessert. Moi, je ne sais pas encore."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-1.webp",
+   "caption": "Pardon"
+  },
+  {
+   "type": "text",
+   "value": "Elle entra. Elle s'assit sur son lit défait. Elle regarda le tableau blanc avec le mot *DEMAIN*. Elle regarda la trousse d'outils fermée, posée dans un coin, couverte de poussière."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne joues plus, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que chaque fois que je touche un piano, je pense à vous. À l'une ou à l'autre. Au Steinway, au Gaveau, au Pleyel. Au piano de craie."
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête. Elle prit sa main, celle qui ne tenait pas la cuillère, et la regarda comme Rosalie l'avait fait, le premier jour."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-moi pourquoi moi, dit-elle. Pas les autres. Moi. Qu'est-ce que tu aimais chez moi ? Dis-le-moi sans mentir. Et si tu mens, je le saurai, et je t'enfonce cette cuillère dans l'œil."
+  },
+  {
+   "type": "text",
+   "value": "C'était l'article 2. Le plan disait : *obtenir une déclaration d'amour sincère et circonstanciée.* Jade comptait la lui arracher, la noter dans sa tête, et partir."
+  },
+  {
+   "type": "text",
+   "value": "Il ne mentit pas."
+  },
+  {
+   "type": "text",
+   "value": "Il lui dit qu'il aimait ses colères parce qu'elles étaient toujours pour quelque chose : pour un œuf de mauvaise qualité, pour un fournisseur malhonnête, pour un restaurant qu'elle refusait de laisser mourir. Il lui dit qu'il aimait qu'elle ne dise jamais merci et qu'elle le dise quand même, en sucre. Il lui dit qu'il aimait la façon dont elle négociait les mangues au marché de Noailles, comme une générale. Il lui dit que la nuit du Pleyel, quand elle lui avait dit *je suis une catastrophe*, il avait pensé que c'était la plus belle catastrophe qu'il ait jamais vue."
+  },
+  {
+   "type": "text",
+   "value": "Il lui dit aussi la vérité sur le reste. Toute. Le tableau blanc de Kader. La toque. L'opération Aïoli. La veuve sicilienne. Le déjeuner où il l'avait laissée venir seule, parce qu'il savait que personne au monde ne pouvait empêcher Jade Nguyen d'apporter sa charlotte."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'écouta sans l'interrompre. Ce fut la plus longue fois de sa vie où elle n'interrompit personne."
+  },
+  {
+   "type": "text",
+   "value": "Quand il eut fini, elle lâcha sa main."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva. Elle reprit le plateau. Elle s'arrêta à la porte."
+  },
+  {
+   "type": "text",
+   "value": "— Le dessert, dit-elle sans se retourner. Je ne l'ai pas encore mis à la carte. Je ne sais pas si c'est un bon dessert."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le meilleur que tu aies jamais fait."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Jade."
+  },
+  {
+   "type": "text",
+   "value": "Et elle partit. Dans l'escalier, elle s'arrêta, s'assit sur une marche, et sortit son téléphone. Elle écrivit dans le groupe des Accordées :"
+  },
+  {
+   "type": "text",
+   "value": "*Mouvement 1 : fait. Déclaration obtenue.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle resta là un moment. Puis elle ajouta :"
+  },
+  {
+   "type": "text",
+   "value": "*Il ne m'a pas menti. Pas une seule fois. Je ne sais pas quoi faire de ça.*"
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième mouvement eut lieu le mardi. C'était le jour de Léa."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne monta pas chez lui. Elle lui envoya un message. Un seul."
+  },
+  {
+   "type": "text",
+   "value": "*Mon piano est faux. Viens demain. 8 h. Ne négocie pas.*"
+  },
+  {
+   "type": "text",
+   "value": "Il vint. À huit heures moins deux. Rasé, cette fois. Elle ne l'avait pas prévu, et ça la troubla plus qu'elle ne voulait l'admettre."
+  },
+  {
+   "type": "text",
+   "value": "L'appartement n'était plus blanc. Depuis la soirée chez elle, la veille du mariage, il y avait des traces. Une chaussure oubliée de Maëlle sous le canapé. Une perruque de Rosalie sur le portemanteau. Une tache de champagne sur le marbre que Léa n'avait pas fait nettoyer. Un dessin de Jade sur le frigo, une caricature de Paco en chemise à fleurs. Elle n'avait rien enlevé."
+  },
+  {
+   "type": "text",
+   "value": "Le Steinway était ouvert. Il frappa un la."
+  },
+  {
+   "type": "text",
+   "value": "Il était juste. Évidemment."
+  },
+  {
+   "type": "text",
+   "value": "— Il est juste, dit Sacha."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Léa."
+  },
+  {
+   "type": "text",
+   "value": "Elle était debout près de la baie vitrée, en chemisier de soie, pieds nus sur le marbre, comme le premier matin. Elle avait préparé ce rendez-vous comme une plaidoirie. Elle savait exactement ce qu'elle allait dire. Elle avait écrit ses questions sur une fiche. Elle allait obtenir sa déclaration, la noter, et le mettre dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi moi ? dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas avec des mots. Il s'assit au piano. Il ouvrit la partition qui était toujours sur le pupitre, écrite au crayon, avec ses ratures. *Le la*."
+  },
+  {
+   "type": "text",
+   "value": "Il la joua."
+  },
+  {
+   "type": "text",
+   "value": "Pas comme elle l'avait écrite. Comme elle aurait voulu l'écrire. Il avait retravaillé les accords, sans changer la mélodie. Il avait enlevé la prudence. Les accords qui marchaient sur un lac gelé couraient, maintenant. Et à la fin, quand la mélodie se mettait à danser, il avait ajouté une deuxième voix. Une réponse. Comme si quelqu'un, enfin, répondait à la question qu'elle posait depuis quinze ans."
+  },
+  {
+   "type": "text",
+   "value": "Quand il eut fini, Léa avait jeté sa fiche par terre."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai aimé que tu ne saches pas jouer sans négocier, dit Sacha sans se retourner. J'ai aimé que tu me fasses signer des contrats. J'ai aimé que tu comptes tes fausses notes. J'ai aimé que ton piano soit fermé depuis quinze ans et que tu l'aies ouvert pour moi. Et je t'ai menti, Léa. Pendant deux mois. Pas sur ça. Sur tout le reste."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'approcha du piano. Elle s'assit à côté de lui, sur le tabouret, comme le premier matin. Elle posa une main sur le clavier. Une note grave. La basse de l'accord suivant."
+  },
+  {
+   "type": "text",
+   "value": "La bonne."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas encore décidé ce que je vais faire de toi, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit son téléphone. Elle écrivit dans le groupe :"
+  },
+  {
+   "type": "text",
+   "value": "*Mouvement 2 : fait. Déclaration obtenue. Avec arrangements.*"
+  },
+  {
+   "type": "text",
+   "value": "Puis :"
+  },
+  {
+   "type": "text",
+   "value": "*Il a réécrit mon morceau. Il est meilleur. Je le déteste.*"
+  },
+  {
+   "type": "text",
+   "value": "Le mercredi, ce fut Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'emmena en mer, sans un mot. Elle mit le cap sur Morgiou. Elle mouilla l'ancre entre les falaises blanches, là où elle lui avait annoncé qu'elle restait. Puis, sans prévenir, elle le poussa par-dessus bord."
+  },
+  {
+   "type": "text",
+   "value": "Il remonta en crachant. Elle était penchée par-dessus le bastingage, et elle ne riait pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-2.webp",
+   "caption": "Ça, c'est pour le CDI"
+  },
+  {
+   "type": "text",
+   "value": "— Ça, c'est pour le CDI, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne lui lança pas de bouée. Il dut nager jusqu'à l'échelle de bain. Il nageait toujours comme un chien qui a peur des chats. Elle le regarda faire, les bras croisés. Quand il remonta enfin sur le pont, trempé, elle lui jeta une serviette au visage."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'assirent sur le pont. Le soleil tapait. Les mouettes criaient."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi moi ? dit Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "Il lui dit qu'il aimait qu'elle dise tout. Qu'avec elle, il n'y avait jamais de malentendus, jamais de non-dits, jamais de choses qu'on garde pour demain. Il lui dit qu'il aimait qu'elle soit une mouette, et qu'il avait aimé encore plus le jour où elle avait décidé de faire un nid. Il lui dit qu'il était le pire homme du monde à qui annoncer ça. Il lui dit qu'il avait voulu lui avouer, ce soir-là, dans cette calanque, au milieu des falaises rouges, et que c'était elle qui avait parlé en premier, et qu'il n'avait pas eu le courage de casser ce qu'elle venait de construire."
+  },
+  {
+   "type": "text",
+   "value": "— Tu aurais dû, dit Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— J'aurais préféré me noyer ce soir-là que d'apprendre ça trois semaines plus tard sur une terrasse en talons."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda la mer."
+  },
+  {
+   "type": "text",
+   "value": "— Le CDI, dit-elle. Je ne l'ai pas annulé. J'aurais pu. J'ai pensé à repartir à Brest. J'ai même regardé les billets de train."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi tu ne l'as pas fait ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que je ne l'ai pas signé que pour toi, en fait. Je m'en suis rendu compte. Je l'ai signé pour moi. Et pour elles. Les filles. Je ne vais pas quitter Marseille alors que j'ai enfin des amies ici."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit son téléphone, à l'abri sous le banc de pont, et elle écrivit :"
+  },
+  {
+   "type": "text",
+   "value": "*Mouvement 3 : fait. Je l'ai jeté à l'eau. Il nage toujours aussi mal. Déclaration obtenue.*"
+  },
+  {
+   "type": "text",
+   "value": "Puis, après un long moment :"
+  },
+  {
+   "type": "text",
+   "value": "*Il m'a dit que j'étais une mouette qui avait fait un nid. Je ne sais pas si je dois le noyer ou l'embrasser.*"
+  },
+  {
+   "type": "text",
+   "value": "Le jeudi, ce fut Rosalie."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne prépara rien. Pas de déguisement, pas de veuve, pas de théâtre vide. Elle lui donna rendez-vous sur le toit de la rue Sainte, devant le vieux piano sous la bâche, à la tombée de la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Elle était en jean et en tee-shirt. Les cheveux attachés. Pas de bracelets. Elle avait l'air plus jeune et plus fatiguée que jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vais pas te demander pourquoi moi, dit-elle. Je le sais. Tu me l'as dit. Tu me l'as dit dans le théâtre. Tu les aimes toutes et tu es lâche. Je ne vais pas te le faire répéter."
+  },
+  {
+   "type": "text",
+   "value": "— Alors pourquoi tu m'as fait venir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pour te dire une chose que je n'ai pas dite aux autres."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit sur le rebord du toit, les jambes dans le vide, au-dessus de la ville."
+  },
+  {
+   "type": "text",
+   "value": "— Ce mois-ci, dit-elle, j'ai vécu un truc incroyable. J'ai rencontré trois femmes que j'aurais détestées dans n'importe quelle autre vie. Une avocate coincée, une hippie bretonne et une cheffe volcanique. Et elles sont devenues mes sœurs. Mes vraies sœurs. Plus que mes huit frères et sœurs."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda."
+  },
+  {
+   "type": "text",
+   "value": "— Et tout ça, c'est à cause de toi. Si tu n'avais pas été un tel salaud, on ne se serait jamais rencontrées. On ne serait jamais allées chez Paco. On ne se serait jamais assises sous ce figuier."
+  },
+  {
+   "type": "text",
+   "value": "Elle eut un petit rire."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas si je dois te remercier ou te pousser de ce toit."
+  },
+  {
+   "type": "text",
+   "value": "— Les deux, dit Sacha."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais réfléchir."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne prit pas son téléphone tout de suite. Elle resta longtemps assise à côté de lui, sur le rebord, à regarder la ville s'allumer, et ni l'un ni l'autre ne dit plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Le samedi 30 août, à dix-huit heures moins dix, les quatre Accordées étaient chacune chez elle, leur téléphone à la main."
+  },
+  {
+   "type": "text",
+   "value": "Le plan était clair. Article 3. *À dix-huit heures précises, les quatre Parties quitteront le Défendeur. Simultanément. Par écrit. Sans appel.*"
+  },
+  {
+   "type": "text",
+   "value": "Chacune avait écrit son message de rupture la veille. Léa l'avait relu sept fois et corrigé deux virgules. Maëlle l'avait écrit en une minute, sans majuscules. Jade l'avait écrit en vietnamien puis traduit. Rosalie en avait écrit douze versions, une pour chaque personnage qu'elle aurait pu être, et elle avait gardé la treizième, la plus courte, la sienne."
+  },
+  {
+   "type": "text",
+   "value": "Dix-huit heures moins cinq."
+  },
+  {
+   "type": "text",
+   "value": "Moins deux."
+  },
+  {
+   "type": "text",
+   "value": "Moins une."
+  },
+  {
+   "type": "text",
+   "value": "Dix-huit heures."
+  },
+  {
+   "type": "text",
+   "value": "Aucune n'appuya sur *envoyer*."
+  },
+  {
+   "type": "text",
+   "value": "Une minute passa. Puis deux. Dans l'appartement blanc, dans la cabine du bateau, dans la cuisine du restaurant, dans la chambre sous les toits, quatre femmes regardaient leur téléphone, le pouce au-dessus du bouton."
+  },
+  {
+   "type": "text",
+   "value": "À dix-huit heures quatre, Léa ouvrit le groupe des Accordées. Elle voulait vérifier que les autres l'avaient fait. Elle voulait se rassurer."
+  },
+  {
+   "type": "text",
+   "value": "Le groupe était vide. Le dernier message datait de midi, une photo de Paco en chemise à fleurs envoyée par Maëlle."
+  },
+  {
+   "type": "text",
+   "value": "Au même instant, sans s'être concertées, les trois autres ouvrirent le groupe aussi."
+  },
+  {
+   "type": "text",
+   "value": "Elles virent qu'elles étaient toutes les quatre en ligne."
+  },
+  {
+   "type": "text",
+   "value": "Elles virent qu'aucune n'avait rien envoyé."
+  },
+  {
+   "type": "text",
+   "value": "Pendant une longue minute, sur l'écran de chacune, il ne se passa rien. Juste quatre petits points verts, allumés, côte à côte, en bas de la conversation."
+  },
+  {
+   "type": "text",
+   "value": "Puis quelqu'un commença à écrire."
+  },
+  {
+   "type": "text",
+   "value": "Les trois petits points apparurent. Disparurent. Apparurent de nouveau."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne sut jamais laquelle avait commencé. Parce que les quatre, à la même seconde, en voyant les trois petits points, posèrent leur téléphone sur la table, et éclatèrent en sanglots, ou en rire, ou les deux."
+  }
+ ]
+}
