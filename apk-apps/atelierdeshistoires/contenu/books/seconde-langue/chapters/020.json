@@ -1,0 +1,345 @@
+{
+ "number": 20,
+ "title": "La nuit de la tempête",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Hugo entra dans la laverie trempé jusqu'aux os, et il resta debout près de la porte, comme un chien qui ne sait pas s'il a le droit d'entrer."
+  },
+  {
+   "type": "text",
+   "value": "Théo fit un pas vers lui. La mère de Nathan le retint par le bras."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne bougea pas. Il regardait Hugo. Il le regardait comme il l'avait regardé à travers la vitrine, en décembre : sans colère, sans rien. Juste fatigué."
+  },
+  {
+   "type": "text",
+   "value": "— Parle, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Hugo parla."
+  },
+  {
+   "type": "text",
+   "value": "Il raconta la photo. Le soir de novembre, la cigarette sous l'auvent du bâtiment de droit, le téléphone, le zoom, le geste machinal qu'il n'avait jamais compris. Il raconta Chloé, le fond d'écran, le mail du 26 décembre venu d'une adresse avec des chiffres, la légende toute prête, le compte anonyme. Il raconta la nuit dans le couloir de la colocation, Chloé qui pleurait, *je voulais pas que ça aille aussi loin*."
+  },
+  {
+   "type": "text",
+   "value": "Puis il sortit son téléphone. Il le posa sur la table en formica de la petite cuisine."
+  },
+  {
+   "type": "text",
+   "value": "— Elle me l'a transféré, dit-il. Le mail. Celui du 26. Avec tous les autres échanges. Elle l'a gardé. Je lui ai dit de ne rien effacer."
+  },
+  {
+   "type": "text",
+   "value": "Lina se pencha sur l'écran. Elle lut. Elle relut."
+  },
+  {
+   "type": "text",
+   "value": "— L'adresse, dit-elle. C'est une adresse jetable. Un service gratuit. On ne peut pas savoir qui est derrière."
+  },
+  {
+   "type": "text",
+   "value": "— Pas nous, dit Hugo. Mais un juge, si. Un juge peut demander au fournisseur l'adresse IP de connexion. C'est dans le Code de procédure pénale. Article 60-1. Réquisition judiciaire."
+  },
+  {
+   "type": "text",
+   "value": "Tout le monde le regarda."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis en troisième année de droit, dit Hugo en haussant les épaules. Avec lui comme prof de pénal. Il nous a fait un cours entier là-dessus. Comment on remonte une adresse IP. Il a dit, mot pour mot : « Le criminel moderne laisse toujours une trace numérique, parce qu'il se croit plus intelligent que l'enquêteur. »"
+  },
+  {
+   "type": "text",
+   "value": "Il eut un petit rire amer."
+  },
+  {
+   "type": "text",
+   "value": "— Si quelqu'un porte plainte pour dénonciation calomnieuse ou pour harcèlement, la police peut demander d'où venait ce mail. Et si ça vient d'une connexion de l'université, ou de chez lui…"
+  },
+  {
+   "type": "text",
+   "value": "Il ne finit pas sa phrase."
+  },
+  {
+   "type": "text",
+   "value": "Nathan regardait Hugo. Il regardait son meilleur ami, trempé, avec ses cheveux blonds collés sur le front, qui avait couché avec sa petite amie dans son lit, qui avait pris cette photo, qui était venu sous la pluie, à minuit, pour lui donner la seule chose qui pouvait les sauver."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi tu fais ça ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Hugo baissa les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que je te dois au moins ça. Et parce que je veux pouvoir me regarder dans une glace un jour. Je te demande pas de me pardonner, frérot. Je te demande rien. Je voulais juste que tu l'aies."
+  },
+  {
+   "type": "text",
+   "value": "Il poussa le téléphone vers Nathan. Puis il recula vers la porte."
+  },
+  {
+   "type": "text",
+   "value": "— Hugo, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Hugo s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi. Il y a de la vodka. Et il y a du jus d'orange pour Théo."
+  },
+  {
+   "type": "text",
+   "value": "Hugo regarda Nathan. Il ne bougea pas pendant une longue seconde. Puis il s'assit sur le tabouret, à côté de Lina, et Monsieur Kowalski lui servit un petit verre d'herbe de bison sans rien dire."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas un pardon. Pas encore. Mais c'était une chaise."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "Une chaise"
+  },
+  {
+   "type": "text",
+   "value": "Le même soir, de l'autre côté de Bordeaux, il y avait une tempête."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'appelait *Gérald*. Elle était arrivée de l'Atlantique en fin d'après-midi, avec des rafales à cent vingt kilomètres-heure sur la côte et une pluie qui tombait à l'horizontale. Météo-France avait placé la Gironde en vigilance orange. Les trams s'étaient arrêtés à vingt-deux heures. Des branches tombaient sur les voitures dans les rues de Caudéran."
+  },
+  {
+   "type": "text",
+   "value": "Élise n'aurait pas dû être là."
+  },
+  {
+   "type": "text",
+   "value": "Elle était chez Samia depuis six jours. Elle n'était pas sortie. Elle avait dormi, beaucoup. Elle avait joué avec les enfants de Samia. Elle avait commencé à parler, avec Samia, d'une plainte, d'une ordonnance de protection, d'un divorce. Lentement. Une chose après l'autre."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait appelé sa mère. Pas encore pour tout lui dire. Juste pour lui dire qu'elle viendrait à Bath, bientôt. Margaret avait dit « *At last* », et rien d'autre, et Élise avait entendu au bout du fil qu'elle pleurait."
+  },
+  {
+   "type": "text",
+   "value": "Pour aller à Bath, il lui fallait son passeport."
+  },
+  {
+   "type": "text",
+   "value": "Il était à Caudéran. Dans le tiroir du bureau du rez-de-chaussée, avec les papiers importants, les actes de mariage, les contrats d'assurance. Elle l'avait oublié en partant. Elle s'en était rendu compte le quatrième jour."
+  },
+  {
+   "type": "text",
+   "value": "Samia lui avait dit d'attendre. D'y aller avec un huissier, ou avec la police, plus tard. Élise avait dit oui."
+  },
+  {
+   "type": "text",
+   "value": "Mais ce soir-là, Agathe Morin, sa collègue sociologue, lui avait envoyé un message : Bertrand était à Paris jusqu'au lendemain soir, pour une réunion de la Conférence des présidents d'université. Elle l'avait vu partir à la gare elle-même, à dix-sept heures, avec sa valise."
+  },
+  {
+   "type": "text",
+   "value": "La maison était vide. Pour une nuit."
+  },
+  {
+   "type": "text",
+   "value": "Élise prit la voiture de Samia, sans rien dire à personne, à vingt-deux heures trente, sous la pluie."
+  },
+  {
+   "type": "text",
+   "value": "La maison de Caudéran était noire. Les volets étaient fermés. Le vent hurlait dans le grand cèdre du jardin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "La tempête"
+  },
+  {
+   "type": "text",
+   "value": "Elle entra avec sa clé. Bertrand n'avait pas changé la serrure. Il était trop sûr qu'elle reviendrait."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'alluma pas la lumière. Elle connaissait la maison par cœur. Elle traversa l'entrée, passa devant le sapin de Noël qui était toujours là, tout en blanc et en argent, ses boules mortes. Elle entra dans le bureau du rez-de-chaussée. Elle alluma seulement la lampe de son téléphone."
+  },
+  {
+   "type": "text",
+   "value": "Le tiroir. Le dossier bleu. Son passeport. Elle le prit. Elle le glissa dans son sac."
+  },
+  {
+   "type": "text",
+   "value": "Elle allait repartir quand la lumière du plafond s'alluma."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand était dans l'encadrement de la porte."
+  },
+  {
+   "type": "text",
+   "value": "Il était en pull et en pantalon de toile, pas en costume. Il n'avait pas l'air d'un homme qui revenait de Paris. Il avait l'air d'un homme qui attendait."
+  },
+  {
+   "type": "text",
+   "value": "— Le train a été annulé, dit-il calmement. La tempête. Je suis rentré à dix-neuf heures. Tu ne m'as pas vu, parce que j'étais dans le jardin, à fermer les volets. Je t'ai vue arriver. Dans la voiture de ton amie avocate."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un pas dans la pièce."
+  },
+  {
+   "type": "text",
+   "value": "— Tu reviens chercher ton passeport. Pour aller chez ta mère, je suppose. Elle ne m'a jamais aimé, ta mère."
+  },
+  {
+   "type": "text",
+   "value": "Élise recula contre le bureau."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'en vais, Bertrand."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Tu me l'as dit. Avec ta lettre au président. Tu sais ce que tu as fait, avec cette lettre ? Tu m'as humilié. Devant toute l'université. La femme du vice-président qui écrit qu'elle s'est attachée à un étudiant. Tu crois que je vais être élu président, maintenant ? Tu crois que je vais être quoi que ce soit ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne criait pas. Il parlait de plus en plus bas."
+  },
+  {
+   "type": "text",
+   "value": "— Donne-moi ton sac."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois. La première fois en sept ans qu'elle lui disait non, comme ça, en face, en le regardant. Elle vit le mot le frapper. Elle vit son visage changer."
+  },
+  {
+   "type": "text",
+   "value": "Il traversa la pièce. Il lui arracha le sac des mains. Il le renversa sur le bureau. Le passeport tomba. Le portefeuille. Les clés. Le téléphone. Un paquet de mouchoirs. Un livre."
+  },
+  {
+   "type": "text",
+   "value": "Et la doublure du sac, mal recousue, qui céda sous la secousse."
+  },
+  {
+   "type": "text",
+   "value": "Une grande enveloppe kraft glissa sur le bureau. Une carte de visite tomba par terre."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand ramassa l'enveloppe. Il la retourna. Il vit le ruban adhésif jauni. Il l'arracha. Il en sortit des photos, des certificats médicaux, une copie de main courante. Et des lettres. Des lettres de sa propre écriture, fine et régulière, datées de quinze ans plus tôt. *Ma Catherine, je te demande pardon. Je ne sais pas ce qui m'a pris. Je ne recommencerai jamais.*"
+  },
+  {
+   "type": "text",
+   "value": "Il resta immobile très longtemps. Le vent hurlait dehors. Une branche du cèdre frappa les volets."
+  },
+  {
+   "type": "text",
+   "value": "Puis il leva les yeux vers Élise."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait vu beaucoup de choses dans ces yeux-là, en sept ans. Elle n'avait jamais vu ça."
+  },
+  {
+   "type": "text",
+   "value": "Elle courut."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne sut jamais comment. Plus tard, elle se souviendrait de morceaux, comme des photos déchirées. La porte du bureau. Le couloir. Le sapin blanc qui tombait. La porte d'entrée, la chaîne de sécurité qu'il avait oubliée de mettre, cette fois. Le perron. La pluie. Le vent qui la poussait comme une main. Le gravier blanc de l'allée. La grille. La rue."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait rien. Ni son sac, ni ses clés, ni son passeport, ni la voiture de Samia, dont les clés étaient restées sur le bureau. Elle avait seulement son téléphone, qu'elle avait attrapé sur le bureau au moment de fuir, par un réflexe qu'elle ne s'expliqua jamais."
+  },
+  {
+   "type": "text",
+   "value": "Elle courut dans les rues de Caudéran, sous la tempête, entre les branches tombées et les poubelles renversées. Elle ne savait pas où elle allait. Elle saignait. Elle le sentait, quelque chose de chaud qui coulait sur sa tempe, dans son cou, et qui se mêlait à la pluie. Elle ne savait plus comment c'était arrivé. Le coin du bureau, peut-être. Sa main à lui. Le chambranle de la porte. Elle ne savait plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta sous un abribus, au bout de l'avenue. Elle était seule. Les trams ne passaient plus. Il n'y avait personne dans les rues."
+  },
+  {
+   "type": "text",
+   "value": "Elle composa le numéro de Samia. Elle n'arrivait pas à parler. Elle respirait trop vite."
+  },
+  {
+   "type": "text",
+   "value": "— Élise ? Élise, où tu es ? Ta voiture… Ma voiture n'est pas… Élise ?"
+  },
+  {
+   "type": "text",
+   "value": "— Caudéran, dit Élise. L'abribus de l'avenue. Il était là. Il était là, Samia."
+  },
+  {
+   "type": "text",
+   "value": "— Ne bouge pas. J'arrive. Tu m'entends ? Ne bouge pas. Et Élise…"
+  },
+  {
+   "type": "text",
+   "value": "— Oui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Appelle le 17. Maintenant. Pendant que je viens. Appelle-les."
+  },
+  {
+   "type": "text",
+   "value": "Élise raccrocha. Elle regarda son téléphone. L'écran était fêlé. La pluie coulait dessus."
+  },
+  {
+   "type": "text",
+   "value": "Pendant sept ans, elle avait eu ce numéro à portée de main. Trois chiffres. Elle ne l'avait jamais composé. Pas une seule fois."
+  },
+  {
+   "type": "text",
+   "value": "Elle appuya sur le 1. Puis sur le 7."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Le 17"
+  },
+  {
+   "type": "text",
+   "value": "Il était deux heures du matin quand elle poussa la porte de l'hôtel de police de Bordeaux, rue François-de-Sourdis, avec Samia qui la tenait par le bras."
+  },
+  {
+   "type": "text",
+   "value": "Le hall était éclairé au néon. Il y avait un comptoir, un policier de garde derrière une vitre, un banc où un homme ivre dormait. Une affiche, au mur, avec un numéro : *3919. Violences femmes info.*"
+  },
+  {
+   "type": "text",
+   "value": "Le policier de garde leva les yeux. C'était un homme d'une quarantaine d'années, fatigué, avec une alliance. Il vit une femme trempée, en pull, sans manteau, avec du sang séché sur la tempe et dans le cou, et une autre femme qui la soutenait."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva."
+  },
+  {
+   "type": "text",
+   "value": "Élise s'approcha de la vitre. Elle avait les cheveux plaqués sur le visage. Elle tremblait de froid. Sa voix, quand elle parla, était étonnamment claire. Elle l'entendit comme si c'était celle de quelqu'un d'autre."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens porter plainte contre mon mari."
+  }
+ ]
+}

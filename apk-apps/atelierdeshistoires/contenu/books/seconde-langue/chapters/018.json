@@ -1,0 +1,269 @@
+{
+ "number": 18,
+ "title": "Élise s'en va",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Élise apprit la proposition de Bertrand le soir même, au dîner."
+  },
+  {
+   "type": "text",
+   "value": "Il la lui raconta lui-même. Calmement. En découpant son entrecôte. Il dit qu'il avait offert à « ce garçon » une porte de sortie honorable. Qu'il avait été plus que généreux. Que le garçon avait refusé. Par orgueil. Par bêtise. Par jeunesse."
+  },
+  {
+   "type": "text",
+   "value": "— Il sera exclu, dit Bertrand en se servant du vin. Deux ans. Peut-être plus. La commission se réunit le 3 février. C'est dommage. Il avait du potentiel, d'après toi."
+  },
+  {
+   "type": "text",
+   "value": "Il but une gorgée."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi, ma chérie, tu seras entendue aussi. Par une autre commission. Celle des enseignants. Les messages, la photo, les cours particuliers, les témoignages. Je ne pourrai pas te protéger éternellement. Ils parlent de révocation. Tu comprends ce que ça veut dire, révocation ? Plus jamais un poste. Nulle part. Ni en France, ni ailleurs."
+  },
+  {
+   "type": "text",
+   "value": "Il posa son verre."
+  },
+  {
+   "type": "text",
+   "value": "— À moins que tu ne fasses ce qu'il aurait dû faire."
+  },
+  {
+   "type": "text",
+   "value": "Il ne dit pas quoi. Il n'avait pas besoin. Il avait laissé, sur la table de l'entrée, une feuille de papier à en-tête de l'université et un stylo. Elle les avait vus en rentrant."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dormit pas cette nuit-là."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta assise dans le petit salon, dans le fauteuil près de la fenêtre, celui d'où elle appelait sa mère le dimanche. Elle regardait le jardin noir. Le grand cèdre. Les rosiers taillés de Bertrand."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "Nuit de décision"
+  },
+  {
+   "type": "text",
+   "value": "Elle pensait à Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne l'avait pas vu depuis la mi-décembre. Elle n'avait pas de nouvelles depuis le 25. Bertrand lui avait donné un nouveau téléphone, avec un nouveau numéro, qu'il vérifiait chaque soir. Elle n'avait pas osé écrire à Nathan. Elle n'avait pas osé aller à la laverie. Elle savait, par les mails de l'université et par les rumeurs que sa collègue Agathe Morin lui rapportait discrètement au téléphone, ce qui se passait. La photo. Le groupe de la promo. Les insultes. La bourse suspendue. Le blog. Le garçon qui ne sortait plus de sa laverie."
+  },
+  {
+   "type": "text",
+   "value": "Elle savait qu'il avait refusé de signer."
+  },
+  {
+   "type": "text",
+   "value": "Elle savait pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Il avait refusé pour elle. Pour ne pas écrire, de sa main, qu'elle était une victime fragile, une femme instable, une femme qui ne savait pas dire non. Il avait refusé de donner à Bertrand l'arme qu'il voulait. Il avait refusé, et il allait perdre son diplôme, sa bourse, deux ans de sa vie. Pour elle."
+  },
+  {
+   "type": "text",
+   "value": "Et elle, qu'est-ce qu'elle avait fait pour lui ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle l'avait regardé à la laverie, à trois heures du matin. Elle lui avait écrit depuis une salle de bains rose. Elle lui avait donné *Jane Eyre*. Elle l'avait entraîné, sans le vouloir, sans le savoir, dans sa vie à elle, dans la maison de Caudéran, dans la main de Bertrand."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'avait mis en danger. Elle seule."
+  },
+  {
+   "type": "text",
+   "value": "À quatre heures du matin, elle comprit ce qu'elle devait faire."
+  },
+  {
+   "type": "text",
+   "value": "Pas ce que Bertrand voulait. Pas la déclaration de victime. Autre chose. Le contraire."
+  },
+  {
+   "type": "text",
+   "value": "Elle écrivit la lettre à l'aube, sur la table de la cuisine, à la main, sur une feuille de papier blanc sans en-tête. Elle l'écrivit d'une traite. Elle ne la relut pas."
+  },
+  {
+   "type": "text",
+   "value": "*Monsieur le Président,*"
+  },
+  {
+   "type": "text",
+   "value": "*Je souhaite apporter des précisions dans le cadre de la procédure disciplinaire ouverte contre monsieur Nathan Leroy, étudiant en L3 d'études anglophones.*"
+  },
+  {
+   "type": "text",
+   "value": "*Monsieur Leroy n'a commis aucune faute. Il ne m'a jamais sollicitée, jamais importunée, jamais mise mal à l'aise. C'est moi qui lui ai proposé de l'aider pour sa certification, en octobre. C'est moi qui ai prolongé nos séances au-delà de ce qui était nécessaire. C'est moi qui lui ai écrit, en dehors du cadre universitaire, la nuit de Noël et à d'autres occasions. C'est moi qui me suis attachée à cet étudiant de manière inappropriée, et qui ai manqué à mes devoirs d'enseignante en ne mettant pas de limites.*"
+  },
+  {
+   "type": "text",
+   "value": "*Monsieur Leroy n'a fait que répondre poliment à une enseignante qui aurait dû savoir garder ses distances. Si une faute a été commise, elle est entièrement la mienne. Je vous demande de lever toute procédure à son encontre et de rétablir sa bourse.*"
+  },
+  {
+   "type": "text",
+   "value": "*Je présente ma démission de mes fonctions de maîtresse de conférences, avec effet immédiat.*"
+  },
+  {
+   "type": "text",
+   "value": "*Élise Fournier.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle mit la lettre dans une enveloppe. Elle la porta elle-même au secrétariat de la présidence, à huit heures, avant que Bertrand ne se réveille. Elle la donna en main propre à la secrétaire, qui la regarda avec de grands yeux."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle rentra à Caudéran. Elle monta dans la chambre. Elle fit une valise. Pas la petite valise noire du mois de décembre. Une grande, cette fois. Elle y mit ses vêtements, ses livres préférés, la boîte en fer-blanc de thé anglais, l'enveloppe de Catherine et la carte d'Agathe, cousues dans la doublure."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand était sous la douche. Elle l'entendait chanter. Il chantait toujours sous la douche, de l'opéra, du Verdi."
+  },
+  {
+   "type": "text",
+   "value": "Elle descendit l'escalier avec la valise. Elle ouvrit la porte d'entrée. Elle ne laissa pas de mot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "Le départ"
+  },
+  {
+   "type": "text",
+   "value": "Elle partit."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'alla pas loin. Elle n'avait nulle part où aller. Elle alla chez Samia, à Talence, qui l'attendait depuis des semaines avec une chambre d'amis toujours prête et des enfants à qui on avait expliqué que « tatie Élise allait venir dormir un peu »."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait fait une seule chose avant d'arriver chez Samia."
+  },
+  {
+   "type": "text",
+   "value": "Elle était passée rue des Faures."
+  },
+  {
+   "type": "text",
+   "value": "Il était neuf heures et demie du matin. Nathan dormait dans la réserve, elle le savait. Il travaillait de nuit, il dormait de sept heures à quatorze heures. Monsieur Kowalski était au comptoir, en train de faire ses comptes avec une calculatrice de 1985."
+  },
+  {
+   "type": "text",
+   "value": "Elle entra. La clochette tinta. Le vieil homme leva les yeux. Il la reconnut. Il ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit de son sac un livre. Un vieux livre de poche anglais, à la couverture cornée, aux pages jaunies, aux marges pleines d'annotations au crayon. C'était son exemplaire à elle de *Jane Eyre*, celui qu'elle avait depuis ses dix-sept ans, celui qu'elle avait lu à Bath, à la fenêtre de sa chambre, sous la pluie. L'autre, celui qu'elle avait prêté à Nathan en octobre, était un exemplaire de la bibliothèque du bureau."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait glissé quelque chose dans ce livre-là. À la dernière page."
+  },
+  {
+   "type": "text",
+   "value": "Elle le posa sur le comptoir."
+  },
+  {
+   "type": "text",
+   "value": "— Pour Nathan, dit-elle. Quand il se réveillera."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Le livre laissé"
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Kowalski regarda le livre. Il regarda la femme. Elle avait les yeux secs, le visage très calme, très pâle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne voulez pas le réveiller ? demanda-t-il doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes sûre ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle hésita. Une seconde. Elle regarda la porte de la réserve, au fond, derrière la petite cuisine. Fermée."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit-elle. Je suis sûre."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit. La clochette tinta."
+  },
+  {
+   "type": "text",
+   "value": "Nathan apprit l'existence de la lettre par Lina, à quatorze heures trente."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'appela. Elle criait presque. Elle tenait l'information d'un ami qui travaillait au secrétariat de la présidence, qui avait vu passer la lettre, qui en avait lu une copie, qui en avait parlé à quelqu'un, qui en avait parlé à quelqu'un d'autre."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a écrit au président, Nathan. Elle prend tout sur elle. Elle dit que c'est elle qui t'a harcelé. Que tu n'as rien fait. Elle demande qu'on lève ta procédure et qu'on te rende ta bourse. Elle démissionne. Nathan ? Nathan, tu m'entends ?"
+  },
+  {
+   "type": "text",
+   "value": "Il l'entendait. Il était assis sur le canapé de la réserve, le téléphone contre l'oreille. Il ne pouvait plus parler."
+  },
+  {
+   "type": "text",
+   "value": "— Nathan ? Elle démissionne. Tu comprends ce que ça veut dire ? Elle ne pourra plus jamais enseigner. Nulle part. Avec ce qu'elle a écrit, elle ne pourra plus jamais…"
+  },
+  {
+   "type": "text",
+   "value": "Il raccrocha."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva. Il ouvrit la porte de la réserve. Il traversa la petite cuisine en courant. Il déboucha dans la laverie."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Kowalski était au comptoir. Il leva les yeux. Il vit le visage de Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Il ne dit rien. Il poussa vers lui, sur le comptoir, un vieux livre de poche à la couverture cornée."
+  },
+  {
+   "type": "text",
+   "value": "*Jane Eyre.*"
+  },
+  {
+   "type": "text",
+   "value": "Pas l'exemplaire du bureau 214. Un autre. Plus vieux. Plus usé. Avec, sur la page de garde, d'une écriture d'adolescente, à l'encre bleue : *Élise Hale, Bath, 2011.*"
+  },
+  {
+   "type": "text",
+   "value": "— Elle est venue ce matin, dit Kowalski. À neuf heures et demie. Elle n'a pas voulu te réveiller."
+  },
+  {
+   "type": "text",
+   "value": "Nathan prit le livre. Ses mains tremblaient. Il l'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "À la dernière page, il y avait une feuille de papier pliée en deux."
+  }
+ ]
+}

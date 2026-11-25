@@ -1,0 +1,329 @@
+{
+ "number": 8,
+ "title": "La mère de Bath",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le dimanche, à dix-sept heures, heure française, Élise appelait sa mère."
+  },
+  {
+   "type": "text",
+   "value": "C'était un rituel depuis qu'elle avait quitté l'Angleterre, à dix-huit ans, pour faire ses études à Bordeaux. Quatorze ans de dimanches. Elle avait appelé de sa chambre d'étudiante à la cité universitaire, puis de son premier appartement aux Chartrons, puis de la grande maison de Caudéran où elle vivait avec Bertrand depuis sept ans. Elle appelait toujours à la même heure, toujours depuis le même fauteuil, celui du petit salon, près de la fenêtre qui donnait sur le jardin."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand était dans son bureau, à l'étage. Il travaillait toujours le dimanche après-midi. Il laissait la porte ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— *Hello, Mum.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Hello, darling.*"
+  },
+  {
+   "type": "text",
+   "value": "La voix de Margaret Hale arrivait de Bath, de la petite maison georgienne de Pulteney Street où Élise avait passé tous ses étés d'enfance. Une voix claire, un peu rauque, avec cet accent anglais très comme il faut qu'Élise avait passé son adolescence à imiter pour se moquer, et qu'elle aurait donné n'importe quoi pour entendre de près, aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "Elles parlèrent du temps. Il pleuvait à Bath. Il pleuvait à Bordeaux. Elles parlèrent des élèves de piano de Margaret, de la petite Lucy qui faisait des progrès et du jeune Oliver qui n'en ferait jamais. Elles parlèrent du jardin de Margaret, des roses qu'il faudrait tailler, du voisin qui jouait de la cornemuse le dimanche matin."
+  },
+  {
+   "type": "text",
+   "value": "Puis Margaret demanda :"
+  },
+  {
+   "type": "text",
+   "value": "— *And how are you, darling? Really?*"
+  },
+  {
+   "type": "text",
+   "value": "Élise regarda par la fenêtre. Le jardin de Caudéran, parfaitement entretenu par un jardinier qui venait deux fois par semaine. Les rosiers de Bertrand. Les allées de gravier blanc. Le grand cèdre au fond."
+  },
+  {
+   "type": "text",
+   "value": "— *I'm fine, Mum. Really.*"
+  },
+  {
+   "type": "text",
+   "value": "Un silence au bout du fil. Margaret Hale avait été mère pendant trente-deux ans et professeure de piano pendant quarante. Elle savait reconnaître une fausse note."
+  },
+  {
+   "type": "text",
+   "value": "— *You sound tired.*"
+  },
+  {
+   "type": "text",
+   "value": "— *It's the end of the semester. Lots of marking.*"
+  },
+  {
+   "type": "text",
+   "value": "— *And Bertrand?*"
+  },
+  {
+   "type": "text",
+   "value": "Élise leva les yeux vers le plafond. Vers le bureau, à l'étage, dont la porte était ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— *Bertrand is wonderful. He sends his love. He's working very hard. He might become president of the university next year.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Hmm,* fit Margaret."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait jamais aimé Bertrand. Elle ne l'avait jamais dit. Elle disait seulement « Hmm », chaque fois qu'Élise prononçait son nom, et c'était un *hmm* qui contenait des volumes entiers."
+  },
+  {
+   "type": "text",
+   "value": "— *Darling,* dit Margaret. *You haven't come home for three Christmases.*"
+  },
+  {
+   "type": "text",
+   "value": "— *I know, Mum. Bertrand has his family dinners in Arcachon. It's difficult.*"
+  },
+  {
+   "type": "text",
+   "value": "— *You could come alone.*"
+  },
+  {
+   "type": "text",
+   "value": "— *I can't leave him alone for Christmas.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Hmm.*"
+  },
+  {
+   "type": "text",
+   "value": "Un long silence. Élise entendait, au bout du fil, la pendule de la maison de Bath. Le tic-tac qu'elle connaissait par cœur."
+  },
+  {
+   "type": "text",
+   "value": "— *Are you happy, Élise?* demanda doucement Margaret."
+  },
+  {
+   "type": "text",
+   "value": "C'était la question. La question que sa mère ne lui avait jamais posée directement en sept ans. Élise ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— *Yes, Mum,* dit-elle. *I'm very happy.*"
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Le dimanche à 17 h"
+  },
+  {
+   "type": "text",
+   "value": "À l'étage, la porte du bureau grinça. Des pas sur le palier. Élise entendit Bertrand descendre l'escalier, lentement. Elle ouvrit les yeux. Il apparut dans l'encadrement de la porte du salon. Il souriait. Il articula, sans un son : *Dis-lui bonjour de ma part.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Bertrand says hello,* dit Élise."
+  },
+  {
+   "type": "text",
+   "value": "— *Hmm,* dit Margaret. *Give him my regards.*"
+  },
+  {
+   "type": "text",
+   "value": "Ce week-end-là, Nathan était rentré à Mont-de-Marsan."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois depuis septembre. Il prit le train du vendredi soir, deux heures de TER à travers les pins des Landes, avec son attelle, son sac à dos et *Jane Eyre*. Sa mère l'attendait sur le quai de la gare, en blouse d'aide-soignante sous son manteau, parce qu'elle sortait de sa garde de l'après-midi et qu'elle n'avait pas eu le temps de se changer."
+  },
+  {
+   "type": "text",
+   "value": "Elle vit l'attelle. Elle ne dit rien sur le quai. Elle le serra dans ses bras, très fort, longtemps, comme quand il avait dix ans et qu'il était resté à la fenêtre jusqu'à la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Dans la voiture, elle dit seulement :"
+  },
+  {
+   "type": "text",
+   "value": "— Lina m'a appelée."
+  },
+  {
+   "type": "text",
+   "value": "— Lina ? Comment elle a eu ton numéro ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas. Elle a l'air de savoir trouver les choses, cette petite. Elle m'a dit pour Chloé. Et pour Hugo. Et pour ta main. Elle m'a dit de ne pas t'en parler si tu ne voulais pas. Alors je ne t'en parle pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle conduisit en silence jusqu'à la cité des Arènes."
+  },
+  {
+   "type": "text",
+   "value": "L'appartement était le même. Trois pièces au quatrième étage, sans ascenseur, avec une vue sur les toits et le clocher de la Madeleine. La cuisine trop petite où on ne pouvait pas être deux sans se cogner. Le canapé défoncé devant la télévision. Les photos sur le buffet : Nathan et Théo bébés, Nathan et Théo à la plage de Mimizan, Nathan avec son bac, Théo avec son brevet. Pas une seule photo de leur père. Elle les avait toutes rangées dans une boîte, le dimanche de la cigarette, et la boîte n'était jamais ressortie."
+  },
+  {
+   "type": "text",
+   "value": "Théo était là. Il avait encore grandi. Il dépassait Nathan d'une demi-tête maintenant, avec des épaules de rugbyman et une moustache naissante dont il était très fier."
+  },
+  {
+   "type": "text",
+   "value": "— T'as frappé un mur ? dit Théo en voyant l'attelle. Sérieux ? T'es un gros débile."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Théo."
+  },
+  {
+   "type": "text",
+   "value": "— Fallait frapper Hugo."
+  },
+  {
+   "type": "text",
+   "value": "— Théo ! dit leur mère."
+  },
+  {
+   "type": "text",
+   "value": "— Bah quoi ? Je dis ce que tout le monde pense."
+  },
+  {
+   "type": "text",
+   "value": "Ils mangèrent des magrets de canard, parce que c'était le plat préféré de Nathan et que sa mère en avait acheté au marché du samedi exprès. Théo lui coupa sa viande sans qu'il demande. Personne ne parla de Chloé. Ils parlèrent du concours de pompier de Théo, du nouveau chef de service de leur mère qui était « un incapable », des voisins du troisième qui divorçaient."
+  },
+  {
+   "type": "text",
+   "value": "C'était exactement ce dont il avait besoin. De l'amour sans phrases."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Magret en famille"
+  },
+  {
+   "type": "text",
+   "value": "Le samedi soir, il était allongé sur le lit de sa chambre d'enfant, sous les posters de foot qu'il n'avait jamais enlevés, et il relisait le chapitre vingt-trois de *Jane Eyre*. Celui de la demande en mariage dans le jardin, sous le marronnier. Il l'avait lu trois fois. Il ne savait pas pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Sa mère frappa à la porte. Elle entra avec deux tasses de tisane. Elle s'assit au bord du lit."
+  },
+  {
+   "type": "text",
+   "value": "— Tu lis de l'anglais, maintenant, le samedi soir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pour la certification."
+  },
+  {
+   "type": "text",
+   "value": "— Hmm."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda la couverture du livre. Elle regarda les annotations au crayon dans les marges, d'une écriture fine et penchée qui n'était pas celle de son fils."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ta prof qui te l'a prêté ?"
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Elle t'aide beaucoup, cette prof."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Sa mère but une gorgée de tisane. Elle regarda son fils. Elle avait été aide-soignante pendant vingt-cinq ans. Elle avait vu mourir des gens, naître des gens, mentir des gens. Elle savait lire un visage mieux que n'importe qui."
+  },
+  {
+   "type": "text",
+   "value": "— Fais attention, mon grand, dit-elle doucement."
+  },
+  {
+   "type": "text",
+   "value": "— À quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Elle lui embrassa le front, comme quand il était petit, et sortit en refermant la porte."
+  },
+  {
+   "type": "text",
+   "value": "Le dimanche soir, il était dans le train du retour, entre Morcenx et Bordeaux, à travers les pins noirs et la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Son téléphone vibra."
+  },
+  {
+   "type": "text",
+   "value": "Un SMS. D'un numéro qu'il ne connaissait pas. Un numéro français, en 06."
+  },
+  {
+   "type": "text",
+   "value": "Pendant deux mois, ils ne s'étaient écrit que par l'adresse électronique de l'université. Des mails courts, officiels, en anglais. *Tuesday, 6 pm, chapter 15.* *Don't forget your vocabulary list.* Jamais rien d'autre. Elle avait dû trouver son numéro de portable sur sa fiche d'inscription. Il ne lui avait jamais donné."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit le message."
+  },
+  {
+   "type": "text",
+   "value": "C'était en anglais. Une seule ligne."
+  },
+  {
+   "type": "text",
+   "value": "*I told my mother I was happy. I've never lied so well.*"
+  },
+  {
+   "type": "text",
+   "value": "Il le relut. Une fois. Deux fois. Dix fois. Le train traversait la nuit des Landes. Dehors, il n'y avait rien, que les pins et l'obscurité. Dans la vitre, il voyait son propre reflet, avec le téléphone allumé dans la main."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Train de nuit"
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas quoi répondre. Il tapa plusieurs phrases. Il les effaça. Il en tapa d'autres. Il les effaça aussi."
+  },
+  {
+   "type": "text",
+   "value": "À la fin, il écrivit seulement, en anglais :"
+  },
+  {
+   "type": "text",
+   "value": "*You don't have to lie to me.*"
+  },
+  {
+   "type": "text",
+   "value": "Il hésita longtemps, le pouce au-dessus de l'écran. Le train ralentit. Une gare dans la nuit, déserte. Labouheyre. Puis il repartit."
+  },
+  {
+   "type": "text",
+   "value": "Il appuya sur *envoyer*."
+  },
+  {
+   "type": "text",
+   "value": "Le message passa en *distribué*. Puis, presque aussitôt, en *lu*."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas."
+  }
+ ]
+}

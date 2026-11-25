@@ -1,0 +1,293 @@
+{
+ "number": 24,
+ "title": "Deux rives",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Février passa. Puis mars."
+  },
+  {
+   "type": "text",
+   "value": "Nathan travaillait."
+  },
+  {
+   "type": "text",
+   "value": "Il travaillait comme il n'avait jamais travaillé de sa vie. La bourse avait été rétablie, avec trois mois d'arriérés, et pour la première fois depuis septembre il n'avait plus peur de la fin du mois. Il avait quitté le canapé de la réserve de la laverie pour une chambre de onze mètres carrés dans une résidence du CROUS, à Pessac, avec un lit, un bureau, un lavabo et une fenêtre qui donnait sur un parking. Il trouvait ça magnifique."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-1.webp",
+   "caption": "Onze mètres carrés"
+  },
+  {
+   "type": "text",
+   "value": "Il gardait ses nuits à la laverie. Trois par semaine, au lieu de cinq. Monsieur Kowalski avait embauché un jeune Ukrainien pour les deux autres, un étudiant en médecine qui pliait le linge n'importe comment et que le vieux marin corrigeait avec une patience infinie."
+  },
+  {
+   "type": "text",
+   "value": "Le reste du temps, il préparait la certification."
+  },
+  {
+   "type": "text",
+   "value": "Il se levait à six heures. Il lisait en anglais une heure avant les cours. Il écoutait la BBC dans le tram. Il regardait des séries anglaises sans sous-titres le soir. Il parlait anglais tout seul en marchant sur le campus, à voix basse, et les gens le regardaient bizarrement, et il s'en fichait. Le mardi, à dix-huit heures, par habitude, il passait devant le bureau 214. La plaque avait été retirée. Sur la porte, il ne restait que le petit autocollant de la tasse de thé fumante, que personne n'avait pensé à décoller."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lui écrivait pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle le lui avait demandé. *Don't look for me. Please. Don't call, don't write.* Il respectait sa demande. Ce n'était pas facile. Certaines nuits, à la laverie, il avait son téléphone dans la main pendant une heure, avec un message tapé et pas envoyé. Il ne l'envoyait jamais. De toute façon, il n'avait pas son numéro."
+  },
+  {
+   "type": "text",
+   "value": "Lina lui disait qu'il était un saint. Hugo lui disait qu'il était fou. Sa mère ne lui disait rien. Elle l'appelait tous les dimanches, à dix-sept heures, ce qu'elle n'avait jamais fait avant. Il ne lui avait pas demandé pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Élise, à Bath, apprenait à respirer."
+  },
+  {
+   "type": "text",
+   "value": "La maison de Pulteney Street était petite, haute et étroite, avec des fenêtres à guillotine, des moquettes à fleurs, un piano à queue dans le salon et un jardin minuscule plein de roses que sa mère taillait elle-même. Rien n'avait changé depuis son enfance. Sa chambre, au dernier étage, sous les toits, avait toujours le même papier peint jaune pâle, les mêmes étagères pleines de romans, la même fenêtre d'où l'on voyait les toits de la ville et, au loin, les collines vertes du Somerset."
+  },
+  {
+   "type": "text",
+   "value": "Les premières semaines, elle dormit. Douze heures par nuit. Quatorze, parfois. Elle n'avait pas dormi comme ça depuis des années. Elle se réveillait sans savoir où elle était, et le premier son qu'elle entendait, c'était le piano. Sa mère donnait ses leçons au rez-de-chaussée. Des enfants qui massacraient Clementi. Des adolescents qui jouaient Chopin trop vite. Élise restait au lit à les écouter, et elle pleurait sans savoir pourquoi, et ce n'était pas des larmes tristes."
+  },
+  {
+   "type": "text",
+   "value": "Margaret ne posait pas de questions. Elle faisait du thé. Elle le faisait trop fort, comme toujours, si fort qu'on aurait pu y faire tenir une cuillère debout. Elle en apportait une tasse à sa fille, le matin, et la posait sur la table de nuit sans un mot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "Le thé de Margaret"
+  },
+  {
+   "type": "text",
+   "value": "Un matin, Élise lui dit :"
+  },
+  {
+   "type": "text",
+   "value": "— *You never liked him.*"
+  },
+  {
+   "type": "text",
+   "value": "Margaret, qui ouvrait les rideaux, s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— *No.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Why didn't you say anything?*"
+  },
+  {
+   "type": "text",
+   "value": "Sa mère se retourna. Elle avait soixante et un ans, des cheveux blancs relevés en chignon, et le même regard gris-vert que sa fille."
+  },
+  {
+   "type": "text",
+   "value": "— *Because you were twenty-five, and you were in love, and you would have hated me. And I thought you would need someone who hadn't said \"I told you so\". When the day came.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit au bord du lit."
+  },
+  {
+   "type": "text",
+   "value": "— *I've been waiting seven years for this phone call, darling. Every Sunday. Every single Sunday, at five o'clock, I picked up the phone and I hoped. And every Sunday, you said you were happy. And I knew you were lying. And I didn't know what to do.*"
+  },
+  {
+   "type": "text",
+   "value": "Élise la regarda. Elle prit sa main."
+  },
+  {
+   "type": "text",
+   "value": "— *I'm sorry, Mum.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Don't you ever say sorry to me again. Not for this.*"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut une psychologue. Une femme d'origine indienne, à Bristol, spécialisée dans les violences conjugales, que la brigadière-chef Lemaire avait recommandée par l'intermédiaire d'une association franco-britannique. Élise la voyait deux fois par semaine. Elle prenait le train de Bath à Bristol, quarante minutes, à travers la campagne verte et les moutons. Au début, elle ne parlait pas. Puis elle parla trop. Puis elle apprit à parler juste."
+  },
+  {
+   "type": "text",
+   "value": "Elle apprit des choses. Que ce qu'elle avait vécu avait un nom, plusieurs noms : le cycle de la violence, l'emprise, le contrôle coercitif. Que tout ce qu'elle avait cru être des défauts à elle, trop parler, trop rire, trop cuire le rôti, avait été choisi par lui, un par un, pour qu'elle se sente coupable. Que la honte n'était pas la sienne. Que le fait d'avoir porté plainte, après sept ans, ne faisait pas d'elle une femme faible qui avait attendu trop longtemps, mais une femme forte qui avait survécu assez longtemps pour le faire."
+  },
+  {
+   "type": "text",
+   "value": "Elle apprit aussi qu'il était normal de ne plus savoir ce qu'elle aimait."
+  },
+  {
+   "type": "text",
+   "value": "— *What do you like, Élise?* lui demanda la psychologue, un jour. *Not what he liked. Not what you thought you should like. What do you like?*"
+  },
+  {
+   "type": "text",
+   "value": "Élise réfléchit très longtemps. Elle ne savait pas. Elle ne savait vraiment pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle rentra à Bath. Le soir, elle sortit marcher. Elle descendit jusqu'à l'Avon, la rivière qui traversait la ville, avec son pont aux boutiques et sa cascade en escalier sous la lumière du soir. Elle marcha le long de l'eau, sur le chemin de halage, jusqu'à la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit une liste dans sa tête."
+  },
+  {
+   "type": "text",
+   "value": "*I like walking by the river.*"
+  },
+  {
+   "type": "text",
+   "value": "*I like the smell of my mother's tea, even if it's too strong.*"
+  },
+  {
+   "type": "text",
+   "value": "*I like the sound of children playing the piano badly.*"
+  },
+  {
+   "type": "text",
+   "value": "*I like Jane Eyre.*"
+  },
+  {
+   "type": "text",
+   "value": "*I like teaching.*"
+  },
+  {
+   "type": "text",
+   "value": "*I like laughing too loud.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta sur le pont. Elle regarda l'eau qui tombait de la cascade, en dessous, blanche et bruyante."
+  },
+  {
+   "type": "text",
+   "value": "*I like laundromats at three in the morning.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle resta longtemps sur le pont."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "Le pont sur l'Avon"
+  },
+  {
+   "type": "text",
+   "value": "À la mi-mars, elle eut une nouvelle de Bordeaux."
+  },
+  {
+   "type": "text",
+   "value": "Samia l'appela. L'enquête avançait. La réquisition judiciaire avait été faite. L'hébergeur de l'adresse jetable, une société américaine, avait répondu au bout de six semaines. Le mail envoyé à Chloé le 26 décembre provenait d'une connexion internet résidentielle, à Arcachon. Une connexion au nom de madame Simone Fournier. La mère de Bertrand. La maison face au bassin. Le lendemain de Noël."
+  },
+  {
+   "type": "text",
+   "value": "— Il l'a envoyé depuis chez sa mère, dit Samia. Le 26, à sept heures du matin. Pendant que tu dormais encore dans la chambre du deuxième étage."
+  },
+  {
+   "type": "text",
+   "value": "Élise ferma les yeux. Elle se souvenait de ce matin-là. Son côté du lit à lui, vide, au carré. Le téléphone posé si droit à côté de son journal. *Tu l'avais oublié dans la salle de bains. Je te l'ai rapporté.*"
+  },
+  {
+   "type": "text",
+   "value": "— Le procureur a joint les deux affaires, continua Samia. Les violences, et la dénonciation calomnieuse. Le procès aura lieu en juin. Au tribunal correctionnel de Bordeaux. Tu devras témoigner, Élise. Tu devras être là."
+  },
+  {
+   "type": "text",
+   "value": "— Je serai là, dit Élise."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence."
+  },
+  {
+   "type": "text",
+   "value": "— Et lui ? demanda Samia doucement. Le garçon ?"
+  },
+  {
+   "type": "text",
+   "value": "Élise ne répondit pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Il est relaxé, dit Samia. Tu le sais. Je te l'ai dit. Il a retrouvé sa bourse. Il prépare sa certification. Il m'a appelée une fois, le jour de l'audience. Il voulait que je te dise. Je ne lui ai rien donné. Comme tu me l'avais demandé."
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne m'a jamais rappelée. Il a respecté ce que tu voulais. Il n'a jamais essayé de te trouver."
+  },
+  {
+   "type": "text",
+   "value": "Élise regarda par la fenêtre de sa chambre. Les toits de Bath, la pluie fine, les collines."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit-elle. C'est pour ça."
+  },
+  {
+   "type": "text",
+   "value": "Le 2 avril, à la laverie de la rue des Faures, le facteur apporta le courrier à onze heures, comme tous les matins."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Kowalski le tria derrière son comptoir. Des factures. Des publicités. Une lettre de la mairie au sujet de l'enseigne au néon, qui devait être « mise aux normes » et qu'il ne mettrait jamais aux normes."
+  },
+  {
+   "type": "text",
+   "value": "Et une enveloppe blanche, petite, carrée, avec un timbre anglais. Le profil de la reine. Pas de nom d'expéditeur. Juste une adresse, d'une écriture fine et penchée, à l'encre verte :"
+  },
+  {
+   "type": "text",
+   "value": "*Nathan — Lavomatic Kowalski — rue des Faures — Bordeaux — France.*"
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Kowalski regarda l'enveloppe longtemps. Il regarda le timbre. Il regarda l'encre verte."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la donna pas au jeune Ukrainien. Il la posa sur le comptoir, bien en vue, contre la boîte à monnaie, et attendit."
+  },
+  {
+   "type": "text",
+   "value": "Nathan arriva à vingt-deux heures pour son service."
+  },
+  {
+   "type": "text",
+   "value": "Le vieux marin ne dit rien. Il poussa simplement l'enveloppe vers lui, du bout du doigt."
+  },
+  {
+   "type": "text",
+   "value": "Nathan la vit. Il vit l'encre verte. Il s'arrêta, au milieu de la laverie, son sac encore sur l'épaule."
+  },
+  {
+   "type": "text",
+   "value": "Il la prit. Ses mains ne tremblaient pas. Il en fut surpris. Il l'ouvrit avec précaution, comme on ouvre quelque chose qui pourrait s'envoler."
+  },
+  {
+   "type": "text",
+   "value": "À l'intérieur, il n'y avait pas de lettre."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait une seule carte, blanche, épaisse, sans illustration. Et au milieu de la carte, à l'encre verte, de son écriture à elle, un seul mot. En anglais."
+  },
+  {
+   "type": "text",
+   "value": "*Breathe.*"
+  }
+ ]
+}

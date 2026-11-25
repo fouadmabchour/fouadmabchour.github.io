@@ -1,0 +1,249 @@
+{
+ "number": 11,
+ "title": "Ce qu'on ne doit pas",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le mardi suivant, il y eut un mail."
+  },
+  {
+   "type": "text",
+   "value": "*Dear Nathan, I'm afraid I have to cancel our session today. Too much marking before the holidays. Please continue with chapter 28. Best regards, E. Fournier.*"
+  },
+  {
+   "type": "text",
+   "value": "*Best regards.* Pas *See you soon*. Pas *Take care*. *Best regards*, comme pour un collègue, comme pour un inconnu."
+  },
+  {
+   "type": "text",
+   "value": "Le mardi d'après, un autre mail."
+  },
+  {
+   "type": "text",
+   "value": "*Dear Mr Leroy, I won't be available this week either. I suggest you use the online resources of the language centre for your preparation. Best regards, E. Fournier.*"
+  },
+  {
+   "type": "text",
+   "value": "*Mr Leroy.* Plus Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Il comprit. Il comprit tout de suite, en lisant le premier, et il refusa de comprendre en lisant le deuxième."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'éloignait. Exprès. Elle avait vu la même chose que lui, dans la laverie, au petit matin, et elle avait fait ce qu'il fallait faire. Ce qu'une professeure honnête, une femme mariée, une adulte responsable devait faire. Elle fermait la porte."
+  },
+  {
+   "type": "text",
+   "value": "Il le savait. Il savait qu'elle avait raison. Il se le répéta toute la journée."
+  },
+  {
+   "type": "text",
+   "value": "Ça ne l'empêcha pas de devenir fou."
+  },
+  {
+   "type": "text",
+   "value": "Il rata son partiel de linguistique. Il le rata complètement : il resta une heure devant sa copie sans écrire une ligne, à regarder par la fenêtre de l'amphithéâtre les platanes nus sous la pluie. Il rendit une feuille presque blanche."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "Copie blanche"
+  },
+  {
+   "type": "text",
+   "value": "Il se trompa de linge à la laverie. Trois fois en une semaine. Il rendit à une infirmière du CHU le sac de linge d'un chauffeur de taxi, et au chauffeur de taxi les blouses de l'infirmière. Monsieur Kowalski dut s'excuser pendant dix minutes auprès des deux."
+  },
+  {
+   "type": "text",
+   "value": "Il se disputa avec Lina."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut un jeudi soir, chez elle, rue Kléber, où il était venu manger des pâtes. Elle lui demanda, en égouttant les spaghettis, s'il allait mieux, parce qu'il avait une tête de déterré. Il dit que oui. Elle dit qu'il mentait. Il dit que ce n'était pas ses affaires. Elle posa la passoire dans l'évier et se retourna vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— C'est elle, hein ?"
+  },
+  {
+   "type": "text",
+   "value": "— Qui ?"
+  },
+  {
+   "type": "text",
+   "value": "— La femme. Celle dont le mari la frappe. Celle que tu ne peux pas nommer. Je ne suis pas idiote, Nathan. Tu ne parles que d'elle sans jamais en parler."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Nathan. Écoute-moi. Je ne sais pas qui c'est. Je ne veux pas le savoir. Mais si tu es en train de tomber amoureux d'une femme qui vit avec un homme violent, tu dois savoir une chose : c'est elle qui est en danger. Pas toi. Elle. Si le mari se doute de quelque chose…"
+  },
+  {
+   "type": "text",
+   "value": "— Il ne se doute de rien."
+  },
+  {
+   "type": "text",
+   "value": "— T'en sais rien."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne se passe rien ! cria Nathan. Il ne se passe rien, Lina ! Elle ne me parle plus ! Elle annule tout ! Elle m'appelle *Mr Leroy* ! Il ne se passe rien, il ne se passera jamais rien, et c'est très bien comme ça !"
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta. Il s'était levé. Il avait renversé sa chaise."
+  },
+  {
+   "type": "text",
+   "value": "Lina le regarda. Elle ne dit rien pendant longtemps. Puis elle ramassa la chaise, la remit en place, et servit les pâtes dans deux assiettes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "Pardon d'avoir raison"
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi, dit-elle. Mange. Et pardon."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon pour quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pour avoir raison."
+  },
+  {
+   "type": "text",
+   "value": "Élise, pendant ce temps, faisait quelque chose qu'elle n'avait pas fait depuis sept ans."
+  },
+  {
+   "type": "text",
+   "value": "Elle appela Samia."
+  },
+  {
+   "type": "text",
+   "value": "Samia Benali était la seule amie qui lui restait de ses années d'étudiante. Elles s'étaient connues en première année de fac, à Bordeaux, dans un cours de latin que ni l'une ni l'autre ne comprenait. Samia avait abandonné les lettres pour le droit, était devenue avocate en droit de la famille, s'était mariée avec un pédiatre, avait eu deux enfants, et elle avait continué, contre vents et marées, à appeler Élise une fois par mois, même quand Élise ne rappelait pas, même quand Élise annulait leurs déjeuners au dernier moment, même quand Bertrand répondait au téléphone avec cette voix froide qu'il prenait pour les gens qu'il n'aimait pas."
+  },
+  {
+   "type": "text",
+   "value": "Elles déjeunèrent ensemble le vendredi, dans un petit restaurant libanais derrière le cours Victor-Hugo, à l'heure où Bertrand donnait son cours magistral et ne pouvait pas appeler."
+  },
+  {
+   "type": "text",
+   "value": "Élise ne savait pas par où commencer. Elle commanda un taboulé. Elle ne le mangea pas."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle releva sa manche."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait pas de bleus, ce jour-là. Mais elle releva sa manche quand même, très lentement, et elle montra à Samia son poignet nu. Comme on montre une preuve qui n'existe pas encore. Comme on dit : regarde, c'est ici. C'est ici que ça se passe."
+  },
+  {
+   "type": "text",
+   "value": "Samia regarda le poignet. Elle regarda Élise. Elle posa sa fourchette."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis quand ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Juste ça. Pas *quoi*. Pas *qui*. *Depuis quand.* Comme si elle savait déjà. Comme si elle avait toujours su."
+  },
+  {
+   "type": "text",
+   "value": "Élise lui raconta tout."
+  },
+  {
+   "type": "text",
+   "value": "Elle raconta pendant deux heures. Les débuts, les premières années, le charme de Bertrand, ses attentions, sa jalousie qu'elle avait prise pour de l'amour. Les premières critiques. Les amis qui disparaissaient. La première gifle, au bout de deux ans, dans la cuisine, pour une histoire de rôti trop cuit. Les excuses, les fleurs, les larmes de Bertrand, qui pleurait mieux qu'elle. Les escaliers. Les manches longues. La nuit des urgences. La tasse de la reine d'Angleterre."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne parla pas de Nathan. Pas de la laverie. Elle n'en avait pas le droit."
+  },
+  {
+   "type": "text",
+   "value": "Samia écouta sans l'interrompre. Quand Élise eut fini, il était quinze heures, le restaurant était vide, et le patron empilait les chaises autour d'elles."
+  },
+  {
+   "type": "text",
+   "value": "Samia prit les mains d'Élise par-dessus la table."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "Le restaurant libanais"
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas m'écouter, dit-elle. Je fais ce métier depuis dix ans. Je vais te dire trois choses. La première : ce n'est pas ta faute. Jamais. Pas une seule fois. Tu peux trop parler, trop rire, trop cuire le rôti, ce n'est pas ta faute. La deuxième : tu vas partir. Pas aujourd'hui, pas forcément demain, mais tu vas partir, et je vais t'aider, et on va le faire bien, avec des preuves, avec un plan, pour que tu sois en sécurité. La troisième…"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta. Elle hésita."
+  },
+  {
+   "type": "text",
+   "value": "— La troisième, c'est que tu n'es pas la première."
+  },
+  {
+   "type": "text",
+   "value": "Élise la regarda sans comprendre."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu veux dire ?"
+  },
+  {
+   "type": "text",
+   "value": "Samia sortit son téléphone. Elle chercha quelque chose. Elle tourna l'écran vers Élise."
+  },
+  {
+   "type": "text",
+   "value": "— Quand tu t'es mariée avec lui, il y a sept ans, je me suis renseignée. Je ne te l'ai jamais dit. Tu étais si heureuse. Je me suis dit que je me trompais. J'ai fait des recherches, par habitude professionnelle. Je n'ai pas trouvé grand-chose. Juste ça."
+  },
+  {
+   "type": "text",
+   "value": "C'était la photo d'un vieux document. Un procès-verbal de main courante, au commissariat de Bordeaux, daté de quatorze ans plus tôt. Les noms étaient en partie masqués, mais pas tous. Une femme était venue déclarer des « violences verbales et physiques répétées » de la part de son époux. Elle n'avait pas porté plainte. Elle avait seulement voulu « que ce soit écrit quelque part »."
+  },
+  {
+   "type": "text",
+   "value": "La déclarante s'appelait Catherine."
+  },
+  {
+   "type": "text",
+   "value": "Catherine Fournier."
+  },
+  {
+   "type": "text",
+   "value": "— C'était sa première femme, dit Samia doucement. Ils ont divorcé deux ans après cette main courante. Elle a quitté Bordeaux. Personne ne sait où elle est allée."
+  },
+  {
+   "type": "text",
+   "value": "Élise regarda le nom sur l'écran."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait toujours su qu'il y avait eu une première femme. Bertrand en parlait peu. Il disait qu'elle était « instable ». Qu'elle avait « des problèmes ». Qu'elle avait failli « le détruire ». Il disait ça avec une tristesse digne, en secouant la tête, et Élise l'avait plaint. Elle avait plaint son mari d'avoir eu une première femme si cruelle."
+  },
+  {
+   "type": "text",
+   "value": "*Instable.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda le nom encore une fois. Le restaurant tournait autour d'elle."
+  }
+ ]
+}

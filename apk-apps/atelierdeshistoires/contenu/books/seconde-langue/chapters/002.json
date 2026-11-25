@@ -1,0 +1,293 @@
+{
+ "number": 2,
+ "title": "Une chute dans l'escalier",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Pendant une seconde, aucun des deux ne bougea."
+  },
+  {
+   "type": "text",
+   "value": "Élise Fournier regarda le garçon assis en face d'elle, avec sa veste kaki tachée de sang, sa main enveloppée dans une poche de glace, son visage blanc. Elle chercha son nom. Elle avait deux cent quarante étudiants cette année, répartis sur cinq groupes. Elle se souvenait de tous les visages et de très peu de noms. Mais celui-là, elle le connaissait. Le garçon du troisième rang, à droite, près de la fenêtre. Celui qui avait toujours un stylo derrière l'oreille. Celui qui avait raté sa certification d'anglais deux fois et qui écrivait pourtant les plus belles traductions de la promo, avec des fautes de grammaire qui la faisaient sourire."
+  },
+  {
+   "type": "text",
+   "value": "Leroy. Nathan Leroy."
+  },
+  {
+   "type": "text",
+   "value": "Elle baissa la tête très vite. Elle remonta le mouchoir contre sa bouche, comme pour cacher sa lèvre, ce qui était absurde : il l'avait vue. Elle sentit le rouge lui monter au visage, sous le fond de teint qu'elle avait mis en vitesse dans la voiture, à la lumière du plafonnier."
+  },
+  {
+   "type": "text",
+   "value": "Il fallait dire quelque chose. Le silence était pire que tout."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Leroy, dit-elle sans lever les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Madame Fournier."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix à lui était rauque. Il avait pleuré, peut-être. Ou crié. Ou les deux."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui vous est arrivé ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "C'était une question de professeure. Une question polie, distante. Une question qu'on pose pour qu'on vous la retourne, et pour avoir déjà sa réponse prête."
+  },
+  {
+   "type": "text",
+   "value": "— Un mur, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Elle releva les yeux. Il ne souriait pas. Il ne plaisantait pas. Il avait dit ça simplement, comme on dit l'heure."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous ? dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Voilà. La question revenait. Elle l'attendait. Elle avait sa réponse. Elle l'avait déjà donnée à l'infirmière de l'accueil, une demi-heure plus tôt, et l'infirmière l'avait notée sans la regarder, avec cette lassitude qu'Élise avait appris à reconnaître chez les soignants."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis tombée dans l'escalier, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Nathan la regarda longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda sa lèvre fendue. Il regarda son manteau boutonné jusqu'au cou. Il regarda ses mains qui tenaient le mouchoir et qui tremblaient légèrement. Il regarda la petite marque rouge, sur sa pommette gauche, à moitié cachée par le fond de teint, qui avait la forme d'un rectangle. La forme d'une bague, peut-être."
+  },
+  {
+   "type": "text",
+   "value": "Il ne dit rien. Il hocha la tête."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Face à face"
+  },
+  {
+   "type": "text",
+   "value": "C'était la chose la plus gentille qu'on lui ait faite depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent assis face à face pendant un quart d'heure, sans parler. Le bébé s'était endormi. L'ivrogne avait été emmené par deux infirmiers. Le vieux monsieur en pyjama dormait. Sur l'écran muet, le match de rugby s'était terminé, et des présentateurs en costume parlaient de choses que personne n'entendait."
+  },
+  {
+   "type": "text",
+   "value": "Élise regardait ses mains. Nathan regardait la sienne."
+  },
+  {
+   "type": "text",
+   "value": "Puis il dit, sans la regarder, très bas :"
+  },
+  {
+   "type": "text",
+   "value": "— *It's a strange place to meet your teacher.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle leva la tête, surprise. Il avait parlé en anglais. Avec son accent de Mont-de-Marsan, un peu lourd, un peu chantant, celui qui lui avait fait rater deux fois l'épreuve orale de la certification."
+  },
+  {
+   "type": "text",
+   "value": "Elle comprit pourquoi il avait fait ça. Autour d'eux, il y avait des gens. Une femme, deux rangs plus loin, qui écoutait tout sans en avoir l'air. Un infirmier qui passait. En anglais, ils étaient seuls."
+  },
+  {
+   "type": "text",
+   "value": "— *It is,* dit-elle doucement. *And a strange time.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Midnight.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Almost.*"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Puis il ajouta, en cherchant ses mots, en anglais toujours :"
+  },
+  {
+   "type": "text",
+   "value": "— *My girlfriend. With my best friend. Tonight. In my bed.*"
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait dit avec une simplicité terrible, comme une liste de courses. Elle sentit quelque chose se serrer dans sa poitrine. Elle connaissait ce ton. C'était le ton des gens qui n'ont pas encore commencé à souffrir, parce que le choc tient encore la douleur à distance, comme une vitre."
+  },
+  {
+   "type": "text",
+   "value": "— *I'm sorry,* dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— *Me too.*"
+  },
+  {
+   "type": "text",
+   "value": "Il regarda sa main bandée de glace, les jointures noires de sang séché."
+  },
+  {
+   "type": "text",
+   "value": "— *The wall didn't do anything wrong,* ajouta-t-il. *Poor wall.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle eut un petit rire. Un vrai. Il fit mal à sa lèvre, et elle porta la main à sa bouche, et il vit qu'elle avait mal, et il vit qu'elle riait quand même. Il sourit aussi. C'était absurde. Ils étaient aux urgences à minuit, lui avec une main cassée, elle avec une lèvre fendue, et ils riaient d'un mur."
+  },
+  {
+   "type": "text",
+   "value": "— *Your English is better than you think, Mr. Leroy,* dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— *Not on Tuesdays,* dit-il. *On Tuesdays, I fail exams.*"
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "Rire d'un mur"
+  },
+  {
+   "type": "text",
+   "value": "Elle allait répondre. Elle avait déjà la phrase. Quelque chose sur la certification, sur le mois de mai, sur le fait qu'il fallait qu'il vienne la voir à son bureau."
+  },
+  {
+   "type": "text",
+   "value": "La porte automatique de l'entrée s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "L'homme qui entra était grand, élégant, les cheveux poivre et sel coiffés avec soin, rasé de près malgré l'heure. Il portait un costume trois-pièces bleu marine, une cravate de soie, et un pardessus sombre jeté sur les épaules. Il avait l'air d'un homme qui sort d'un dîner important et qui a été dérangé au moment du dessert. Il avait des yeux d'un bleu très pâle, très clair, presque transparent."
+  },
+  {
+   "type": "text",
+   "value": "Nathan le reconnut immédiatement. Tout le monde à l'université le connaissait. Sa photo était sur la page d'accueil du site, à côté de celle du président. Il signait les mails officiels. Il avait fait le discours de rentrée en septembre, dans le grand amphithéâtre, un discours sur « l'université comme famille », que tout le monde avait trouvé très beau."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand Fournier. Professeur de droit. Vice-président de l'université."
+  },
+  {
+   "type": "text",
+   "value": "Il traversa la salle d'attente sans se presser. Il s'arrêta à l'accueil, parla doucement avec l'infirmière, sourit. L'infirmière sourit aussi. Il avait ce don-là, de faire sourire les gens fatigués. Puis il se tourna vers la salle, aperçut Élise, et son visage s'éclaira d'une inquiétude parfaite."
+  },
+  {
+   "type": "text",
+   "value": "— Ma chérie, dit-il en venant vers elle. Mon Dieu. On m'a appelé. Pourquoi tu ne m'as pas réveillé ? Tu es partie toute seule ? En voiture ? Dans cet état ?"
+  },
+  {
+   "type": "text",
+   "value": "Il s'accroupit devant elle. Il prit son visage entre ses mains avec une infinie délicatesse. Il regarda sa lèvre."
+  },
+  {
+   "type": "text",
+   "value": "— Ces escaliers, dit-il en secouant la tête. Je te l'ai dit cent fois. Il faut mettre une lumière dans cet escalier."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Élise."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix avait changé. Nathan l'entendit. Elle était devenue petite, plate, obéissante. La voix d'une élève qui récite une leçon."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand se releva. Il remarqua alors Nathan, assis juste en face, la main en sang. Il eut une demi-seconde d'arrêt, imperceptible. Puis il sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, jeune homme. Vous êtes blessé, vous aussi ? Quelle soirée."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut faire attention à soi. On n'a qu'un corps."
+  },
+  {
+   "type": "text",
+   "value": "Il dit ça aimablement, comme un conseil de grand-père. Puis il aida Élise à se lever. Il passa le bras autour de sa taille. Il posa sa main sur sa nuque, sous le chignon défait, d'un geste tendre, protecteur."
+  },
+  {
+   "type": "text",
+   "value": "Nathan vit les doigts de Bertrand se refermer sur cette nuque. Doucement. Fermement. Comme on tient un animal qu'on ramène à la maison."
+  },
+  {
+   "type": "text",
+   "value": "Et il vit Élise se raidir. Juste un peu. Juste assez pour qu'un garçon qui venait de passer un quart d'heure à la regarder s'en rende compte."
+  },
+  {
+   "type": "text",
+   "value": "— On rentre, dit Bertrand. Je t'emmène à la clinique Saint-Augustin demain matin, c'est mieux qu'ici. Ici, il y a trop d'attente. Et trop de monde."
+  },
+  {
+   "type": "text",
+   "value": "Il jeta un dernier regard autour de lui, sur la salle d'attente, sur les chaises bleues, sur le vieux monsieur en pyjama, sur Nathan. Un regard calme, circulaire, comme un propriétaire qui fait le tour d'une maison avant de la fermer."
+  },
+  {
+   "type": "text",
+   "value": "Ils partirent vers la porte automatique. Bertrand tenait Élise par la nuque. Il lui parlait à voix basse, d'une voix douce, rassurante, et elle hochait la tête."
+  },
+  {
+   "type": "text",
+   "value": "À la porte, elle se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Une seconde. Pas plus. Juste le temps que la porte s'ouvre. Elle tourna la tête par-dessus son épaule, vers la salle d'attente, vers le garçon assis seul sur sa chaise bleue avec sa main cassée."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit rien. Elle remua seulement les lèvres, sans un son. Deux mots. En anglais."
+  },
+  {
+   "type": "text",
+   "value": "*Please. Don't.*"
+  },
+  {
+   "type": "text",
+   "value": "Puis la porte se referma, et ils disparurent dans la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Nathan resta assis. Il regardait la porte vitrée. Il ne sentait plus sa main."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "La porte vitrée"
+  },
+  {
+   "type": "text",
+   "value": "— Leroy ? Nathan Leroy ? appela une infirmière. Box numéro six."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva. Il traversa la salle. Avant d'entrer dans le box, il se retourna une dernière fois vers la chaise vide où elle s'était assise."
+  },
+  {
+   "type": "text",
+   "value": "Sur la chaise, il y avait un mouchoir en papier taché de sang, qu'elle avait oublié."
+  }
+ ]
+}

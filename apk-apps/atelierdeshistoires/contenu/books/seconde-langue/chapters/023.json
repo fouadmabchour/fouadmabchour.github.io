@@ -1,0 +1,285 @@
+{
+ "number": 23,
+ "title": "Les témoins",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Monsieur Delmas regarda les deux jeunes gens dans l'encadrement de la porte. Il regarda la foule silencieuse dans le couloir. Il regarda maître Aubry, qui s'était levée."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur le président, dit-elle très vite, le règlement de la section disciplinaire, article R. 811-25 du Code de l'éducation, permet au déféré de demander l'audition de témoins jusqu'à la clôture des débats. Les débats ne sont pas clos. La commission ne s'est pas encore retirée."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas la regarda longtemps. Il n'aimait pas qu'on lui cite des articles. Il n'aimait pas non plus qu'on interrompe une audience. Mais il aimait encore moins qu'on lui reproche, plus tard, de ne pas avoir respecté une procédure."
+  },
+  {
+   "type": "text",
+   "value": "Il se rassit. Les autres membres de la commission se rassirent."
+  },
+  {
+   "type": "text",
+   "value": "— Faites entrer les témoins, dit-il. Et fermez cette porte."
+  },
+  {
+   "type": "text",
+   "value": "Chloé parla la première."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit sur la chaise des témoins, au centre du U, face à la commission. Elle tenait son téléphone à deux mains. Elle ne regardait pas Nathan. Elle ne pouvait pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle raconta tout. La photo trouvée dans le téléphone d'Hugo. La jalousie qu'elle n'avait pas su nommer. Le mail du 26 décembre, venu d'une adresse jetable, quelqu'un qui savait qu'elle était l'ex de Nathan, qui lui demandait « des éléments ». L'envoi de la photo. La consigne de la poster sur le groupe de la promo, avec un compte anonyme. La légende, *Les cours particuliers de la Fournier*, qu'on lui avait fournie toute prête, avec les émojis."
+  },
+  {
+   "type": "text",
+   "value": "— C'est moi qui l'ai postée, dit-elle. C'est moi, le compte *anonymeL3*. Je l'ai créé le 6 janvier au matin. Je n'ai rien vu d'autre, jamais. Je n'ai jamais vu Nathan et madame Fournier faire quoi que ce soit d'autre que parler. Je les ai suivis. Plusieurs mardis. Je me cachais dans le hall. Ils parlaient. C'est tout. Il descendait seul. Il souriait. C'est tout ce que j'ai vu. Il souriait."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta. Elle pleurait."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai fait parce que j'étais jalouse. Pas d'elle. De lui. Parce qu'il avait l'air heureux et que moi, je ne l'étais pas. Parce que j'avais tout cassé, et que je voulais que ce ne soit pas que ma faute. C'est la chose la plus moche que j'aie jamais faite."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa son téléphone sur la table, devant le président de section."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "La vérité"
+  },
+  {
+   "type": "text",
+   "value": "— Le mail est là. Avec toutes les réponses. Je n'ai rien effacé."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas prit le téléphone. Il lut. Il lut longtemps. Il passa le téléphone au vieux professeur d'histoire, à côté de lui, qui lut à son tour, puis le passa à la suivante."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dans la salle était total."
+  },
+  {
+   "type": "text",
+   "value": "Puis ce fut Hugo."
+  },
+  {
+   "type": "text",
+   "value": "Il ne s'assit pas. Il resta debout, les mains derrière le dos, comme à un oral."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis l'auteur de la photo, dit-il. Je l'ai prise un soir de novembre, de loin, sous l'auvent du bâtiment de droit. Je ne sais pas pourquoi je l'ai prise. Je ne l'ai envoyée à personne. Elle est restée dans mon téléphone, où Chloé l'a trouvée."
+  },
+  {
+   "type": "text",
+   "value": "Il se tourna légèrement vers Nathan. Juste un peu."
+  },
+  {
+   "type": "text",
+   "value": "— Ce soir-là, je les ai vus pendant peut-être trente secondes. Ils sont sortis ensemble du bâtiment. Elle a cherché ses clés de voiture. Ils se sont dit au revoir. Elle est partie en courant vers le parking parce qu'il pleuvait. C'est tout. Il ne s'est rien passé d'autre. Si j'avais vu quoi que ce soit d'autre, je le dirais. Je n'ai plus rien à perdre, avec Nathan. J'ai déjà tout perdu."
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna vers la commission."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a autre chose. Le mail que Chloé a reçu le 26 décembre. Il propose de transmettre « des éléments » à la présidence de l'université. Il connaît la date exacte de la procédure à venir. Il connaît le nom du groupe de la promotion. Il sait que Chloé est l'ex de Nathan. Il sait que les messages de la nuit de Noël existent, alors qu'à cette date, ils n'avaient été vus que par une seule autre personne que madame Fournier."
+  },
+  {
+   "type": "text",
+   "value": "Il laissa la phrase en suspens. Il n'avait pas besoin de dire le nom. Tout le monde, dans la salle, l'entendait."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis étudiant en droit, dit-il. Je sais que cette commission n'est pas une juridiction pénale. Mais je sais aussi qu'une plainte pour dénonciation calomnieuse permettrait à un juge de demander à l'hébergeur de ce mail l'adresse IP d'où il a été envoyé. Je voulais que la commission le sache. Avant de décider."
+  },
+  {
+   "type": "text",
+   "value": "Il se tut. Il resta debout."
+  },
+  {
+   "type": "text",
+   "value": "Lina leva la main au fond de la salle."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur le président. En tant que déléguée de promotion, je demande à verser une pièce au dossier."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas soupira."
+  },
+  {
+   "type": "text",
+   "value": "— Mademoiselle, ce n'est pas…"
+  },
+  {
+   "type": "text",
+   "value": "— Ça prendra trente secondes."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'avança. Elle posa sur la table une feuille imprimée."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un mail. Envoyé le 7 janvier, le lendemain de la diffusion de la photo, par le cabinet de la vice-présidence chargée de la vie étudiante, à tous les délégués de promotion de l'université. Il nous demande de « faire remonter tout élément concernant des comportements inappropriés entre enseignants et étudiants en études anglophones ». Uniquement en études anglophones. Signé par monsieur Fournier lui-même."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa le doigt sur la date."
+  },
+  {
+   "type": "text",
+   "value": "— Le 7 janvier, monsieur Fournier n'avait pas encore été informé officiellement par la présidence. Je l'ai vérifié. Le dossier lui a été transmis le 9."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas prit la feuille. Il la lut. Il regarda la date."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda le mémoire relié de Bertrand Fournier, avec sa couverture transparente, posé devant lui."
+  },
+  {
+   "type": "text",
+   "value": "Puis il ôta ses lunettes et les posa sur la table, très lentement."
+  },
+  {
+   "type": "text",
+   "value": "La commission délibéra une heure et dix minutes."
+  },
+  {
+   "type": "text",
+   "value": "Nathan attendit dans le couloir, assis sur un banc, entre sa mère et Lina. Théo faisait les cent pas. Maître Aubry passait des coups de téléphone. Hugo et Chloé étaient assis sur le banc d'en face, chacun à un bout, sans se parler. Chloé avait les yeux rouges. Hugo regardait le sol."
+  },
+  {
+   "type": "text",
+   "value": "Les étudiants, dans le couloir, ne partaient pas. Ils étaient de plus en plus nombreux. Ils ne disaient rien. Ils attendaient."
+  },
+  {
+   "type": "text",
+   "value": "Au bout d'une demi-heure, Nathan se leva. Il traversa le couloir. Il s'arrêta devant le banc d'en face."
+  },
+  {
+   "type": "text",
+   "value": "Hugo leva les yeux. Chloé aussi."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne savait pas quoi dire. Il resta là une seconde, debout. Puis il tendit la main à Hugo."
+  },
+  {
+   "type": "text",
+   "value": "Hugo regarda la main. Il ne la prit pas tout de suite. Il la regarda comme si c'était un objet qu'il ne connaissait pas. Puis il se leva, et il la prit, et il la serra, et il ne la lâcha pas pendant longtemps."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Frérot"
+  },
+  {
+   "type": "text",
+   "value": "— Frérot, dit-il d'une voix cassée."
+  },
+  {
+   "type": "text",
+   "value": "— Ne recommence jamais, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Jamais."
+  },
+  {
+   "type": "text",
+   "value": "Nathan se tourna vers Chloé. Elle avait baissé la tête. Il la regarda. Deux ans. Le fraisier à trente-deux euros. La carte avec un cœur rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Merci d'être venue, dit-il simplement."
+  },
+  {
+   "type": "text",
+   "value": "Chloé se mit à pleurer. Il n'ajouta rien. Il retourna s'asseoir à côté de sa mère."
+  },
+  {
+   "type": "text",
+   "value": "La porte de la salle s'ouvrit à seize heures quarante."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas lut la décision lui-même, debout, d'une voix sèche, sans lever les yeux de sa feuille."
+  },
+  {
+   "type": "text",
+   "value": "*La section disciplinaire, après en avoir délibéré, considérant que les faits reprochés à monsieur Nathan Leroy ne sont pas établis, que les éléments produits à l'audience révèlent que le signalement à l'origine de la procédure procède d'une démarche dont la sincérité est sérieusement mise en doute, prononce la relaxe de monsieur Leroy. La section demande au président de l'université de rétablir sans délai le versement de sa bourse, avec effet rétroactif, et de saisir le procureur de la République des faits susceptibles de constituer une dénonciation calomnieuse.*"
+  },
+  {
+   "type": "text",
+   "value": "Il releva les yeux. Il regarda Nathan. Pour la première fois depuis le début de l'audience, et peut-être depuis vingt ans, monsieur Delmas sourit. Un tout petit sourire, à peine une ride au coin de la bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Vous pouvez disposer, monsieur Leroy. Bonne chance pour votre certification."
+  },
+  {
+   "type": "text",
+   "value": "Dans le couloir, quelqu'un applaudit. Puis tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Sa mère pleurait. Théo le souleva de terre comme un sac de pommes de terre. Lina hurlait. Maître Aubry rangeait ses dossiers avec un sourire de chat. Hugo, au fond du couloir, applaudissait plus fort que tout le monde."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Relaxé"
+  },
+  {
+   "type": "text",
+   "value": "Nathan riait, et pleurait, et ne comprenait rien. Il sortit son téléphone. Il voulait l'écrire à quelqu'un. À une seule personne. En anglais."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas son nouveau numéro. Il ne l'avait jamais eu."
+  },
+  {
+   "type": "text",
+   "value": "Il appela Samia Benali, dont Lina avait trouvé le numéro de cabinet. Il tomba sur une secrétaire. Il demanda à parler à maître Benali. On le fit patienter. Puis la voix de Samia, prudente :"
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Leroy ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis relaxé, dit-il. Est-ce que vous pouvez lui dire ? S'il vous plaît. Juste ça. Juste lui dire que je suis relaxé."
+  },
+  {
+   "type": "text",
+   "value": "Un silence au bout du fil."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas, dit Samia doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce qu'elle n'est plus à Bordeaux. Elle est partie hier soir. Avec sa mère. Pour Bath. Elle m'a fait promettre de ne donner son adresse à personne. Surtout pas à vous."
+  }
+ ]
+}

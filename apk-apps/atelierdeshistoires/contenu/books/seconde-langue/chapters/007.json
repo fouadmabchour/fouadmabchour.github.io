@@ -1,0 +1,273 @@
+{
+ "number": 7,
+ "title": "Jane Eyre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Novembre arriva sur Bordeaux avec ses pluies fines et ses brumes sur la Garonne."
+  },
+  {
+   "type": "text",
+   "value": "Les leçons du mardi devinrent la chose autour de laquelle tournait toute la semaine de Nathan. Il ne se l'avouait pas. Il se disait que c'était la certification, le mois de mai, le diplôme. Il se disait qu'il travaillait. Il travaillait, d'ailleurs. Il lisait un chapitre de *Jane Eyre* chaque nuit à la laverie, entre deux clients, avec son dictionnaire. Il écrivait des résumés en anglais de la main gauche, d'une écriture qui s'améliorait de semaine en semaine. Il parlait anglais tout seul en pliant le linge, à voix basse, ce qui faisait rire Monsieur Kowalski."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles aux serviettes, maintenant ?"
+  },
+  {
+   "type": "text",
+   "value": "— *I'm practicing my present perfect.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Present perfect*. En polonais, on n'a pas ça. On a le présent, et le passé. Ce qui est passé est passé. C'est plus simple pour vivre."
+  },
+  {
+   "type": "text",
+   "value": "Le mardi, à dix-huit heures, il frappait au bureau 214."
+  },
+  {
+   "type": "text",
+   "value": "Au début, ils ne parlaient que du livre. Puis ils parlèrent d'autres livres. Elle lui fit découvrir *Les Hauts de Hurlevent*, qu'il détesta, et *Orgueil et Préjugés*, qu'il adora en refusant de l'admettre. Il lui fit découvrir les chansons de Nekfeu, qu'elle écouta avec la concentration d'une chercheuse et dont elle traduisit un couplet en anglais, avec des rimes, ce qui le laissa sans voix."
+  },
+  {
+   "type": "text",
+   "value": "Puis ils parlèrent d'eux."
+  },
+  {
+   "type": "text",
+   "value": "Pas des choses graves. Pas des urgences, ni de la laverie, ni du poignet. La règle numéro deux tenait. Mais des petites choses. Elle lui raconta son enfance entre Bath et Bordeaux, sa mère anglaise, professeure de piano, qui buvait son thé si fort qu'on aurait pu y faire tenir une cuillère debout. Son père bordelais, mort quand elle avait vingt ans, qui lui avait appris à reconnaître les grands vins à l'odeur et à ne jamais en boire plus d'un verre. Il lui raconta Mont-de-Marsan, les fêtes de la Madeleine, les courses landaises, sa mère qui chantait du Goldman en faisant le ménage, Théo qui voulait être pompier et qui s'entraînait à monter à la corde dans le jardin de la cité."
+  },
+  {
+   "type": "text",
+   "value": "Ils parlaient en anglais. C'était devenu naturel. Au début, c'était un exercice. Puis c'était devenu autre chose. Un endroit. Une pièce à part, où ils pouvaient se dire des choses qu'ils n'auraient jamais dites en français."
+  },
+  {
+   "type": "text",
+   "value": "En français, elle était madame Fournier, et lui monsieur Leroy."
+  },
+  {
+   "type": "text",
+   "value": "En anglais, elle était Élise, et lui Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Un mardi de la mi-novembre, elle rit."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas la première fois. Mais c'était la première fois qu'elle rit vraiment, sans retenue, la tête en arrière, à en avoir les larmes aux yeux. Il lui avait raconté, en anglais, la fois où Théo, à six ans, avait voulu « éteindre » le barbecue de la voisine avec le tuyau d'arrosage pendant un repas de fête, et avait arrosé tout le monde, la voisine, le maire de la ville qui était invité, et le gâteau d'anniversaire."
+  },
+  {
+   "type": "text",
+   "value": "— *The mayor?* hoqueta-t-elle. *He sprayed the mayor?*"
+  },
+  {
+   "type": "text",
+   "value": "— *The mayor, the cake, and my mother's new dress. She was so angry. And then she laughed. And then the mayor laughed. And Théo said: \"I am a firefighter, it's my job.\"*"
+  },
+  {
+   "type": "text",
+   "value": "Elle riait tellement qu'elle dut poser sa tasse de thé. Elle s'essuya les yeux. Elle reprit son souffle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "Le fou rire"
+  },
+  {
+   "type": "text",
+   "value": "Puis elle cessa de rire, d'un coup. Elle regarda sa tasse. Elle avait l'air surprise."
+  },
+  {
+   "type": "text",
+   "value": "— *I don't remember the last time I laughed like that,* dit-elle doucement."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne dit rien. Il la regardait. Elle avait les joues roses. Une mèche s'était échappée de son chignon. Elle avait l'air plus jeune. Elle avait l'air de quelqu'un qu'il aurait pu croiser à la bibliothèque, à une soirée, dans le tram, et à qui il aurait eu envie de parler."
+  },
+  {
+   "type": "text",
+   "value": "Il détourna les yeux. Trop tard. Elle avait vu."
+  },
+  {
+   "type": "text",
+   "value": "Le silence qui suivit fut différent des autres silences."
+  },
+  {
+   "type": "text",
+   "value": "La semaine suivante, elle lui dit quelque chose qu'il ne comprit pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Au second semestre, dit-elle en français, je ne serai plus votre chargée de TD."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux de son livre."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai demandé à changer de groupe. Vous aurez monsieur Hartley, pour la traduction. Il est très bien. Un peu ennuyeux, mais très bien."
+  },
+  {
+   "type": "text",
+   "value": "— Mais pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle rangea des copies qui n'avaient pas besoin d'être rangées."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que je vous aide pour la certification. En dehors des cours. Et que je ne peux pas, en même temps, noter vos copies. Ce ne serait pas juste pour les autres étudiants. Ni pour vous."
+  },
+  {
+   "type": "text",
+   "value": "C'était une bonne raison. C'était sûrement la vraie raison. Une raison de professeure honnête, scrupuleuse, qui faisait les choses bien."
+  },
+  {
+   "type": "text",
+   "value": "Mais elle ne le regardait pas en le disant. Et Nathan, qui avait appris à lire les silences à la laverie, comprit qu'il y avait une autre raison. Une raison qu'elle ne disait pas. Une raison qu'elle ne se disait peut-être même pas à elle-même."
+  },
+  {
+   "type": "text",
+   "value": "Elle mettait de la distance. Une ligne. Une ligne qui n'existait pas encore, mais qu'elle sentait venir."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit-il simplement."
+  },
+  {
+   "type": "text",
+   "value": "— Les leçons du mardi continuent, ajouta-t-elle très vite. Jusqu'en mai. Ça ne change rien pour la certification."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord."
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête. Elle ouvrit *Jane Eyre* au chapitre douze. Le chapitre où Jane rencontre Rochester pour la première fois, sur un chemin gelé, au crépuscule, quand son cheval glisse sur la glace."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir-là, la leçon dura plus longtemps que d'habitude."
+  },
+  {
+   "type": "text",
+   "value": "Ils lisaient la scène à voix haute, chacun son tour. Jane et Rochester. La jeune gouvernante et l'homme qu'elle ne connaît pas encore, blessé, sur un chemin d'hiver. Ils s'arrêtaient sur chaque mot. Ils discutaient. Ils oublièrent l'heure."
+  },
+  {
+   "type": "text",
+   "value": "Quand Élise leva enfin les yeux vers la fenêtre, il faisait nuit noire. L'horloge au-dessus de la porte indiquait dix-neuf heures cinquante."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva d'un bond, comme si elle s'était brûlée."
+  },
+  {
+   "type": "text",
+   "value": "— Mon Dieu, l'heure. Il faut que… Il faut que j'y aille."
+  },
+  {
+   "type": "text",
+   "value": "Elle attrapa son manteau, son sac, ses clés. Elle avait les mains qui tremblaient. Nathan vit la peur passer sur son visage. Pas l'inquiétude de quelqu'un qui est en retard. La peur."
+  },
+  {
+   "type": "text",
+   "value": "— Il vous attend ? demanda-t-il, malgré la règle."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Pas ce soir. Il est à Paris, à un colloque. Il rentre demain. Mais il appelle à vingt heures. Toujours à vingt heures. Et si je ne suis pas à la maison pour répondre au fixe…"
+  },
+  {
+   "type": "text",
+   "value": "Elle n'acheva pas. Elle n'avait pas besoin."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent ensemble du bureau. Elle ferma à clé. Ils descendirent l'escalier côte à côte, très vite, sans parler. Le bâtiment était désert, les lumières à détecteur s'allumaient devant eux et s'éteignaient derrière eux."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent ensemble par la grande porte vitrée, sur le parvis du bâtiment des langues. Il pleuvait. Elle ouvrit son parapluie. Elle s'arrêta une seconde sous le lampadaire, pour chercher ses clés de voiture dans son sac."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne soirée, Nathan, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois qu'elle l'appelait par son prénom en français."
+  },
+  {
+   "type": "text",
+   "value": "Elle releva la tête. Ils étaient très proches, sous la pluie, sous le lampadaire, lui sans parapluie, elle avec le sien qu'elle ne pensait pas à partager. Elle le regarda une seconde de trop. Il la regarda aussi."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle sourit, tourna les talons, et partit en courant vers le parking, sous la pluie, avec son parapluie qui se retournait dans le vent."
+  },
+  {
+   "type": "text",
+   "value": "Nathan resta sur le parvis. Il la regarda partir. Il ne sentait pas la pluie."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "Sous la pluie"
+  },
+  {
+   "type": "text",
+   "value": "À cinquante mètres de là, de l'autre côté de l'esplanade, sous l'auvent du bâtiment de droit, un garçon blond en polo bleu marine fumait une cigarette en attendant que la pluie cesse."
+  },
+  {
+   "type": "text",
+   "value": "Hugo Bastide sortait de la bibliothèque juridique, où il venait de passer quatre heures sur un dossier de droit des contrats qu'il devait rendre au professeur Fournier le vendredi. Il était fatigué, il avait froid, il pensait à Chloé qui l'attendait à la Victoire, et à Nathan, à qui il pensait tout le temps depuis un mois, avec une boule dans le ventre qui ne partait jamais."
+  },
+  {
+   "type": "text",
+   "value": "Il le vit sortir du bâtiment des langues. Il faillit l'appeler. Il ne le fit pas."
+  },
+  {
+   "type": "text",
+   "value": "Parce que Nathan n'était pas seul. Il y avait une femme avec lui. Une femme élégante en manteau chameau, avec un parapluie. Ils étaient proches, sous le lampadaire. Ils se regardaient."
+  },
+  {
+   "type": "text",
+   "value": "Hugo plissa les yeux. Il reconnut la femme. Tout le monde la connaissait. C'était la prof d'anglais, celle dont Chloé parlait tout le temps. Madame Fournier."
+  },
+  {
+   "type": "text",
+   "value": "La femme de son prof de droit."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sut jamais vraiment pourquoi il le fit. Par réflexe. Par curiosité. Par jalousie, peut-être, de voir Nathan regarder quelqu'un comme ça, alors que lui, Hugo, n'arrivait plus à regarder personne en face."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit son téléphone. Il zooma. Il prit une photo."
+  },
+  {
+   "type": "text",
+   "value": "Deux silhouettes sous un lampadaire, sous la pluie, très proches, qui se regardaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "La photo volée"
+  },
+  {
+   "type": "text",
+   "value": "Il remit son téléphone dans sa poche et écrasa sa cigarette. Il n'y pensa plus pendant six semaines."
+  }
+ ]
+}

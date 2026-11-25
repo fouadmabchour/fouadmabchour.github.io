@@ -1,0 +1,313 @@
+{
+ "number": 10,
+ "title": "Une nuit sans rien",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il ne lui demanda pas ce qui s'était passé."
+  },
+  {
+   "type": "text",
+   "value": "C'était la règle de la laverie. On ne pose pas de questions. On fait du thé."
+  },
+  {
+   "type": "text",
+   "value": "Il fit du thé. Pas du thé à la menthe, cette fois. Il avait acheté, deux semaines plus tôt, à l'épicerie anglaise de la rue Fondaudège, une boîte de thé noir, du vrai, de l'*English Breakfast*, le même que dans la boîte en fer-blanc du bureau 214. Il ne s'était pas demandé pourquoi il l'avait acheté. Il l'avait rangé dans le placard de la petite cuisine, derrière le café de Kowalski, et il ne l'avait jamais ouvert."
+  },
+  {
+   "type": "text",
+   "value": "Il l'ouvrit. Il laissa infuser longtemps, cinq minutes, comme elle le faisait. Trop longtemps, d'après n'importe qui d'autre. Il lui apporta la tasse sur le banc."
+  },
+  {
+   "type": "text",
+   "value": "Elle la prit. Elle regarda le thé. Elle reconnut la couleur, l'odeur. Elle leva les yeux vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez acheté de l'*English Breakfast*."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a deux semaines."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Au cas où."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Elle baissa la tête sur sa tasse. Il vit ses épaules trembler, juste une fois, puis se calmer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "English Breakfast"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne raconta pas ce qui s'était passé. Pas tout. Elle dit seulement qu'il y avait eu une dispute, à cause d'un appel de sa mère, qu'elle avait pris dans la cuisine au lieu du salon. Qu'il avait cru qu'elle se cachait. Qu'il avait cassé quelque chose. Une tasse. La tasse de la reine d'Angleterre, celle qu'elle gardait au bureau et qu'elle avait rapportée à la maison pour la laver. Il l'avait jetée contre le mur."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne m'a pas touchée, dit-elle très vite. Ce soir, il ne m'a pas touchée. Il a cassé la tasse. Et puis il est allé se coucher. Il dort. Il dort toujours très bien, après."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda la valise, posée au pied du banc."
+  },
+  {
+   "type": "text",
+   "value": "— Et moi, j'ai pris la valise. Je ne sais pas pourquoi. Je l'ai faite en cinq minutes, en silence, dans le dressing, pendant qu'il dormait. J'ai pris n'importe quoi. Une brosse à dents, un pull, des copies à corriger. Des copies, vous vous rendez compte. Je pars de chez moi au milieu de la nuit, et je prends des copies à corriger."
+  },
+  {
+   "type": "text",
+   "value": "Elle eut un petit rire."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis montée dans la voiture. J'ai roulé. Je ne savais pas où aller. Je n'ai pas d'amis à Bordeaux. Je n'en ai plus. Il les a tous… Petit à petit. Je ne m'en suis même pas rendu compte. Il les trouvait vulgaires, ou bêtes, ou jaloux de moi. Il avait toujours une bonne raison. Et moi, je le croyais. Et un jour, je me suis réveillée, et il n'y avait plus personne."
+  },
+  {
+   "type": "text",
+   "value": "Elle but une gorgée de thé."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a bien Samia. Une amie de la fac. Elle est avocate. Mais elle a deux enfants, et il est trois heures du matin, et je ne pouvais pas sonner chez elle avec une valise, en lui disant… En lui disant quoi ? Je ne lui ai jamais rien dit. Elle ne sait pas. Personne ne sait."
+  },
+  {
+   "type": "text",
+   "value": "Elle releva les yeux vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Sauf vous."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne dit rien. Il s'assit à côté d'elle sur le banc. Pas trop près. À l'autre bout. Il y avait un mètre entre eux."
+  },
+  {
+   "type": "text",
+   "value": "— Alors j'ai roulé, continua-t-elle, et je me suis retrouvée rue des Faures. Je ne l'ai pas fait exprès. Enfin si. Je ne sais pas. Je me suis garée. J'ai vu le néon. Le K qui clignote."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Kowalski refuse de le réparer, dit Nathan. Il dit que c'est la seule chose qui clignote dans sa vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit. Un vrai rire, cette fois, fatigué, mais vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux rester ? demanda-t-elle. Juste cette nuit. Jusqu'à six heures. Après, je rentrerai. Il se lève à sept heures. Il ne saura même pas que je suis partie."
+  },
+  {
+   "type": "text",
+   "value": "— Vous pouvez rester, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'allongea sur le banc de la laverie, sous son manteau chameau, la tête sur un sac de linge propre que Nathan avait plié en quatre pour lui faire un oreiller. Il baissa la lumière des néons. Il mit la radio encore plus bas. Il éteignit l'enseigne de la vitrine, pour que personne ne les voie de la rue."
+  },
+  {
+   "type": "text",
+   "value": "Il s'assit sur la chaise derrière le comptoir. À trois mètres d'elle. Il prit *Jane Eyre* et fit semblant de lire."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dormait pas. Il le savait. Il voyait ses yeux ouverts, dans la pénombre, qui regardaient le plafond."
+  },
+  {
+   "type": "text",
+   "value": "Au bout d'un long moment, elle dit, très bas, en anglais :"
+  },
+  {
+   "type": "text",
+   "value": "— *Can I ask you something?*"
+  },
+  {
+   "type": "text",
+   "value": "— *Yes.*"
+  },
+  {
+   "type": "text",
+   "value": "— *Why are you doing this?*"
+  },
+  {
+   "type": "text",
+   "value": "Il réfléchit. Il voulait répondre honnêtement. Il ne savait pas si la réponse honnête était autorisée."
+  },
+  {
+   "type": "text",
+   "value": "— *Because you were kind to me,* dit-il enfin. *At the hospital. You didn't ask me anything. And then you helped me. And you gave me Jane Eyre. And I think… I think nobody has been kind to you for a very long time.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Il entendit seulement sa respiration changer."
+  },
+  {
+   "type": "text",
+   "value": "— *Go to sleep, Élise,* dit-il doucement. *I'm here.*"
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait appelée Élise. En anglais, c'était permis. Elle l'avait dit elle-même, le premier jour."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas si elle dormait. Au bout d'une demi-heure, sa respiration devint plus lente, plus régulière. Sa main glissa du manteau et pendit dans le vide, au bord du banc. Il vit, à la lumière de la petite lampe du comptoir, son poignet nu. Les bleus de la dernière fois avaient disparu. Il n'y en avait pas de nouveaux."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougea pas de sa chaise de toute la nuit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "Veiller"
+  },
+  {
+   "type": "text",
+   "value": "Il ne lut pas une seule ligne de *Jane Eyre*. Il la regarda dormir. Pas comme on regarde quelqu'un dont on a envie. Comme on veille sur quelqu'un. Comme sa mère veillait sur ses malades, la nuit, à l'hôpital. Comme on garde une porte."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut la nuit la plus intime de sa vie. Il ne se passa absolument rien."
+  },
+  {
+   "type": "text",
+   "value": "À six heures moins le quart, la porte du fond s'ouvrit. Monsieur Kowalski descendit l'escalier de son appartement, en robe de chambre écossaise, avec un sac en papier de la boulangerie à la main. Il descendait tous les matins à cette heure-là. Il avait oublié de le dire à Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Il vit la femme endormie sur le banc. Il vit Nathan sur sa chaise, les yeux rouges de fatigue, qui le regardait avec une expression terrifiée."
+  },
+  {
+   "type": "text",
+   "value": "Le vieil homme ne dit rien. Il regarda la femme. Il regarda la valise au pied du banc. Il regarda la tasse de thé vide, posée par terre."
+  },
+  {
+   "type": "text",
+   "value": "Puis il s'approcha du comptoir, sortit trois croissants du sac en papier, les posa sur une serviette propre, et poussa la serviette vers Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Il en reste un pour la dame, dit-il à voix basse. Quand elle se réveillera."
+  },
+  {
+   "type": "text",
+   "value": "Il retourna vers l'escalier. Il s'arrêta à la première marche. Il se retourna."
+  },
+  {
+   "type": "text",
+   "value": "— En 1981, à Gdańsk, dit-il, j'ai caché une femme dans la cale de mon bateau pendant trois jours. Son mari était un membre du Parti. Personne n'a jamais rien su."
+  },
+  {
+   "type": "text",
+   "value": "Il remonta l'escalier, très lentement, en tenant la rampe."
+  },
+  {
+   "type": "text",
+   "value": "Nathan resta immobile, les croissants devant lui."
+  },
+  {
+   "type": "text",
+   "value": "Élise se réveilla à six heures. Elle se redressa d'un coup, perdue, et mit une seconde à comprendre où elle était. Elle vit la laverie, les machines, le néon. Elle vit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Quelle heure il est ?"
+  },
+  {
+   "type": "text",
+   "value": "— Six heures."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva très vite. Elle remit son manteau. Elle prit sa valise. Elle passa la main dans ses cheveux."
+  },
+  {
+   "type": "text",
+   "value": "Il lui tendit le croissant, dans la serviette."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda. Elle le prit."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— C'est Monsieur Kowalski."
+  },
+  {
+   "type": "text",
+   "value": "— Remerciez-le pour moi."
+  },
+  {
+   "type": "text",
+   "value": "Elle alla jusqu'à la porte. Elle posa la main sur la poignée. Elle s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna vers lui. Elle avait les yeux gonflés de sommeil, les cheveux défaits, une marque de pli de serviette sur la joue. Elle n'avait jamais été aussi loin de la salle 112."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche. Elle allait dire quelque chose. Il le vit. Il le sentit."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne le dit pas. Elle referma la bouche, sourit, et sortit dans le petit matin glacé de la rue des Faures, avec sa valise et son croissant."
+  },
+  {
+   "type": "text",
+   "value": "Dans le tram A qui la ramenait vers Caudéran, où elle avait laissé sa voiture la veille pour ne pas réveiller Bertrand avec le bruit du garage, Élise était assise près de la fenêtre. Elle regardait défiler la ville sous la neige fondue, les quais, les façades grises, les premiers passants emmitouflés."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait le croissant sur les genoux. Elle ne l'avait pas mangé."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensait à un garçon assis sur une chaise toute une nuit, à trois mètres d'elle, sans bouger. Elle pensait à une boîte d'*English Breakfast* achetée « au cas où ». Elle pensait à une voix qui disait, dans le noir : *Go to sleep, Élise. I'm here.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle posa le front contre la vitre froide du tram."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Le tram du matin"
+  },
+  {
+   "type": "text",
+   "value": "Elle comprit. D'un coup, comme on comprend qu'on a de la fièvre. Pas avec la tête. Avec tout le corps."
+  },
+  {
+   "type": "text",
+   "value": "Elle comprit, et elle eut peur comme elle n'avait jamais eu peur de Bertrand."
+  },
+  {
+   "type": "text",
+   "value": "À la même heure, dans la réserve de la laverie, entre les bidons de lessive et les chaussettes orphelines, Nathan était allongé sur son canapé, tout habillé, les yeux grands ouverts."
+  },
+  {
+   "type": "text",
+   "value": "Il comprenait la même chose."
+  }
+ ]
+}

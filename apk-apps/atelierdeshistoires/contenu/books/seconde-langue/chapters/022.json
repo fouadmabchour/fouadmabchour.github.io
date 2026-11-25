@@ -1,0 +1,225 @@
+{
+ "number": 22,
+ "title": "Le conseil de discipline",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La section disciplinaire du conseil académique se réunit le mardi 3 février, à quatorze heures, dans la salle du conseil du bâtiment administratif."
+  },
+  {
+   "type": "text",
+   "value": "C'était une grande salle rectangulaire, lambrissée de bois clair, avec une longue table en U, des micros, des bouteilles d'eau, des carafes, et au mur un portrait de Montaigne qui avait l'air de s'ennuyer. Les fenêtres donnaient sur le campus. Il faisait froid et clair. Un ciel de février très bleu, très net, comme lavé par la tempête."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-1.webp",
+   "caption": "La salle du conseil"
+  },
+  {
+   "type": "text",
+   "value": "Nathan était assis seul, au bout de la table, face au U. À côté de lui, son avocate, maître Delphine Aubry, une femme de soixante ans aux cheveux blancs relevés en chignon, qui avait plaidé pendant trente ans devant les tribunaux administratifs et qui l'avait reçu la veille avec ces mots : « Mon petit, je vous défends gratuitement parce que la tante de Lina m'a soigné une hernie en 1998, et parce que je déteste les gens qui se croient intouchables. »"
+  },
+  {
+   "type": "text",
+   "value": "En face, dans le U, siégeaient les membres de la section : quatre enseignants-chercheurs, deux représentants des usagers, c'est-à-dire deux étudiants élus, et le président de la section, un professeur de mathématiques au visage sévère, monsieur Delmas, qui avait la réputation d'être juste et de ne sourire jamais."
+  },
+  {
+   "type": "text",
+   "value": "Bertrand Fournier ne siégeait pas. Il n'en avait pas le droit. Il était partie prenante. Mais il avait envoyé un mémoire écrit, de vingt pages, qui était posé devant chaque membre de la commission, relié, avec une couverture transparente."
+  },
+  {
+   "type": "text",
+   "value": "Et il y avait, au fond de la salle, quelques chaises pour le public. Les audiences disciplinaires n'étaient pas publiques, en principe, mais le président de section avait autorisé la présence de la famille. La mère de Nathan était là, en tailleur bleu, le foulard de soie de Noël autour du cou. Théo, en chemise, mal à l'aise, les poings serrés sur les genoux. Lina, en tant que déléguée de promotion, autorisée à assister."
+  },
+  {
+   "type": "text",
+   "value": "La porte était fermée. Le couloir derrière était plein d'étudiants qui attendaient. On entendait leurs voix à travers le bois."
+  },
+  {
+   "type": "text",
+   "value": "Le rapporteur de la section lut les faits pendant vingt minutes."
+  },
+  {
+   "type": "text",
+   "value": "Le signalement anonyme du 27 décembre. La photo. La diffusion sur le groupe de la promotion. Les cours particuliers du mardi, en dehors de tout cadre officiel. Les messages de la nuit de Noël, transmis par « une personne ayant eu accès au téléphone de l'enseignante », sans autre précision. Les témoignages de trois étudiants qui affirmaient avoir vu le déféré entrer dans le bureau 214 « régulièrement, en fin de journée, alors que le bâtiment était presque vide ». La lettre de madame Fournier au président, où elle reconnaissait s'être « attachée de manière inappropriée » à l'étudiant."
+  },
+  {
+   "type": "text",
+   "value": "Puis le rapporteur lut des extraits du mémoire de Bertrand."
+  },
+  {
+   "type": "text",
+   "value": "*Mon épouse, fragile psychologiquement, a été la cible d'un étudiant en grande difficulté sociale et scolaire, qui a vu en elle une protectrice. Il l'a progressivement isolée, en s'imposant dans son emploi du temps, en l'incitant à le recevoir de plus en plus tard, en lui envoyant des messages la nuit. Lorsqu'elle a tenté de prendre ses distances, en décembre, il l'a harcelée de messages. Je joins en annexe les preuves de cette insistance. La lettre que mon épouse a adressée au président de l'université, et dans laquelle elle prend la faute sur elle, est caractéristique de l'emprise exercée par ce jeune homme : elle cherche encore à le protéger. Depuis, sous son influence, elle a porté contre moi une plainte que je conteste formellement, et qui fait l'objet d'une enquête.*"
+  },
+  {
+   "type": "text",
+   "value": "En annexe, il y avait les messages de Nathan du 25 décembre, ceux qui étaient restés sans réponse, imprimés et surlignés en jaune. *Élise, are you okay? Please answer.* *Élise, I'm worried. Just tell me you're safe.*"
+  },
+  {
+   "type": "text",
+   "value": "Lus comme ça, dans cette salle, ils avaient l'air de ce que Bertrand voulait qu'ils aient l'air."
+  },
+  {
+   "type": "text",
+   "value": "Nathan sentit le regard des membres de la commission sur lui. Il sentit leur doute. Il vit l'un des enseignants, un vieux professeur d'histoire, prendre une note en hochant la tête. Il vit l'un des deux étudiants élus, un garçon en costume, détourner les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Maître Aubry plaida."
+  },
+  {
+   "type": "text",
+   "value": "Elle plaida bien. Elle rappela que la photo ne montrait rien d'autre que deux personnes en train de se parler sous la pluie. Elle rappela que madame Fournier avait elle-même demandé à ne plus noter l'étudiant, dès le mois de novembre, ce qui montrait son souci de l'équité. Elle produisit les témoignages de deux anciens étudiants que madame Fournier avait aidés gratuitement pour la certification, dans le même bureau, aux mêmes horaires, les années précédentes. Elle rappela que la lettre de madame Fournier disculpait entièrement Nathan, et que la thèse de « l'emprise exercée par l'étudiant » ne reposait que sur la parole du mari, qui était lui-même mis en cause dans une enquête pénale pour violences conjugales."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur le président, mesdames et messieurs, dit-elle, on vous demande de croire qu'un garçon de vingt-deux ans, boursier, qui travaille la nuit dans une laverie, aurait mis sous emprise une maîtresse de conférences brillante de trente-deux ans, mariée au vice-président de cette université. On vous demande de le croire sur la seule foi des affirmations de ce vice-président. Je vous demande de vous poser une question très simple : à qui profite ce dossier ?"
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas, le président de section, écouta sans un mot. Puis il dit, de sa voix sèche :"
+  },
+  {
+   "type": "text",
+   "value": "— Maître, la commission ne juge pas l'affaire pénale. La commission juge des faits disciplinaires. Et les faits sont là : un étudiant, une enseignante, des rencontres hors cadre, des messages la nuit, une photo, des témoignages, et une lettre de l'enseignante qui reconnaît un comportement inapproprié. Que madame Fournier en porte la responsabilité principale ne change rien au fait qu'il y a eu une relation qui n'aurait pas dû exister. La seule question, pour cette commission, est de savoir quelle part en revient à l'étudiant."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Leroy. Avez-vous quelque chose à ajouter ?"
+  },
+  {
+   "type": "text",
+   "value": "Nathan se leva."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-2.webp",
+   "caption": "Sa propre voix"
+  },
+  {
+   "type": "text",
+   "value": "Il avait préparé quelque chose. Il avait passé la nuit à l'écrire, à la laverie, avec Lina et maître Aubry. Une déclaration, bien construite, avec des arguments. Il l'avait dans sa poche."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la sortit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien fait de mal, dit-il. Elle non plus. Je l'ai rencontrée aux urgences, en octobre, la nuit où j'ai découvert que ma copine me trompait avec mon meilleur ami. J'avais la main cassée. Elle avait la lèvre fendue. Elle a dit qu'elle était tombée dans l'escalier. Je l'ai crue. Enfin, j'ai fait semblant. Elle m'a aidé pour mon anglais. Elle m'a prêté un livre. On a parlé. C'est tout. On a parlé. Je n'avais jamais parlé comme ça à personne. Elle non plus, je crois."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix tremblait. Il ne l'arrêta pas."
+  },
+  {
+   "type": "text",
+   "value": "— Les messages de Noël, je les ai envoyés parce qu'elle ne répondait plus, et que j'avais peur pour elle. Pas peur qu'elle me quitte. Peur qu'il lui arrive quelque chose. Et il lui est arrivé quelque chose. Vous le savez tous. Vous avez lu le journal. Vous avez vu la télévision."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda les membres de la commission, un par un."
+  },
+  {
+   "type": "text",
+   "value": "— Vous pouvez m'exclure. Je ne vais pas mentir pour l'éviter. Je ne vais pas dire qu'elle est fragile, ni qu'elle est instable, ni que je l'ai manipulée. Ce n'est pas vrai. Elle est la personne la plus forte que j'aie jamais rencontrée. Si vous voulez me punir pour avoir été là quand personne d'autre n'y était, alors punissez-moi."
+  },
+  {
+   "type": "text",
+   "value": "Il se rassit."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence dans la salle. Sa mère, au fond, avait mis la main devant sa bouche. Théo regardait ses chaussures. Lina avait les yeux brillants."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Delmas regarda Nathan longtemps, sans expression."
+  },
+  {
+   "type": "text",
+   "value": "Puis il regarda le mémoire de Bertrand, relié, avec sa couverture transparente. Les messages surlignés en jaune."
+  },
+  {
+   "type": "text",
+   "value": "Puis il regarda sa montre."
+  },
+  {
+   "type": "text",
+   "value": "— La commission va se retirer pour délibérer, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Nathan comprit. Il le comprit à la façon dont le vieux professeur d'histoire refermait son stylo. À la façon dont l'étudiant élu en costume évitait encore son regard. À la façon dont monsieur Delmas avait regardé le mémoire."
+  },
+  {
+   "type": "text",
+   "value": "C'était perdu."
+  },
+  {
+   "type": "text",
+   "value": "Maître Aubry posa la main sur son bras. Elle le comprenait aussi."
+  },
+  {
+   "type": "text",
+   "value": "Les membres de la commission se levèrent. Ils rassemblèrent leurs dossiers. L'appariteur se dirigea vers la porte pour leur ouvrir le passage vers la salle de délibération."
+  },
+  {
+   "type": "text",
+   "value": "On frappa à la porte."
+  },
+  {
+   "type": "text",
+   "value": "Pas la porte de la salle de délibération. La porte principale. Celle du couloir."
+  },
+  {
+   "type": "text",
+   "value": "Trois coups. Forts."
+  },
+  {
+   "type": "text",
+   "value": "L'appariteur hésita. Monsieur Delmas fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— L'audience n'est pas publique. Dites-leur…"
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit avant que l'appariteur ait atteint la poignée."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'encadrement, il y avait deux personnes. Un garçon blond en chemise blanche, sans cravate, les yeux cernés. Une fille blonde, aux longs cheveux lisses, en manteau blanc, qui tenait un téléphone dans sa main serrée contre sa poitrine, et qui pleurait déjà."
+  },
+  {
+   "type": "text",
+   "value": "Derrière eux, dans le couloir, il y avait une centaine d'étudiants qui s'étaient tus."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-3.webp",
+   "caption": "Les témoins"
+  },
+  {
+   "type": "text",
+   "value": "Hugo Bastide fit un pas dans la salle."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon, dit-il. Monsieur le président. Je m'appelle Hugo Bastide. Je suis étudiant en troisième année de droit. Et voici Chloé Marchand. Elle est étudiante en troisième année d'anglais."
+  },
+  {
+   "type": "text",
+   "value": "Il prit une inspiration."
+  },
+  {
+   "type": "text",
+   "value": "— Nous demandons à être entendus comme témoins."
+  }
+ ]
+}

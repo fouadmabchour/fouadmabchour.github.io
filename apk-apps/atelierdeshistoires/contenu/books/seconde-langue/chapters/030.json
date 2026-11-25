@@ -1,0 +1,289 @@
+{
+ "number": 30,
+ "title": "Première langue",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le Miroir d'eau était une immense dalle de granit noir, posée au bord de la Garonne, en face de la place de la Bourse. Trois mille mètres carrés. Deux centimètres d'eau. Toutes les quinze minutes, l'eau se retirait, puis des milliers de petits jets cachés dans le sol envoyaient une brume blanche qui montait à hauteur d'homme, et la place entière disparaissait dans un nuage. Puis la brume retombait. Puis l'eau revenait. Et dans les deux centimètres d'eau parfaitement immobile, la façade dorée de la place de la Bourse se reflétait à l'envers, comme dans un lac, comme dans un rêve."
+  },
+  {
+   "type": "text",
+   "value": "Les enfants y couraient pieds nus le jour. Les amoureux s'y promenaient la nuit. Les touristes y prenaient des photos à toutes les heures."
+  },
+  {
+   "type": "text",
+   "value": "Nathan arriva à vingt et une heures trente."
+  },
+  {
+   "type": "text",
+   "value": "Il était rentré à Pessac en courant. Il avait pris une douche. Il avait changé trois fois de chemise. Il avait remis la chemise blanche, celle du diplôme, celle de l'enterrement, celle du conseil de discipline, parce que c'était la seule qu'il aimait, et parce qu'elle avait traversé tous les moments importants de cette année. Il avait pris le tram. Il était descendu à la station Place de la Bourse avec une demi-heure d'avance."
+  },
+  {
+   "type": "text",
+   "value": "Il faisait encore chaud. La nuit tombait lentement, comme toujours au début de juillet. Le ciel était d'un bleu profond, presque violet, au-dessus de la Garonne. Les lampadaires des quais venaient de s'allumer. La façade de la place de la Bourse était illuminée, dorée, avec ses colonnes et ses statues et ses fenêtres hautes, et elle se reflétait tout entière, à l'envers, dans le Miroir d'eau."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait du monde. Des couples. Des familles. Des adolescents qui couraient dans l'eau en criant. Un saxophoniste, au bord des quais, qui jouait un vieux standard de jazz."
+  },
+  {
+   "type": "text",
+   "value": "Nathan s'assit sur le rebord de granit, au bord du Miroir. Il regarda l'eau. Il regarda la façade dorée à l'envers. Il attendit."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas si elle viendrait. Il ne savait pas de quel côté elle arriverait. Il ne savait même pas si c'était vraiment elle. Un numéro anglais, trois lignes. N'importe qui aurait pu les écrire. Lina, pour lui faire une blague. Hugo, pour se faire pardonner. Il n'y croyait pas. Il n'osait pas y croire."
+  },
+  {
+   "type": "text",
+   "value": "Vingt et une heures quarante-cinq. La brume monta. La place disparut dans un nuage blanc. Les enfants hurlèrent de joie. Puis la brume retomba, et l'eau revint."
+  },
+  {
+   "type": "text",
+   "value": "Vingt-deux heures moins cinq."
+  },
+  {
+   "type": "text",
+   "value": "Il la vit."
+  },
+  {
+   "type": "text",
+   "value": "Elle arrivait du côté de la rue Fernand-Philippart, de la vieille ville. Elle marchait lentement, au bord du Miroir, dans la lumière dorée de la façade."
+  },
+  {
+   "type": "text",
+   "value": "Elle portait une robe d'été légère, vert d'eau, à manches courtes, et des sandales qu'elle tenait à la main. Elle était pieds nus. Ses cheveux, plus courts qu'avant, au-dessus des épaules, étaient lâchés, un peu ébouriffés par le vent de la Garonne. Elle n'avait pas de sac. Pas de manteau. Pas de bracelet, même. Ses bras étaient nus, ses poignets étaient nus. Elle ne cachait rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle le vit. Elle s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Ils se regardèrent d'un bout à l'autre du Miroir d'eau, par-dessus les deux centimètres d'eau immobile où se reflétait la façade dorée."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle marcha vers lui. Pas en contournant le Miroir. À travers. Pieds nus dans l'eau, en relevant légèrement sa robe, à travers le reflet de la place de la Bourse, qui se brisait en petites vagues dorées à chacun de ses pas et se reformait derrière elle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-1.webp",
+   "caption": "Le Miroir d'eau"
+  },
+  {
+   "type": "text",
+   "value": "Nathan se leva. Il enleva ses chaussures. Il les laissa sur le rebord de granit. Il entra dans l'eau à son tour. Elle était tiède, de toute la chaleur de la journée."
+  },
+  {
+   "type": "text",
+   "value": "Ils se rejoignirent au milieu du Miroir."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'arrêtèrent à un mètre l'un de l'autre. Il y avait toujours ce mètre. Le mètre du banc de la laverie. Le mètre des marches du tribunal. Le mètre de la règle numéro deux."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, Nathan, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "En français."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lui avait jamais entendu dire son prénom comme ça. Pas en anglais, dans un bureau. Pas en français, sous un lampadaire, comme une professeure qui dit au revoir à un élève. Comme ça. Comme on dit le nom de quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, Élise, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Félicitations. Pour le diplôme. Et pour la certification. Samia me l'a dit. C1."
+  },
+  {
+   "type": "text",
+   "value": "— Grâce à vous."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Grâce à toi."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait dit *toi*. Elle le tutoyait. En français. Pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Elle le vit s'en rendre compte. Elle sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais pu te tutoyer, dit-elle. En anglais, on n'a pas besoin. *You*, c'est tout le monde. C'était facile. C'était une cachette. En français, il faut choisir. *Vous* ou *tu*. Professeure ou… ou autre chose. J'ai passé neuf mois à me cacher derrière une langue qui ne m'obligeait pas à choisir."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit un pas vers lui. Il y eut un demi-mètre."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis plus ta professeure, dit-elle. Tu n'es plus mon étudiant. Je ne suis plus la femme de personne. J'ai mon nom. J'ai mes poignets. J'ai dormi. J'ai appris ce que j'aime."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu aimes ? demanda Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait tutoyée. Sa voix avait tremblé sur le *tu*. Elle l'entendit. Ses yeux se remplirent de larmes, et elle sourit à travers."
+  },
+  {
+   "type": "text",
+   "value": "— J'aime marcher au bord de l'eau, dit-elle. J'aime le thé de ma mère, même s'il est imbuvable. J'aime entendre des enfants jouer du piano très mal. J'aime enseigner. J'aime rire trop fort."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Et j'aime les laveries à trois heures du matin."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne bougeait plus. Il ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as dit, une nuit, en anglais, que tu étais là, dit-elle. *Go to sleep, Élise. I'm here.* C'est la phrase la plus importante qu'on m'ait jamais dite. Et je ne t'ai jamais répondu. Parce que je ne pouvais pas. Parce que la seule réponse possible, je ne pouvais la dire dans aucune langue."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit le dernier pas. Il n'y avait plus de mètre."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux, maintenant. Et je veux la dire en français. Dans ma première langue. Dans la tienne. Sans me cacher."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda dans les yeux. Ses yeux gris-vert, dans la lumière dorée de la place de la Bourse, pleins de larmes et parfaitement calmes."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'aime, Nathan."
+  },
+  {
+   "type": "text",
+   "value": "La brume monta."
+  },
+  {
+   "type": "text",
+   "value": "Elle monta du sol tout autour d'eux, d'un coup, des milliers de petits jets à la fois, blanche, fraîche, et la place de la Bourse disparut, et les quais disparurent, et les gens disparurent, et le saxophoniste, et les enfants qui criaient, et le monde entier."
+  },
+  {
+   "type": "text",
+   "value": "Il ne resta qu'eux, au milieu d'un nuage, pieds nus dans deux centimètres d'eau."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'aime aussi, dit Nathan. Depuis la laverie. Depuis la chaise. Depuis peut-être avant. Je ne sais pas. Je t'aime."
+  },
+  {
+   "type": "text",
+   "value": "Il le dit en français. Il n'avait jamais rien dit d'aussi simple, ni d'aussi vrai, dans aucune langue."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva la main. Elle toucha son visage. Ses doigts étaient frais, mouillés de brume. Il posa sa main sur la sienne."
+  },
+  {
+   "type": "text",
+   "value": "Et dans le nuage blanc du Miroir d'eau, sans professeure, sans étudiant, sans mari, sans rumeur, sans règle numéro deux, ils s'embrassèrent pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Quand la brume retomba, la place de la Bourse réapparut autour d'eux, dorée, immense, reflétée à l'envers dans l'eau immobile. Et au milieu du reflet, il y avait deux silhouettes qui ne se séparaient pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-2.webp",
+   "caption": "Dans la brume"
+  },
+  {
+   "type": "text",
+   "value": "Sur le bord du quai, le saxophoniste, qui avait tout vu, changea de morceau. Il se mit à jouer *Body and Soul*."
+  },
+  {
+   "type": "text",
+   "value": "⁂"
+  },
+  {
+   "type": "text",
+   "value": "*Épilogue — un an plus tard.*"
+  },
+  {
+   "type": "text",
+   "value": "La laverie s'appelait *The Spin Cycle*, et elle était ouverte vingt-quatre heures sur vingt-quatre, sept jours sur sept, au bas de Walcot Street, à Bath, entre une boutique de disques d'occasion et un café végétarien. C'était la seule de la ville."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait douze machines, six séchoirs, un néon dont la lettre C clignotait, et un long banc en bois le long du mur. Un banc tout neuf. Nathan l'avait fabriqué lui-même, avec l'aide d'un menuisier du quartier, sur le modèle exact de celui de la rue des Faures, dont il avait envoyé les mesures par mail à Tadeusz, qui avait répondu par une photo du banc, avec, posée dessus, une chaussette orpheline."
+  },
+  {
+   "type": "text",
+   "value": "Il ne travaillait pas là. Il enseignait le français à la Bath Spa University, en contrat de lecteur, depuis septembre. Il faisait cours à des étudiants anglais qui fermaient trop les voyelles et qui avaient peur du subjonctif comme d'un chien méchant. Il leur disait qu'ils parlaient français comme des gens qui demandent pardon. Ils ne comprenaient pas. Il souriait."
+  },
+  {
+   "type": "text",
+   "value": "Élise enseignait la traduction littéraire à l'université de Bath. Elle avait un bureau avec une fenêtre sur les collines, une bouilloire, deux tasses dépareillées et une plante grasse qui avait l'air beaucoup plus heureuse que celle de Bordeaux. Elle corrigeait toujours au stylo vert. Elle portait des manches courtes jusqu'en octobre."
+  },
+  {
+   "type": "text",
+   "value": "Ils vivaient dans un petit appartement au dernier étage d'une maison georgienne, à dix minutes de Pulteney Street. Margaret venait dîner le dimanche. Elle faisait le thé. Il était toujours imbuvable. Nathan le buvait en entier et en redemandait, ce qui avait fait de lui, en trois semaines, le gendre préféré de toute l'histoire de la famille Hale."
+  },
+  {
+   "type": "text",
+   "value": "Sa mère et Théo étaient venus à Noël. Théo, pompier volontaire, avait passé quatre jours à essayer de convaincre la caserne de Bath de le laisser monter sur la grande échelle. Lina était venue à Pâques, avec un badge violet et un exemplaire de son mémoire de master, qu'elle avait dédié « à toutes celles qui ont attendu qu'on les voie ». Hugo était venu en mai, avec une nouvelle petite amie, étudiante en médecine, qui s'appelait Maya et qui riait très fort."
+  },
+  {
+   "type": "text",
+   "value": "Samia leur écrivait tous les mois. Catherine leur avait envoyé une carte de La Rochelle, en janvier, avec une photo de la tour de la Lanterne au dos et trois mots : *Je dors bien.*"
+  },
+  {
+   "type": "text",
+   "value": "Ils allaient parfois au *Spin Cycle*, la nuit. Pas pour laver leur linge. Ils avaient une machine à laver dans l'appartement. Ils y allaient quand ils n'arrivaient pas à dormir, ce qui arrivait encore, parfois, à l'un ou à l'autre. Ils s'asseyaient sur le banc. Ils regardaient les tambours tourner. Ils parlaient, ou ils ne parlaient pas."
+  },
+  {
+   "type": "text",
+   "value": "Cette nuit-là, il était deux heures du matin. Dehors, il pleuvait sur Walcot Street, une petite pluie anglaise, fine et patiente. La laverie était vide. La radio jouait, très bas, une chanson de Barbara, sur une station française que Nathan avait réussi à capter sur un vieux poste acheté au marché aux puces."
+  },
+  {
+   "type": "text",
+   "value": "Sur le banc, il y avait deux tasses de thé. Trop infusé, évidemment. Un *English Breakfast*."
+  },
+  {
+   "type": "text",
+   "value": "Élise s'était endormie, la tête sur l'épaule de Nathan. Elle dormait profondément, sans manches longues, sans peur, la bouche un peu ouverte, avec une marque de pli de chemise sur la joue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-3.webp",
+   "caption": "The Spin Cycle"
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne bougeait pas. Il la regardait dormir. Il ne lisait pas. Il n'en avait pas besoin."
+  },
+  {
+   "type": "text",
+   "value": "Ils n'avaient plus besoin de seconde langue."
+  },
+  {
+   "type": "text",
+   "value": "*Si vous êtes victime ou témoin de violences conjugales, appelez le 3919 (Violences Femmes Info). Numéro gratuit, anonyme, joignable 24 heures sur 24 et 7 jours sur 7. En cas de danger immédiat, appelez le 17 ou envoyez un SMS au 114.*"
+  }
+ ]
+}

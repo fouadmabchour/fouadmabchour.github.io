@@ -1,0 +1,237 @@
+{
+ "number": 5,
+ "title": "La laverie de Saint-Michel",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La laverie s'appelait *Lavomatic Kowalski*, et elle était ouverte vingt-quatre heures sur vingt-quatre, sept jours sur sept, trois cent soixante-cinq jours par an, Noël compris. C'était la seule de Bordeaux."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que le linge sale, disait Monsieur Kowalski, ça ne prend pas de vacances. Et les gens qui lavent leur linge à trois heures du matin, ce sont les gens qui ont le plus besoin qu'on soit ouvert."
+  },
+  {
+   "type": "text",
+   "value": "Elle était coincée entre une boucherie halal et une épicerie africaine, rue des Faures, à deux pas de la basilique Saint-Michel et de sa grande flèche gothique. Une vitrine embuée, une enseigne au néon dont le K clignotait, douze machines à laver blanches, six séchoirs, un long banc en bois le long du mur, un distributeur de lessive qui avalait une pièce sur trois, et un vieux poste de radio qui jouait Radio Nostalgie en permanence. Derrière le comptoir, une petite cuisine avec une plaque électrique et une bouilloire. Derrière la cuisine, la réserve, avec le canapé où dormait Nathan."
+  },
+  {
+   "type": "text",
+   "value": "Le travail de Nathan était simple. Il faisait la monnaie, aidait les clients avec les machines, nettoyait les filtres, pliait le linge de ceux qui le laissaient au « service pliage » à trois euros le sac. Il pliait bien. Avec une précision maniaque : les tee-shirts en trois, les serviettes en quatre, les chaussettes appariées et roulées en boule. Monsieur Kowalski disait qu'il pliait comme un marin. C'était, de sa part, le plus beau des compliments."
+  },
+  {
+   "type": "text",
+   "value": "La nuit, il y avait peu de monde. Des étudiants qui avaient oublié de laver leur linge avant un départ. Des infirmières qui sortaient de garde. Des travailleurs de nuit, des chauffeurs, des cuisiniers. Des gens seuls. Monsieur Kowalski disait que la laverie à trois heures du matin, c'était « le confessionnal des athées ». Les gens regardaient tourner leur linge derrière le hublot, et ils parlaient. Ils racontaient des choses qu'ils ne racontaient à personne. À un inconnu, à une machine à laver, à la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Nathan avait entendu beaucoup d'histoires en deux ans. Il en entendit une de plus le mardi suivant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Lavomatic de nuit"
+  },
+  {
+   "type": "text",
+   "value": "C'était la nuit après la deuxième leçon au bureau 214."
+  },
+  {
+   "type": "text",
+   "value": "La deuxième leçon s'était bien passée. Ils avaient parlé du premier chapitre de *Jane Eyre*, de la petite Jane enfermée dans la chambre rouge par sa tante, et Nathan avait dit, en anglais, que c'était la plus belle description de l'injustice qu'il ait jamais lue. Élise avait souri. Elle lui avait fait du thé. Elle avait ri, une fois, quand il avait confondu *chicken* et *kitchen* dans une phrase qui devenait absurde. Elle avait porté un pull à manches longues. Elle n'avait pas parlé d'elle. Il ne lui avait rien demandé."
+  },
+  {
+   "type": "text",
+   "value": "À dix-neuf heures, la berline noire attendait en bas."
+  },
+  {
+   "type": "text",
+   "value": "Nathan avait pris son service à la laverie à vingt-deux heures. Il était maintenant deux heures et quart du matin. Il était seul. Il n'y avait aucun client. Monsieur Kowalski dormait chez lui, à l'étage. La radio jouait une chanson de Barbara, très bas. Nathan était assis sur le comptoir, son attelle posée sur un genou, et il lisait le deuxième chapitre de *Jane Eyre* en anglais avec un dictionnaire sur son téléphone."
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit. La clochette tinta."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Une femme entra, un grand sac de sport à la main. Elle portait un jogging gris et une parka noire, les cheveux défaits, mouillés, comme si elle avait marché sous la pluie. Elle ne le regarda pas. Elle alla directement vers la machine numéro sept, au fond, ouvrit le hublot, et commença à y vider son sac, vite, d'un geste mécanique, presque violent. Des draps. Des serviettes. Un chemisier blanc."
+  },
+  {
+   "type": "text",
+   "value": "Nathan regarda le chemisier blanc. Il y avait une tache dessus. Une tache brune, sur le col."
+  },
+  {
+   "type": "text",
+   "value": "Puis la femme s'arrêta. Ses mains restèrent dans le hublot, immobiles. Ses épaules se mirent à trembler."
+  },
+  {
+   "type": "text",
+   "value": "Elle pleurait."
+  },
+  {
+   "type": "text",
+   "value": "Pas comme on pleure au cinéma. Elle pleurait en silence, la tête dans le tambour d'une machine à laver, les mains crispées sur un drap, avec de petits hoquets étouffés, comme quelqu'un qui a pris l'habitude de pleurer sans faire de bruit pour ne réveiller personne."
+  },
+  {
+   "type": "text",
+   "value": "Nathan descendit du comptoir. Il fit trois pas."
+  },
+  {
+   "type": "text",
+   "value": "— Madame ? Ça va ? Vous avez besoin d'aide pour…"
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna."
+  },
+  {
+   "type": "text",
+   "value": "C'était Élise."
+  },
+  {
+   "type": "text",
+   "value": "Elle le vit. Elle mit une seconde à comprendre. Il la vit comprendre. Elle devint blanche. Elle recula d'un pas, heurta la machine, et un drap tomba par terre entre eux."
+  },
+  {
+   "type": "text",
+   "value": "— Vous, dit-elle. Mais qu'est-ce que… Qu'est-ce que vous faites là ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je travaille ici, dit Nathan. La nuit. Depuis deux ans."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda. Elle regarda la laverie, les machines, le banc, la radio qui jouait Barbara. Elle avait l'air de quelqu'un qui croit faire un cauchemar et qui attend de se réveiller."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne savais pas, dit-elle. Je vous jure que je ne savais pas. Je suis venue ici parce que c'était la seule laverie ouverte. Parce que je ne pouvais pas… Je ne pouvais pas les laver à la maison. Pas cette nuit."
+  },
+  {
+   "type": "text",
+   "value": "Elle se baissa pour ramasser le drap. Elle n'y arriva pas. Ses mains tremblaient trop."
+  },
+  {
+   "type": "text",
+   "value": "Nathan se baissa à sa place. Il ramassa le drap de la main gauche. Il le mit dans la machine. Il ramassa le chemisier blanc, celui avec la tache sur le col, et il le mit dans la machine aussi, sans le regarder. Il referma le hublot. Il mit les pièces. Il choisit le programme à quarante degrés, coton, essorage moyen."
+  },
+  {
+   "type": "text",
+   "value": "La machine se mit à tourner."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Quarante degrés"
+  },
+  {
+   "type": "text",
+   "value": "Puis il se tourna vers elle."
+  },
+  {
+   "type": "text",
+   "value": "— Venez, dit-il. Il y a du thé."
+  },
+  {
+   "type": "text",
+   "value": "La petite cuisine derrière le comptoir faisait deux mètres sur deux. Il y avait une table en formica, deux tabourets, la plaque électrique, la bouilloire, et un calendrier de 2009 avec des photos de la mer Baltique que Monsieur Kowalski refusait de remplacer « parce que la mer n'a pas changé »."
+  },
+  {
+   "type": "text",
+   "value": "Nathan fit chauffer l'eau. Il n'avait pas de thé anglais. Il avait du thé à la menthe, en sachets, d'une marque bon marché, et des biscuits secs."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit sur le tabouret. Elle garda sa parka. Elle regardait la table."
+  },
+  {
+   "type": "text",
+   "value": "Il lui donna la tasse. Elle la prit à deux mains."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Thé à la menthe"
+  },
+  {
+   "type": "text",
+   "value": "Ils ne parlèrent pas pendant longtemps. On entendait la machine tourner de l'autre côté de la porte, et Barbara à la radio, et la pluie qui avait commencé à tomber sur la rue des Faures."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut elle qui parla."
+  },
+  {
+   "type": "text",
+   "value": "— Il a dîné avec le président de l'université, ce soir, dit-elle. Un dîner important. Pour sa candidature, l'année prochaine. Il veut être président, vous savez. Il le sera, sûrement. Tout le monde l'adore."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna sa tasse entre ses mains."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai dit quelque chose pendant le dîner. Une plaisanterie. Sur un collègue. Rien de méchant. Tout le monde a ri. Le président a ri. Lui aussi, il a ri. Il riait plus fort que tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Dans la voiture, il ne riait plus."
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne disait rien. Il savait qu'il ne fallait rien dire. Il l'avait appris à la laverie. Quand quelqu'un commence à parler à trois heures du matin, il ne faut surtout pas l'interrompre. Il faut être une machine à laver. Il faut tourner, en silence, et laisser l'eau faire son travail."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit que je l'humilie, dit Élise. Que je fais exprès. Que je suis trop… Que je parle trop. Que je ris trop fort. Que je me crois plus intelligente que tout le monde. Qu'il faut que j'apprenne."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait les yeux fixés sur sa tasse."
+  },
+  {
+   "type": "text",
+   "value": "— Et il a raison, quelquefois. Je parle trop. Je ne sais pas me taire."
+  },
+  {
+   "type": "text",
+   "value": "Elle porta la tasse à ses lèvres. Pour la tenir, elle dut sortir ses mains des manches de sa parka."
+  },
+  {
+   "type": "text",
+   "value": "Les manches remontèrent sur ses poignets."
+  },
+  {
+   "type": "text",
+   "value": "Nathan vit."
+  },
+  {
+   "type": "text",
+   "value": "Autour de son poignet gauche, sous le bracelet d'argent, il y avait des marques. Des bleus. Quatre ovales sombres, violacés, alignés, et un cinquième de l'autre côté, sous le poignet. Une main. La forme exacte d'une main qui avait serré. Très fort. Longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Elle vit qu'il avait vu. Elle reposa la tasse. Elle ne cacha pas son poignet, cette fois. Elle n'en avait plus la force."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda dans les yeux. Ses yeux gris-vert étaient pleins de larmes, et calmes, terriblement calmes."
+  },
+  {
+   "type": "text",
+   "value": "Et elle dit, en anglais, très doucement, comme on récite une phrase qu'on se répète depuis des années :"
+  },
+  {
+   "type": "text",
+   "value": "— *He's not a bad man, Nathan. I make him angry.*"
+  }
+ ]
+}

@@ -8,7 +8,188 @@
   "romance"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-25T03:09:46Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-25T08:56:47Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Le mur",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 2,
+   "title": "Une chute dans l'escalier",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 3,
+   "title": "Les jours d'après",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 4,
+   "title": "Bureau 214",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 5,
+   "title": "La laverie de Saint-Michel",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 6,
+   "title": "Ce que tu lui fais dire",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 7,
+   "title": "Jane Eyre",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 8,
+   "title": "La mère de Bath",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 9,
+   "title": "Les murs ont des oreilles",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 10,
+   "title": "Une nuit sans rien",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 11,
+   "title": "Ce qu'on ne doit pas",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 12,
+   "title": "La première femme",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 13,
+   "title": "Noël",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 14,
+   "title": "La nuit du 25",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 15,
+   "title": "Le signalement",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 16,
+   "title": "La rumeur",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 17,
+   "title": "Ce que Bertrand propose",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 18,
+   "title": "Élise s'en va",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 19,
+   "title": "Le livre",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 20,
+   "title": "La nuit de la tempête",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 21,
+   "title": "La plainte",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 22,
+   "title": "Le conseil de discipline",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 23,
+   "title": "Les témoins",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 24,
+   "title": "Deux rives",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 25,
+   "title": "Catherine",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 26,
+   "title": "La certification",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 27,
+   "title": "Le procès",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 28,
+   "title": "Le verdict",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 29,
+   "title": "La remise des diplômes",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  },
+  {
+   "number": 30,
+   "title": "Première langue",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-25T08:56:47Z"
+  }
+ ]
 }

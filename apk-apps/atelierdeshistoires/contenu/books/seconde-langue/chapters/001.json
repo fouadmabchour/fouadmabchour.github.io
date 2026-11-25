@@ -1,0 +1,261 @@
+{
+ "number": 1,
+ "title": "Le mur",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le gâteau était un fraisier."
+  },
+  {
+   "type": "text",
+   "value": "Nathan Leroy l'avait choisi chez le pâtissier de la rue Sainte-Catherine, celui qui faisait les meilleurs de Bordeaux et qui les vendait trop cher. Trente-deux euros. Une soirée et demie de travail à la laverie. Il avait compté les pièces dans sa main sur le comptoir, et le pâtissier avait attendu avec la patience des gens qui ne comptent jamais les pièces."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pour une occasion ? avait demandé la vendeuse en nouant le ruban."
+  },
+  {
+   "type": "text",
+   "value": "— Deux ans, avait dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "— Deux ans de quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il avait souri bêtement."
+  },
+  {
+   "type": "text",
+   "value": "— Deux ans avec elle."
+  },
+  {
+   "type": "text",
+   "value": "La vendeuse avait souri aussi, de ce sourire qu'on a pour les garçons amoureux et un peu ridicules, et elle avait ajouté gratuitement une petite carte avec un cœur rouge."
+  },
+  {
+   "type": "text",
+   "value": "Ça, c'était à six heures du soir."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Le fraisier"
+  },
+  {
+   "type": "text",
+   "value": "À neuf heures moins le quart, il était dans le tram B, le carton du fraisier sur les genoux, tenu à deux mains comme un objet sacré. Il était parti de la laverie plus tôt. Monsieur Kowalski, le patron, lui avait dit : « File, mon garçon. Deux ans, c'est sacré. En Pologne, à deux ans, on offre du sel et du pain. Mais va pour le gâteau. » Il avait pris le service de nuit à sa place, ce qu'il ne faisait jamais, parce qu'à soixante-dix ans, disait-il, la nuit, c'est pour les morts et les étudiants."
+  },
+  {
+   "type": "text",
+   "value": "Chloé ne l'attendait pas. C'était le principe. Elle croyait qu'il travaillait jusqu'à deux heures du matin, comme tous les jeudis, et qu'on fêterait leurs deux ans samedi, au restaurant, comme prévu. Mais Nathan avait voulu une surprise. Le jour exact. Le 16 octobre. Un fraisier, une bougie, une chanson ridicule, et elle qui rirait en ouvrant la porte de la colocation en pyjama."
+  },
+  {
+   "type": "text",
+   "value": "Il avait vingt-deux ans. Il était en troisième année de licence d'anglais à l'université Bordeaux Montaigne. Il était boursier, échelon six, le maximum. Il travaillait vingt heures par semaine dans une laverie automatique du quartier Saint-Michel pour payer sa part du loyer. Il partageait un trois-pièces à la Victoire avec son meilleur ami depuis la première année, Hugo Bastide, et sa petite amie depuis deux ans, Chloé Marchand, y dormait presque tous les soirs."
+  },
+  {
+   "type": "text",
+   "value": "Il avait une vie simple. Il l'aimait, cette vie simple. Il ne s'en rendait pas compte, mais c'était la dernière soirée où il l'aurait."
+  },
+  {
+   "type": "text",
+   "value": "L'immeuble était silencieux. Il monta les trois étages à pied, parce que l'ascenseur était en panne depuis septembre et que le syndic ne répondait jamais. Il s'arrêta sur le palier pour reprendre son souffle et pour vérifier que le fraisier n'avait pas glissé dans son carton."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit ses clés sans faire de bruit. Il ouvrit la porte doucement."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait de la musique dans le salon. Une playlist qu'il connaissait, celle de Chloé, des chansons douces qu'elle mettait quand elle voulait qu'on la prenne dans les bras. Il y avait deux verres sur la table basse, une bouteille de rosé à moitié vide. Il y avait la veste d'Hugo sur le dossier du canapé. Rien d'étrange. Hugo vivait là."
+  },
+  {
+   "type": "text",
+   "value": "La porte de la chambre de Nathan était fermée."
+  },
+  {
+   "type": "text",
+   "value": "Il resta une seconde dans le couloir, le carton à la main. Il ne pensa à rien. C'est ce qui l'étonna, plus tard, en y repensant : il n'avait rien pensé. Son corps savait déjà, et sa tête refusait de lire."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la porte."
+  },
+  {
+   "type": "text",
+   "value": "Chloé était sur le lit. Son lit à lui. Hugo était là aussi. Il n'y avait pas besoin de plus de détails. Il n'y en aurait jamais besoin. Plus tard, quand il essaierait de raconter cette seconde à quelqu'un, il ne trouverait pas de mots pour le décor, seulement pour les visages : celui de Chloé qui se figeait, celui d'Hugo qui devenait blanc. Deux visages qui le regardaient comme on regarde un accident sur l'autoroute, avec horreur, et un peu de soulagement que ce soit enfin arrivé."
+  },
+  {
+   "type": "text",
+   "value": "— Nathan, dit Chloé."
+  },
+  {
+   "type": "text",
+   "value": "C'était tout. Son prénom. Comme une question."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il regarda Hugo. Hugo, qui lui avait prêté de l'argent en première année quand sa bourse avait trois mois de retard. Hugo, qui avait dormi sur une chaise à l'hôpital de Mont-de-Marsan la nuit où sa mère avait eu son malaise. Hugo, qui l'appelait « frérot »."
+  },
+  {
+   "type": "text",
+   "value": "— Frérot, dit Hugo. Attends. Attends, je vais t'expliquer."
+  },
+  {
+   "type": "text",
+   "value": "Nathan posa le carton du fraisier par terre, très doucement, au pied du lit, comme on pose un objet qui ne sert plus à rien."
+  },
+  {
+   "type": "text",
+   "value": "Puis il ressortit de la chambre. Il ferma la porte derrière lui. Il entendit Chloé pleurer, Hugo jurer, le bruit de quelqu'un qui cherche ses vêtements."
+  },
+  {
+   "type": "text",
+   "value": "Il était dans le couloir. Le couloir étroit de la colocation, avec le parquet qui grinçait et le vieux papier peint à fleurs qu'ils n'avaient jamais eu le courage d'arracher. Il avait le mur devant lui. Un mur."
+  },
+  {
+   "type": "text",
+   "value": "Il le frappa."
+  },
+  {
+   "type": "text",
+   "value": "Une fois. Le plâtre craqua. Une deuxième fois. Il sentit quelque chose céder dans sa main, un craquement sec, et la douleur monta jusqu'à son coude comme une décharge électrique. Il regarda sa main droite. Les jointures étaient ouvertes, le sang coulait sur le papier peint à fleurs. Deux de ses doigts partaient dans une direction qui n'était pas la bonne."
+  },
+  {
+   "type": "text",
+   "value": "Derrière la porte, Hugo sortit en tee-shirt, à moitié habillé."
+  },
+  {
+   "type": "text",
+   "value": "— Nathan. Nathan, ta main…"
+  },
+  {
+   "type": "text",
+   "value": "— Ne me touche pas, dit Nathan."
+  },
+  {
+   "type": "text",
+   "value": "C'était sa voix, mais il ne la reconnaissait pas. Elle était calme. Trop calme."
+  },
+  {
+   "type": "text",
+   "value": "Il prit sa veste sur la patère. Il sortit de l'appartement. Il descendit les trois étages. Dans la rue, il faisait doux, une nuit d'octobre presque tiède, et la place de la Victoire était pleine d'étudiants qui riaient aux terrasses."
+  },
+  {
+   "type": "text",
+   "value": "Il marcha."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Nuit d'octobre"
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas où il allait. Il marchait vers le nord, vers les quais, sa main serrée contre sa poitrine dans sa veste kaki, le sang qui traversait le tissu. Les gens s'écartaient sur son passage. Un couple le regarda avec inquiétude. Un livreur à vélo lui demanda si ça allait. Il répondit oui."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut un chauffeur de bus, à l'arrêt Saint-Michel, qui le vit vaciller et qui descendit de son bus."
+  },
+  {
+   "type": "text",
+   "value": "— Hé, petit. Montre-moi ça. Oh là. Il faut aller à Pellegrin, toi. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas…"
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as pas quoi ? Pas besoin de ticket pour les urgences. Monte. Je te dépose. C'est sur ma ligne, de toute façon."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas sur sa ligne. Le chauffeur fit un détour de dix minutes avec un bus vide et ne dit rien à personne. Nathan ne connut jamais son nom. Il se souvint toute sa vie de sa moustache grise et de sa radio qui jouait du Michel Sardou."
+  },
+  {
+   "type": "text",
+   "value": "Les urgences de l'hôpital Pellegrin, un jeudi soir à onze heures, c'était un autre monde."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Les urgences"
+  },
+  {
+   "type": "text",
+   "value": "Une grande salle d'attente aux néons blancs, des chaises en plastique bleu fixées par rangées, un distributeur de boissons qui ronronnait, une télévision muette accrochée au mur qui montrait un match de rugby que personne ne regardait. Une odeur de désinfectant et de café brûlé. Un homme ivre qui chantait dans un coin. Une mère avec un bébé qui toussait. Un vieux monsieur en pyjama qui attendait on ne savait quoi, les yeux fermés. Des infirmières qui passaient très vite en appelant des noms."
+  },
+  {
+   "type": "text",
+   "value": "L'infirmière de l'accueil regarda la main de Nathan, nota quelque chose sur son ordinateur, et lui donna un bracelet en plastique avec son nom."
+  },
+  {
+   "type": "text",
+   "value": "— Fracture probable. Vous allez attendre un peu. Il y a du monde ce soir. Comment c'est arrivé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Un mur."
+  },
+  {
+   "type": "text",
+   "value": "L'infirmière leva les yeux vers lui. Elle avait l'air fatiguée, et pas surprise du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Le mur va bien ?"
+  },
+  {
+   "type": "text",
+   "value": "Nathan ne répondit pas. Elle lui mit une poche de glace dans la main gauche et lui montra les chaises."
+  },
+  {
+   "type": "text",
+   "value": "Il s'assit au premier rang libre. Il posa la glace sur sa main droite. Il ferma les yeux. Il entendit le bébé tousser, l'ivrogne chanter, la télévision muette rugir silencieusement. Son téléphone vibrait dans sa poche. Il ne le regarda pas. Il savait qui c'était."
+  },
+  {
+   "type": "text",
+   "value": "Au bout d'un long moment, il rouvrit les yeux."
+  },
+  {
+   "type": "text",
+   "value": "En face de lui, de l'autre côté de l'allée, sur la rangée de chaises bleues, une femme était assise seule."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait la tête baissée. Elle portait un long manteau couleur chameau, boutonné jusqu'en haut malgré la chaleur de la salle, et un pull à col roulé crème. Ses cheveux châtain cuivré étaient attachés en un chignon bas qui se défaisait. Elle tenait un mouchoir en papier contre sa bouche. Ses mains étaient fines, avec un bracelet d'argent au poignet et une alliance en or."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait du sang sur le mouchoir."
+  },
+  {
+   "type": "text",
+   "value": "Nathan la regarda sans comprendre pourquoi il la regardait. Puis elle releva légèrement la tête, juste un peu, pour regarder l'horloge au-dessus de l'accueil. Et il la reconnut."
+  },
+  {
+   "type": "text",
+   "value": "C'était sa professeure d'anglais."
+  },
+  {
+   "type": "text",
+   "value": "Madame Fournier. Élise Fournier. Maîtresse de conférences en littérature anglaise, celle qui faisait le cours de traduction du jeudi matin, celle que tous les étudiants de la promo adoraient, celle qui citait Shakespeare et qui riait avec les yeux, celle qui corrigeait au stylo vert et jamais au rouge parce que, disait-elle, « le rouge, c'est pour les blessures, pas pour les erreurs »."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait la lèvre inférieure fendue. Une coupure nette, gonflée, qui saignait encore."
+  },
+  {
+   "type": "text",
+   "value": "Elle sentit son regard. Elle tourna les yeux vers lui."
+  },
+  {
+   "type": "text",
+   "value": "Et elle le reconnut aussi."
+  }
+ ]
+}
