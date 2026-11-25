@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "completed",
- "updatedAt": "2026-11-25T08:56:47Z",
+ "updatedAt": "2026-11-25T19:59:28Z",
  "chapters": [
   {
    "number": 1,
@@ -33,7 +33,7 @@
    "number": 4,
    "title": "Bureau 214",
    "file": "chapters/004.json",
-   "updatedAt": "2026-11-25T08:56:47Z"
+   "updatedAt": "2026-11-25T19:59:28Z"
   },
   {
    "number": 5,
@@ -105,7 +105,7 @@
    "number": 16,
    "title": "La rumeur",
    "file": "chapters/016.json",
-   "updatedAt": "2026-11-25T08:56:47Z"
+   "updatedAt": "2026-11-25T19:59:28Z"
   },
   {
    "number": 17,

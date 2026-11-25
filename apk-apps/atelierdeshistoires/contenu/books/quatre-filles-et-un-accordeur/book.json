@@ -10,7 +10,7 @@
  ],
  "tags": [],
  "status": "completed",
- "updatedAt": "2026-11-25T01:51:40Z",
+ "updatedAt": "2026-11-25T19:59:20Z",
  "chapters": [
   {
    "number": 1,
@@ -46,13 +46,13 @@
    "number": 6,
    "title": "Quatre emplois du temps",
    "file": "chapters/006.json",
-   "updatedAt": "2026-11-25T01:51:40Z"
+   "updatedAt": "2026-11-25T19:59:20Z"
   },
   {
    "number": 7,
    "title": "Le déjeuner de Mamie Odile",
    "file": "chapters/007.json",
-   "updatedAt": "2026-11-25T01:51:40Z"
+   "updatedAt": "2026-11-25T19:59:20Z"
   },
   {
    "number": 8,
