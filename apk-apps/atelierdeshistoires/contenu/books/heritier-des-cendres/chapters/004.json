@@ -1,0 +1,337 @@
+{
+ "number": 4,
+ "title": "Aurelhaven",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "On lui donna jusqu'à l'aube pour quitter la maison."
+  },
+  {
+   "type": "text",
+   "value": "Il n'eut pas besoin de tant. Tout ce qu'il possédait tenait dans un sac de toile : deux chemises noires, un pantalon de rechange, son long manteau, ses gants, trois livres qu'Orsin lui avait offerts au fil des années, et l'épée rouillée du grenier, enroulée dans une couverture. Le médaillon, il le portait au cou. Il le porterait toujours."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne vint lui dire au revoir. Il ne s'y attendait pas. En traversant la cour dans le gris du petit matin, il leva quand même les yeux vers les fenêtres. Tous les rideaux étaient tirés. Tous, sauf un, au deuxième étage, dans l'aile des femmes. Une silhouette s'y tenait, immobile, une main posée sur la vitre."
+  },
+  {
+   "type": "text",
+   "value": "Isaure."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne fit aucun signe. Quand il cligna des yeux, elle avait disparu."
+  },
+  {
+   "type": "text",
+   "value": "Orsin l'attendait à la grille, emmitouflé dans un manteau trop grand, son bâton à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne vas pas me dire que tu viens, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Jusqu'au pont seulement. Mes genoux ne connaissent pas la route d'Aurelhaven et je ne compte pas les présenter."
+  },
+  {
+   "type": "text",
+   "value": "Ils marchèrent ensemble jusqu'au vieux pont de pierre, au bout de Valcendre, là où la route plongeait dans les collines. Le brouillard montait de la rivière. Orsin s'arrêta. Il sortit de sa poche une enveloppe épaisse, cachetée de cire brune, et la tendit à Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Tiens."
+  },
+  {
+   "type": "text",
+   "value": "Kaël la prit. Elle était lourde. Pas de nom dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que c'est ?"
+  },
+  {
+   "type": "text",
+   "value": "— Une lettre. Tu ne l'ouvriras que si tu gagnes."
+  },
+  {
+   "type": "text",
+   "value": "— Et si je perds ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu la brûleras sans la lire. Promets-le-moi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël regarda le vieil homme. Les yeux dorés d'Orsin brillaient d'une manière inhabituelle, comme mouillés par le brouillard."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez quelque chose, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais beaucoup de choses. C'est pour ça qu'on me paie si mal. Promets."
+  },
+  {
+   "type": "text",
+   "value": "Un temps."
+  },
+  {
+   "type": "text",
+   "value": "— Je promets."
+  },
+  {
+   "type": "text",
+   "value": "Orsin hocha la tête. Il serra le bras de Kaël, une seule fois, fort. Puis il fit demi-tour et repartit vers la ville sans se retourner, en tapant le pavé de son bâton. Kaël rangea la lettre au fond de son sac, contre les livres. Et il prit la route."
+  },
+  {
+   "type": "text",
+   "value": "Aurelhaven était à cinq jours de marche."
+  },
+  {
+   "type": "text",
+   "value": "Kaël marcha. Il dormit dans les granges, sous les ponts, une nuit dans le creux d'un chêne foudroyé. Il mangea le pain et le fromage qu'Orsin avait glissés dans son sac, puis des pommes volées dans les vergers, puis plus grand-chose. Sur la route, il croisa d'autres voyageurs : des marchands qui montaient vers la capitale pour le tournoi, des familles entières sur des charrettes, et des jeunes gens. Beaucoup de jeunes gens. Des éveillés, qui marchaient en riant, avec leurs marques brillantes au poignet et leurs esprits qui jouaient autour d'eux. Un garçon dont le renard de feu courait devant ses pieds. Deux sœurs jumelles avec un même faucon de vent, qui se le disputaient."
+  },
+  {
+   "type": "text",
+   "value": "Le quatrième soir, il s'arrêta à l'auberge du Gué-aux-Loups, la dernière avant la capitale. La salle était pleine à craquer de participants. Il prit une soupe avec ses dernières pièces et s'assit dans un coin, dos au mur, comme d'habitude."
+  },
+  {
+   "type": "text",
+   "value": "À la table voisine, un garçon immense mangeait seul. Des épaules comme une porte de grange, une barbe rousse naissante, une veste de fourrure grise et des mains énormes posées de chaque côté de son bol. Sur son poignet, une marque brun sombre. Il regardait la salle avec l'air d'un homme qui aimerait qu'on le laisse manger en paix et qui sait que ce ne sera pas le cas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "L'auberge"
+  },
+  {
+   "type": "text",
+   "value": "Ce ne fut pas le cas."
+  },
+  {
+   "type": "text",
+   "value": "Trois jeunes nobles du Sud s'approchèrent de sa table, en riant fort."
+  },
+  {
+   "type": "text",
+   "value": "— Hé, l'ours. Tu prends trop de place. Il y a des gens qui veulent s'asseoir."
+  },
+  {
+   "type": "text",
+   "value": "Le géant leva lentement les yeux. Il mâcha. Il avala."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a d'autres tables, dit-il avec un accent du Nord qui roulait comme des cailloux."
+  },
+  {
+   "type": "text",
+   "value": "— On veut celle-là."
+  },
+  {
+   "type": "text",
+   "value": "Le géant soupira. Il posa sa cuillère. Kaël vit les trois nobles poser la main sur leurs dagues."
+  },
+  {
+   "type": "text",
+   "value": "— Il a raison, dit Kaël depuis son coin. Il y a d'autres tables."
+  },
+  {
+   "type": "text",
+   "value": "Les trois têtes se tournèrent vers lui. Ils le jaugèrent : le noir, le maigre, le poignet ganté."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi, tu es qui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Personne, dit Kaël. Mais je suis assis à côté de la seule porte, et je n'ai pas envie de me lever pour vous laisser fuir."
+  },
+  {
+   "type": "text",
+   "value": "Un silence. Le géant du Nord eut un bref éclat de rire, comme un aboiement. Les trois nobles hésitèrent, se regardèrent, puis repartirent vers le comptoir en marmonnant des insultes."
+  },
+  {
+   "type": "text",
+   "value": "Le géant regarda Kaël un long moment."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'avais pas besoin d'aide, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est eux qui en avaient besoin."
+  },
+  {
+   "type": "text",
+   "value": "Le géant grogna. Ça ressemblait peut-être à un rire. Il ne dit pas son nom. Kaël non plus. Au matin, quand Kaël descendit, la table voisine était vide, mais quelqu'un avait payé sa soupe de la veille."
+  },
+  {
+   "type": "text",
+   "value": "Il vit Aurelhaven au cinquième jour, du haut de la dernière colline."
+  },
+  {
+   "type": "text",
+   "value": "La capitale de Valdor s'étendait dans la vallée comme une mer de toits gris et bleus, coupée par un fleuve large et lent. Des tours, des ponts, des dômes de cuivre vert. Et au centre, plus haute que le palais royal, plus ancienne que la ville elle-même, l'Arène de Sombreval."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "La capitale"
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'arrêta net."
+  },
+  {
+   "type": "text",
+   "value": "Il en avait vu des gravures, dans les livres d'Orsin. Aucune ne l'avait préparé à ça. Une ruine colossale, un anneau de pierre noire à moitié effondré, haut comme une falaise, dont les arches brisées se dressaient contre le ciel comme les côtes d'un animal mort. On disait qu'elle avait été bâtie avant les royaumes, avant les hommes peut-être, par des mains que personne ne connaissait. On disait que les pierres se souvenaient de chaque combat."
+  },
+  {
+   "type": "text",
+   "value": "Pour la première fois depuis Valcendre, Kaël sentit quelque chose remuer dans sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "Pas de la peur. Une sorte de reconnaissance."
+  },
+  {
+   "type": "text",
+   "value": "Les rues autour de l'arène grouillaient de monde. Bannières de toutes les nations, marchands de saucisses et de rubans, crieurs qui vendaient les cotes des favoris. Kaël avançait dans la foule, son sac à l'épaule, quand un bruit de sabots fit s'écarter tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Un carrosse doré traversait la place, tiré par quatre chevaux gris. Sur la portière, sculpté en relief, un lion de pierre."
+  },
+  {
+   "type": "text",
+   "value": "Les Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Le carrosse s'arrêta devant l'hôtellerie des grandes maisons. Edmond descendit le premier, saluant la foule de la main comme un roi. Puis Isaure, voilée. Puis Aldric, Corvin, Margaux. Corvin aperçut Kaël au premier rang des badauds, et son visage se tordit en un sourire mauvais. Il dit quelque chose à Margaux, qui éclata de rire."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde descendit en dernier."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta sur le marchepied. Son regard balaya la foule et, pour la première fois de sa vie, Kaël le sentit se poser sur lui. Vraiment. Elle le regarda de haut en bas, longuement, la tête légèrement penchée. Pas avec mépris. Avec curiosité. Comme on regarde une lame qu'on ne connaît pas en se demandant si elle coupe."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle entra dans l'hôtellerie, et la porte se referma."
+  },
+  {
+   "type": "text",
+   "value": "Kaël tourna les talons, la tête pleine de ce regard, et percuta quelqu'un de plein fouet."
+  },
+  {
+   "type": "text",
+   "value": "— Aïe !"
+  },
+  {
+   "type": "text",
+   "value": "Une jeune femme recula d'un pas en se tenant l'épaule. Elle portait une cape grise à capuche, mais la capuche avait glissé, et Kaël vit de longs cheveux blond doré, une tresse fine sur le côté, et deux yeux ambre qui le fusillaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "La rencontre"
+  },
+  {
+   "type": "text",
+   "value": "— Vous pourriez regarder où vous allez, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous aussi, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche. La referma. Derrière elle, deux hommes en armure blanche et or, qui la suivaient à trois pas, s'étaient figés, la main sur l'épée, livides."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ? dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous étiez arrêtée au milieu de la rue, dit Kaël. À regarder le même carrosse que moi. On est deux à ne pas avoir regardé."
+  },
+  {
+   "type": "text",
+   "value": "Il inclina à peine la tête. Pas une révérence. Le salut qu'on fait à quelqu'un qu'on a bousculé au marché."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne journée."
+  },
+  {
+   "type": "text",
+   "value": "Et il s'en alla."
+  },
+  {
+   "type": "text",
+   "value": "Il ne vit pas les deux gardes échanger un regard horrifié. Il ne vit pas la jeune femme rester plantée au milieu de la place, la bouche entrouverte. Puis, lentement, sourire."
+  },
+  {
+   "type": "text",
+   "value": "— Votre Altesse, souffla l'un des gardes. Voulez-vous que nous…"
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Séléné d'Arvalis. Je veux savoir qui c'est."
+  },
+  {
+   "type": "text",
+   "value": "Le soir, une foule énorme se pressa devant les grilles de l'arène, là où les hérauts devaient afficher le tableau des qualifications. Kaël s'y glissa. On cloua le grand parchemin sous les torches, et des centaines de têtes se levèrent en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Il chercha son nom. Il le trouva tout en haut. Le premier combat. L'ouverture du tournoi, devant l'arène entière."
+  },
+  {
+   "type": "text",
+   "value": "*Kaël, de Valcendre, contre Varek Dorn, de l'Empire de Kesh.*"
+  },
+  {
+   "type": "text",
+   "value": "Autour de lui, des murmures coururent. Des noms. Des souvenirs."
+  },
+  {
+   "type": "text",
+   "value": "— Dorn, dit quelqu'un. Le serpent."
+  },
+  {
+   "type": "text",
+   "value": "— Celui du dernier tournoi de Kesh, l'an passé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Celui-là. Il a tué son adversaire dans le cercle. Un accident, ont dit les juges."
+  },
+  {
+   "type": "text",
+   "value": "Un rire bas, quelque part derrière Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Un accident. Bien sûr. Le pauvre garçon n'est jamais rentré chez lui."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne bougea pas. Il regardait les deux noms côte à côte sur le parchemin, le sien si court, l'autre si lourd."
+  },
+  {
+   "type": "text",
+   "value": "Demain, toute l'arène serait là pour voir le Vide des Valmont mourir en premier."
+  }
+ ]
+}

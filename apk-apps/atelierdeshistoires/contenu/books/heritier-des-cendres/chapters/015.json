@@ -1,0 +1,309 @@
+{
+ "number": 15,
+ "title": "Le spectre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La première nuit, il ne put rien dire."
+  },
+  {
+   "type": "text",
+   "value": "Il resta assis sur son lit, le souffle coupé, à regarder cette femme qui avait son visage. Elle pleurait. Ses larmes étaient grises, elles aussi, et ne tombaient jamais tout à fait."
+  },
+  {
+   "type": "text",
+   "value": "— Mère ? réussit-il à dire."
+  },
+  {
+   "type": "text",
+   "value": "— Ne crie pas. Ils écoutent. Ils écoutent toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Qui ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna la tête vers un coin de la chambre, terrifiée, comme si quelqu'un se tenait là. Il n'y avait personne. Les chaînes se tendirent d'un coup et la tirèrent vers le plancher. Elle hurla sans bruit, la bouche grande ouverte, et disparut."
+  },
+  {
+   "type": "text",
+   "value": "La lumière grise s'éteignit. La chandelle n'avait pas bougé. Le médaillon, dans sa main, était glacé."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne se rendormit pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle revint la nuit suivante. Et celle d'après."
+  },
+  {
+   "type": "text",
+   "value": "Toujours à la même heure, quand les cloches de la cathédrale sonnaient trois coups. Toujours au pied du lit. Chaque fois un peu plus nette, un peu plus pâle, un peu plus abîmée. Elle lui parlait par fragments, en jetant des regards terrifiés autour d'elle."
+  },
+  {
+   "type": "text",
+   "value": "— Quand je suis morte, je ne suis pas partie, chuchota-t-elle la troisième nuit. Une part de moi est restée accrochée à toi. Ils l'ont trouvée. Ils l'ont arrachée. Ils me gardent dans un endroit entre les mondes, Kaël. Il n'y a pas de lumière. Il n'y a pas de fin."
+  },
+  {
+   "type": "text",
+   "value": "— Qui ? Dis-moi qui. J'irai les chercher."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne peux pas. Personne ne peut. Ils veulent une seule chose."
+  },
+  {
+   "type": "text",
+   "value": "Elle approcha. Les chaînes grincèrent. Son visage était tout près du sien, et il sentit une odeur de terre froide."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "Les chaînes"
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne veulent pas que tu gagnes. Si tu gagnes ce tournoi, ils me détruiront. Pas tuée. Détruite. Il ne restera rien de moi, nulle part. Plus jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? Pourquoi ce tournoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas. Je t'en supplie, mon fils. Je t'en supplie."
+  },
+  {
+   "type": "text",
+   "value": "Elle tendit la main vers sa joue. Il ne sentit rien qu'un souffle glacé. Puis elle fut arrachée de nouveau, et la chambre redevint noire."
+  },
+  {
+   "type": "text",
+   "value": "Il resta immobile jusqu'à l'aube, la joue tendue vers ce qui n'était plus là."
+  },
+  {
+   "type": "text",
+   "value": "Il cessa de dormir."
+  },
+  {
+   "type": "text",
+   "value": "Pas complètement. Il somnolait parfois, l'après-midi, assis au fond de la salle commune, la tête contre le mur. Il se réveillait en sursaut au moindre bruit de chaîne : une enseigne qui grinçait, un seau qu'on posait, le harnais d'un cheval dans la rue. Ses yeux se creusèrent. Sa peau, déjà pâle, prit la couleur de la cire."
+  },
+  {
+   "type": "text",
+   "value": "Brann le trouva un matin dans la cour de l'auberge, en train de s'entraîner à l'épée contre un poteau, à une heure où même les coqs dormaient."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as une tête de noyé, dit le grand Nordique."
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas un compliment."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Brann le regarda frapper le poteau. Une fois. Deux fois. Le bois éclata."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "L'entraînement"
+  },
+  {
+   "type": "text",
+   "value": "— Tu me dirais, hein ? S'il y avait un problème."
+  },
+  {
+   "type": "text",
+   "value": "Kaël abaissa son épée."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de problème."
+  },
+  {
+   "type": "text",
+   "value": "Brann n'insista pas. Il n'était pas homme à insister. Mais il resta là, adossé au mur, à le regarder s'entraîner jusqu'au lever du soleil, comme on veille un malade qui refuse d'être malade."
+  },
+  {
+   "type": "text",
+   "value": "Le pire, ce n'était pas le spectre."
+  },
+  {
+   "type": "text",
+   "value": "Le pire, c'était le silence en dedans."
+  },
+  {
+   "type": "text",
+   "value": "Depuis la première nuit des chaînes, la Reine ne parlait plus. Il la sentait toujours, quelque part, sous sa poitrine, immense et froide. Mais c'était comme si quelque chose de lourd s'était posé sur elle. Un drap mouillé. Une main sur une bouche. Quand il l'appelait, la nuit, il n'obtenait qu'un frémissement lointain, une syllabe brisée, *Kaë… veth…*, et puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Il essaya d'allumer le feu noir dans la paume de sa main, un soir, pour se rassurer. La flamme vint. Petite. Tremblante. Grise sur les bords, comme une braise qui meurt."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma le poing et ne réessaya pas."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa : *elle a peur, elle aussi.*"
+  },
+  {
+   "type": "text",
+   "value": "Il pensa : *ou bien elle n'a jamais été là, et j'ai tout inventé.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait plus laquelle de ces pensées était la pire."
+  },
+  {
+   "type": "text",
+   "value": "Séléné vint le chercher le quatrième jour pour aller voir les arbres de lumière, sur la grande place, qu'on allumait pour la fête des Esprits."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me dois toujours un dîner, dit-elle sur le pas de la porte. J'ai décidé que tu le paierais en marrons chauds. C'est très économique. Je suis une princesse raisonnable."
+  },
+  {
+   "type": "text",
+   "value": "Elle souriait. Elle portait sa cape d'homme et un bonnet ridicule qui cachait mal ses cheveux d'or. Il eut envie de dire oui. Il eut envie, plus que de n'importe quoi depuis des jours, de marcher à côté d'elle dans la foule, et de l'entendre parler, et d'oublier."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Le sourire de Séléné vacilla."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne peux pas, ou tu ne veux pas ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis fatigué."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël. Tu as l'air de quelqu'un qu'on a enterré et déterré deux fois. Qu'est-ce qui se passe ?"
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à la femme au pied de son lit. *Ne crie pas. Ils écoutent.* Il pensa à ces gens sans visage qui savaient tout, qui avaient trouvé sa mère jusque dans la mort. S'il parlait, s'il disait un seul mot à Séléné, peut-être qu'ils l'entendraient. Peut-être qu'ils s'en prendraient à elle aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Rien, dit-il. Il ne se passe rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda longtemps. Ses yeux ambre cherchaient quelque chose sur son visage, et ne le trouvaient pas."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit-elle enfin, d'une voix plus petite. D'accord."
+  },
+  {
+   "type": "text",
+   "value": "Elle partit seule. Il la regarda descendre la rue jusqu'à ce que le bonnet ridicule disparaisse dans la foule. Puis il referma la porte et s'y adossa, et il resta là très longtemps, le front contre le bois."
+  },
+  {
+   "type": "text",
+   "value": "Maître Orsin, logé à l'autre bout de la ville, lui fit porter deux billets dans la semaine pour le voir. Kaël ne répondit à aucun. Il ne pouvait pas regarder le vieil homme dans les yeux et lui dire que Lyra hurlait toutes les nuits, enchaînée, et qu'il ne savait pas comment l'aider."
+  },
+  {
+   "type": "text",
+   "value": "Le cinquième soir, en remontant de la salle commune, il trouva un papier sous sa porte."
+  },
+  {
+   "type": "text",
+   "value": "Un simple carré de papier épais, plié en deux. Pas de cachet. Pas de signature. Il le ramassa et le déplia près de la fenêtre, à la lumière mourante."
+  },
+  {
+   "type": "text",
+   "value": "L'écriture était fine, penchée, très régulière. Une écriture qu'il ne connaissait pas. Ni celle d'Edmond, ni celle de Corvin, ni aucune de celles qu'il avait vues dans les registres des Valmont. Une main patiente. Une main qui ne tremblait jamais."
+  },
+  {
+   "type": "text",
+   "value": "*Perds la Tour des Échos. Ou ce soir, elle hurlera.*"
+  },
+  {
+   "type": "text",
+   "value": "Il relut. Il relut encore. Les lettres ne changèrent pas."
+  },
+  {
+   "type": "text",
+   "value": "La Tour des Échos. Le quatrième tour. Dans trois jours."
+  },
+  {
+   "type": "text",
+   "value": "Il approcha le papier de la chandelle pour le brûler, et s'arrêta. Le coin du papier ne prenait pas. Il le tint dans la flamme, longtemps. Il ne prenait toujours pas. Comme si quelque chose, dans la fibre même, refusait le feu."
+  },
+  {
+   "type": "text",
+   "value": "Il le jeta par terre. Il se tourna vers le lit. Vers le pied du lit, où le plancher était intact, banal, couvert de poussière."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas qui vous êtes, dit-il à voix haute, à la chambre vide. Mais si vous la touchez…"
+  },
+  {
+   "type": "text",
+   "value": "Il ne finit pas sa phrase. Il n'avait rien pour la finir. Pas de menace. Pas de feu. Juste un garçon de dix-huit ans debout dans une chambre d'auberge, les poings serrés, et une Reine qui se taisait."
+  },
+  {
+   "type": "text",
+   "value": "Les cloches de la cathédrale sonnèrent trois coups."
+  },
+  {
+   "type": "text",
+   "value": "La lumière grise monta du plancher."
+  },
+  {
+   "type": "text",
+   "value": "Cette nuit-là, elle ne lui parla pas. Elle ne le supplia pas. Elle ne le regarda même pas. Elle se tordit au pied de son lit, dans ses chaînes qui se resserraient, qui la brûlaient, qui la tiraient de tous les côtés à la fois."
+  },
+  {
+   "type": "text",
+   "value": "Et elle hurla."
+  },
+  {
+   "type": "text",
+   "value": "Elle hurla avec la voix qu'il avait imaginée pour sa mère, celle qui aurait dû lui chanter des berceuses. Elle hurla son nom, et des mots qu'il ne comprenait pas, et des cris qui n'étaient plus des mots du tout."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se boucha les oreilles. Ça ne servait à rien. Le cri était dans la chambre, dans les murs, dans ses os. Il se jeta vers elle, voulut saisir les chaînes, et ses mains passèrent à travers comme à travers de la fumée glacée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Le hurlement"
+  },
+  {
+   "type": "text",
+   "value": "Personne, dans l'auberge, ne vint frapper à sa porte. Personne n'entendait."
+  },
+  {
+   "type": "text",
+   "value": "Lui seul."
+  },
+  {
+   "type": "text",
+   "value": "Elle hurla jusqu'à l'aube."
+  }
+ ]
+}

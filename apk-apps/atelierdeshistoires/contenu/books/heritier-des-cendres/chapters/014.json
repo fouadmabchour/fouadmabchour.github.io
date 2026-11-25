@@ -1,0 +1,297 @@
+{
+ "number": 14,
+ "title": "Lyra",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Maître Orsin arriva à Aurelhaven deux jours après le duel, sur une mule grise qui avait l'air aussi vieille que lui."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le trouva assis dans la salle commune de l'auberge du Chaudron Fêlé, les pieds tendus vers le feu, une tasse de vin chaud entre les mains. Il portait son éternel manteau brun usé aux coudes, et ses lunettes rondes avaient glissé au bout de son nez. Sur son épaule, le hibou de son esprit, à moitié transparent, dormait."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez fait tout ce chemin, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Trois cents lieues sur le dos de cette bête. Mes os ne me le pardonneront jamais. Assieds-toi, mon garçon. Laisse-moi te regarder."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'assit. Orsin le regarda longtemps, en silence, et ses yeux devinrent humides derrière les verres."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as grandi, dit-il enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a un mois que vous ne m'avez pas vu."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas une affaire de mois."
+  },
+  {
+   "type": "text",
+   "value": "Il posa sa tasse. Ses mains tremblaient un peu, plus que d'habitude."
+  },
+  {
+   "type": "text",
+   "value": "— Toute la ville de Valcendre parle de toi. Les qualifications. Le Labyrinthe. Le procès. Et maintenant Corvin, couché dans la poussière devant cent mille personnes. Edmond est revenu chez lui une nuit, il a fait fermer l'ossuaire et renvoyé trois domestiques. Je me suis dit que l'heure était venue."
+  },
+  {
+   "type": "text",
+   "value": "— La lettre, dit Kaël. Vous aviez dit : à n'ouvrir que si je gagne."
+  },
+  {
+   "type": "text",
+   "value": "— J'avais dit ça parce que j'étais un vieux lâche. J'espérais que tu n'en aurais jamais besoin. Que tu ferais ta vie loin d'ici, sans savoir. Mais Dame Halvara m'a écrit. Tu connais son nom, maintenant. Alors tu dois connaître le reste."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit de sa poche une enveloppe jaunie, cachetée de cire brune. Puis il la reposa sur la table sans la tendre."
+  },
+  {
+   "type": "text",
+   "value": "— Je préfère te le dire moi-même. Ce que j'ai écrit là-dedans, je l'ai écrit il y a dix-huit ans, et j'écrivais mal."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent dans la chambre de Kaël. Orsin s'assit sur l'unique chaise. Kaël resta debout près de la fenêtre, le dos droit."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai connue un hiver, commença le vieil homme. Elle est arrivée à Valcendre à pied, enceinte de huit mois, sous un faux nom. Elle cherchait des livres. Tu imagines ? Une femme traquée par le Haut Conseil, sur le point d'accoucher, et elle venait à la bibliothèque des Valmont pour lire des chroniques sur les esprits anciens. Elle voulait savoir comment cacher un esprit dans un enfant."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit tristement."
+  },
+  {
+   "type": "text",
+   "value": "— Tu lui ressembles. Pas seulement les cheveux. La façon de se tenir. Elle se tenait droite, même quand elle avait mal. Elle parlait peu et, quand elle parlait, c'était pour dire quelque chose de drôle qui ne faisait rire personne."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne dit rien. Il ne pouvait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Lyra. Halvara t'a donné son nom. Moi, je peux te donner le reste. Elle portait la Reine des Enfers depuis sa naissance, comme sa mère avant elle, et la mère de sa mère. Une seule lignée, depuis trois siècles. Le Conseil l'a découvert. Ils voulaient l'emmener dans la Tour Morne et lier la Reine à l'un des leurs par un rituel. Ça l'aurait tuée. Alors elle a fui."
+  },
+  {
+   "type": "text",
+   "value": "— Et mon père ?"
+  },
+  {
+   "type": "text",
+   "value": "Orsin secoua la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Elle n'en a jamais parlé. Une seule fois, elle a dit : « Il est mort en me laissant partir. » Je n'ai jamais su son nom."
+  },
+  {
+   "type": "text",
+   "value": "Il ôta ses lunettes et les essuya avec un pan de son manteau. Longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Les douleurs l'ont prise une nuit de janvier. Elle a accouché à l'hospice de Valcendre. Ça s'est mal passé. Elle avait perdu trop de sang, et elle a fait une chose que je ne comprends toujours pas : elle a scellé l'esprit en toi. Toute la Reine. Elle a enfermé ce qu'elle avait de plus puissant dans un nouveau-né pour que personne ne puisse le sentir. Pas de marque sur ton poignet. Rien. Un Vide. Le meilleur des déguisements."
+  },
+  {
+   "type": "text",
+   "value": "Kaël regardait la rue, en bas. Une charrette passait. Un enfant courait derrière."
+  },
+  {
+   "type": "text",
+   "value": "— Le sceau lui a pris ce qu'il lui restait de forces, dit Orsin plus bas. Elle est morte avant l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura. Le hibou, sur l'épaule d'Orsin, ouvrit un œil doré et le referma."
+  },
+  {
+   "type": "text",
+   "value": "— Les Valmont t'ont recueilli le lendemain. Je n'ai jamais su comment. J'ai demandé une place de précepteur pour rester près de toi. On me l'a refusée. On m'a laissé la bibliothèque."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes resté dix-huit ans dans la bibliothèque, dit Kaël, pour moi."
+  },
+  {
+   "type": "text",
+   "value": "— J'aime les livres, aussi, répondit le vieil homme avec un sourire qui tremblait. Ne me rends pas plus noble que je ne suis."
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main."
+  },
+  {
+   "type": "text",
+   "value": "— Ton médaillon. Donne-le-moi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le décrocha de son cou. Orsin le retourna, posa l'ongle du pouce sur le bord de la flamme gravée, et appuya à un endroit précis, à la base de la flamme, là où l'argent était le plus usé."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un déclic minuscule."
+  },
+  {
+   "type": "text",
+   "value": "Le médaillon s'ouvrit en deux."
+  },
+  {
+   "type": "text",
+   "value": "Kaël l'avait porté toute sa vie. Il l'avait tenu dans sa main des milliers de nuits, l'avait tourné, frotté, mordu une fois, enfant, pour voir s'il était vrai. Il n'avait jamais su qu'il s'ouvrait."
+  },
+  {
+   "type": "text",
+   "value": "À l'intérieur, sous un minuscule verre bombé, une mèche de cheveux noirs, nouée d'un fil rouge. Et, gravés dans l'argent du couvercle, d'une écriture fine, quatre mots."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "Pour mon fils"
+  },
+  {
+   "type": "text",
+   "value": "*Pour mon fils. Brûle doucement.*"
+  },
+  {
+   "type": "text",
+   "value": "Orsin se leva sans bruit. Il posa la main une seconde sur l'épaule de Kaël, puis il sortit et referma la porte derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'assit sur le bord du lit."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda la mèche de cheveux. Noire comme les siens. Il pensa qu'elle avait dû la couper elle-même, dans cet hospice, avec un couteau peut-être, entre deux douleurs. Qu'elle avait gravé ces mots en sachant qu'elle ne le verrait pas grandir. Qu'elle avait pensé à lui, à ce qu'il deviendrait, à ce feu qu'elle lui laissait et qui pouvait tout détruire."
+  },
+  {
+   "type": "text",
+   "value": "*Brûle doucement.*"
+  },
+  {
+   "type": "text",
+   "value": "Pas : venge-moi. Pas : sois fort. Pas : sois puissant."
+  },
+  {
+   "type": "text",
+   "value": "Brûle doucement."
+  },
+  {
+   "type": "text",
+   "value": "Quelque chose céda en lui, quelque part sous les côtes. Quelque chose qui avait tenu dix-huit ans. Sous les coups d'Aldric. Sous le regard vide d'Isaure. Au bout de la table où l'on ne mettait pas son couvert. Dans l'arène qui riait."
+  },
+  {
+   "type": "text",
+   "value": "Il pleura."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas comment on faisait. Il n'avait jamais pleuré, pas même enfant, parce qu'il avait compris très tôt que personne ne viendrait. Alors ça sortit mal, par à-coups, silencieusement d'abord, puis avec un bruit rauque qui lui fit honte et qu'il ne put pas arrêter. Il serra le médaillon contre sa bouche. Il plia le dos, enfin, lui qui se tenait toujours si droit."
+  },
+  {
+   "type": "text",
+   "value": "Il n'entendit pas la porte s'ouvrir."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël ? L'aubergiste m'a dit que tu… Je t'avais promis un dîner, et j'ai pensé…"
+  },
+  {
+   "type": "text",
+   "value": "Séléné s'arrêta sur le seuil."
+  },
+  {
+   "type": "text",
+   "value": "Elle portait une cape d'homme pour passer inaperçue, et elle tenait un panier qui sentait le pain chaud. Elle le regarda. Il voulut se redresser, s'essuyer le visage, dire quelque chose de froid. Il n'y arriva pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit rien. Elle posa le panier par terre, referma la porte, et vint s'asseoir à côté de lui sur le lit. Elle ne le prit pas dans ses bras. Elle ne lui demanda pas ce qui se passait. Elle posa simplement son épaule contre la sienne, et elle resta là."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Les larmes"
+  },
+  {
+   "type": "text",
+   "value": "Au bout d'un long moment, il ouvrit la main et lui montra le médaillon."
+  },
+  {
+   "type": "text",
+   "value": "Elle lut les quatre mots. Elle comprit. Il le vit dans ses yeux ambre, qui se mouillèrent à leur tour."
+  },
+  {
+   "type": "text",
+   "value": "— Elle t'aimait, dit-elle très doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne la connais pas."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas grave. Elle, elle te connaissait."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux. Ils restèrent assis côte à côte jusqu'à ce que la lumière baisse dans la chambre, et que le pain refroidisse dans le panier, et que la ville, au-dehors, allume ses premières lampes."
+  },
+  {
+   "type": "text",
+   "value": "Elle partit tard, en lui faisant promettre de manger. Il promit. Il ne mangea pas."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sut pas quelle heure il était quand il se réveilla."
+  },
+  {
+   "type": "text",
+   "value": "La chandelle s'était éteinte. La chambre baignait dans une lumière étrange, grise, qui ne venait pas de la fenêtre. Il faisait froid. Pas le froid de la Reine, qu'il connaissait et qui était presque doux. Un autre froid. Humide. Celui des caves."
+  },
+  {
+   "type": "text",
+   "value": "Il se redressa sur un coude."
+  },
+  {
+   "type": "text",
+   "value": "Au pied de son lit, il y avait une femme."
+  },
+  {
+   "type": "text",
+   "value": "Elle était debout, très mince, enveloppée d'une robe pâle qui flottait sans qu'il y ait de vent. Ses cheveux noirs tombaient sur ses épaules. Autour de ses poignets, de sa taille, de sa gorge, s'enroulaient des chaînes de lumière grise qui disparaissaient dans le plancher."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "Le spectre"
+  },
+  {
+   "type": "text",
+   "value": "Elle releva la tête."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait son visage. Ses yeux noirs. Sa bouche. Elle avait le visage qu'il venait d'imaginer toute la soirée, penché sur un nouveau-né, dans un hospice, avant l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Elle tendit vers lui des mains tremblantes, et les chaînes cliquetèrent."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël… murmura-t-elle. Mon fils… Ils me retiennent."
+  }
+ ]
+}

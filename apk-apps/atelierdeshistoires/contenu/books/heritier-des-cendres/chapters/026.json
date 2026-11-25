@@ -1,0 +1,409 @@
+{
+ "number": 26,
+ "title": "La Couronne d'Aube",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Cent mille personnes. Kaël ne les voyait pas. Il les entendait."
+  },
+  {
+   "type": "text",
+   "value": "Le bruit montait de l'Arène de Sombreval comme une marée qui ne redescend jamais. Il passait sous la voûte du tunnel, faisait vibrer les grilles, entrait dans la poitrine. Des tambours. Des bannières qui claquaient. Des milliers de voix qui criaient un seul nom."
+  },
+  {
+   "type": "text",
+   "value": "Pas le sien."
+  },
+  {
+   "type": "text",
+   "value": "— Ysolde ! Ysolde ! Ysolde !"
+  },
+  {
+   "type": "text",
+   "value": "Brann, adossé au mur du tunnel, croisa ses bras énormes."
+  },
+  {
+   "type": "text",
+   "value": "— Ils changeront d'avis, grogna-t-il. Ils changent toujours d'avis."
+  },
+  {
+   "type": "text",
+   "value": "— Tu crois ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je les ai vus faire, aux qualifications. J'étais dans les gradins. Ils riaient, et puis ils se sont tus."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ajusta ses gants. Le cuir noir crissa. Il avait mal dormi, puis pas dormi du tout, et pourtant son corps était calme. Une seule chose le tenait éveillé : ce que Brann avait raconté à l'aube. Les gardes disparus. Les voix sous la pierre. Halvara avait fait fouiller les souterrains pendant trois heures. On n'avait rien trouvé. On avait maintenu la finale."
+  },
+  {
+   "type": "text",
+   "value": "*Rien trouvé*, pensa Kaël. *C'est exactement ce qui m'inquiète.*"
+  },
+  {
+   "type": "text",
+   "value": "— Tu les entends encore ? demanda Brann à voix basse."
+  },
+  {
+   "type": "text",
+   "value": "Kaël tendit l'oreille, sous le vacarme. Il y avait autre chose. Très loin, très bas. Un chant sans paroles, comme une berceuse fredonnée par des bouches pleines de cendre."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Moi aussi. Mon ours n'aime pas ça. Il veut creuser."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-lui d'attendre."
+  },
+  {
+   "type": "text",
+   "value": "— On ne dit pas à un ours d'attendre, Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Une silhouette dorée descendit les marches du tunnel en courant presque. Séléné. Pas d'armure aujourd'hui : une tunique blanche, la tresse fine sur le côté, les yeux ambre trop brillants. Elle s'arrêta devant lui, essoufflée, et ne trouva rien à dire. C'était si rare que Brann en siffla."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais aller voir si l'ours a faim, annonça-t-il, et il s'éloigna avec une discrétion de montagne qui roule."
+  },
+  {
+   "type": "text",
+   "value": "Séléné leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Je voulais te dire quelque chose d'intelligent, dit-elle. Je l'avais préparé. Il y avait une métaphore avec un phénix."
+  },
+  {
+   "type": "text",
+   "value": "— Et ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai oubliée en te voyant. C'est très humiliant."
+  },
+  {
+   "type": "text",
+   "value": "Il faillit sourire. Elle tendit la main et redressa le col de son manteau noir, qui n'en avait pas besoin."
+  },
+  {
+   "type": "text",
+   "value": "— Ne la laisse pas te tuer, murmura-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Elle ne veut pas me tuer. Elle veut me battre."
+  },
+  {
+   "type": "text",
+   "value": "— Alors ne la laisse pas te battre non plus. Mon père a parié contre toi. Je veux voir sa tête."
+  },
+  {
+   "type": "text",
+   "value": "Les cors sonnèrent. Elle recula d'un pas. Il garda un instant la chaleur de ses doigts sur le col, puis se tourna vers la lumière."
+  },
+  {
+   "type": "text",
+   "value": "L'arène l'avala."
+  },
+  {
+   "type": "text",
+   "value": "Le soleil frappait le sable pourpre, la pierre antique, les gradins qui montaient jusqu'au ciel. Au centre, sur une plateforme de marbre blanc, la Couronne d'Aube reposait sur un coussin rouge : un cercle d'or pâle qui semblait retenir la lumière du matin."
+  },
+  {
+   "type": "text",
+   "value": "Les sifflets l'accueillirent. Moins nombreux qu'autrefois. Entre eux, des applaudissements, quelques-uns, puis d'autres. Quelqu'un cria « Le Vide ! » et ce n'était plus tout à fait une insulte."
+  },
+  {
+   "type": "text",
+   "value": "De l'autre côté, Ysolde Valmont entra, et l'arène explosa."
+  },
+  {
+   "type": "text",
+   "value": "Elle était grande, déjà, sans esprit. Ses cheveux auburn tressés en couronne, sa cicatrice fine au menton, son armure d'argent et de bronze qui renvoyait le soleil. Elle ne salua pas la foule. Elle marcha jusqu'au centre et s'arrêta à dix pas de lui."
+  },
+  {
+   "type": "text",
+   "value": "La loge des Valmont était vide. Pas de lion de pierre, pas de bagues, pas de voix douce. Seulement des sièges de velours vert et un silence que tout le monde remarquait."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as dormi ? demanda Ysolde."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda. Pour la première fois de leur vie, ils étaient à la même hauteur."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne retiendrai rien, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Bien."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara se leva dans la tribune d'honneur. Sa voix, portée par l'esprit du vent d'un héraut, roula sur l'arène."
+  },
+  {
+   "type": "text",
+   "value": "— Finale du Tournoi de l'Aube Pourpre. Ysolde Valmont, de Valcendre. Kaël, sans maison. Le combat s'achève par abandon, inconscience, ou sortie du cercle. Toute intention de tuer entraîne la disqualification. Commencez."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde appela son esprit."
+  },
+  {
+   "type": "text",
+   "value": "L'air derrière elle se plia. Une guerrière de trois mètres sortit de la lumière, en armure spectrale aux reflets d'aube, le visage caché sous un heaume sans fente. Elle se fondit dans Ysolde comme une seconde peau. Et dans les mains de la jeune femme naquit la lance."
+  },
+  {
+   "type": "text",
+   "value": "Une lance de lumière pure, longue comme deux hommes, qui bourdonnait comme une ruche en colère."
+  },
+  {
+   "type": "text",
+   "value": "Elle frappa le sol avec le talon de l'arme. L'arène trembla. Du sable jaillit en anneau jusqu'aux premiers gradins."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-1.webp",
+   "caption": "La lance de lumière"
+  },
+  {
+   "type": "text",
+   "value": "Kaël ouvrit les mains. Le feu noir s'y alluma, reflets pourpres, silencieux."
+  },
+  {
+   "type": "text",
+   "value": "Elle chargea."
+  },
+  {
+   "type": "text",
+   "value": "Il ne vit qu'un trait blanc. Il roula sur le côté, la lance passa où se trouvait son cœur, et le souffle de la lumière lui brûla la joue. Il se releva, lança une vague de flammes noires. Ysolde la fendit en deux d'un revers. Les moitiés s'écrasèrent sur le sable et s'éteignirent."
+  },
+  {
+   "type": "text",
+   "value": "— Mieux que ça, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle frappa encore. Haut, bas, de taille, d'estoc. Chaque coup était un éclair. Kaël reculait, déviait, esquivait. Les ombres sous ses pieds se tendaient comme des cordes et le tiraient hors de portée au dernier instant. Il connaissait ces gestes. Il les avait regardés par la fenêtre de la salle d'armes, enfant, quand Ysolde prenait ses leçons et qu'il n'avait pas le droit d'entrer."
+  },
+  {
+   "type": "text",
+   "value": "Il savait qu'elle laissait toujours, après le troisième coup d'estoc, une ouverture sur la gauche."
+  },
+  {
+   "type": "text",
+   "value": "Troisième coup. Il plongea à gauche."
+  },
+  {
+   "type": "text",
+   "value": "Son poing gainé de feu noir frappa l'armure spectrale à l'épaule. Ysolde glissa de trois mètres sur le sable. Elle s'arrêta, regarda son épaule, puis lui."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-2.webp",
+   "caption": "Le duel"
+  },
+  {
+   "type": "text",
+   "value": "— Tu regardais, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Tous les mardis."
+  },
+  {
+   "type": "text",
+   "value": "Quelque chose passa sur son visage. Pas de la colère. Presque un rire."
+  },
+  {
+   "type": "text",
+   "value": "Le public, lui, ne riait plus. Il hurlait."
+  },
+  {
+   "type": "text",
+   "value": "Le combat changea de nature."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était plus une exécution. C'était une conversation. Elle frappait, il répondait. Il ouvrait des ailes de ténèbres pour monter, elle lançait sa lumière pour le faire descendre. Les flammes noires et la lumière blanche se heurtaient au-dessus du sable, et à chaque choc une onde passait sur les gradins, soulevait les capes, faisait taire les enfants."
+  },
+  {
+   "type": "text",
+   "value": "Au bout de dix minutes, Ysolde saignait de la lèvre. Kaël avait une entaille au bras, là où la lance l'avait effleuré. Ils respiraient fort tous les deux."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es bon, dit-elle, comme si l'aveu lui coûtait une dent."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es meilleure, dit-il. Pour l'instant."
+  },
+  {
+   "type": "text",
+   "value": "— Pour l'instant ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle leva la lance au-dessus de sa tête. La guerrière spectrale se dessina tout entière autour d'elle, géante, et la lumière se mit à grandir. Grandir encore. La lance devint une colonne. Le sable se vitrifia sous les pieds d'Ysolde."
+  },
+  {
+   "type": "text",
+   "value": "— Ceci, dit-elle, s'appelle l'Aube Fendue. Je ne l'ai jamais utilisée sur un humain. Abandonne, Kaël. Je ne veux pas te blesser."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Dans le silence de sa tête, il ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "*Tu es là ?*"
+  },
+  {
+   "type": "text",
+   "value": "Le froid vint d'abord. Un froid immense, qui n'était pas cruel. Puis la voix, grave, lente, venue d'avant les royaumes."
+  },
+  {
+   "type": "text",
+   "value": "*Ithra vael, sorneh.*"
+  },
+  {
+   "type": "text",
+   "value": "*Je ne comprends pas toujours*, pensa-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Un temps. Puis, dans sa langue, pour la première fois si clairement qu'il en frissonna :"
+  },
+  {
+   "type": "text",
+   "value": "*Ne me retiens plus.*"
+  },
+  {
+   "type": "text",
+   "value": "Il comprit qu'il l'avait toujours fait. Depuis la bibliothèque, depuis les torches éteintes, depuis la pierre fissurée. Il l'avait toujours tenue par la main, comme on tient un enfant au bord d'une falaise. Par peur. Par habitude. Parce qu'on lui avait dit toute sa vie qu'il n'y avait rien en lui."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit les mains. Et il la lâcha."
+  },
+  {
+   "type": "text",
+   "value": "Ses yeux devinrent rouge braise."
+  },
+  {
+   "type": "text",
+   "value": "Le feu noir ne sortit pas de ses paumes. Il sortit de partout. De son ombre, du sable, de l'air. Il monta autour de lui en spirale, en silence, sans un crépitement. Le soleil pâlit comme derrière un nuage."
+  },
+  {
+   "type": "text",
+   "value": "Et au-dessus de l'arène, la Reine apparut."
+  },
+  {
+   "type": "text",
+   "value": "Elle se déploya lentement, immense, plus haute que les plus hautes arcades de Sombreval. Une silhouette de femme translucide, faite de flammes rouges et noires. Une couronne d'obsidienne à pointes. Des cheveux de feu qui coulaient sur les gradins comme une rivière lente. Deux ailes sombres qui s'ouvrirent d'un bout à l'autre du ciel."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-3.webp",
+   "caption": "La Reine apparaît"
+  },
+  {
+   "type": "text",
+   "value": "Son visage était beau. Terriblement. Et elle regardait vers le bas, vers un seul homme sur le sable."
+  },
+  {
+   "type": "text",
+   "value": "Cent mille personnes se turent."
+  },
+  {
+   "type": "text",
+   "value": "Pas un cri. Pas une bannière. Un enfant, quelque part, laissa tomber un gobelet, et on entendit le bruit qu'il fit en rebondissant sur la pierre. Dans la tribune d'honneur, Dame Halvara s'était levée sans s'en rendre compte. Le roi Aurélien d'Arvalis avait reculé d'un pas. Séléné, au premier rang, avait les deux mains sur la bouche, et ses yeux brillaient d'une lumière qui n'était pas la peur."
+  },
+  {
+   "type": "text",
+   "value": "La colonne de lumière d'Ysolde vacilla."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva les yeux vers la Reine. Puis vers Kaël. Sa lance tremblait, mais elle ne la baissa pas. Elle était une Valmont. Elle n'avait jamais reculé devant rien."
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est ça, souffla-t-elle. C'est ça que tu portais."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis toujours, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un pas. La Reine fit un pas avec lui, et l'ombre de son pied couvrit la moitié de l'arène."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde frappa. L'Aube Fendue s'abattit, colonne blanche, de quoi raser une tour. Kaël leva une main. Une aile de ténèbres se referma devant lui, et la lumière s'y perdit comme une pluie dans la mer."
+  },
+  {
+   "type": "text",
+   "value": "Le choc renversa Ysolde. Elle roula, se releva sur un genou, la lance à demi éteinte. Le cercle était à deux pas derrière elle."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'avança. Il ne voulait pas la blesser. Il voulait seulement qu'elle recule de deux pas. Une poussée. Une seule."
+  },
+  {
+   "type": "text",
+   "value": "*Doucement*, murmura la Reine."
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main."
+  },
+  {
+   "type": "text",
+   "value": "Et sous ses pieds, le sable se mit à couler."
+  },
+  {
+   "type": "text",
+   "value": "Pas glisser. Couler, comme l'eau d'un bassin dont on retire la bonde. Une fissure noire traversa l'arène d'un bord à l'autre, puis une autre, puis dix. Le chant qu'il entendait depuis l'aube monta d'un coup, monta jusqu'à devenir un hurlement, des centaines de voix de femmes qui ne chantaient plus."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde recula, mais pas à cause de lui."
+  },
+  {
+   "type": "text",
+   "value": "Le sol de l'arène s'ouvrit en grand, et de la gueule noire jaillirent des dizaines de spectres hurlants, gris comme la cendre, enchaînés de lumière morte, qui filèrent droit vers les tribunes."
+  }
+ ]
+}

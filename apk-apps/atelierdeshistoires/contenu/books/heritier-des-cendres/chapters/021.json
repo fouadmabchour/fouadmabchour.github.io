@@ -1,0 +1,325 @@
+{
+ "number": 21,
+ "title": "Les runes grises",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "On le trouva à l'aube, dans un couloir de service derrière les loges de l'ouest."
+  },
+  {
+   "type": "text",
+   "value": "Deux gardes de l'arène faisaient leur ronde avec une lanterne et l'ennui des hommes qui n'attendent rien d'une nuit. Ils sentirent d'abord l'odeur. Pas celle de la chair brûlée, non. Une odeur froide, minérale, comme une cheminée éteinte depuis cent ans. Puis ils virent l'homme, assis contre le mur, les genoux repliés, les mains posées devant lui comme deux objets qui ne lui appartenaient plus."
+  },
+  {
+   "type": "text",
+   "value": "Il était vivant. Ses mains étaient noires jusqu'aux poignets, non pas carbonisées mais teintées, comme si l'encre de la nuit était entrée sous la peau. Sur son crâne rasé, les runes grises tatouées avaient changé de couleur. Elles brillaient faiblement, d'un rouge de braise qui s'éteint."
+  },
+  {
+   "type": "text",
+   "value": "Il ne parlait pas. Il regardait le vide et il tremblait."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit quelque chose ? demanda le premier garde."
+  },
+  {
+   "type": "text",
+   "value": "Le second se pencha. Les lèvres de l'homme bougeaient. Un seul mot, encore et encore."
+  },
+  {
+   "type": "text",
+   "value": "— *Elle.*"
+  },
+  {
+   "type": "text",
+   "value": "La nouvelle traversa Aurelhaven avant midi. Un nécromancien arrêté dans l'enceinte même de Sombreval. Les crieurs n'avaient pas de nom à donner, alors ils en inventaient. Les tavernes en avaient dix. Kaël n'en avait besoin que d'un."
+  },
+  {
+   "type": "text",
+   "value": "— Morvane, dit Séléné en posant le registre de la garde sur la table de l'auberge. Il s'appelle Morvane. Il loge depuis trois semaines au Pendu Doré, sous un faux nom. Et devine qui payait la chambre."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne leva pas les yeux. Il regardait ses propres mains, gantées de noir, à plat sur le bois."
+  },
+  {
+   "type": "text",
+   "value": "— Tu l'as volé, ce registre."
+  },
+  {
+   "type": "text",
+   "value": "— Emprunté. Le capitaine de la garde a une fille qui veut devenir chevalier d'Arvalis. Je lui ai promis une lettre de recommandation. C'est de la diplomatie."
+  },
+  {
+   "type": "text",
+   "value": "— C'est de la corruption."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la même chose avec une couronne dessus."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit en face de lui. Elle avait encore, sur la pommette, la marque bleue laissée par la garde de sa propre épée, la veille, en quart de finale, quand il la lui avait arrachée des mains et qu'elle était tombée en riant. Elle ne l'avait pas maquillée. Il le remarqua, et il remarqua aussi qu'elle avait remarqué qu'il le remarquait."
+  },
+  {
+   "type": "text",
+   "value": "— Ça te fait mal ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Ça me rend jolie. Tout le monde le dit."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne le dit."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je le dis. Kaël. Regarde-moi."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda. Ses yeux à lui étaient redevenus noirs, mais il les sentait encore chauds, comme des pierres laissées au soleil. Depuis la veille, depuis qu'il avait brûlé le spectre d'un seul regard, la voix ne l'avait plus quitté. Elle ne parlait pas. Elle était là, simplement, comme une main posée sur son épaule dans une pièce sombre."
+  },
+  {
+   "type": "text",
+   "value": "— La chambre de Morvane était payée par un intendant, dit Séléné. Un certain Gaspard Thiers. Intendant de la maison Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne bougea pas. Il s'y attendait. C'est ce qui lui fit le plus mal : de s'y attendre."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne suffit pas, dit-il. Edmond dira que l'intendant a agi seul. Il le chassera, il pleurera un peu en public, et on le plaindra d'avoir été trahi."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est pour ça qu'on va chercher autre chose."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle se pencha, et sa tresse fine glissa sur son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Ce que j'ai lu à la bibliothèque. Un spectre de souvenirs ne se fabrique pas avec rien. Il faut un objet du mort. Quelque chose qui a fait partie de lui. Un ongle, une dent, des cheveux. Plus l'objet est intime, plus le spectre est fidèle."
+  },
+  {
+   "type": "text",
+   "value": "*Il avait son visage*, pensa Kaël. *Il avait sa voix. Une voix que je n'avais jamais entendue, et je l'ai reconnue quand même.*"
+  },
+  {
+   "type": "text",
+   "value": "— Alors quelqu'un avait un morceau de ma mère, dit-il lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Oui. Et ce quelqu'un l'a donné à Morvane."
+  },
+  {
+   "type": "text",
+   "value": "Les cellules de la garde se trouvaient sous la tour de l'horloge, et on n'y entrait pas. Séléné y entra. Il suffisait, apprit Kaël, de marcher très droit, de ne pas ralentir et de dire « Princesse héritière d'Arvalis » d'un ton qui suggérait qu'on était déjà en retard et que c'était la faute de la personne en face."
+  },
+  {
+   "type": "text",
+   "value": "On les laissa devant une grille."
+  },
+  {
+   "type": "text",
+   "value": "Morvane était assis sur une paillasse. Quelqu'un lui avait bandé les mains, mais le noir dépassait des bandages. Quand il vit Kaël, il recula si vite que son dos heurta la pierre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "La cellule"
+  },
+  {
+   "type": "text",
+   "value": "— Non, souffla-t-il. Non, non. Pas lui. Éloignez-le."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vais pas te toucher, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas toi. Ce n'est pas toi qui me fais peur."
+  },
+  {
+   "type": "text",
+   "value": "Il regardait au-dessus de l'épaule de Kaël. Là où il n'y avait rien. Kaël sentit, au fond de sa poitrine, quelque chose de vaste remuer lentement, comme une bête immense qui se retourne dans son sommeil."
+  },
+  {
+   "type": "text",
+   "value": "*Neth varuun*, murmura la voix. *Il voit.*"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as fabriqué ma mère, dit Kaël. Avec quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Morvane rit. C'était un rire cassé, mouillé."
+  },
+  {
+   "type": "text",
+   "value": "— Fabriqué. Tu crois que c'est facile ? Tu crois qu'on tire un mort de rien ? Il m'a fallu onze nuits. Onze nuits à coudre ses souvenirs avec de la lumière grise. Et elle résistait, tu sais. Même morte, même en morceaux, elle résistait."
+  },
+  {
+   "type": "text",
+   "value": "— Avec quoi ? répéta Kaël, et la flamme de la lanterne, dans le couloir, se coucha d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "Morvane se tut. Il regarda la flamme. Il regarda Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Une mèche, dit-il. Une mèche de cheveux noirs, nouée d'un fil rouge. Gardée dix-huit ans dans un mouchoir brodé. On me l'a apportée dans une boîte de nacre. Ce n'était pas l'homme qui me payait. C'était la femme."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba dans la cellule."
+  },
+  {
+   "type": "text",
+   "value": "— Quelle femme ? demanda Séléné."
+  },
+  {
+   "type": "text",
+   "value": "Mais Morvane s'était recroquevillé, le visage dans ses mains noires, et il recommençait à murmurer le même mot, *elle, elle, elle*, et Kaël ne savait plus s'il parlait d'Isaure ou de la Reine."
+  },
+  {
+   "type": "text",
+   "value": "Ils remontèrent les marches sans parler. Dehors, il pleuvait une pluie fine qui ne mouillait pas vraiment, une pluie de capitale. Kaël marchait vite. Séléné le rattrapa sur le pont des Lanternes et lui prit le bras."
+  },
+  {
+   "type": "text",
+   "value": "— Attends."
+  },
+  {
+   "type": "text",
+   "value": "— Une boîte de nacre, dit Kaël. Dans le salon d'Isaure, à Valcendre, il y en avait une. Sur la cheminée. Personne n'avait le droit d'y toucher. Margaux l'a fait tomber une fois, à six ans. Isaure l'a giflée. C'est la seule fois où je l'ai vue lever la main sur un de ses enfants."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Elle était à l'hospice. La Reine me l'a montré : une femme près de la porte, avec un linge. Ma mère est morte à l'hospice de Valcendre. Isaure Valmont y était cette nuit-là. Elle a pris quelque chose sur le corps de ma mère. Et elle l'a gardé dix-huit ans sur sa cheminée."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix ne tremblait pas. C'était pire."
+  },
+  {
+   "type": "text",
+   "value": "Séléné ne lâcha pas son bras."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens avec toi."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas une question."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta. Il la regarda, la pluie dans ses cheveux dorés, l'ambre de ses yeux, la marque bleue sur sa joue qu'elle portait comme une décoration."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "Sous la pluie"
+  },
+  {
+   "type": "text",
+   "value": "— Si tu entres avec moi, dit-il, la princesse d'Arvalis aura forcé les appartements d'une grande famille de Valdor. Ton père aura une guerre à éviter. Et moi, j'aurai une raison de plus de ne pas me pardonner."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche. La referma. C'était, pensa-t-il, la première fois qu'il la voyait perdre une discussion."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'attends en bas, dit-elle enfin. Si tu n'es pas redescendu quand la cloche sonnera la demie, je monte. Avec ou sans guerre."
+  },
+  {
+   "type": "text",
+   "value": "— C'est raisonnable."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis jamais raisonnable. C'est mon charme."
+  },
+  {
+   "type": "text",
+   "value": "Les Valmont occupaient tout le deuxième étage de l'hôtel de Brissac, sur la place des Ducs. Le garde à l'entrée connaissait Kaël. Tout le monde, désormais, connaissait Kaël. L'homme ouvrit la bouche pour l'arrêter, puis il vit ses yeux, et il ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "L'escalier était tendu de velours vert. Le vert des Valmont. Kaël l'avait monté toute son enfance, dans d'autres maisons, derrière les autres, en portant les malles."
+  },
+  {
+   "type": "text",
+   "value": "La porte du salon était entrouverte."
+  },
+  {
+   "type": "text",
+   "value": "Il la poussa."
+  },
+  {
+   "type": "text",
+   "value": "La pièce était plongée dans la pénombre ; on avait tiré les rideaux en plein jour. Une seule bougie brûlait sur un guéridon. Edmond n'était pas là. Les enfants non plus. Il n'y avait qu'Isaure, assise très droite dans un fauteuil, les mains jointes sur ses genoux, vêtue de gris comme une veuve. Devant elle, sur le guéridon, à côté de la bougie, une petite boîte de nacre ouverte. Vide."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "Isaure attendait"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne sursauta pas. Elle leva les yeux vers lui, des yeux secs, rougis aux bords, et il comprit qu'elle était assise là depuis des heures."
+  },
+  {
+   "type": "text",
+   "value": "Qu'elle l'attendait."
+  },
+  {
+   "type": "text",
+   "value": "Dix-huit ans dans la même maison, et elle ne lui avait jamais adressé plus de dix mots d'affilée. Jamais une main sur l'épaule. Jamais son prénom prononcé avec autre chose que de la fatigue."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda comme elle ne l'avait jamais regardé. Comme on regarde un fantôme qu'on a longtemps redouté et qui arrive enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Ferme la porte, Kaël, dit-elle doucement."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la ferma pas."
+  },
+  {
+   "type": "text",
+   "value": "Isaure baissa les yeux vers la boîte vide. Ses mains, sur ses genoux, se serrèrent l'une contre l'autre."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai tenu ta mère dans mes bras quand elle est morte."
+  }
+ ]
+}

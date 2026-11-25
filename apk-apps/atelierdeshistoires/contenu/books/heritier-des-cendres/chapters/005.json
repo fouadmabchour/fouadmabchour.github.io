@@ -1,0 +1,301 @@
+{
+ "number": 5,
+ "title": "Les qualifications",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Cent mille personnes."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne les voyait pas encore. Il les entendait. Depuis le tunnel des combattants, sous les gradins, le bruit de l'Arène de Sombreval ressemblait à celui d'une mer en colère. Un grondement continu, énorme, qui faisait vibrer la pierre sous ses bottes et lui remontait dans les os. De temps en temps, une clameur plus haute. Des chants. Des cornes. Le martèlement de milliers de pieds sur les gradins de pierre noire."
+  },
+  {
+   "type": "text",
+   "value": "Il était seul dans le tunnel. Les autres participants attendaient dans les salles d'armes, entourés de leurs maîtres, de leurs familles, de leurs écuyers. Lui n'avait personne. On lui avait prêté une épée d'entraînement à la lame émoussée, comme le voulait le règlement des qualifications, et on lui avait indiqué la grille. C'était tout."
+  },
+  {
+   "type": "text",
+   "value": "Il tira sur ses gants noirs. Il toucha le médaillon sous sa chemise."
+  },
+  {
+   "type": "text",
+   "value": "*Tu es là ?*"
+  },
+  {
+   "type": "text",
+   "value": "Rien. Depuis la pierre fendue de Valcendre, la présence ne s'était plus manifestée. Pas une flamme, pas une ombre. Cinq jours de silence. Il commençait à se demander s'il n'avait pas tout rêvé, et si dans quelques minutes il n'allait pas mourir pour un rêve."
+  },
+  {
+   "type": "text",
+   "value": "La grille se leva dans un grincement de chaînes."
+  },
+  {
+   "type": "text",
+   "value": "La lumière l'aveugla."
+  },
+  {
+   "type": "text",
+   "value": "L'arène était un cratère."
+  },
+  {
+   "type": "text",
+   "value": "Des gradins à perte de vue, noirs de monde, montaient jusqu'au ciel en anneaux successifs. Des bannières de toutes les couleurs claquaient dans le vent. Au centre, sur le sable gris, un grand cercle de pierre blanche, large de trente pas, gravé de runes anciennes. Le cercle de combat. Celui qui en sortait avait perdu."
+  },
+  {
+   "type": "text",
+   "value": "Au balcon d'honneur, sous un dais pourpre, se tenaient les membres du Haut Conseil des Esprits en longues robes grises. Au milieu d'eux, une vieille femme très droite, aux cheveux blancs coupés court et au visage taillé comme un rocher : Dame Halvara, grande arbitre du tournoi. Un peu plus loin, dans la loge des grandes maisons, Kaël reconnut le vert et l'or des Valmont. Edmond, assis au premier rang, une coupe à la main. Aldric, Corvin, Margaux. Ysolde, droite, les bras croisés."
+  },
+  {
+   "type": "text",
+   "value": "Plus loin encore, sous les couleurs blanc et or d'Arvalis, une silhouette blonde qui se penchait par-dessus la balustrade."
+  },
+  {
+   "type": "text",
+   "value": "Le héraut leva son bâton. Sa voix, portée par un esprit de vent, résonna jusqu'aux derniers rangs."
+  },
+  {
+   "type": "text",
+   "value": "— Pour le combat d'ouverture du Tournoi de l'Aube Pourpre ! De l'Empire de Kesh, porteur du serpent de jade… Varek Dorn !"
+  },
+  {
+   "type": "text",
+   "value": "Une clameur. Varek entra par la grille opposée, sans se presser. Grand, mince, la peau mate, le crâne rasé sur les côtés, une longue natte noire dans le dos. Il portait une tunique verte sans manches qui laissait voir ses bras couverts d'écailles tatouées. Il ne salua personne. Il souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Et de Valcendre…"
+  },
+  {
+   "type": "text",
+   "value": "Le héraut hésita. Il baissa les yeux vers son parchemin, comme s'il espérait y lire autre chose."
+  },
+  {
+   "type": "text",
+   "value": "— Porteur d'un esprit… non identifié… Kaël, que l'on nomme le Vide des Valmont !"
+  },
+  {
+   "type": "text",
+   "value": "L'arène éclata de rire."
+  },
+  {
+   "type": "text",
+   "value": "Pas un rire de quelques-uns. Un rire immense, de cent mille gorges, qui roula sur les gradins comme un orage. Des sifflets. Des cris. *Le Vide ! Le Vide !* Quelqu'un lança un trognon de pomme qui roula dans le sable à ses pieds. Dans la loge des Valmont, Corvin riait si fort qu'il en pleurait. Edmond, lui, ne riait pas. Il fixait Kaël avec un visage de marbre, et sa main serrait la coupe à la briser."
+  },
+  {
+   "type": "text",
+   "value": "Kaël entra dans le cercle de pierre. Il se plaça face à Varek. Il leva son épée émoussée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Face au serpent"
+  },
+  {
+   "type": "text",
+   "value": "Varek inclina la tête, amusé."
+  },
+  {
+   "type": "text",
+   "value": "— On m'a dit que tu n'avais pas de marque, dit-il d'une voix chantante, avec l'accent sifflant de Kesh. On m'a dit que ta propre famille paierait cher pour que je t'abîme. Je ne prends pas d'argent pour ça, d'habitude."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit plus largement."
+  },
+  {
+   "type": "text",
+   "value": "— Je le fais gratuitement."
+  },
+  {
+   "type": "text",
+   "value": "Le gong retentit."
+  },
+  {
+   "type": "text",
+   "value": "Varek fut sur lui avant que le son ait fini de mourir."
+  },
+  {
+   "type": "text",
+   "value": "Il ne courait pas. Il glissait. Son esprit était sorti d'un coup, un serpent de lumière verte long de vingt pieds qui s'enroulait autour de lui, et Varek se déplaçait avec lui, souple, ondulant, impossible à suivre. Kaël leva son épée par réflexe. Le premier coup de Varek frappa la lame, le deuxième son flanc, le troisième son épaule. Rapides comme des crochets."
+  },
+  {
+   "type": "text",
+   "value": "Kaël recula. Para. Recula encore. Ses dix ans d'escrime volée à la fenêtre lui revenaient dans les bras : la garde haute, le pas croisé, la feinte basse. Il réussit à toucher Varek à la cuisse. Une fois. La foule hurla de surprise."
+  },
+  {
+   "type": "text",
+   "value": "Varek baissa les yeux sur sa jambe. Il rit doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Tiens. Le Vide sait tenir une épée."
+  },
+  {
+   "type": "text",
+   "value": "Le serpent de jade ouvrit la gueule."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne vit pas venir la morsure. Il sentit seulement deux points de feu glacé dans son avant-bras gauche, à travers le tissu du manteau. Puis le froid. Un froid vert, poisseux, qui se répandit dans son bras, dans son épaule, dans sa poitrine. Ses doigts s'ouvrirent tout seuls. L'épée tomba dans le sable."
+  },
+  {
+   "type": "text",
+   "value": "— Le venin de jade, dit Varek en tournant autour de lui. Il ne tue pas. Pas tout de suite. Il endort. D'abord les mains. Puis les jambes. Puis la langue. On reste éveillé jusqu'à la fin, c'est ce qui est beau."
+  },
+  {
+   "type": "text",
+   "value": "Les genoux de Kaël cédèrent. Il tomba à quatre pattes sur la pierre blanche. L'arène rugit de joie."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Le poison"
+  },
+  {
+   "type": "text",
+   "value": "Varek s'approcha. Il le frappa du pied, en pleine poitrine, sans même se presser. Kaël roula sur le dos. Le ciel tournait au-dessus de lui, bleu, immense, indifférent. Il entendait la foule de loin, comme à travers de l'eau. *Le Vide ! Le Vide !* Il entendait le rire de Corvin. Il voyait, à l'envers, la loge des Valmont, Edmond qui s'était levé, Ysolde penchée en avant."
+  },
+  {
+   "type": "text",
+   "value": "Varek posa un pied sur sa gorge."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sors du cercle, ou je continue ? murmura-t-il. Choisis vite. Bientôt, tu ne pourras plus parler."
+  },
+  {
+   "type": "text",
+   "value": "Kaël voulut bouger. Rien ne bougeait. Le poison avait pris ses jambes. Il montait vers sa nuque. Le bord du monde devenait gris. *Voilà*, pensa-t-il, avec un calme étrange. *Voilà comment ça finit. Ils avaient raison. Il n'y avait rien.*"
+  },
+  {
+   "type": "text",
+   "value": "Sa vue se troubla. Les bruits s'éteignirent un à un."
+  },
+  {
+   "type": "text",
+   "value": "Et dans le silence, tout au fond de lui, quelque chose se leva."
+  },
+  {
+   "type": "text",
+   "value": "*Vael.*"
+  },
+  {
+   "type": "text",
+   "value": "La voix. La même. Grave, immense, si proche."
+  },
+  {
+   "type": "text",
+   "value": "*Vael enthari. Sorn ama.*"
+  },
+  {
+   "type": "text",
+   "value": "Puis, pour la première fois, les mots changèrent. Ils se tordirent, se reformèrent, comme si la voix cherchait un chemin dans une langue qui n'était pas la sienne. Et Kaël les comprit."
+  },
+  {
+   "type": "text",
+   "value": "*Lève-toi, mon enfant.*"
+  },
+  {
+   "type": "text",
+   "value": "Le froid du poison se brisa comme du verre."
+  },
+  {
+   "type": "text",
+   "value": "Ce que l'arène vit, ce jour-là, cent mille personnes le raconteraient pendant dix ans, et aucune ne le raconterait de la même façon."
+  },
+  {
+   "type": "text",
+   "value": "Le garçon en noir, à terre sous le pied du serpent, ouvrit les yeux. Et ses yeux n'étaient plus noirs. Ils étaient rouge braise."
+  },
+  {
+   "type": "text",
+   "value": "Puis le feu sortit de lui."
+  },
+  {
+   "type": "text",
+   "value": "Un feu noir, aux reflets pourpres, qui jaillit de sa poitrine, de ses mains, de chaque pli de son manteau. Le serpent de jade se tordit en sifflant et lâcha prise comme s'il avait mordu un tison. Varek recula d'un bond, la jambe fumante. Kaël se releva. Pas comme on se relève. Comme on est soulevé. Debout, droit, au centre du cercle, enveloppé de flammes sombres qui ne brûlaient rien."
+  },
+  {
+   "type": "text",
+   "value": "Et derrière lui, les ombres de l'arène vinrent à lui."
+  },
+  {
+   "type": "text",
+   "value": "Toutes. L'ombre des gradins, l'ombre des arches brisées, l'ombre de cent mille spectateurs. Elles rampèrent sur le sable de tous les côtés, montèrent le long de son corps, et se déployèrent dans son dos."
+  },
+  {
+   "type": "text",
+   "value": "Deux ailes."
+  },
+  {
+   "type": "text",
+   "value": "Deux ailes de ténèbres, immenses, si larges qu'elles couvrirent tout le cercle de combat et plongèrent la moitié de l'arène dans la nuit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Les ailes"
+  },
+  {
+   "type": "text",
+   "value": "Varek Dorn leva les mains. Son serpent se dressa devant lui pour le protéger."
+  },
+  {
+   "type": "text",
+   "value": "Les ailes battirent une seule fois."
+  },
+  {
+   "type": "text",
+   "value": "Le souffle fut si violent que le sable se souleva en tempête. Le serpent de jade se dissipa comme une fumée. Varek fut arraché du sol, projeté en arrière par-dessus la bordure de pierre blanche, et roula dix pas plus loin dans le sable, hors du cercle, inconscient."
+  },
+  {
+   "type": "text",
+   "value": "Puis les ailes se replièrent. Les ombres retournèrent à leur place. Le feu s'éteignit."
+  },
+  {
+   "type": "text",
+   "value": "Il ne resta qu'un garçon pâle, en noir, debout seul au milieu du cercle, les yeux de nouveau sombres, la poitrine qui se soulevait lentement."
+  },
+  {
+   "type": "text",
+   "value": "Le silence fut total."
+  },
+  {
+   "type": "text",
+   "value": "Cent mille personnes, et pas un bruit. Pas un cri, pas une toux, pas une respiration. Même le vent semblait s'être arrêté. Dans la loge des Valmont, la coupe d'Edmond avait glissé de sa main et s'était brisée sur les dalles, sans que personne l'entende tomber. Corvin ne riait plus. Margaux avait les deux mains sur la bouche. Ysolde s'était levée."
+  },
+  {
+   "type": "text",
+   "value": "Kaël leva les yeux vers le balcon d'honneur."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara s'était levée, elle aussi."
+  },
+  {
+   "type": "text",
+   "value": "La vieille arbitre se tenait au bord de la balustrade, les deux mains crispées sur la pierre. Son visage de rocher était devenu blanc comme ses cheveux. Elle regardait Kaël comme on regarde un mort sortir de sa tombe. Ses lèvres bougèrent. Un seul mot, à peine un souffle, que seuls les premiers rangs entendirent."
+  },
+  {
+   "type": "text",
+   "value": "— Morrigane…"
+  },
+  {
+   "type": "text",
+   "value": "Puis elle se redressa d'un coup. Sa voix claqua dans le silence comme un fouet."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'on ferme les registres des qualifications. Immédiatement. Plus personne n'y écrit, plus personne n'y lit."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne quitta pas Kaël des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Et que personne ne touche à ce garçon."
+  }
+ ]
+}

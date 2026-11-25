@@ -1,0 +1,405 @@
+{
+ "number": 18,
+ "title": "Ce qui ne meurt pas",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Séléné ne dormit pas cette nuit-là non plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle attendit que la relève de minuit passe devant sa porte, au palais d'Arvalis, dans l'aile que le roi Aurélien louait chaque décennie pour le tournoi. Elle compta jusqu'à cent. Elle mit une cape de servante sur sa chemise de nuit, ses bottes à la main, et sortit par la fenêtre, comme à quatorze ans."
+  },
+  {
+   "type": "text",
+   "value": "Le chemin vers la bibliothèque royale passait par un toit, une gouttière et une cour où dormait un chien qui l'adorait. Elle connaissait les trois."
+  },
+  {
+   "type": "text",
+   "value": "La réserve était fermée par une grille. La grille était fermée par un cadenas. Le cadenas, Séléné le savait depuis l'enfance, n'avait jamais résisté à une épingle à cheveux et à un peu de chaleur de phénix au bon endroit."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon, murmura-t-elle au cadenas. C'est pour la bonne cause."
+  },
+  {
+   "type": "text",
+   "value": "Il s'ouvrit dans un soupir de métal tiède."
+  },
+  {
+   "type": "text",
+   "value": "Les livres de nécromancie étaient rangés tout au fond, sur le rayon le plus bas, derrière les traités de botanique interdite. Comme si on avait voulu les cacher sous des fleurs."
+  },
+  {
+   "type": "text",
+   "value": "Elle trouva le volume à la gravure. Cuir noir, coins rongés, titre presque effacé : *Des liens qu'on noue aux morts*. Elle s'assit par terre, une petite flamme dorée au creux de la paume pour lire, et tourna les pages."
+  },
+  {
+   "type": "text",
+   "value": "L'homme aux yeux vides. Le poignet cerclé de gris."
+  },
+  {
+   "type": "text",
+   "value": "Elle lut."
+  },
+  {
+   "type": "text",
+   "value": "*Le spectre de souvenir n'est pas une âme. C'est un masque. Le nécromancien le façonne avec un objet ayant appartenu au mort : un ongle, une dent, une mèche de cheveux, un vêtement porté au moment du trépas. L'objet garde la forme du mort comme la cire garde la forme du sceau. Le spectre a son visage, sa voix, quelques souvenirs. Il n'a rien d'autre. Il dit ce que son maître lui fait dire.*"
+  },
+  {
+   "type": "text",
+   "value": "Séléné relut la phrase trois fois. *Il dit ce que son maître lui fait dire.*"
+  },
+  {
+   "type": "text",
+   "value": "Plus loin :"
+  },
+  {
+   "type": "text",
+   "value": "*Pour tenir un vivant, le nécromancien lui montre le spectre d'un être aimé. Chaque fois que le vivant croit, une chaîne se noue à son poignet. La marque grise s'élargit à chaque nuit de visite. Au septième jour, elle ne s'efface plus.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle compta sur ses doigts. Le procès. Le duel contre Corvin. Puis les nuits blanches de Kaël, ses yeux creux."
+  },
+  {
+   "type": "text",
+   "value": "Quatre jours. Cinq peut-être."
+  },
+  {
+   "type": "text",
+   "value": "Elle referma le livre d'un coup sec et serra les dents pour ne pas jurer à voix haute dans la bibliothèque de son père."
+  },
+  {
+   "type": "text",
+   "value": "— Qui ? murmura-t-elle. Qui t'a fait ça ?"
+  },
+  {
+   "type": "text",
+   "value": "Et un nom lui vint, si évident qu'elle s'en voulut de ne pas l'avoir vu plus tôt. Quelqu'un qui avait déjà essayé de le faire exclure. Quelqu'un qui avait déjà payé des hommes masqués. Quelqu'un dont la fille aînée allait perdre contre lui."
+  },
+  {
+   "type": "text",
+   "value": "Elle glissa le livre sous sa cape."
+  },
+  {
+   "type": "text",
+   "value": "Au même moment, Kaël marchait dans les bas quartiers."
+  },
+  {
+   "type": "text",
+   "value": "Le second billet était arrivé à la tombée de la nuit, sous sa porte, de la même écriture fine et penchée."
+  },
+  {
+   "type": "text",
+   "value": "*Tu as bien fait. Elle n'a pas souffert cette nuit. Viens. Pont des Tanneurs, minuit. Seul.*"
+  },
+  {
+   "type": "text",
+   "value": "Il avait failli ne pas y aller. Puis la femme aux chaînes était apparue au pied de son lit, et elle avait souri. C'était la première fois qu'elle souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont été gentils, avait-elle murmuré. Merci, mon fils."
+  },
+  {
+   "type": "text",
+   "value": "Il y était allé."
+  },
+  {
+   "type": "text",
+   "value": "Le Pont des Tanneurs enjambait un canal qui sentait le cuir et la chaux. Pas une lanterne. L'eau noire coulait sans bruit. Au milieu du pont, une silhouette attendait, adossée au parapet."
+  },
+  {
+   "type": "text",
+   "value": "Un homme maigre, enveloppé dans une cape grise. Un masque de cuir lisse sur tout le visage, sans bouche, avec deux fentes pour les yeux. Des gants de cuir aux mains. Rien d'autre ne dépassait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "L'homme au masque"
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, dit l'homme. Sans nom de famille. C'est mieux ainsi, n'est-ce pas ?"
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était douce. Presque aimable. Elle sortait du masque comme d'un puits."
+  },
+  {
+   "type": "text",
+   "value": "— Où est-elle ?"
+  },
+  {
+   "type": "text",
+   "value": "— En sécurité. Entre deux portes. Là où vont ceux qui ne sont ni tout à fait vivants ni tout à fait morts. Il fait froid, là-bas. Mais elle tient."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux la voir."
+  },
+  {
+   "type": "text",
+   "value": "— Tu la vois chaque nuit."
+  },
+  {
+   "type": "text",
+   "value": "Kaël serra les poings dans ses gants. Au fond de lui, quelque chose remua. Une chaleur. Lointaine. Étouffée. Comme une voix derrière une porte épaisse."
+  },
+  {
+   "type": "text",
+   "value": "L'homme au masque inclina la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Ne fais pas ça. Je le sens, tu sais. Si tu brûles, elle brûle avec toi. C'est ainsi que fonctionnent les chaînes."
+  },
+  {
+   "type": "text",
+   "value": "La chaleur retomba."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous voulez ?"
+  },
+  {
+   "type": "text",
+   "value": "— Un marché. Simple, honnête. Les quarts de finale. Tu perds. Tu affrontes Ysolde Valmont..."
+  },
+  {
+   "type": "text",
+   "value": "Il s'interrompit. Le masque resta immobile, mais quelque chose dans ses épaules changea, comme s'il écoutait une voix que Kaël n'entendait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Non, reprit-il doucement. Pas Ysolde. Ce serait trop visible. Contre n'importe qui. Peu importe ton adversaire. Tu perds ton quart de finale, et le soir même, ta mère est libre. Elle s'en va. Elle trouve enfin la paix. Tu ne la verras plus, mais tu sauras qu'elle repose."
+  },
+  {
+   "type": "text",
+   "value": "— Et si je gagne ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais ce qui arrive si tu gagnes."
+  },
+  {
+   "type": "text",
+   "value": "Le vent passa sur le canal. Kaël pensa aux hurlements jusqu'à l'aube. À la robe grise d'hospice. Au sourire."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa aussi, une seconde, à la voix qui lui avait dit *Lève-toi, mon enfant*, dans l'arène, le premier jour. Grave. Immense. Si différente de celle qui pleurait au pied de son lit."
+  },
+  {
+   "type": "text",
+   "value": "Il chassa la pensée. Elle faisait trop mal."
+  },
+  {
+   "type": "text",
+   "value": "— Comment je sais que vous tiendrez parole ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne le sais pas. Mais tu n'as rien d'autre."
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. C'était le pire. C'était vrai."
+  },
+  {
+   "type": "text",
+   "value": "Kaël baissa la tête. Une mèche noire lui tomba sur les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— J'accepte."
+  },
+  {
+   "type": "text",
+   "value": "— Je savais que tu étais un bon fils."
+  },
+  {
+   "type": "text",
+   "value": "L'homme au masque se détacha du parapet. En passant à côté de lui, il effleura, du bout de son gant, le poignet gauche de Kaël. Une brûlure froide. Kaël sentit la chaîne se resserrer, un maillon de plus."
+  },
+  {
+   "type": "text",
+   "value": "Quand il se retourna, le pont était vide."
+  },
+  {
+   "type": "text",
+   "value": "Il ne rentra pas tout de suite. Il resta longtemps au bord du canal, à regarder l'eau."
+  },
+  {
+   "type": "text",
+   "value": "Il ôta son gant. À la lueur de la lune, l'anneau gris faisait maintenant deux fois le tour de son poignet."
+  },
+  {
+   "type": "text",
+   "value": "Il remit le gant."
+  },
+  {
+   "type": "text",
+   "value": "Il toucha le médaillon d'argent sous sa chemise. La flamme noire gravée. La mèche de cheveux sous son verre, et les mots gravés dans le couvercle. *Pour mon fils. Brûle doucement.*"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne brûle plus du tout, maman, murmura-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Ni dehors. Ni dedans."
+  },
+  {
+   "type": "text",
+   "value": "Séléné rentra au palais par la gouttière, à l'heure où les cloches sonnaient trois coups."
+  },
+  {
+   "type": "text",
+   "value": "La fenêtre était ouverte. Elle l'avait laissée entrouverte. Quelqu'un l'avait ouverte en grand."
+  },
+  {
+   "type": "text",
+   "value": "Assis dans le fauteuil près de la cheminée éteinte, en robe de chambre pourpre, le roi Aurélien d'Arvalis l'attendait, les doigts croisés sous le menton."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "Le roi attend"
+  },
+  {
+   "type": "text",
+   "value": "— La bibliothèque, dit-il. Le rayon du fond. Celui que j'ai fait fermer quand tu avais douze ans."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, Père."
+  },
+  {
+   "type": "text",
+   "value": "— Ne fais pas l'insolente. Pas cette nuit."
+  },
+  {
+   "type": "text",
+   "value": "Elle serra le livre sous sa cape. Il le vit, bien sûr. Il voyait toujours tout, sauf ce qui comptait."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un tient Kaël par une chaîne de spectre, dit-elle. Quelqu'un lui fait voir sa mère morte. Je crois savoir qui."
+  },
+  {
+   "type": "text",
+   "value": "Le roi resta silencieux un long moment."
+  },
+  {
+   "type": "text",
+   "value": "— Si tu accuses une grande maison de Valdor de nécromancie sans preuve, dit-il enfin, tu déclenches une guerre. Une vraie. Avec des morts qui ne reviennent pas en spectres."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je trouverai une preuve."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne trouveras rien. Tu combattras, tu gagneras ce tournoi si tu le peux, et tu laisseras ce garçon régler ses affaires de famille."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva, et en passant devant elle, il s'arrêta. Pendant une seconde, son visage de roi devint un visage de père fatigué."
+  },
+  {
+   "type": "text",
+   "value": "— Tu l'aimes bien, ce corbeau."
+  },
+  {
+   "type": "text",
+   "value": "Séléné ne répondit pas. C'était la première fois de sa vie qu'elle ne trouvait rien d'insolent à dire."
+  },
+  {
+   "type": "text",
+   "value": "Le tirage des quarts de finale eut lieu le lendemain, à midi, sur le parvis de l'Arène de Sombreval."
+  },
+  {
+   "type": "text",
+   "value": "La foule était immense. Huit noms restaient. Huit jeunes éveillés debout sur les marches, face au peuple d'Aurelhaven, sous les bannières pourpres du tournoi."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde Valmont, en armure d'argent et de bronze, la couronne de tresses auburn impeccable. Varek Dorn, souriant, les écailles luisantes au soleil. Brann Hollow, le bras en écharpe, qui avait refusé de déclarer forfait et que les guérisseurs avaient autorisé à combattre de l'autre main. Il ne regardait pas Kaël. Quatre autres noms de quatre autres nations."
+  },
+  {
+   "type": "text",
+   "value": "Et Séléné d'Arvalis. Les yeux cernés. Une cape sur l'armure. Elle chercha Kaël dans la rangée et le trouva. Elle ne sourit pas. Elle lui fit un signe, du menton, à peine : *il faut qu'on parle*."
+  },
+  {
+   "type": "text",
+   "value": "Kaël détourna la tête."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara se tenait devant une urne de bronze. Elle plongea la main dedans, en sortit des jetons de pierre gravés, et lut les noms d'une voix qui portait jusqu'aux derniers rangs."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Le tirage"
+  },
+  {
+   "type": "text",
+   "value": "— Ysolde Valmont contre Ilian Fervaut, de Lorvenne."
+  },
+  {
+   "type": "text",
+   "value": "Applaudissements. Dans la loge, Edmond Valmont inclina la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Varek Dorn contre Mira Sol, des Îles."
+  },
+  {
+   "type": "text",
+   "value": "— Brann Hollow contre Teodor Kasch, de Kesh."
+  },
+  {
+   "type": "text",
+   "value": "Il restait deux jetons dans l'urne. Il restait deux noms sur les marches."
+  },
+  {
+   "type": "text",
+   "value": "Kaël sentit le sol devenir lointain sous ses pieds."
+  },
+  {
+   "type": "text",
+   "value": "*Contre n'importe qui*, avait dit l'homme au masque. *Peu importe ton adversaire.*"
+  },
+  {
+   "type": "text",
+   "value": "Halvara sortit le premier jeton. Elle le regarda une seconde de trop."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, de Valcendre."
+  },
+  {
+   "type": "text",
+   "value": "Des sifflets. Quelques rires. Un « Le Vide ! » lancé du fond."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit le dernier."
+  },
+  {
+   "type": "text",
+   "value": "— Contre Séléné d'Arvalis."
+  },
+  {
+   "type": "text",
+   "value": "La foule rugit. Sur les marches, Séléné se tourna lentement vers lui."
+  },
+  {
+   "type": "text",
+   "value": "Kaël comprit, dans un vertige, qu'il allait devoir perdre contre la seule personne au monde qui refuserait de le laisser faire."
+  }
+ ]
+}

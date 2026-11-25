@@ -1,0 +1,333 @@
+{
+ "number": 29,
+ "title": "La famille",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "On le couronna trois jours plus tard, dans la salle du Haut Conseil, parce que l'arène n'avait plus de tribune d'honneur."
+  },
+  {
+   "type": "text",
+   "value": "La salle était ronde, tout en pierre blanche, avec un plafond de verre qui laissait tomber la lumière en colonnes. Sur les murs, les marques des grands esprits du passé, gravées dans le marbre et peintes d'or. Kaël les avait lues à l'arrivée, par habitude. Un dragon. Un griffon. Un lion. Et tout en haut, à demi effacée, une couronne à pointes au-dessus d'une flamme noire."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un avait repassé la peinture pendant la nuit. Elle brillait encore."
+  },
+  {
+   "type": "text",
+   "value": "Il se tenait au centre, vêtu de noir, comme toujours. Une bande blanche serrait ses côtes sous la chemise ; les guérisseurs avaient dit trois semaines, il avait dit trois jours. Séléné, au premier rang, avait levé les yeux au ciel si fort qu'on l'avait vue depuis le fond de la salle."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara se leva. Elle tenait un parchemin scellé de cire grise."
+  },
+  {
+   "type": "text",
+   "value": "— Le Haut Conseil des Esprits, dit-elle, après examen des archives, des témoignages et de ce que cent mille personnes ont vu de leurs propres yeux, reconnaît ce qui suit."
+  },
+  {
+   "type": "text",
+   "value": "Elle déroula le parchemin. Sa voix ne tremblait pas, mais elle mit un temps avant de lire."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, né à l'hospice de Valcendre, est le fils de Lyra, dernière porteuse connue de l'esprit nommé dans les anciens textes Morrigane, la Reine des Enfers. Il est le porteur légitime de cet esprit. Le Conseil reconnaît aussi que Lyra a fui ce même Conseil parce qu'elle le craignait. Elle avait raison de le craindre. Le Conseil le regrette."
+  },
+  {
+   "type": "text",
+   "value": "Un murmure passa dans la salle. On n'avait jamais entendu le Haut Conseil regretter quoi que ce soit."
+  },
+  {
+   "type": "text",
+   "value": "— Le Conseil renonce, à jamais, à toute prétention sur l'esprit de la Reine ou sur celui qui la porte. Et il déclare Kaël vainqueur du Tournoi de l'Aube Pourpre."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit la Couronne d'Aube sur son coussin rouge. Le cercle d'or pâle semblait plus petit, de près. Plus simple. Elle s'approcha de Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Tu devrais te mettre à genoux, mon garçon, murmura-t-elle. C'est l'usage."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Il ne se mit pas à genoux. Au premier rang, Séléné se mordit la lèvre pour ne pas rire."
+  },
+  {
+   "type": "text",
+   "value": "Halvara le regarda un instant. Puis, très lentement, elle leva les bras et posa elle-même la couronne sur ses cheveux noirs, en se dressant sur la pointe des pieds."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-1.webp",
+   "caption": "Le couronnement"
+  },
+  {
+   "type": "text",
+   "value": "— Ta mère non plus, dit-elle tout bas, ne s'agenouillait pas."
+  },
+  {
+   "type": "text",
+   "value": "Les cloches sonnèrent dans tout Aurelhaven."
+  },
+  {
+   "type": "text",
+   "value": "Le soir même, son nom était partout. Les crieurs le hurlaient aux carrefours. Les marchands vendaient des médaillons de pacotille avec une flamme noire gravée dessus. Dans les tavernes, on racontait déjà que le Vide avait fait taire cent mille personnes d'un regard, qu'il était descendu aux enfers chercher une princesse et qu'il en était revenu avec elle. Pour une fois, l'histoire était presque vraie."
+  },
+  {
+   "type": "text",
+   "value": "Il avait demandé une salle calme. On lui donna un petit salon au fond du palais du Conseil, avec une cheminée et deux fauteuils."
+  },
+  {
+   "type": "text",
+   "value": "C'est là que les Valmont vinrent le trouver."
+  },
+  {
+   "type": "text",
+   "value": "Ils entrèrent ensemble, comme pour un portrait de famille."
+  },
+  {
+   "type": "text",
+   "value": "Edmond d'abord. Libéré sous caution le matin même. Il avait perdu ses bagues : on les lui avait prises pour payer. Sa barbe grise était toujours taillée, son manteau de velours vert toujours impeccable, mais quelque chose s'était voûté en lui, comme un lion de pierre fissuré par l'hiver. Isaure, derrière, pâle, les mains jointes. Aldric, le menton levé, qui regardait partout sauf vers Kaël. Corvin, sans une égratignure et pourtant l'air d'un blessé, qui grinçait des dents. Margaux, la plus jeune, qui fermait la marche et n'osait pas avancer."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde n'était pas avec eux."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, dit Edmond."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était douce. Elle avait toujours été douce. C'était le plus dangereux chez lui."
+  },
+  {
+   "type": "text",
+   "value": "— Mon fils."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne se leva pas de son fauteuil. La couronne était posée sur la table basse, à côté d'une tasse de thé froid."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne m'avez jamais appelé comme ça, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai eu tort. J'ai eu tort sur beaucoup de choses. La peur, Kaël. Tu ne sais pas ce que c'est, de tenir un nom pendant trente ans. On fait des erreurs."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez engagé un nécromancien pour faire hurler ma mère toutes les nuits."
+  },
+  {
+   "type": "text",
+   "value": "Edmond ferma les yeux une seconde."
+  },
+  {
+   "type": "text",
+   "value": "— Une erreur terrible, dit-il. Je la paierai. Mais nous sommes ta famille. Nous t'avons nourri, logé, élevé…"
+  },
+  {
+   "type": "text",
+   "value": "— Vous m'avez logé à côté des cuisines, dit Kaël. Je servais le vin."
+  },
+  {
+   "type": "text",
+   "value": "Aldric fit un pas en avant, le visage rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Écoute, on est venus te proposer quelque chose. Père veut te rendre ta place. Ta vraie place. Le nom, la chambre de l'aile est, une part de l'héritage. Tu serais un Valmont. Un vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Avec un siège au Haut Conseil, ajouta Edmond d'une voix encore plus douce. Et la Reine des Enfers. Imagine ce que la maison Valmont pourrait devenir."
+  },
+  {
+   "type": "text",
+   "value": "Voilà, pensa Kaël. Voilà la vraie phrase. Il l'attendait depuis le début."
+  },
+  {
+   "type": "text",
+   "value": "Isaure s'avança. Elle avait les yeux mouillés. Elle tendit la main vers lui, lentement, comme vers une bête dont on a peur, et la laissa en l'air à quelques centimètres de son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais pu te toucher, murmura-t-elle. Laisse-moi au moins…"
+  },
+  {
+   "type": "text",
+   "value": "Kaël regarda cette main. Dix-huit ans. Il l'avait tellement attendue, enfant, cette main. Il avait inventé des maladies pour qu'elle vienne lui toucher le front."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-2.webp",
+   "caption": "La main tendue"
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Pas de colère. Pas de feu. Juste un mot posé sur la table, comme une pierre."
+  },
+  {
+   "type": "text",
+   "value": "La main d'Isaure redescendit."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous remercie d'être venus, poursuivit Kaël d'un ton parfaitement calme. Je ne prendrai pas le nom. Je ne prendrai pas la chambre, ni l'héritage. Je ne vous hais pas. Je l'ai fait, longtemps. Je n'ai plus le temps."
+  },
+  {
+   "type": "text",
+   "value": "— Tu nous dois tout ! éclata Corvin. Sans nous, tu serais mort dans un hospice !"
+  },
+  {
+   "type": "text",
+   "value": "— Sans vous, dit Kaël, j'aurais peut-être été aimé dans un hospice."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba. Corvin ouvrit la bouche et ne trouva rien."
+  },
+  {
+   "type": "text",
+   "value": "Edmond se redressa lentement. Le masque revint sur son visage, celui de toujours, poli, froid."
+  },
+  {
+   "type": "text",
+   "value": "— Tu le regretteras, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être, dit Kaël. Mais ce sera mon regret. Pas le vôtre."
+  },
+  {
+   "type": "text",
+   "value": "Edmond tourna les talons. Aldric le suivit. Corvin aussi, avec un dernier regard plein de haine. Isaure resta une seconde de plus, puis sortit sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "Margaux, elle, ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait dix-huit ans, comme lui. Ses cheveux étaient décoiffés par son propre esprit de vent, qui s'agitait autour d'elle quand elle était nerveuse. Elle triturait le bout de sa manche."
+  },
+  {
+   "type": "text",
+   "value": "— Je me suis moquée de toi, dit-elle enfin. Toute ma vie."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vais pas te demander pardon. Je ne crois pas que j'y ai droit. Je voulais juste te dire… Le jour de mon Éveil, quand père a dit que tu n'avais rien à éveiller. Tout le monde a ri. Moi aussi. Et après, j'ai eu honte. Je ne savais pas pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël la regarda longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Tu doutais, dit-il. C'est déjà plus que les autres."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva, ses côtes protestèrent, et il prit sur la table un petit livre relié de cuir sombre qu'il avait apporté de Valcendre et ne lisait plus. Un traité sur les esprits du vent. Il l'avait volé à la bibliothèque à douze ans, parce que c'était le seul livre que personne ne lisait."
+  },
+  {
+   "type": "text",
+   "value": "— Il est à toi, dit-il. Il y a un chapitre sur les sylphides. Tu t'en sers mal."
+  },
+  {
+   "type": "text",
+   "value": "Margaux prit le livre. Elle eut un rire mouillé."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es vraiment insupportable."
+  },
+  {
+   "type": "text",
+   "value": "— On me le dit souvent."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit en serrant le livre contre elle."
+  },
+  {
+   "type": "text",
+   "value": "Dans le couloir, adossée à une colonne, Ysolde attendait."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'était pas entrée. Elle ne le ferait pas. Elle portait une simple tunique de voyage et sa tresse auburn refaite en couronne. Sa lèvre fendue avait cicatrisé de travers ; elle aurait bientôt deux cicatrices."
+  },
+  {
+   "type": "text",
+   "value": "Leurs regards se croisèrent à travers la porte ouverte. Elle ne dit rien. Lui non plus."
+  },
+  {
+   "type": "text",
+   "value": "Il porta deux doigts à son front, le salut des duellistes, celui qu'il avait vu cent fois par la fenêtre de la salle d'armes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-3.webp",
+   "caption": "Le salut"
+  },
+  {
+   "type": "text",
+   "value": "Ysolde le lui rendit. Puis elle s'en alla, droite, sans hâte."
+  },
+  {
+   "type": "text",
+   "value": "On vint le chercher une heure plus tard. La cour d'Arvalis donnait une réception dans la grande galerie du palais, et le vainqueur était attendu."
+  },
+  {
+   "type": "text",
+   "value": "Il y alla avec la couronne à la main, parce qu'elle lui faisait mal à la tête."
+  },
+  {
+   "type": "text",
+   "value": "La galerie était pleine de lumière et de soie. Des ambassadeurs, des seigneurs, des participants du tournoi. Brann, dans un habit de fête trop petit pour lui, qui mangeait des pâtisseries d'un air coupable. Et au bout de la galerie, sur une estrade, le roi Aurélien d'Arvalis, la barbe blonde, le regard d'un homme qui n'a pas l'habitude de perdre ses paris."
+  },
+  {
+   "type": "text",
+   "value": "À côté de lui, Séléné. En robe, cette fois. Blanche et or. Elle ne souriait pas. Elle était trop nerveuse pour sourire."
+  },
+  {
+   "type": "text",
+   "value": "Le roi descendit les marches. La foule s'écarta. Il s'arrêta devant Kaël, et toute la galerie retint son souffle, parce que personne ne l'avait jamais vu descendre au-devant de qui que ce soit."
+  },
+  {
+   "type": "text",
+   "value": "Il lui tendit la main."
+  },
+  {
+   "type": "text",
+   "value": "— Arvalis, dit-il d'une voix qui porta jusqu'aux fenêtres, aimerait accueillir le vainqueur."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne prit pas la main tout de suite. Il leva les yeux par-dessus l'épaule du roi."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'estrade, Séléné attendait sa réponse, et elle ne respirait plus."
+  }
+ ]
+}

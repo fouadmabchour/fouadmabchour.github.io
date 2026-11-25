@@ -1,0 +1,349 @@
+{
+ "number": 13,
+ "title": "Les Duels de l'Arène",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Halvara ne lui en dit pas plus ce soir-là."
+  },
+  {
+   "type": "text",
+   "value": "— Pas ici, avait-elle tranché. Les murs du Conseil ont des oreilles, et certaines portent des bagues. Gagne ton duel. Ensuite, nous parlerons."
+  },
+  {
+   "type": "text",
+   "value": "Le tirage fut affiché le lendemain matin sur la grande porte de Sombreval. Huit duels pour les seize rescapés de Morteaux. Huit noms à gauche, huit à droite. Kaël n'eut pas besoin de chercher longtemps. Toute la foule massée devant la porte s'était déjà retournée vers lui."
+  },
+  {
+   "type": "text",
+   "value": "*Kaël contre Corvin Valmont.*"
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment, dit Brann en mâchant une pomme. Ils ont un sens du spectacle, ici."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas le hasard, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Tu crois qu'ils ont truqué le tirage ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je crois que quelqu'un a payé pour que je me batte contre quelqu'un qui veut me tuer."
+  },
+  {
+   "type": "text",
+   "value": "Brann cessa de mâcher."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu vas faire quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël regarda le nom de son frère adoptif, tracé à l'encre rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Ne pas mourir. Pour commencer."
+  },
+  {
+   "type": "text",
+   "value": "L'arène était pleine à craquer. Cent mille personnes sur les gradins de pierre de Sombreval, sous un ciel blanc de chaleur. Les bannières des nations claquaient au vent. Dans la loge des Valmont, sous le lion de pierre sculpté, Edmond était assis, immobile, Isaure à sa droite, Margaux et Aldric derrière. Ysolde, debout, appuyée à la balustrade."
+  },
+  {
+   "type": "text",
+   "value": "Dans la loge d'Arvalis, Séléné ne s'était pas assise du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Corvin Valmont, de Valcendre, esprit du loup-garou !"
+  },
+  {
+   "type": "text",
+   "value": "Une ovation. Corvin entra en levant les bras, torse nu sous une veste de cuir, les veines déjà sombres sous la peau."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, de Valcendre, esprit… non déclaré !"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut des sifflets. Mais il y eut autre chose, aussi, que Kaël n'avait jamais entendu dans une arène : des voix, ici et là, qui criaient son nom. Pas beaucoup. Assez pour qu'il les entende."
+  },
+  {
+   "type": "text",
+   "value": "Ils se firent face au centre du cercle. Corvin souriait de toutes ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— Tu aurais dû rester en prison, petit frère."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas ton frère."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Tu es une erreur. Et aujourd'hui, je la corrige."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara leva son bâton blanc."
+  },
+  {
+   "type": "text",
+   "value": "— Le duel s'arrête à la sortie du cercle, à l'abandon, ou quand l'un des combattants ne peut plus se relever. Toute blessure mortelle volontaire entraîne l'exclusion à vie. Commencez."
+  },
+  {
+   "type": "text",
+   "value": "Corvin ne fit pas semblant. Il se transforma tout de suite, et entièrement."
+  },
+  {
+   "type": "text",
+   "value": "Ses os craquèrent comme du bois sec. Son dos se courba, s'élargit, se couvrit d'un poil gris acier. Ses mains devinrent des pattes aux griffes longues comme des dagues. Son visage s'étira en museau, et quand il rugit, la moitié de l'arène recula sur ses bancs. Le loup faisait deux mètres cinquante. Ses yeux étaient jaunes, et il n'y avait plus rien de Corvin dedans, sauf la haine."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-1.webp",
+   "caption": "Le loup-garou"
+  },
+  {
+   "type": "text",
+   "value": "Il chargea."
+  },
+  {
+   "type": "text",
+   "value": "Kaël roula sur le côté. Les griffes passèrent là où était sa gorge un instant plus tôt et creusèrent dans la pierre du sol quatre sillons profonds. Le loup pivota, plus vite que possible pour une bête de cette taille, et frappa encore. Kaël sauta en arrière. Le pan de son manteau noir fut arraché net."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas un duel. C'était une exécution, et toute l'arène le comprit en même temps."
+  },
+  {
+   "type": "text",
+   "value": "— Il veut le tuer ! cria quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "Halvara ne bougea pas. Le règlement disait *volontaire*. Il faudrait le prouver. Après."
+  },
+  {
+   "type": "text",
+   "value": "Le loup bondit, de tout son poids. Kaël n'eut pas le temps d'esquiver. Il leva les mains."
+  },
+  {
+   "type": "text",
+   "value": "*Ennar.*"
+  },
+  {
+   "type": "text",
+   "value": "Le feu noir ne jaillit pas. Ce furent les ombres. La sienne d'abord, qui se dressa devant lui comme un bouclier, puis toutes les ombres du cercle, celles des bannières, celles des gradins, qui glissèrent sur le sol de pierre et s'enroulèrent autour des pattes du loup en plein vol."
+  },
+  {
+   "type": "text",
+   "value": "Corvin s'écrasa au sol à un mètre de lui, entravé, hurlant."
+  },
+  {
+   "type": "text",
+   "value": "Il se débattit. Les liens d'ombre se tendirent, craquèrent, cédèrent. Il se releva, l'écume aux babines, et se jeta de nouveau. Kaël l'attendait, cette fois. Il fit un pas de côté, un seul, posé, comme dans les leçons d'escrime qu'il avait regardées pendant des années à travers une vitre. Sa main gantée effleura le flanc du loup au passage."
+  },
+  {
+   "type": "text",
+   "value": "Le feu noir s'y alluma. Il ne brûla pas la chair. Il brûla la rage. Kaël le sentit couler hors de la bête comme une eau sale, et le loup trébucha, désorienté."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne lui laissa pas le temps de comprendre. Les ombres se levèrent encore, plus nombreuses, plus lourdes, et cette fois elles ne cherchèrent pas à entraver. Elles pressèrent. Doucement. Inexorablement. Comme une main immense qui couche un enfant."
+  },
+  {
+   "type": "text",
+   "value": "Le loup plia les pattes avant. Puis les pattes arrière. Il gronda, lutta, gémit. Puis sa tête toucha la pierre."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'approcha. Il s'accroupit devant le museau énorme, à portée de crocs, et posa simplement deux doigts sur le front de la bête."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-2.webp",
+   "caption": "La main sur le loup"
+  },
+  {
+   "type": "text",
+   "value": "— Reste couché, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Le loup se mit à rétrécir. Les poils s'effacèrent, les os reprirent leur place avec des craquements secs, et ce fut Corvin, nu jusqu'à la taille, haletant, le visage écrasé contre le sol de l'arène, qui resta là, cloué par des ombres qu'il ne pouvait même plus voir."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas une égratignure."
+  },
+  {
+   "type": "text",
+   "value": "C'était pire que tout."
+  },
+  {
+   "type": "text",
+   "value": "— Corvin Valmont ne peut plus se relever, dit la voix de Halvara dans le silence. Kaël l'emporte."
+  },
+  {
+   "type": "text",
+   "value": "L'arène ne répondit pas tout de suite. Puis, d'un coup, cent mille personnes se levèrent, et le bruit fut si énorme que Kaël sentit le sol vibrer sous ses bottes."
+  },
+  {
+   "type": "text",
+   "value": "Il relâcha les ombres. Corvin se redressa sur un coude, les yeux pleins de larmes de rage."
+  },
+  {
+   "type": "text",
+   "value": "— Je te tuerai, cracha-t-il. Tu entends ? Je te tuerai."
+  },
+  {
+   "type": "text",
+   "value": "— Tu viens d'essayer, dit Kaël. Tu n'étais pas très bon."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers la loge des Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Edmond était debout. Il le regarda une seconde, une seule, et dans ce regard, Kaël ne vit ni colère ni honte. Il vit un calcul. Puis le patriarche tourna le dos à l'arène et quitta la loge sans un mot. Isaure le suivit. Margaux resta, les mains serrées sur la balustrade, à regarder Kaël comme si elle le voyait pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde ne bougea pas. Elle fixait son frère adoptif, et elle ne souriait pas."
+  },
+  {
+   "type": "text",
+   "value": "Dans la loge d'Arvalis, une princesse avait grimpé sur son siège et applaudissait à tout rompre, au grand désespoir de sa garde."
+  },
+  {
+   "type": "text",
+   "value": "Halvara le fit venir dans une petite salle de pierre sous les gradins, où l'on rangeait les bâtons de cérémonie. Il y faisait frais. Les clameurs de l'arène arrivaient étouffées, comme une mer lointaine."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as épargné quelqu'un qui voulait ta mort, devant cent mille témoins, dit-elle. C'était intelligent."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas pour être intelligent."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est pour ça que je vais te parler."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit sur un coffre. Elle eut l'air, un instant, très vieille."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a dix-neuf ans, j'étais une jeune juge du Conseil. Une femme est venue me voir en secret. Elle avait les cheveux noirs, des yeux noirs, une voix très calme. Elle m'a dit que le Haut Conseil la faisait chercher, parce qu'elle portait un esprit qu'il voulait enchaîner et utiliser comme une arme. Elle m'a demandé de l'aider à disparaître."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai aidée. Je lui ai trouvé une route vers le sud. Je ne l'ai jamais revue."
+  },
+  {
+   "type": "text",
+   "value": "Halvara leva les yeux vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Elle s'appelait Lyra. Et l'esprit qu'elle portait, c'était la Reine des Enfers."
+  },
+  {
+   "type": "text",
+   "value": "Dans la poitrine de Kaël, quelque chose bougea. Immense. Ancien. Et pour la première fois, la voix ne murmura rien du tout. Elle se tut, comme quelqu'un qui entend son nom prononcé après trois siècles."
+  },
+  {
+   "type": "text",
+   "value": "— Lyra, répéta-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Le mot ne pesait rien. Il pesait tout."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir-là, l'arène de Sombreval était vide."
+  },
+  {
+   "type": "text",
+   "value": "Dans la loge des Valmont, on n'avait allumé qu'une lampe. Edmond se tenait debout devant la balustrade, face aux gradins déserts. Isaure était assise dans l'ombre, les mains sur les genoux. Ysolde, appuyée contre le mur, les bras croisés, regardait son père."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-3.webp",
+   "caption": "La loge obscure"
+  },
+  {
+   "type": "text",
+   "value": "— Dis-le, père."
+  },
+  {
+   "type": "text",
+   "value": "Edmond ne se retourna pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu l'as vu, aujourd'hui. Tu as vu ce qu'il a fait de Corvin. Il ne s'est même pas battu. Il a joué."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux le battre."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "Le mot tomba, doux et définitif. Ysolde se redressa, blessée."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis la favorite de ce tournoi."
+  },
+  {
+   "type": "text",
+   "value": "— Tu étais. Tu perdras contre lui, ma fille. Je l'ai su en le regardant poser deux doigts sur le front de ton frère. Et si un Valmont adopté par charité remporte la Couronne d'Aube à la place de mon sang, alors notre nom ne vaut plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Il se tut un long moment. Dehors, un chien aboyait dans la ville."
+  },
+  {
+   "type": "text",
+   "value": "— Alors il ne doit plus vouloir gagner, dit Edmond Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un geste vers la porte. Elle s'ouvrit sans bruit."
+  },
+  {
+   "type": "text",
+   "value": "Un homme entra. Maigre, très maigre, le crâne rasé, des gants de cuir noir sur les mains. Sur sa peau, du front jusqu'au col, couraient des tatouages de runes grises qui semblaient bouger à la lumière de la lampe."
+  },
+  {
+   "type": "text",
+   "value": "Isaure poussa un petit cri étouffé."
+  },
+  {
+   "type": "text",
+   "value": "L'homme sourit, et ce sourire avait quelque chose de très ancien, et de très froid."
+  }
+ ]
+}

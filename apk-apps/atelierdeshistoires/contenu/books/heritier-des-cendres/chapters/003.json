@@ -1,0 +1,337 @@
+{
+ "number": 3,
+ "title": "L'inscription",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Personne ne comprit les torches."
+  },
+  {
+   "type": "text",
+   "value": "Le lendemain, à Valcendre, on parla d'un coup de vent descendu des collines, d'un défaut dans l'huile des lanternes, d'une farce de la sylphide de Margaux, trop excitée par son Éveil. Le prêtre des Lignées évoqua un « présage de changement », ce qui ne voulait rien dire et contentait tout le monde. Corvin raconta qu'il avait failli égorger le Vide et qu'il s'était retenu par pitié. On le crut. On croyait toujours Corvin."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne regarda Kaël."
+  },
+  {
+   "type": "text",
+   "value": "C'était l'avantage, quand on n'existait pas. On pouvait éteindre vingt torches d'un seul coup sans que personne pense à vous."
+  },
+  {
+   "type": "text",
+   "value": "Lui, en revanche, ne pensait qu'à ça."
+  },
+  {
+   "type": "text",
+   "value": "Il passa la journée au grenier, porte fermée, assis sur le vieux coffre où dormait son épée rouillée. Il essaya de rallumer le feu noir. Il serra les poings, ferma les yeux, pensa très fort à la bibliothèque, à minuit, à la voix. Rien. Il essaya la colère, en repensant à Corvin. Une chaleur, à peine. Une ombre qui frémit sous la poutre, puis plus rien."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Le grenier"
+  },
+  {
+   "type": "text",
+   "value": "*Pourquoi maintenant ?* demanda-t-il au silence. *Pourquoi moi ?*"
+  },
+  {
+   "type": "text",
+   "value": "Le silence ne répondit pas. Mais il ne lui sembla pas vide. Il lui sembla patient."
+  },
+  {
+   "type": "text",
+   "value": "Vers le soir, il descendit à la bibliothèque. Les *Annales des Lignées* étaient à leur place. Il les ouvrit à la page blanchie et lut, cette fois. Un chapitre sur les esprits perdus. Le loup d'hiver de Hautmarche, disparu il y a cent ans. Le cerf d'argent des rois du Sud. Et, en bas d'une page, trois lignes en petits caractères, presque effacées."
+  },
+  {
+   "type": "text",
+   "value": "*D'aucuns tiennent qu'il exista jadis un esprit plus ancien que tous, une souveraine des feux d'en bas, qui ne choisit qu'une lignée, et la garde. Nul ne l'a vue depuis trois siècles. Les sages du Haut Conseil défendent qu'on prononce son nom.*"
+  },
+  {
+   "type": "text",
+   "value": "Il relut les lignes trois fois. Puis il referma le livre, très doucement."
+  },
+  {
+   "type": "text",
+   "value": "Sur la table d'Orsin traînait un feuillet. Le règlement du Tournoi de l'Aube Pourpre, recopié de la main du vieil homme, avec ses annotations dans la marge. Kaël le prit. Il connaissait le règlement par cœur, il l'avait lu cent fois en rêvant à des choses impossibles. Mais il cherchait une seule ligne."
+  },
+  {
+   "type": "text",
+   "value": "Il la trouva."
+  },
+  {
+   "type": "text",
+   "value": "*Article troisième. Est admis à concourir tout éveillé de dix-huit à vingt et un ans, de toute nation, qui prouve un esprit devant le greffe.*"
+  },
+  {
+   "type": "text",
+   "value": "Qui prouve un esprit."
+  },
+  {
+   "type": "text",
+   "value": "Pas « qui porte une marque ». Pas « qui est né d'une grande maison ». Qui prouve."
+  },
+  {
+   "type": "text",
+   "value": "Kaël posa le feuillet. Il sentit ses mains se réchauffer, doucement, sous ses gants."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as trouvé l'article trois, dit une voix derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna. Orsin était sur le seuil, une bougie à la main, ses yeux de hibou plus ronds que jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne cherchais rien, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Bien sûr. Tu ne cherches jamais rien. Tu lis simplement le même article pendant dix minutes, le front plissé."
+  },
+  {
+   "type": "text",
+   "value": "Orsin posa la bougie. Il s'assit lourdement. Il regarda longtemps Kaël, puis la cour par la fenêtre, là où les torches s'étaient éteintes la veille."
+  },
+  {
+   "type": "text",
+   "value": "— J'étais à la fenêtre, hier soir, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne te demande rien, continua le vieil homme. Je suis trop vieux pour les questions dont j'ai peur des réponses. Mais je vais te dire une chose. Les frais d'inscription au tournoi sont de quarante couronnes d'argent. Tu n'en as pas une."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, j'en ai quarante-deux. Ça fait trente ans que je les mets de côté. Je ne savais pas pour quoi. Maintenant, je sais."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le regarda. Il voulut dire non. Il voulut dire qu'il ne pouvait pas, que c'était fou, qu'un sans-marque dans le tournoi, c'était une humiliation pour lui et un scandale pour la maison qui le nourrissait. Il ne dit rien de tout ça."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? demanda-t-il seulement."
+  },
+  {
+   "type": "text",
+   "value": "Orsin sourit dans sa barbe."
+  },
+  {
+   "type": "text",
+   "value": "— Parce qu'il me restera deux couronnes pour une bonne bouteille, le jour où tu gagneras."
+  },
+  {
+   "type": "text",
+   "value": "Le bureau des inscriptions de Valcendre se trouvait sous les arcades de l'hôtel de ville, entre un marchand d'encre et un barbier. Une salle basse, voûtée, avec un long comptoir de bois, un greffier à lunettes et, sur un socle de fer, la pierre de mesure : un bloc de quartz gris de la taille d'une tête d'homme, poli par des siècles de paumes. Chaque candidat devait y poser la main. La pierre s'allumait de la couleur de son esprit, et le greffier notait."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait la queue, ce matin-là. Une dizaine de jeunes gens de la ville et des domaines alentour, venus s'inscrire avant la clôture. Des fils de forgerons au poignet orange, une fille de meunier avec une marque verte. Ils parlaient fort, se comparaient, se vantaient."
+  },
+  {
+   "type": "text",
+   "value": "Quand Kaël entra, ils se turent."
+  },
+  {
+   "type": "text",
+   "value": "Tout Valcendre le connaissait. Le garçon en noir des Valmont. Celui qui servait le vin. Celui qui n'avait rien."
+  },
+  {
+   "type": "text",
+   "value": "— Tu t'es perdu ? demanda le fils du forgeron."
+  },
+  {
+   "type": "text",
+   "value": "Kaël prit sa place au bout de la file. Il attendit. Il sentait les regards, les coudes qui se poussaient, les chuchotements. Il attendit quand même. Il savait attendre. C'était peut-être la seule chose que les Valmont lui avaient vraiment apprise."
+  },
+  {
+   "type": "text",
+   "value": "Quand vint son tour, il posa sur le comptoir la bourse d'Orsin."
+  },
+  {
+   "type": "text",
+   "value": "Le greffier leva les yeux par-dessus ses lunettes. C'était un petit homme chauve aux doigts tachés d'encre, qui avait inscrit trente ans de candidats et n'avait jamais rien vu d'étonnant."
+  },
+  {
+   "type": "text",
+   "value": "— Nom ?"
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël comment ?"
+  },
+  {
+   "type": "text",
+   "value": "Un temps."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, répéta-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Derrière lui, quelqu'un ricana. Le greffier soupira."
+  },
+  {
+   "type": "text",
+   "value": "— Marque ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël retira son gant gauche et posa son poignet nu sur le comptoir. Le greffier le regarda. Puis il regarda la file. Puis Kaël. Les rires éclatèrent dans la salle, francs, énormes. La fille du meunier riait si fort qu'elle dut s'appuyer au mur."
+  },
+  {
+   "type": "text",
+   "value": "— Mon garçon, dit le greffier, presque gentiment, le tournoi est pour les éveillés."
+  },
+  {
+   "type": "text",
+   "value": "— Article trois, dit Kaël. Tout éveillé qui prouve un esprit devant le greffe. Il ne parle pas de marque."
+  },
+  {
+   "type": "text",
+   "value": "Le greffier cligna des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne parle pas de marque, admit-il lentement, parce que personne n'a jamais eu l'idée de venir sans."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je suis le premier."
+  },
+  {
+   "type": "text",
+   "value": "Les rires redoublèrent. Le fils du forgeron applaudit. Le greffier ôta ses lunettes, les essuya sur sa manche, les remit. Il désigna la pierre de mesure d'un geste las."
+  },
+  {
+   "type": "text",
+   "value": "— Très bien. Prouve."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'approcha du socle de fer. La pierre était froide, grise, éteinte. Il retira son second gant. Il posa la paume à plat sur le quartz."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Une seconde. Deux. Les rires commencèrent à retomber, remplacés par quelque chose de plus cruel : la pitié."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "*Je ne te demande pas de te montrer*, pensa-t-il, sans savoir à qui il parlait. *Je te demande seulement d'exister.*"
+  },
+  {
+   "type": "text",
+   "value": "Au fond de sa poitrine, quelque chose ouvrit un œil."
+  },
+  {
+   "type": "text",
+   "value": "La pierre ne s'alluma pas. Elle n'eut pas le temps. Un craquement sec retentit dans la salle voûtée, comme une branche qui casse en plein hiver. Une ligne noire courut sur le quartz, de la paume de Kaël jusqu'au socle. Puis une deuxième. Une troisième. Un filet de fumée sombre, aux reflets pourpres, monta des fissures et se dissipa dans l'air."
+  },
+  {
+   "type": "text",
+   "value": "Kaël retira sa main. La pierre de mesure de Valcendre, vieille de quatre siècles, était fendue de part en part."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "La pierre fendue"
+  },
+  {
+   "type": "text",
+   "value": "Plus personne ne riait."
+  },
+  {
+   "type": "text",
+   "value": "Le greffier était devenu blanc comme son registre. Il regarda la pierre, puis le poignet nu de Kaël, puis la pierre encore. Ses lèvres bougèrent sans bruit. Puis il trempa sa plume dans l'encrier, d'une main qui tremblait, et écrivit."
+  },
+  {
+   "type": "text",
+   "value": "*Kaël. Valcendre. Esprit : non identifié.*"
+  },
+  {
+   "type": "text",
+   "value": "— Admis, souffla-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Kaël remit ses gants, reprit sa place dans le silence, et sortit sous les arcades sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "La nouvelle fit le tour de Valcendre avant le coucher du soleil."
+  },
+  {
+   "type": "text",
+   "value": "Le soir même, un valet vint le chercher au grenier. Monsieur le désirait. Dans son bureau. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Le bureau d'Edmond Valmont était la pièce la plus chaude du manoir. Un grand feu, des tapis épais, une tête de cerf au mur, et derrière la table, le lion de pierre de la maison sculpté dans le marbre. Edmond était debout devant la cheminée, le dos tourné. Il faisait tourner une de ses bagues autour de son doigt."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Le bureau"
+  },
+  {
+   "type": "text",
+   "value": "Il ne se retourna pas quand Kaël entra."
+  },
+  {
+   "type": "text",
+   "value": "— Le greffier Tasselin est venu me voir, dit-il. Il tremblait encore. Il voulait savoir si j'étais au courant. Si j'avais *autorisé* ça."
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna enfin. Son visage était calme. Sa voix, plus douce que jamais. C'était le pire signe."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas quel tour de foire tu as joué avec cette pierre, et je ne veux pas le savoir. Mais demain, toute la ville saura que le protégé des Valmont va se donner en spectacle à Aurelhaven. Devant le Haut Conseil. Devant le royaume. Le jour même où ma fille doit y gagner la Couronne."
+  },
+  {
+   "type": "text",
+   "value": "Il s'approcha. Ses bagues brillaient à la lumière du feu."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas nous couvrir de honte. Tu vas faire rire le continent entier de ma maison. Alors écoute-moi bien, parce que je ne le répéterai pas. Si tu montes dans cette arène, tu n'es plus un Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le regarda. Edmond, qui l'avait exhibé la veille comme on exhibe un chien recueilli. Edmond, qui ne l'avait jamais appelé par son nom devant un invité."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sentit pas de colère. Seulement une chose très froide et très claire, qui montait de sa poitrine comme une aube noire."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne l'ai jamais été, dit-il."
+  }
+ ]
+}

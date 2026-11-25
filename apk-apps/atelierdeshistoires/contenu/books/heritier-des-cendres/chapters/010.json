@@ -1,0 +1,337 @@
+{
+ "number": 10,
+ "title": "La Forêt de Morteaux (1)",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les hommes masqués avaient fui avant que les gardes d'Arvalis n'arrivent. L'un d'eux boitait. Un autre avait les cheveux roussis par le feu de Séléné. Le porteur de la bague s'était évanoui dans la nuit comme s'il connaissait chaque pavé."
+  },
+  {
+   "type": "text",
+   "value": "Kaël n'avait rien dit aux gardes. Séléné non plus. Ils avaient échangé un seul regard, sous la lanterne de la ruelle, et ce regard disait la même chose : *pas encore*."
+  },
+  {
+   "type": "text",
+   "value": "— Qui porte cette bague ? avait-elle demandé tout bas, au portail du palais."
+  },
+  {
+   "type": "text",
+   "value": "— Edmond. Ses fils. Ses intendants. Ses hommes de confiance. Une vingtaine de personnes."
+  },
+  {
+   "type": "text",
+   "value": "— Ça fait beaucoup de gens qui vous veulent mort."
+  },
+  {
+   "type": "text",
+   "value": "— Ça fait une seule famille."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait serré sa main gantée, très vite, et elle était rentrée."
+  },
+  {
+   "type": "text",
+   "value": "Trois jours plus tard, il était à la lisière de la Forêt de Morteaux, et il n'avait toujours pas cessé de sentir ce serrement dans ses doigts."
+  },
+  {
+   "type": "text",
+   "value": "Les vingt rescapés du Labyrinthe attendaient sur une colline nue, face à un mur d'arbres si hauts qu'ils semblaient soutenir le ciel. Le vent qui en sortait sentait la mousse, la résine et quelque chose de plus âcre. Une odeur de tanière."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "La lisière"
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara parlait du haut d'un rocher."
+  },
+  {
+   "type": "text",
+   "value": "— La Forêt de Morteaux n'appartient à personne. Des esprits sauvages y vivent depuis la nuit des temps, des esprits qui n'ont jamais été liés à un enfant. Ils ont pris des corps de bêtes. Ils n'aiment pas les visiteurs."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva une main. Trois éclats de lumière y brillaient, bleu, vert, rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Trois cristaux de sève, cachés dans la forêt. Un de chaque couleur. Rapportez-les ici dans trois jours, à l'aube du quatrième. Ceux qui ne les ont pas sont éliminés. Ceux qui ne reviennent pas…"
+  },
+  {
+   "type": "text",
+   "value": "Elle n'acheva pas sa phrase."
+  },
+  {
+   "type": "text",
+   "value": "— Des balises d'appel vous seront remises, ajouta-t-elle. Brisez-la et nous viendrons vous chercher. Vous serez éliminés, mais vivants."
+  },
+  {
+   "type": "text",
+   "value": "On leur distribua une petite sphère de verre, une gourde, une sacoche de cuir. Kaël enroula la balise dans un linge et la glissa au fond de son sac."
+  },
+  {
+   "type": "text",
+   "value": "Brann lui donna une claque dans le dos à lui décrocher les poumons."
+  },
+  {
+   "type": "text",
+   "value": "— Équipe ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pas cette fois."
+  },
+  {
+   "type": "text",
+   "value": "— T'es sûr ? Je porte bien les choses lourdes. Toi par exemple."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a trop de gens qui me cherchent, Brann. Je ne veux pas qu'ils te trouvent à côté de moi."
+  },
+  {
+   "type": "text",
+   "value": "Le Nordique grogna, mais il hocha la tête. Puis il baissa la voix."
+  },
+  {
+   "type": "text",
+   "value": "— Ton frère loup. Il a recruté. Trois de Kesh, deux de Valcendre. Ils parlent de toi comme on parle d'un gibier."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas mon frère."
+  },
+  {
+   "type": "text",
+   "value": "— Ouais. Je sais. Je dis ça pour le reconnaître."
+  },
+  {
+   "type": "text",
+   "value": "Kaël chercha Séléné des yeux. Elle était un peu plus loin, entourée de quatre participants d'Arvalis en armure blanche, qui l'entouraient comme une escorte. Elle portait son armure légère blanc et or, ses cheveux tressés serrés pour la forêt. Elle le vit. Elle ne sourit pas — trop de regards. Mais elle toucha, discrètement, sa propre pommette, là où la bague d'Aldric avait ouvert la sienne."
+  },
+  {
+   "type": "text",
+   "value": "*Survivez, corbeau.*"
+  },
+  {
+   "type": "text",
+   "value": "Le cor sonna. Vingt silhouettes se jetèrent dans les arbres."
+  },
+  {
+   "type": "text",
+   "value": "La forêt les avala en dix pas."
+  },
+  {
+   "type": "text",
+   "value": "Sous les branches, il faisait presque nuit en plein jour. Les troncs étaient noirs, couverts d'une mousse argentée qui luisait faiblement. Le sol s'enfonçait sous les bottes, épais d'humus et de feuilles mortes. Les bruits des autres moururent très vite, avalés par l'immensité."
+  },
+  {
+   "type": "text",
+   "value": "Kaël marcha seul toute la journée."
+  },
+  {
+   "type": "text",
+   "value": "Il apprit vite. Que les buissons qui bougeaient sans vent cachaient des choses. Qu'un sanglier à six yeux pouvait charger à travers un arbre et le laisser debout. Que certaines fleurs blanches chantaient quand on passait près d'elles, d'une voix d'enfant, et qu'il valait mieux ne pas les écouter trop longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Il trouva le cristal bleu au crépuscule, dans le lit d'un ruisseau gelé en plein été. La glace était dure comme du fer. Il posa la main dessus et laissa monter une flamme noire, très petite, très lente. La glace fondit autour du cristal sans faire un bruit, sans une goutte de vapeur, comme si elle s'effaçait plutôt qu'elle ne fondait."
+  },
+  {
+   "type": "text",
+   "value": "La première nuit, il dormit dans un arbre creux. Il rêva d'une femme aux cheveux noirs qui marchait devant lui dans un couloir sans fin et ne se retournait jamais."
+  },
+  {
+   "type": "text",
+   "value": "*Ta mère ne s'appelait pas comme tu crois.*"
+  },
+  {
+   "type": "text",
+   "value": "Il s'éveilla avant l'aube, la main serrée sur le médaillon."
+  },
+  {
+   "type": "text",
+   "value": "Le cristal vert était gardé."
+  },
+  {
+   "type": "text",
+   "value": "Il le vit en fin de matinée, au centre d'une clairière ronde baignée de lumière pâle, enchâssé dans la souche d'un chêne foudroyé. Rien ne bougeait autour. Pas un oiseau, pas un insecte. C'était ce silence-là qui l'arrêta au bord des arbres."
+  },
+  {
+   "type": "text",
+   "value": "Puis le silence se fendit."
+  },
+  {
+   "type": "text",
+   "value": "Une lance de lumière traversa la clairière et se planta dans le tronc, à un pouce de sa tête. Elle vibrait encore, blanche, pure, d'une beauté terrible. Kaël ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as de bons réflexes, dit une voix. Tu n'as même pas cillé."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde sortit de l'ombre de l'autre côté de la clairière."
+  },
+  {
+   "type": "text",
+   "value": "Elle était grande, plus grande que dans son souvenir. Ses cheveux auburn étaient tressés en couronne autour de sa tête, comme toujours, et la fine cicatrice de son menton luisait sous le soleil pâle. Elle portait son armure d'argent et de bronze, couverte de boue jusqu'aux genoux. Derrière elle, à peine visible, une silhouette spectrale se tenait debout : une guerrière immense, casquée, sans visage, une armure de lumière froide, qui tenait dans sa main fantôme la jumelle de la lance plantée dans l'arbre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "La guerrière"
+  },
+  {
+   "type": "text",
+   "value": "— Ysolde, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois qu'elle disait son nom sans rien autour. Ni « le Vide », ni « le garçon ». Juste son nom. Il le remarqua."
+  },
+  {
+   "type": "text",
+   "value": "Elle marcha jusqu'au chêne foudroyé, détacha le cristal vert de la souche d'un geste et le soupesa."
+  },
+  {
+   "type": "text",
+   "value": "— J'en ai déjà un, dit-elle. Celui-ci, je le prenais pour le plaisir."
+  },
+  {
+   "type": "text",
+   "value": "— Le plaisir de quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— De te voir arriver. Je savais que tu viendrais par là. Tu marches toujours vers les endroits où les autres ont peur d'aller. Tu le faisais déjà petit. Le grenier. La cave. Le bord du toit."
+  },
+  {
+   "type": "text",
+   "value": "Il se tut. Il ignorait qu'elle l'avait seulement regardé."
+  },
+  {
+   "type": "text",
+   "value": "La lance quitta l'arbre d'elle-même et revint dans la main d'Ysolde. Elle la pointa vers lui, sans hâte. La lumière lui chauffa la gorge."
+  },
+  {
+   "type": "text",
+   "value": "— Je pourrais t'éliminer, dit-elle. Ici. Maintenant. Je casse ta balise, je te laisse dans la mousse, et dans trois jours on te ramasse. Personne ne saurait. Père m'embrasserait sur le front pour la première fois depuis mes dix ans."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne leva pas les mains. Il ne les cacha pas non plus. Au fond de lui, la mer derrière la porte se souleva un peu, comme une marée qui sent la lune."
+  },
+  {
+   "type": "text",
+   "value": "— Alors fais-le, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde le regarda longtemps. Ses yeux gris-vert avaient quelque chose de dur et de fatigué à la fois. Comme quelqu'un qui porte une armure trop longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle abaissa la lance."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui lança le cristal vert. Il l'attrapa d'une main."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux te battre dans l'arène, dit-elle. Pas ici. Pas dans le dos, pas dans la boue. Devant tout le monde, sous le soleil, à la loyale. Pour qu'il n'y ait plus de doute. Ni pour eux. Ni pour moi."
+  },
+  {
+   "type": "text",
+   "value": "— Et si c'est moi qui gagne ?"
+  },
+  {
+   "type": "text",
+   "value": "Un éclair passa sur son visage. Presque un sourire."
+  },
+  {
+   "type": "text",
+   "value": "— Alors au moins, je le saurai."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna les talons. Sa guerrière spectrale la suivit, sa grande ombre glissant sur l'herbe. Au bord des arbres, Ysolde s'arrêta sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Corvin te cherche avec cinq hommes, côté est. Va vers l'ouest. Et Kaël…"
+  },
+  {
+   "type": "text",
+   "value": "— Oui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ne le tue pas. Il est idiot. Mais il est mon frère."
+  },
+  {
+   "type": "text",
+   "value": "Elle disparut."
+  },
+  {
+   "type": "text",
+   "value": "Kaël resta longtemps au milieu de la clairière, le cristal vert dans la main, à se demander s'il venait de rencontrer pour la première fois quelqu'un de cette famille."
+  },
+  {
+   "type": "text",
+   "value": "Il partit vers l'ouest."
+  },
+  {
+   "type": "text",
+   "value": "La deuxième nuit tomba vite, épaisse, sans lune. La forêt changea de voix. Les chants des fleurs devinrent des plaintes. Des yeux s'allumèrent entre les troncs, jaunes, verts, par paires, et s'éteignaient quand il les regardait. Il ne fit pas de feu. Il s'adossa à un rocher couvert de mousse, l'épée courte en travers des genoux, et écouta."
+  },
+  {
+   "type": "text",
+   "value": "Quelque part, très loin, une meute hurla."
+  },
+  {
+   "type": "text",
+   "value": "Pas des loups. Le cri était trop aigu, trop haché, comme plusieurs gorges dans un seul corps. Il avait lu le mot dans un bestiaire de la bibliothèque des Valmont, sous une gravure qui lui avait donné des cauchemars pendant une semaine. *Chimères.* Des esprits sauvages qui avaient pris plusieurs corps de bêtes à la fois, et qui ne s'en étaient jamais remis."
+  },
+  {
+   "type": "text",
+   "value": "Les hurlements se rapprochaient. Ils encerclaient quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Puis, à travers les arbres, au loin, une lueur. Dorée. Une flamme d'or qui monta haut, très haut, au-dessus des cimes, en forme d'ailes immenses… et qui vacilla, se tordit, et retomba en pluie d'étincelles mourantes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "La flamme d'or"
+  },
+  {
+   "type": "text",
+   "value": "Un phénix qui s'éteint."
+  },
+  {
+   "type": "text",
+   "value": "Et un cri. Humain, celui-là. Un cri de femme, rageur et blessé, qu'il aurait reconnu entre tous, parce qu'il l'avait entendu rire."
+  },
+  {
+   "type": "text",
+   "value": "— Séléné, souffla Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Il était déjà debout. Il courait déjà. Les branches lui griffaient le visage et il ne les sentait pas."
+  },
+  {
+   "type": "text",
+   "value": "Entre les troncs, il la vit enfin : à genoux dans une clairière piétinée, l'armure blanc et or fendue à l'épaule, la tresse défaite, du sang sur la tempe, une main tendue devant elle d'où ne sortaient plus que quelques étincelles. Et tout autour d'elle, se resserrant en cercle, une douzaine de silhouettes difformes aux crocs luisants, aux dos hérissés, aux têtes multiples, qui grondaient toutes ensemble, comme une seule bête affamée."
+  }
+ ]
+}

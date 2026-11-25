@@ -1,0 +1,369 @@
+{
+ "number": 7,
+ "title": "Le Labyrinthe de Cendres (1)",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ils étaient cent, alignés dans la pénombre, et sous leurs pieds respirait le Labyrinthe."
+  },
+  {
+   "type": "text",
+   "value": "On descendait par un escalier taillé dans la roche, sous le sable même de l'Arène de Sombreval. L'air sentait le charbon froid. Aux murs, des torches à flamme bleue éclairaient une salle ronde percée de vingt portes. Au-dessus, à travers une grille, on devinait le ciel blanc et les visages penchés du public, comme des poissons au bord d'un puits."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara se tenait sur une estrade de pierre. Elle portait la robe grise du Haut Conseil et ne regardait personne en particulier. Pourtant, quand ses yeux passèrent sur Kaël, ils s'arrêtèrent un instant de trop."
+  },
+  {
+   "type": "text",
+   "value": "— Le Labyrinthe de Cendres a été creusé avant la naissance des royaumes, dit-elle. Il change. Il ment. Il se souvient de ceux qui y sont morts. Cent d'entre vous y entreront. Vingt en sortiront qualifiés, par l'Arche de l'Aube, avant le coucher du soleil. Les autres seront ramenés par les gardes. Vivants, si possible."
+  },
+  {
+   "type": "text",
+   "value": "Un rire nerveux courut dans les rangs. Elle ne sourit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il est interdit de tuer. Il n'est pas interdit d'avoir peur."
+  },
+  {
+   "type": "text",
+   "value": "Kaël avait gardé son manteau, ses gants, une épée courte prêtée par l'intendance. Il avait rendu le livre à Séléné à l'aube, devant la porte de l'auberge, sans un mot. Elle avait seulement dit : *Survivez, corbeau. J'ai d'autres livres.*"
+  },
+  {
+   "type": "text",
+   "value": "Le médaillon pesait contre son cœur. Il n'avait pas refroidi depuis la veille."
+  },
+  {
+   "type": "text",
+   "value": "Le cor sonna. Les vingt portes s'ouvrirent."
+  },
+  {
+   "type": "text",
+   "value": "Il choisit la plus étroite, parce que personne n'en voulait."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir tournait presque aussitôt. Les bruits des autres s'éteignirent derrière lui, comme absorbés par la pierre. Les murs étaient noirs, poudrés d'une cendre fine qui collait aux gants. Par endroits, des formes y étaient incrustées : une main, une épaule, un visage à demi fondu. Kaël n'y regarda pas de trop près."
+  },
+  {
+   "type": "text",
+   "value": "Au premier carrefour, il s'arrêta. Trois chemins. Sur le sol de celui de gauche, la cendre était lisse. Dans celui du milieu, des traces de pas. Dans celui de droite, rien du tout — pas même de cendre, une pierre propre, trop propre."
+  },
+  {
+   "type": "text",
+   "value": "Il prit celui du milieu, compta douze pas, puis s'immobilisa."
+  },
+  {
+   "type": "text",
+   "value": "Les traces de pas s'arrêtaient net. Au-delà, le sol avait la même couleur que partout ailleurs. Il ramassa un éclat de pierre et le lança devant lui. L'éclat traversa le sol comme on traverse de l'eau, sans un bruit."
+  },
+  {
+   "type": "text",
+   "value": "*Une illusion.* Un gouffre sous un dallage peint dans l'air."
+  },
+  {
+   "type": "text",
+   "value": "Il recula. Quelqu'un, avant lui, n'avait pas compté ses pas."
+  },
+  {
+   "type": "text",
+   "value": "Le chemin de droite, celui qui était propre, menait à une salle où le plafond descendait lentement, avec un grincement de meule. Kaël la traversa en courant, la dernière poutre lui frôlant la nuque. Derrière lui, la salle se referma comme une mâchoire."
+  },
+  {
+   "type": "text",
+   "value": "Il souffla. Il n'avait pas appelé la voix. Elle ne s'était pas proposée. Elle restait là, quelque part sous ses côtes, immense et silencieuse, comme une mer derrière une porte."
+  },
+  {
+   "type": "text",
+   "value": "— Bon, grommela quelqu'un dans l'obscurité. Si t'es un fantôme, je te préviens, je mords."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Dans une alcôve, assis par terre, il y avait un garçon qui ressemblait à une montagne mal rangée. Des épaules énormes, une barbe rousse taillée à la hache, une veste de fourrure malgré la chaleur, des bottes du Nord à lacets de cuir. Il tenait sa cheville à deux mains, et la cheville faisait un angle qu'aucune cheville n'aurait dû faire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "Le géant du Nord"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas un fantôme, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— T'es tout en noir dans un tunnel noir. Ça se discute. Attends."
+  },
+  {
+   "type": "text",
+   "value": "Le garçon plissa les yeux. Puis il siffla entre ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— Le monstre. Le type de Varek. Par les Sept Glaces."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Brann. Brann Hollow, de Hautefrise. Au nord du nord. Là où même les ours ont froid."
+  },
+  {
+   "type": "text",
+   "value": "— Et votre cheville ?"
+  },
+  {
+   "type": "text",
+   "value": "— Une marche qui existait pas. Elle était là, et puis elle était plus là. J'ai horreur de ce trou."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'accroupit, regarda la cheville. Foulée, gonflée, pas cassée. Il défit un de ses gants — Brann leva un sourcil en voyant la peau si pâle — et serra la bande de cuir de sa ceinture autour de l'articulation, fort."
+  },
+  {
+   "type": "text",
+   "value": "Brann grogna un juron qui fit trembler la cendre."
+  },
+  {
+   "type": "text",
+   "value": "— T'es médecin, en plus d'être sinistre ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai lu un livre."
+  },
+  {
+   "type": "text",
+   "value": "— Un seul ?"
+  },
+  {
+   "type": "text",
+   "value": "— Plusieurs fois."
+  },
+  {
+   "type": "text",
+   "value": "Brann le regarda un long moment. Puis il rit. Un rire de tonneau qui roule."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde dit que t'as vendu ton âme. Moi, je dis qu'un gars qui a vendu son âme, il aurait de plus belles bottes."
+  },
+  {
+   "type": "text",
+   "value": "Il se releva en s'appuyant au mur. Un instant, l'air autour de lui frémit : une forme brune, massive, une ombre de bête aux épaules voûtées se dessina derrière lui, et la pierre sous sa main craqua. Son ours. Il respirait par lui."
+  },
+  {
+   "type": "text",
+   "value": "— Je marche mieux à deux, dit Brann. Surtout quand y en a un des deux qui voit les trous."
+  },
+  {
+   "type": "text",
+   "value": "— Seulement jusqu'à l'Arche."
+  },
+  {
+   "type": "text",
+   "value": "— Seulement jusqu'à l'Arche. Après, je te casse la figure dans l'arène, comme un honnête homme."
+  },
+  {
+   "type": "text",
+   "value": "— Ça me va."
+  },
+  {
+   "type": "text",
+   "value": "Ils avancèrent ensemble pendant ce qui parut des heures."
+  },
+  {
+   "type": "text",
+   "value": "Brann parlait. Il parlait de Hautefrise, de sa mère qui chassait le phoque, de ses six sœurs qui le battaient toutes au bras de fer. Kaël écoutait et ne disait presque rien, mais il s'aperçut qu'il marchait plus vite quand Brann parlait, comme on marche plus vite près d'un feu."
+  },
+  {
+   "type": "text",
+   "value": "Ils déjouèrent une salle de miroirs où chacun voyait son propre corps couché, mort, sur le sol. Brann y frappa trois reflets avant de comprendre. Kaël, lui, ne regarda pas le sien. Il garda les yeux sur les jointures du dallage, là où le vrai sol se trahissait par un fil de poussière."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "La salle des miroirs"
+  },
+  {
+   "type": "text",
+   "value": "Ils croisèrent deux participants de Kesh, en robes vertes, qui reculèrent en voyant Kaël et s'enfuirent par une autre porte."
+  },
+  {
+   "type": "text",
+   "value": "— T'as une sacrée réputation, dit Brann."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien fait."
+  },
+  {
+   "type": "text",
+   "value": "— T'as jeté leur champion hors d'un cercle avec des ailes. C'est pas rien. Chez nous, on te ferait une chanson. Mauvaise, mais longue."
+  },
+  {
+   "type": "text",
+   "value": "Puis le couloir se divisa en deux, et un hurlement monta de la branche de gauche : un cri humain, cassé, qui finit dans un gargouillis."
+  },
+  {
+   "type": "text",
+   "value": "Brann se jeta en avant. Kaël l'attrapa par la fourrure."
+  },
+  {
+   "type": "text",
+   "value": "— Attends."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un a besoin…"
+  },
+  {
+   "type": "text",
+   "value": "— Écoute."
+  },
+  {
+   "type": "text",
+   "value": "Le cri reprit. Exactement le même. Les mêmes notes, la même cassure, le même gargouillis à la fin. Comme une chanson qu'on rejoue."
+  },
+  {
+   "type": "text",
+   "value": "— Le Labyrinthe se souvient de ceux qui y sont morts, murmura Kaël. Elle l'a dit."
+  },
+  {
+   "type": "text",
+   "value": "Brann blêmit sous sa barbe."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un piège."
+  },
+  {
+   "type": "text",
+   "value": "— Ou un souvenir. Ça revient au même."
+  },
+  {
+   "type": "text",
+   "value": "Ils prirent à droite. Le cri les suivit longtemps."
+  },
+  {
+   "type": "text",
+   "value": "C'est un peu plus loin, dans une galerie aux colonnes brisées, que Kaël entendit l'autre bruit. Pas un cri. Des pas. Trois paires, au moins, qui avançaient quand ils avançaient, et s'arrêtaient quand ils s'arrêtaient."
+  },
+  {
+   "type": "text",
+   "value": "Et un grondement bas, qu'il aurait reconnu entre mille. Il l'entendait depuis l'enfance, la nuit, derrière les portes, dans la cour. Le grondement d'un loup qui s'amuse."
+  },
+  {
+   "type": "text",
+   "value": "— On nous suit, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Brann se retourna, fit craquer ses poings."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'ils viennent."
+  },
+  {
+   "type": "text",
+   "value": "— Non. C'est moi qu'ils suivent. Va à l'Arche. Prends la galerie de droite, toujours le mur de droite. Compte tes pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je laisse personne derrière, moi."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne me laisses pas. Tu me rends service. Ils seront moins nombreux."
+  },
+  {
+   "type": "text",
+   "value": "Brann hésita. Kaël le fixa de ses yeux noirs, sans ciller, jusqu'à ce que le géant détourne le regard."
+  },
+  {
+   "type": "text",
+   "value": "— T'es une sale tête de mule, Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— On me l'a déjà dit. Avec d'autres mots."
+  },
+  {
+   "type": "text",
+   "value": "Brann partit en boitant, en jurant, en se retournant trois fois. Quand sa fourrure eut disparu entre les colonnes, Kaël prit à gauche, seul, dans un couloir qui descendait."
+  },
+  {
+   "type": "text",
+   "value": "Les pas suivirent."
+  },
+  {
+   "type": "text",
+   "value": "Il les guida loin, en tournant, en revenant. Il sentait la cendre craquer sous ses semelles et la sueur couler dans son dos. La voix ne disait rien. Il pensa, une seconde, à l'appeler, à la supplier. Il ne savait pas comment. On ne lui avait jamais appris à demander."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir s'élargit, puis se resserra. Les torches bleues se firent plus rares. Il comprit trop tard que le passage ne tournait plus."
+  },
+  {
+   "type": "text",
+   "value": "Une impasse."
+  },
+  {
+   "type": "text",
+   "value": "Un mur de pierre noire, haut, lisse, avec dans la cendre une seule empreinte de main, petite, comme celle d'un enfant."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Corvin entrait dans le couloir, sans se presser. Ses yeux luisaient d'un jaune sale. Ses mains n'étaient plus des mains. Derrière lui, deux garçons que Kaël connaissait vaguement — des fils de marchands de Valcendre, un esprit de sanglier et un esprit de corbeau gris, qui avaient toujours ri aux bonnes plaisanteries de Corvin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "L'impasse"
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois, Vide, dit Corvin. Ici, il n'y a pas de public. Pas d'arbitre. Pas de princesse."
+  },
+  {
+   "type": "text",
+   "value": "— On n'a pas le droit de tuer, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vais pas te tuer."
+  },
+  {
+   "type": "text",
+   "value": "Corvin sourit, de toutes ses dents trop longues."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le Labyrinthe qui va le faire."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les bras et abattit ses griffes de toutes ses forces contre la colonne qui soutenait la voûte. Le fils du marchand au sanglier chargea l'autre colonne, tête baissée."
+  },
+  {
+   "type": "text",
+   "value": "Un craquement monta de la pierre, énorme, comme un os de géant qui se brise."
+  },
+  {
+   "type": "text",
+   "value": "Kaël leva les yeux juste à temps pour voir le plafond tout entier se détacher et tomber sur lui."
+  }
+ ]
+}

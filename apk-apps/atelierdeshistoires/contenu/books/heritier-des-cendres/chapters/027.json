@@ -1,0 +1,317 @@
+{
+ "number": 27,
+ "title": "Les spectres",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le premier spectre frappa la tribune ouest comme une vague grise."
+  },
+  {
+   "type": "text",
+   "value": "Il avait un visage de femme, ou ce qui en restait. Un visage fait de fumée et de souvenirs volés, la bouche ouverte sur un cri qui ne finissait jamais. Il passa à travers une rangée de spectateurs, et ceux qu'il touchait tombaient, pâles, les yeux vides, comme si on leur avait arraché quelque chose de chaud à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Puis un deuxième. Un dixième. Trente."
+  },
+  {
+   "type": "text",
+   "value": "L'arène, qui s'était tue devant la Reine, se mit à hurler."
+  },
+  {
+   "type": "text",
+   "value": "Les gens couraient. Les escaliers débordaient. Des bannières tombaient, piétinées. Quelque part, une cloche d'alarme se mit à sonner, maigre et ridicule sous le vacarme."
+  },
+  {
+   "type": "text",
+   "value": "Kaël resta immobile une seconde. Une seule. Il regardait les chaînes de lumière grise qui pendaient aux poignets des spectres. Il les connaissait. Il les avait vues chaque nuit, au pied de son lit, pendant les nuits du chantage."
+  },
+  {
+   "type": "text",
+   "value": "*Les spectres de Morvane.* Des dizaines. Fabriqués à partir de souvenirs, entassés sous l'arène comme du bois sec. Et sans maître pour les tenir."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël !"
+  },
+  {
+   "type": "text",
+   "value": "Ysolde. Elle était debout, la lance rallumée, le visage blanc."
+  },
+  {
+   "type": "text",
+   "value": "— La finale, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Plus tard."
+  },
+  {
+   "type": "text",
+   "value": "— Oui. Plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva sa lance vers les tribunes. Il leva ses mains. Et pour la première fois de leur vie, deux enfants de la maison Valmont coururent dans la même direction."
+  },
+  {
+   "type": "text",
+   "value": "Ils ne s'étaient jamais entraînés ensemble. Ils n'en eurent pas besoin."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde frappait de loin. Sa lance de lumière traversait les spectres comme un clou traverse une toile, et ils se défaisaient en poussière d'argent. Kaël frappait de près. Il montait sur ses ailes de ténèbres jusqu'aux gradins, refermait le feu noir sur les silhouettes grises, et elles se tordaient avant de disparaître."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-1.webp",
+   "caption": "Côte à côte"
+  },
+  {
+   "type": "text",
+   "value": "— À ta gauche ! cria Ysolde."
+  },
+  {
+   "type": "text",
+   "value": "Il pivota. Un spectre fondait sur une famille coincée contre une balustrade : un père, deux petites filles. Kaël tendit le bras. Une ombre jaillit du sol, s'enroula autour du spectre et le tira en arrière comme un chien par sa laisse. Le feu fit le reste."
+  },
+  {
+   "type": "text",
+   "value": "Les petites filles le regardèrent. L'une d'elles avait une marque bleue au poignet, une loutre peut-être. Elle ne pleurait pas. Elle dit :"
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes le Vide ?"
+  },
+  {
+   "type": "text",
+   "value": "— Plus maintenant, dit Kaël. Courez."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus de lui, la Reine avait suivi le mouvement. Elle s'était penchée sur l'arène comme une mère se penche sur un berceau, et ses ailes faisaient une voûte noire contre le ciel. Partout où son ombre tombait, les spectres ralentissaient. Ils levaient la tête vers elle et leurs cris se brisaient."
+  },
+  {
+   "type": "text",
+   "value": "*Ils ont peur de toi*, pensa Kaël."
+  },
+  {
+   "type": "text",
+   "value": "*Ils ont peur de ce qu'ils ont été*, répondit la voix. *Ce sont des souvenirs de mères, sorneh. On les a volés dans des tombes. Ils ne savent plus qui ils sont.*"
+  },
+  {
+   "type": "text",
+   "value": "Il comprit d'un coup pourquoi le chant ressemblait à une berceuse. Il serra les dents et frappa plus fort."
+  },
+  {
+   "type": "text",
+   "value": "Sur la tribune d'honneur, une flamme dorée explosa."
+  },
+  {
+   "type": "text",
+   "value": "Séléné s'était transformée à moitié. Ses bras étaient devenus des ailes de feu d'or, ses cheveux blonds flottaient autour d'elle comme une couronne allumée. Elle se tenait devant la tribune royale, devant son père, et chaque spectre qui approchait éclatait contre son mur de flammes."
+  },
+  {
+   "type": "text",
+   "value": "— Arrière ! criait-elle. Arrière, je vous dis, j'ai une robe neuve !"
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une robe. C'était une tunique. Mais personne ne la contredit."
+  },
+  {
+   "type": "text",
+   "value": "En bas, sur la tribune des gens du Nord, un ours brun de la taille d'une charrette se dressa sur ses pattes arrière. Brann s'était transformé tout entier. Il rugit, et le rugissement fit trembler la pierre. Il prenait les spectres entre ses pattes et les écrasait contre le sol, et quand ils lui passaient à travers, il secouait la tête comme un chien mouillé et recommençait."
+  },
+  {
+   "type": "text",
+   "value": "— Par ici ! grondait-il entre deux rugissements, avec une voix qui n'avait plus rien d'humain. Les enfants par ici ! Derrière moi ! Derrière l'ours !"
+  },
+  {
+   "type": "text",
+   "value": "Les enfants vinrent. Il y en eut bientôt une trentaine, accrochés à sa fourrure."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara, au centre de l'arène, avait tiré une épée longue et donnait des ordres d'une voix qui couvrait tout. Les gardes du tournoi formaient des lignes. Les participants éliminés, ceux qui étaient restés pour la finale, sautaient dans l'arène et appelaient leurs esprits. Un dragon vert. Une sylphide. Un cerf aux bois de glace."
+  },
+  {
+   "type": "text",
+   "value": "Kaël redescendit sur le sable à côté d'Ysolde. Elle avait le souffle court et une traînée de suie sur la joue."
+  },
+  {
+   "type": "text",
+   "value": "— Combien encore ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas. Trop."
+  },
+  {
+   "type": "text",
+   "value": "Un spectre plongea vers eux. Elle le transperça sans même le regarder, puis fit une chose qu'il n'aurait jamais crue possible : elle lui tendit la main pour l'aider à franchir une dalle effondrée. Il la prit. Elle la lâcha aussitôt, comme si elle s'était brûlée."
+  },
+  {
+   "type": "text",
+   "value": "— Ne t'habitue pas, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'oserais pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as toujours été insolent. Même quand tu servais le vin. Surtout quand tu servais le vin."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne me regardiez jamais."
+  },
+  {
+   "type": "text",
+   "value": "Elle frappa un autre spectre, plus fort que nécessaire."
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit-elle. Je te regardais. C'est bien ça le problème."
+  },
+  {
+   "type": "text",
+   "value": "Il n'eut pas le temps de lui demander ce qu'elle voulait dire. Au-dessus des gradins de l'ouest, la loge vide des Valmont fut traversée par trois spectres à la fois, et les sièges de velours vert volèrent en éclats. Personne n'était assis là. Pour la première fois de sa vie, Kaël fut reconnaissant à Edmond de son absence."
+  },
+  {
+   "type": "text",
+   "value": "Pendant un instant, il crut qu'ils allaient y arriver."
+  },
+  {
+   "type": "text",
+   "value": "Puis le gouffre se mit à respirer."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut d'abord un souffle froid, qui monta de la fissure au centre de l'arène et fit trembler la flamme de toutes les torches. Puis un bruit de succion, énorme, comme si la terre aspirait."
+  },
+  {
+   "type": "text",
+   "value": "Et les spectres cessèrent d'attaquer."
+  },
+  {
+   "type": "text",
+   "value": "Tous en même temps. Ils s'immobilisèrent en l'air, la tête tournée vers le gouffre. Puis ils se mirent à descendre. À filer vers le trou comme de l'eau vers un égout. Ceux que Kaël tenait dans ses ombres se débattirent pour lui échapper."
+  },
+  {
+   "type": "text",
+   "value": "— Ils fuient ? cria quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "— Non, souffla Ysolde à côté de lui. Ils se rassemblent."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait raison. Au fond du gouffre, quelque chose grandissait."
+  },
+  {
+   "type": "text",
+   "value": "Les spectres s'y jetaient et s'y fondaient. Les visages de fumée se collaient les uns aux autres. Les bras se nouaient. Les chaînes de lumière grise s'entremêlaient comme des racines. Et de cette masse se leva une forme."
+  },
+  {
+   "type": "text",
+   "value": "Une main d'abord. Une main de femme, grise, grande comme une maison, qui s'accrocha au bord du gouffre et fit éclater le marbre. Puis une autre. Puis une tête, une tête faite de cent visages qui ouvraient tous la bouche en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Le spectre géant se hissa hors de la terre. Il était plus haut que la tribune royale. Il n'avait pas d'yeux. Il avait des souvenirs, et ils hurlaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-2.webp",
+   "caption": "Le spectre géant"
+  },
+  {
+   "type": "text",
+   "value": "— Tous les esprits, sur lui ! ordonna Halvara."
+  },
+  {
+   "type": "text",
+   "value": "Ils frappèrent. Le dragon vert cracha son feu, le cerf lança sa glace, la lance d'Ysolde le transperça de part en part. Le spectre géant se troua, puis se referma. Il ne remarquait même pas."
+  },
+  {
+   "type": "text",
+   "value": "Kaël décolla."
+  },
+  {
+   "type": "text",
+   "value": "Ses ailes de ténèbres le portèrent face à la tête aux cent visages. Il rassembla le feu noir entre ses mains, une boule épaisse, tournoyante, pourpre en son cœur. Au-dessus de lui, la Reine leva le bras en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Il lança."
+  },
+  {
+   "type": "text",
+   "value": "Le feu frappa le spectre en pleine poitrine. Toute une partie de son corps s'effondra en cendres. Le monstre hurla, et ce hurlement fit tomber Kaël du ciel comme une pierre. Il roula sur le sable, se releva, la bouche pleine de sang."
+  },
+  {
+   "type": "text",
+   "value": "Le spectre ne le regardait pas."
+  },
+  {
+   "type": "text",
+   "value": "Lentement, la tête aux cent visages se tourna vers la tribune d'honneur. Vers la flamme dorée qui brillait plus fort que toutes les autres. Vers la seule lumière de l'arène qui ressemblait à une renaissance."
+  },
+  {
+   "type": "text",
+   "value": "*Il a faim*, dit la Reine, et sa voix était glacée. *Il veut ce qui revit. Il veut le phénix.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël courut."
+  },
+  {
+   "type": "text",
+   "value": "Il courut plus vite qu'il n'avait jamais couru, et ce ne fut pas assez. La main grise s'abattit sur la tribune. Séléné dressa son mur de flammes d'or. Le mur tint une seconde. Une seule. Puis les doigts de fumée passèrent à travers comme à travers un rideau, et se refermèrent sur elle."
+  },
+  {
+   "type": "text",
+   "value": "— Séléné !"
+  },
+  {
+   "type": "text",
+   "value": "Elle se débattit. Ses ailes de feu battaient contre la prison grise et s'éteignaient l'une après l'autre. Elle tourna la tête vers lui. Il vit ses yeux ambre, grands ouverts. Elle ne cria pas son nom. Elle cria :"
+  },
+  {
+   "type": "text",
+   "value": "— Ne viens pas !"
+  },
+  {
+   "type": "text",
+   "value": "Le spectre géant se retourna, et il plongea vers le gouffre en emportant la princesse d'Arvalis dans son poing."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-3.webp",
+   "caption": "Emportée"
+  },
+  {
+   "type": "text",
+   "value": "Le roi Aurélien hurla. Halvara hurla un ordre. Brann rugit. Ysolde lança sa lance, qui traversa le monstre sans le retenir."
+  },
+  {
+   "type": "text",
+   "value": "La masse grise disparut dans la fissure noire. La lumière dorée de Séléné brilla encore un instant au fond du trou, de plus en plus petite, de plus en plus loin."
+  },
+  {
+   "type": "text",
+   "value": "Puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne réfléchit pas. Il ne demanda rien à la Reine. Il ne regarda pas en arrière."
+  },
+  {
+   "type": "text",
+   "value": "Il courut jusqu'au bord du gouffre, ouvrit ses ailes de ténèbres, et sauta dans le noir derrière elle."
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "number": 2,
+ "title": "L'Éveil",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kaël ne cria pas."
+  },
+  {
+   "type": "text",
+   "value": "Plus tard, il se demanderait pourquoi. N'importe qui aurait crié. N'importe qui aurait jeté le livre, secoué ses mains, couru jusqu'à la fontaine de la cour. Lui resta assis dans le fauteuil de cuir, immobile, les paumes ouvertes devant lui, à regarder le feu noir danser sur sa peau."
+  },
+  {
+   "type": "text",
+   "value": "Parce qu'il avait peur. Une peur si grande qu'elle ne laissait aucune place au mouvement."
+  },
+  {
+   "type": "text",
+   "value": "Autour de lui, la bibliothèque avait changé. Les ombres des rayonnages ne restaient plus à leur place. Elles s'étiraient sur le parquet, se repliaient, rampaient vers lui comme des chats qui reconnaissent leur maître. L'ombre de l'échelle glissa le long du mur. L'ombre de la grande horloge se pencha. Toutes venaient à lui, sans bruit, et s'enroulaient autour de ses chevilles avec une douceur qui le terrifiait davantage que n'importe quelle violence."
+  },
+  {
+   "type": "text",
+   "value": "*Vael enthari*, répéta la voix."
+  },
+  {
+   "type": "text",
+   "value": "Grave. Profonde. Une voix de femme, mais plus vaste qu'une femme. Elle ne venait pas de la pièce. Elle venait de dedans. De derrière son cœur."
+  },
+  {
+   "type": "text",
+   "value": "— Qui… souffla Kaël. Qui êtes-vous ?"
+  },
+  {
+   "type": "text",
+   "value": "Sa propre voix lui parut minuscule."
+  },
+  {
+   "type": "text",
+   "value": "*Sorn ama. Ketharë, vael. Ketharë.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne comprenait pas les mots. Mais il comprenait le ton. C'était le ton qu'on prend pour calmer un enfant qui a fait un cauchemar. Le ton que personne, jamais, n'avait pris avec lui."
+  },
+  {
+   "type": "text",
+   "value": "Alors, lentement, la peur se retira."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne disparut pas. Elle recula, comme la mer recule, en laissant derrière elle un sable lisse et froid. À la place vint un calme étrange. Kaël respira. Une fois. Deux fois. Les flammes noires sur ses mains respirèrent avec lui, montèrent, baissèrent, au rythme de son souffle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "La voix"
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les poings."
+  },
+  {
+   "type": "text",
+   "value": "Le feu s'éteignit d'un coup. Les ombres retournèrent à leur place, chacune sous son objet, comme si de rien n'était. Les chandelles restèrent couchées, mortes. La bibliothèque était noire, silencieuse, ordinaire."
+  },
+  {
+   "type": "text",
+   "value": "Kaël resta là jusqu'à l'aube, les yeux ouverts, à écouter son propre cœur. La voix ne revint pas. Mais il la sentait. Quelque part. Endormie, ou attentive. Comme une présence dans une maison qu'on croyait vide."
+  },
+  {
+   "type": "text",
+   "value": "Au matin, il regarda son poignet gauche."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Pas la moindre lueur. Pas une trace, pas une ligne. La même peau pâle et lisse qu'hier, que toujours. Il frotta, approcha le poignet de la fenêtre, le tourna dans la lumière grise. Rien."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait dû être soulagé. Ou déçu. Il ne savait pas ce qu'il était."
+  },
+  {
+   "type": "text",
+   "value": "*J'ai rêvé*, se dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Mais sur la page des *Annales des Lignées*, là où ses mains avaient brûlé, le papier n'était pas noirci. Il était plus blanc. Comme neuf. Comme si le feu avait effacé trois siècles de poussière."
+  },
+  {
+   "type": "text",
+   "value": "Il referma le livre, le rangea au troisième rayon, et décida de ne rien dire à personne."
+  },
+  {
+   "type": "text",
+   "value": "Pas même à Orsin."
+  },
+  {
+   "type": "text",
+   "value": "Surtout pas aux Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Dans le couloir des cuisines, il croisa Orsin qui revenait du marché, un panier de pommes au bras."
+  },
+  {
+   "type": "text",
+   "value": "— Bon anniversaire, mon garçon, dit le vieil homme à voix basse, comme on dit un secret."
+  },
+  {
+   "type": "text",
+   "value": "Personne d'autre ne le lui avait jamais dit. Orsin le répétait chaque année, toujours dans un couloir, toujours à voix basse, et chaque année il glissait quelque chose dans la main de Kaël. Cette fois, c'était une pomme. Rouge, parfaite."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as une tête de déterré, remarqua Orsin."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai lu."
+  },
+  {
+   "type": "text",
+   "value": "— Toute la nuit ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le tome sept était pire que le six."
+  },
+  {
+   "type": "text",
+   "value": "Orsin rit doucement. Puis son regard tomba sur les mains de Kaël, gantées de noir comme toujours, et s'y arrêta une seconde de trop. Ses yeux de hibou se plissèrent. Il ouvrit la bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Orsin ! cria la cuisinière depuis l'office. Les pommes !"
+  },
+  {
+   "type": "text",
+   "value": "Le vieil homme referma la bouche. Il tapota l'épaule de Kaël et s'éloigna, mais avant de tourner au coin du couloir, il se retourna une dernière fois. Il avait l'air d'un homme qui vient d'entendre, au loin, une cloche qu'il attendait depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "La cérémonie de l'Éveil de Margaux eut lieu à midi, dans la grande cour du manoir."
+  },
+  {
+   "type": "text",
+   "value": "Edmond avait tout prévu. Des tentures vertes et or aux fenêtres, des musiciens sur l'estrade, des tables chargées de pâtés et de fruits confits. Toute la bonne société de Valcendre se pressait autour du cercle de pierre blanche où, depuis quatre générations, les enfants Valmont venaient éveiller leur esprit. Les marchands, les magistrats, deux petits barons des environs, le prévôt de la ville avec sa chaîne d'office."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se tenait au fond, près des écuries, en manteau noir et gants noirs. Il portait des plateaux. On lui avait dit de porter des plateaux."
+  },
+  {
+   "type": "text",
+   "value": "Margaux entra dans le cercle sous les applaudissements. Elle portait une robe bleu pâle qui flottait autour d'elle, et ses cheveux châtain clair étaient piqués de perles. Elle était nerveuse, cela se voyait. Elle tordait ses doigts. Pendant une seconde, Kaël la trouva presque humaine."
+  },
+  {
+   "type": "text",
+   "value": "Le prêtre des Lignées posa la main sur son front et prononça la formule."
+  },
+  {
+   "type": "text",
+   "value": "Le vent se leva."
+  },
+  {
+   "type": "text",
+   "value": "Un vent tiède, joyeux, qui fit claquer les tentures et envoler les serviettes des tables. Puis il se rassembla au-dessus de Margaux, tourbillonna, et prit forme : une silhouette de femme fine, transparente, aux cheveux d'air et aux ailes de libellule. La sylphide. Elle tournoya autour de Margaux en riant d'un rire de clochettes, souleva ses perles, ses mèches, sa robe. Sur le poignet de la jeune fille, la marque s'alluma d'un bleu clair et vif."
+  },
+  {
+   "type": "text",
+   "value": "La cour explosa en applaudissements. Margaux riait, les larmes aux yeux. Isaure l'embrassa sur le front. Aldric siffla. Ysolde elle-même sourit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La sylphide"
+  },
+  {
+   "type": "text",
+   "value": "Kaël regarda la sylphide danser dans le soleil et ne sentit rien. Ni jalousie, ni tristesse. Seulement, au fond de sa poitrine, une sorte de silence attentif. Comme si quelque chose, en lui, regardait aussi."
+  },
+  {
+   "type": "text",
+   "value": "Et jugeait."
+  },
+  {
+   "type": "text",
+   "value": "Edmond monta sur l'estrade. Il leva les mains, et la foule se tut."
+  },
+  {
+   "type": "text",
+   "value": "— Mes amis, dit-il de sa voix douce. Merci. Aujourd'hui, ma fille Margaux rejoint ses frères et sa sœur parmi les éveillés de notre maison. Quatre enfants, quatre esprits. La maison Valmont n'a jamais été aussi forte."
+  },
+  {
+   "type": "text",
+   "value": "Applaudissements. Edmond sourit, puis tourna la tête vers le fond de la cour. Vers les écuries. Vers Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Certains d'entre vous se souviennent, reprit-il, que nous avons aussi recueilli, il y a dix-huit ans, un enfant de l'hospice. Un pauvre petit sans famille. Il a eu dix-huit ans ce matin."
+  },
+  {
+   "type": "text",
+   "value": "Des têtes se tournèrent. Des dizaines de têtes. Kaël sentit leurs regards se poser sur lui comme des mains."
+  },
+  {
+   "type": "text",
+   "value": "— Rassurez-vous, dit Edmond, et il rit doucement. Nous n'allons pas vous infliger une seconde cérémonie. Ce garçon n'a rien à éveiller."
+  },
+  {
+   "type": "text",
+   "value": "Un rire parcourut la foule. Pas méchant, pour la plupart. Gêné. Le rire qu'on a devant un infirme dont on s'est moqué devant vous et qu'on n'ose pas défendre."
+  },
+  {
+   "type": "text",
+   "value": "— Mais il reste notre protégé, continua Edmond avec bonté. Car les Valmont n'abandonnent personne. Même ceux qui n'ont rien."
+  },
+  {
+   "type": "text",
+   "value": "Applaudissements, de nouveau. Pour Edmond. Pour sa générosité."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne baissa pas les yeux. Il garda le plateau parfaitement droit, son dos parfaitement droit. Seulement, sous ses gants noirs, ses paumes devinrent chaudes."
+  },
+  {
+   "type": "text",
+   "value": "Très chaudes."
+  },
+  {
+   "type": "text",
+   "value": "C'est Corvin qui vint le chercher, à la tombée du jour, quand on eut allumé les torches, que le vin eut coulé et que les invités se furent dispersés en petits groupes bruyants dans la cour."
+  },
+  {
+   "type": "text",
+   "value": "Il arriva avec trois fils de marchands, ses compagnons de chasse, ceux qui riaient toujours un peu avant lui. Corvin avait dix-neuf ans, des épaules de bûcheron, les cheveux châtains en bataille et des yeux jaunes qui ne clignaient presque jamais. Depuis son Éveil, l'an dernier, il gardait toujours un peu du loup en lui. Dans les dents. Dans les ongles."
+  },
+  {
+   "type": "text",
+   "value": "— Le Vide, dit-il. Tu as entendu Père ? Tu n'as rien à éveiller."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai entendu."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne te fait rien ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël posa le plateau sur une table."
+  },
+  {
+   "type": "text",
+   "value": "— Si. Ça me fait penser qu'il parle bien."
+  },
+  {
+   "type": "text",
+   "value": "Un des fils de marchands pouffa, puis se tut sous le regard de Corvin. Corvin s'approcha. Il sentait le vin et la fourrure."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te crois drôle."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Je me crois patient."
+  },
+  {
+   "type": "text",
+   "value": "Corvin le poussa."
+  },
+  {
+   "type": "text",
+   "value": "Une poussée brutale, des deux mains en pleine poitrine, avec la force du loup derrière. Kaël décolla presque du sol. Il heurta les pavés de la cour sur le dos, l'air chassé de ses poumons. Autour, des gens se retournèrent. Certains riaient déjà."
+  },
+  {
+   "type": "text",
+   "value": "Corvin se pencha au-dessus de lui. Ses ongles s'étaient allongés. Noirs, recourbés, des griffes de bête, à quelques pouces du visage de Kaël."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "Les griffes"
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois ? dit-il bien fort, pour la galerie. Même pas capable de rester debout. Allez, relève-toi, le Vide. Montre-leur ce que tu as."
+  },
+  {
+   "type": "text",
+   "value": "Les rires montèrent. Les fils de marchands. Des invités. Aldric, quelque part près de la fontaine, qui applaudissait lentement. Kaël vit Margaux, sa sylphide sur l'épaule, qui se cachait la bouche derrière la main. Il vit Ysolde, au loin, qui regardait sans rien faire."
+  },
+  {
+   "type": "text",
+   "value": "Il ne réfléchit pas."
+  },
+  {
+   "type": "text",
+   "value": "Il se releva. Simplement. D'un seul mouvement, sans s'aider des mains, comme si le sol l'avait repoussé. Il se retrouva debout, droit, face à Corvin, si près que leurs souffles se mêlaient."
+  },
+  {
+   "type": "text",
+   "value": "Et toutes les torches de la cour s'éteignirent d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "Les vingt torches des murs. Les lanternes des tables. Les braseros des musiciens. En même temps, sans un souffle de vent, comme si une main immense s'était refermée sur chacune."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'obscurité soudaine, plus personne ne riait."
+  }
+ ]
+}

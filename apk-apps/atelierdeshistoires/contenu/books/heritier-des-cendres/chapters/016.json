@@ -1,0 +1,409 @@
+{
+ "number": 16,
+ "title": "La Tour des Échos (1)",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kaël n'avait pas dormi."
+  },
+  {
+   "type": "text",
+   "value": "Il avait écouté. Toute la nuit, la voix de sa mère avait hurlé derrière le mur, derrière ses paupières, derrière tout. Puis, à l'aube, elle s'était tue d'un coup, comme on coupe une corde. Le silence avait été pire que les cris."
+  },
+  {
+   "type": "text",
+   "value": "Il s'était lavé le visage à l'eau froide. Il avait mis son manteau noir, ses gants noirs, boutonné sa chemise jusqu'au col. Dans le miroir fêlé de l'auberge, un garçon pâle le regardait avec des yeux trop creux."
+  },
+  {
+   "type": "text",
+   "value": "*Perds la Tour des Échos.*"
+  },
+  {
+   "type": "text",
+   "value": "Le billet était dans sa poche. Il ne l'avait pas brûlé. Il ne savait pas pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "La Tour des Échos se dressait au nord de l'Arène de Sombreval, une flèche de pierre noire si haute que son sommet disparaissait dans la brume. Les anciens disaient qu'elle avait été bâtie par un peuple qui parlait aux morts. Elle était creuse. Un escalier en spirale courait le long de ses murs intérieurs, sans rampe, et au centre s'ouvrait un vide immense, un puits de vent et d'obscurité qui descendait plus bas que les fondations."
+  },
+  {
+   "type": "text",
+   "value": "— Huit équipes de deux, annonça Dame Halvara depuis l'estrade. Les huit vainqueurs des duels, et huit repêchés parmi les perdants. Quatre équipes seulement franchiront l'arche du sommet. Elles formeront les quarts de finale. La tour vous renverra ce que vous craignez. Ce que vous verrez n'est pas réel. Ce qui vous frappera, si."
+  },
+  {
+   "type": "text",
+   "value": "Une rumeur parcourut la foule massée au pied de la tour. Les nobles, sur leurs gradins de bois, levaient déjà les yeux vers la brume."
+  },
+  {
+   "type": "text",
+   "value": "Brann Hollow fit craquer son cou, d'un côté, puis de l'autre."
+  },
+  {
+   "type": "text",
+   "value": "— Une tour qui montre nos peurs, grogna-t-il. Super. La mienne, c'est les escaliers."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur des escaliers, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai peur de tomber dans des escaliers. C'est différent. C'est une peur raisonnable."
+  },
+  {
+   "type": "text",
+   "value": "Kaël aurait souri, un autre jour. Il hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "Brann le regarda de côté, longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as une tête de cadavre, le corbeau."
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas un compliment."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Plus loin, dans la file des équipes, une tresse blonde accrocha la lumière. Séléné d'Arvalis, armure blanc et or, faisait équipe avec Mira Sol, une grande fille des Îles à l'esprit de faucon. Elle se retourna, chercha quelqu'un dans la foule, le trouva. Elle leva deux doigts, comme pour dire : *on se voit en haut*."
+  },
+  {
+   "type": "text",
+   "value": "Kaël baissa les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Il sentit, sans la voir, la seconde où le sourire de Séléné se figea."
+  },
+  {
+   "type": "text",
+   "value": "Le cor sonna. Les équipes s'engouffrèrent par les portes basses."
+  },
+  {
+   "type": "text",
+   "value": "À l'intérieur, l'air avait un goût de cendre froide. Chaque pas résonnait trois fois, quatre fois, et les échos ne revenaient pas tout à fait identiques : un pas devenait une course, une course un rire, un rire un sanglot. Les murs étaient couverts de visages sculptés, bouche ouverte, yeux vides."
+  },
+  {
+   "type": "text",
+   "value": "Au premier palier, la tour commença."
+  },
+  {
+   "type": "text",
+   "value": "Brann s'arrêta net. Devant lui, sur les marches, un ours gigantesque aux yeux crevés montait vers eux, la gueule pleine de sang noir."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "L'écho de l'ours"
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas réel, dit Brann d'une voix blanche. C'est pas réel. C'est mon père qui..."
+  },
+  {
+   "type": "text",
+   "value": "Il ne finit pas. L'ours rugit, et le rugissement avait la voix d'un homme."
+  },
+  {
+   "type": "text",
+   "value": "Kaël leva la main."
+  },
+  {
+   "type": "text",
+   "value": "Il sentit le feu, tout au fond, là où il dormait. Il sentit la Reine. Un frémissement, comme une bête sous la glace."
+  },
+  {
+   "type": "text",
+   "value": "*Perds. Ou ce soir, elle hurlera.*"
+  },
+  {
+   "type": "text",
+   "value": "Il baissa la main."
+  },
+  {
+   "type": "text",
+   "value": "Brann chargea seul. Son esprit d'ours jaillit autour de lui, une masse brune de muscles et de griffes, et percuta l'illusion de plein fouet. L'ours aux yeux crevés éclata en fumée. Brann tomba à genoux, haletant."
+  },
+  {
+   "type": "text",
+   "value": "— Merci pour le coup de main, cracha-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Tu t'en sortais bien."
+  },
+  {
+   "type": "text",
+   "value": "— Va te faire voir."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent."
+  },
+  {
+   "type": "text",
+   "value": "Au troisième palier, une équipe de Kesh les attendait."
+  },
+  {
+   "type": "text",
+   "value": "Deux garçons, esprits de chacal, rapides, maigres, le sourire mauvais. Ils attaquèrent sans un mot. L'un sauta sur Brann, l'autre fila droit vers Kaël, les crocs spectraux luisants."
+  },
+  {
+   "type": "text",
+   "value": "Kaël esquiva. Une fois, deux fois. Il savait se battre ; il avait appris seul, derrière une fenêtre, en regardant les maîtres d'armes corriger Aldric et Corvin. Son corps savait. Il para un coup de griffe avec l'avant-bras, sentit le tissu de son manteau se déchirer."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait pu le brûler. Il aurait suffi d'un souffle. Un seul."
+  },
+  {
+   "type": "text",
+   "value": "Il recula."
+  },
+  {
+   "type": "text",
+   "value": "Le chacal passa sous sa garde, le frappa à l'épaule, et fila vers l'escalier. Il ne cherchait pas à le battre. Il cherchait à monter. Son coéquipier lâcha Brann et le suivit en riant."
+  },
+  {
+   "type": "text",
+   "value": "— Ils passent ! gronda Brann. Kaël, ils passent !"
+  },
+  {
+   "type": "text",
+   "value": "Kaël les regarda disparaître dans la spirale."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Brann l'attrapa par le col et le colla contre le mur. Les visages de pierre ouvraient leur bouche juste derrière sa tête."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai vu soulever un plafond, souffla Brann. Je t'ai vu brûler une meute entière. Et là, tu laisses deux chiens de Kesh nous passer devant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Lâche-moi."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ?"
+  },
+  {
+   "type": "text",
+   "value": "— Rien."
+  },
+  {
+   "type": "text",
+   "value": "Brann le lâcha. Il le regarda comme on regarde un ami qu'on ne reconnaît plus."
+  },
+  {
+   "type": "text",
+   "value": "— Rien, répéta-t-il. D'accord."
+  },
+  {
+   "type": "text",
+   "value": "Dehors, très loin, la foule grondait. Des miroirs d'eau, disposés au pied de la tour par les mages du Conseil, montraient aux spectateurs ce qui se passait à l'intérieur. Kaël entendait leurs cris monter par les meurtrières. Pas des acclamations. Des sifflets."
+  },
+  {
+   "type": "text",
+   "value": "*Le Vide. Le Vide s'est éteint.*"
+  },
+  {
+   "type": "text",
+   "value": "Au cinquième palier, la tour vint chercher Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Il le sut avant de le voir. L'air changea. Les échos de ses pas se transformèrent en une respiration lente, très douce, la respiration de quelqu'un qui dort à côté de vous."
+  },
+  {
+   "type": "text",
+   "value": "Devant lui, sur la marche, une femme était assise."
+  },
+  {
+   "type": "text",
+   "value": "Cheveux noirs. Yeux noirs. Une robe grise d'hospice. Des chaînes de lumière grise autour des poignets."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "L'apparition"
+  },
+  {
+   "type": "text",
+   "value": "Elle leva la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas gagner, murmura-t-elle. Tu vas gagner, et je vais mourir une seconde fois."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "*Ce n'est pas réel*, avait dit Halvara. *La tour renvoie ce que vous craignez.*"
+  },
+  {
+   "type": "text",
+   "value": "Mais il ne savait plus ce qui était réel. Chaque nuit, la même femme. Le même visage. Les mêmes chaînes."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël ! hurla Brann quelque part."
+  },
+  {
+   "type": "text",
+   "value": "Une ombre bondit. Une fille de Lorvenne à l'esprit de lynx, griffes en avant, droit sur Brann, de dos. Kaël la vit. Il aurait pu l'arrêter. Le feu noir monta jusqu'au bout de ses doigts, brûlant sous le cuir de ses gants..."
+  },
+  {
+   "type": "text",
+   "value": "La femme aux chaînes le regardait."
+  },
+  {
+   "type": "text",
+   "value": "Il serra le poing. Le feu mourut."
+  },
+  {
+   "type": "text",
+   "value": "Les griffes du lynx ouvrirent le dos de Brann sur toute la largeur. Le Nordique rugit, se retourna et la projeta contre le mur d'un revers de patte. Elle s'effondra, éliminée. Le sang coulait le long de la veste de Brann."
+  },
+  {
+   "type": "text",
+   "value": "L'illusion de la femme s'effaça comme une buée."
+  },
+  {
+   "type": "text",
+   "value": "Brann ne dit rien. C'était pire que tout."
+  },
+  {
+   "type": "text",
+   "value": "Ils grimpèrent encore. Les paliers défilaient. Les équipes dépassées, celles qui les dépassaient. Kaël compta : deux équipes devant eux, au moins. Il ne restait que deux places."
+  },
+  {
+   "type": "text",
+   "value": "Au neuvième palier, une meurtrière plus large donnait sur l'extérieur. Il aperçut, en contrebas, de l'autre côté du puits, une passerelle, et sur cette passerelle, une silhouette blanc et or."
+  },
+  {
+   "type": "text",
+   "value": "Séléné s'était arrêtée. Elle se tenait au bord, une main sur la pierre, et elle regardait dans sa direction. Pas les miroirs d'eau. Lui. Directement."
+  },
+  {
+   "type": "text",
+   "value": "Même de loin, il vit son visage."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne le reconnaissait pas, et cela lui faisait peur."
+  },
+  {
+   "type": "text",
+   "value": "Sa coéquipière la tira par le bras. Séléné se dégagea, cria quelque chose qu'il n'entendit pas. Puis elle repartit, en jetant un dernier regard en arrière."
+  },
+  {
+   "type": "text",
+   "value": "*Je suis désolé*, pensa Kaël. Il ne savait pas à qui il le disait."
+  },
+  {
+   "type": "text",
+   "value": "En lui, la Reine se taisait. Depuis des jours. Il appelait, parfois, la nuit, entre deux hurlements. *Tu es là ?* Rien. Un silence épais, cotonneux, comme une main posée sur une bouche."
+  },
+  {
+   "type": "text",
+   "value": "Le sommet."
+  },
+  {
+   "type": "text",
+   "value": "Une plateforme circulaire, ouverte au ciel, et au milieu, le vide. Le puits central de la tour, large de vingt pas, d'où montait un vent glacé qui sentait la terre des tombes. Au-delà, une arche de pierre : la sortie. Quiconque la franchissait était qualifié."
+  },
+  {
+   "type": "text",
+   "value": "Deux équipes l'avaient déjà passée. Près de l'arche, les deux chacals de Kesh gisaient sur la pierre, éliminés par plus rapide qu'eux. Deux places."
+  },
+  {
+   "type": "text",
+   "value": "Brann, le dos en sang, boitait vers l'arche."
+  },
+  {
+   "type": "text",
+   "value": "— Allez, le corbeau. Allez. On y est presque."
+  },
+  {
+   "type": "text",
+   "value": "Un sifflement."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Varek Dorn se tenait sur le rebord du puits. Grand, mince, le crâne rasé sur les côtés, la longue natte noire dans le dos, les écailles tatouées qui lui montaient maintenant des bras jusqu'aux pommettes. Les yeux jaunes, fendus. Il avait été éliminé aux qualifications. Le repêchage l'avait ramené, lui et quelques autres perdants. Et il souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Le Vide des Valmont, dit-il doucement. Tu te souviens de moi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vaguement."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je me souviens de toi. Chaque matin. Chaque fois que je me regarde."
+  },
+  {
+   "type": "text",
+   "value": "Une brûlure noire, là où le feu l'avait léché aux qualifications, marquait encore sa cuisse sous la tunique déchirée."
+  },
+  {
+   "type": "text",
+   "value": "Il ne laissa pas à Kaël le temps de répondre. Son esprit de serpent jaillit, une longue forme verte et luisante qui fouetta l'air. La queue spectrale frappa Kaël en pleine poitrine."
+  },
+  {
+   "type": "text",
+   "value": "Kaël fut soulevé du sol."
+  },
+  {
+   "type": "text",
+   "value": "Le monde bascula. L'arche, le ciel gris, le visage de Brann, la bouche ouverte sur un cri. Puis le bord du puits passa sous ses pieds, et il n'y eut plus rien sous lui."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "La chute"
+  },
+  {
+   "type": "text",
+   "value": "Il tombait."
+  },
+  {
+   "type": "text",
+   "value": "Le vent hurlait autour de lui. Le feu noir, tout au fond, se cabra, supplia, poussa contre ses mains. Il n'aurait eu qu'à ouvrir les doigts. Les ailes d'ombre l'auraient porté jusqu'au ciel."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à une femme enchaînée qui hurlait jusqu'à l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Et Kaël, en tombant dans le noir, ne leva même pas la main."
+  }
+ ]
+}

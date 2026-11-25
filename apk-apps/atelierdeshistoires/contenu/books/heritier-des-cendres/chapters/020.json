@@ -1,0 +1,373 @@
+{
+ "number": 20,
+ "title": "La Reine",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il n'y avait plus d'arène."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait du noir. Pas l'obscurité d'une cave ou d'une nuit sans lune. Un noir vivant, chaud, qui respirait. Un noir dans lequel on pouvait tomber sans avoir peur."
+  },
+  {
+   "type": "text",
+   "value": "Kaël était debout. Il ne se rappelait pas s'être relevé. Sa main droite était encore levée, les doigts ouverts, figée à mi-chemin du forfait."
+  },
+  {
+   "type": "text",
+   "value": "Devant lui, une flamme s'alluma."
+  },
+  {
+   "type": "text",
+   "value": "Puis une autre. Puis cent. Rouges et noires, montant du néant comme des herbes de feu. Elles se rejoignirent, s'élevèrent, prirent forme. Des épaules. Une nuque. Une chevelure de flammes qui ondulait comme sous l'eau. Des ailes sombres, immenses, repliées. Une couronne d'obsidienne aux pointes acérées."
+  },
+  {
+   "type": "text",
+   "value": "Un visage."
+  },
+  {
+   "type": "text",
+   "value": "Il était d'une beauté terrible. Des lèvres rouges. Des yeux de braise. Et dans ces yeux, il y avait une chose que Kaël n'avait jamais vue dans aucun regard posé sur lui. Pas chez Edmond. Pas chez Isaure. Pas même chez Orsin, qui l'aimait pourtant."
+  },
+  {
+   "type": "text",
+   "value": "De la tendresse sans peur."
+  },
+  {
+   "type": "text",
+   "value": "*Vael*, dit la Reine. *Mon enfant.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne pouvait pas parler."
+  },
+  {
+   "type": "text",
+   "value": "*Tu m'as appelée chaque nuit*, dit-elle. *Je t'entendais. Ils avaient posé une main sur ta bouche et une autre sur la mienne. Les chaînes ne tiennent pas que les poignets, Kaël. Elles tiennent le cœur. Et tu croyais. Chaque fois que tu croyais, ma voix s'éloignait.*"
+  },
+  {
+   "type": "text",
+   "value": "— Elle hurlait, dit-il enfin. Toutes les nuits."
+  },
+  {
+   "type": "text",
+   "value": "*Je sais.*"
+  },
+  {
+   "type": "text",
+   "value": "— C'était son visage."
+  },
+  {
+   "type": "text",
+   "value": "*C'était son visage*, répéta la Reine. *Volé. Comme on vole un portrait. Ce qui hurle dans les tribunes, c'est de la cendre grise, une mèche de cheveux et la voix d'un homme. Ce n'est pas ta mère. Ta mère ne t'aurait jamais demandé de t'éteindre.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël sentit ses jambes trembler."
+  },
+  {
+   "type": "text",
+   "value": "— Alors où est-elle ?"
+  },
+  {
+   "type": "text",
+   "value": "La Reine se pencha. Sa main de flammes, immense, se posa sur sa poitrine, là où battait son cœur, là où le médaillon d'argent pesait contre sa peau. Il n'eut pas mal. Il eut chaud, pour la première fois depuis des jours."
+  },
+  {
+   "type": "text",
+   "value": "*Écoute.*"
+  },
+  {
+   "type": "text",
+   "value": "Et il vit."
+  },
+  {
+   "type": "text",
+   "value": "Une chambre d'hospice, à Valcendre. Des murs blancs, une seule bougie. La pluie contre la fenêtre. Une jeune femme sur un lit étroit, cheveux noirs collés au front, yeux noirs immenses. Elle tenait un nouveau-né contre elle. Elle était très pâle. Elle souriait."
+  },
+  {
+   "type": "text",
+   "value": "Il ne voyait pas les autres personnes dans la pièce. Juste une silhouette floue près de la porte, une femme qui tenait un linge."
+  },
+  {
+   "type": "text",
+   "value": "La jeune femme se pencha sur l'enfant."
+  },
+  {
+   "type": "text",
+   "value": "— *Ith morra, ith vael*, murmura-t-elle. Tu n'auras pas de marque, mon cœur. Ils ne te trouveront pas. Personne ne viendra te prendre."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa la main sur la petite poitrine. Une lueur noire et pourpre passa de sa paume à l'enfant, lentement, comme du vin qu'on verse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "La nuit de l'hospice"
+  },
+  {
+   "type": "text",
+   "value": "Elle pâlissait à mesure. Elle donnait tout. Ses forces. Sa chaleur. Son temps. Elle ne gardait rien."
+  },
+  {
+   "type": "text",
+   "value": "— Brûle doucement, murmura-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Puis sa main glissa."
+  },
+  {
+   "type": "text",
+   "value": "Le noir revint. Kaël pleurait. Il ne s'en était pas rendu compte."
+  },
+  {
+   "type": "text",
+   "value": "*Lyra*, dit la Reine, et le nom sonna comme une prière. *Elle m'a portée dix-neuf ans. Elle m'a cachée du Haut Conseil. Et la nuit où tu es né, elle m'a donnée à toi, avec tout ce qui lui restait. Elle est morte en souriant, Kaël. Elle n'est enchaînée nulle part. Elle n'attend dans aucun monde entre les mondes.*"
+  },
+  {
+   "type": "text",
+   "value": "La main de flammes pressa doucement sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "*Elle est ici. Ce que je suis, c'est ce qu'elle t'a laissé. Son esprit et son amour, mêlés. Je ne suis pas ta mère. Mais je suis tout ce qu'elle a pu te donner.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël baissa les yeux vers sa main droite, toujours levée. Vers son poignet gauche, où l'anneau gris brûlait de froid."
+  },
+  {
+   "type": "text",
+   "value": "— Je les ai crus, dit-il. Je l'ai presque laissé me prendre."
+  },
+  {
+   "type": "text",
+   "value": "*Tu as aimé. Ce n'est pas une faiblesse. C'est par là qu'ils sont entrés, voilà tout.*"
+  },
+  {
+   "type": "text",
+   "value": "La Reine se redressa de toute sa hauteur. Ses ailes s'ouvrirent dans le noir, et le noir s'illumina de pourpre."
+  },
+  {
+   "type": "text",
+   "value": "*Maintenant, mon fils. Lève-toi.*"
+  },
+  {
+   "type": "text",
+   "value": "Le son revint d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "Cent mille voix, les sifflets, les rires, le vent dans les bannières. Le soleil sur le sable. Le temps n'avait pas avancé d'une seconde. La main de Kaël était toujours levée, à demi ouverte."
+  },
+  {
+   "type": "text",
+   "value": "Il la referma."
+  },
+  {
+   "type": "text",
+   "value": "Pas en poing. Lentement. Comme on referme un livre qu'on a fini de lire."
+  },
+  {
+   "type": "text",
+   "value": "Puis il la baissa."
+  },
+  {
+   "type": "text",
+   "value": "Le rire des gradins se brisa net."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se releva. Il ne chancelait plus. Il se tenait parfaitement droit, comme toujours, et pourtant tout le monde, dans l'arène, eut l'impression de le voir debout pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers Séléné."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient rouges. Rouge braise, du centre au bord."
+  },
+  {
+   "type": "text",
+   "value": "Séléné recula d'un pas. Puis elle sourit, un sourire immense, féroce, éclatant, le sourire de quelqu'un qui retrouve quelque chose qu'il croyait perdu."
+  },
+  {
+   "type": "text",
+   "value": "— Enfin, souffla-t-elle. Te voilà."
+  },
+  {
+   "type": "text",
+   "value": "Elle ramassa son épée d'un geste. Elle n'attendit pas. Son phénix déploya ses ailes et elle fondit sur lui dans une tempête de feu doré, de toutes ses forces, comme on salue un égal."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit les mains."
+  },
+  {
+   "type": "text",
+   "value": "Le feu noir monta du sable autour de lui, une marée silencieuse, sombre, aux reflets pourpres. Il ne frappa pas. Il accueillit. Les flammes dorées de Séléné rencontrèrent les siennes et s'enroulèrent avec elles, or et noir, en une spirale qui monta jusqu'au ciel. Pendant une seconde, au-dessus de l'arène, les deux feux dansèrent ensemble. Le public cessa de respirer."
+  },
+  {
+   "type": "text",
+   "value": "Séléné frappa. Il esquiva d'un pas, à peine. Elle frappa encore. Il glissa sous sa lame, saisit son poignet avec une douceur incroyable, tourna. L'épée enflammée lui échappa des doigts et alla se planter dans le sable, loin, en vibrant."
+  },
+  {
+   "type": "text",
+   "value": "Une ombre se déroula sous ses pieds à elle, souple comme un tapis, et la fit basculer en arrière. Elle tomba."
+  },
+  {
+   "type": "text",
+   "value": "Il la rattrapa avant qu'elle touche le sol. Une main sous sa nuque. L'autre au creux de son dos. Il la déposa sur le sable comme on pose quelque chose de précieux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "Désarmée"
+  },
+  {
+   "type": "text",
+   "value": "Elle était allongée, les cheveux blond doré étalés autour d'elle, et elle riait. Elle riait en le regardant, les yeux ambre pleins de larmes."
+  },
+  {
+   "type": "text",
+   "value": "— Tricheur, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as traité de lâche."
+  },
+  {
+   "type": "text",
+   "value": "— Ça a marché, non ?"
+  },
+  {
+   "type": "text",
+   "value": "Il faillit sourire. Presque."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, dit-il tout bas."
+  },
+  {
+   "type": "text",
+   "value": "Il se redressa."
+  },
+  {
+   "type": "text",
+   "value": "Dans la tribune des juges, Dame Halvara s'était levée. Elle ne dit rien. Elle regardait les yeux de Kaël, et ses lèvres bougeaient en silence sur un nom."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se tourna vers l'ouest."
+  },
+  {
+   "type": "text",
+   "value": "Vers le troisième rang. Vers la femme en robe grise, enchaînée de lumière, qui se tenait toujours parmi la foule. Elle ne souriait plus. Elle ouvrait la bouche pour hurler, une fois encore."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda."
+  },
+  {
+   "type": "text",
+   "value": "Juste ça. Un regard."
+  },
+  {
+   "type": "text",
+   "value": "Une flamme noire naquit au cœur du spectre. Elle se répandit en un souffle, sans un bruit. Le visage volé se craquela comme une vieille peinture. Les chaînes de lumière grise fondirent. La silhouette se défit en une pluie de cendres grises qui tomba lentement sur les spectateurs du troisième rang, lesquels levèrent la tête, stupéfaits, sans comprendre pourquoi il neigeait en plein soleil."
+  },
+  {
+   "type": "text",
+   "value": "À son poignet gauche, l'anneau gris se fendit et tomba en poussière."
+  },
+  {
+   "type": "text",
+   "value": "Le silence de l'arène dura longtemps. Puis le héraut, d'une voix qui tremblait :"
+  },
+  {
+   "type": "text",
+   "value": "— Victoire... Victoire de Kaël, de Valcendre. Qualifié pour la demi-finale."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne siffla."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un, très haut dans les gradins du côté d'Arvalis, cria son nom. Juste son nom. *Kaël.* Puis un autre. Puis mille."
+  },
+  {
+   "type": "text",
+   "value": "Dans le tunnel, quand il sortit du sable, Brann l'attendait, appuyé contre le mur."
+  },
+  {
+   "type": "text",
+   "value": "Kaël sortit la pierre de rivière de sa poche et la lui tendit."
+  },
+  {
+   "type": "text",
+   "value": "Brann la regarda. Puis il regarda les yeux de Kaël, qui revenaient lentement au noir, et il ne prit pas la pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Garde-la encore un peu, grogna-t-il. Tu as encore deux combats."
+  },
+  {
+   "type": "text",
+   "value": "— Ta colère d'ours ?"
+  },
+  {
+   "type": "text",
+   "value": "— Elle vient de fondre. C'est rare. Les anciens vont parler de cet hiver-là pendant des années."
+  },
+  {
+   "type": "text",
+   "value": "Kaël rit. Un vrai rire, bref, rouillé, qui lui fit mal aux côtes. Brann lui envoya une claque dans le dos qui faillit le renverser."
+  },
+  {
+   "type": "text",
+   "value": "Au bout du tunnel, Séléné apparut, l'armure couverte de sable, la tresse défaite. Elle s'arrêta en les voyant. Elle ne dit rien. Elle n'avait pas besoin de dire quoi que ce soit."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne regardait la loge voisine de celle des Valmont. Une petite loge fermée par un rideau gris."
+  },
+  {
+   "type": "text",
+   "value": "Derrière le rideau, un homme maigre au crâne rasé, couvert de tatouages de runes grises, avait arraché ses gants de cuir. Il fixait ses propres mains."
+  },
+  {
+   "type": "text",
+   "value": "Elles brûlaient."
+  },
+  {
+   "type": "text",
+   "value": "Un feu noir, silencieux, aux reflets pourpres, courait sur ses doigts, sur ses paumes, remontait vers ses poignets en suivant les runes une à une, comme une mèche qui suit la poudre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Les mains en feu"
+  },
+  {
+   "type": "text",
+   "value": "Il hurla. Il tomba à genoux. Il se roula sur le plancher, et le feu ne s'éteignait pas."
+  },
+  {
+   "type": "text",
+   "value": "Le rideau s'écarta. Edmond Valmont se tenait sur le seuil, en manteau de velours vert, et pour la première fois de sa vie, sa voix douce ne trouvait rien à dire."
+  },
+  {
+   "type": "text",
+   "value": "L'homme aux runes leva vers lui ses mains en flammes."
+  },
+  {
+   "type": "text",
+   "value": "— Il sait, hurla Morvane. Il sait, Valmont. Et maintenant, c'est vous qu'il va regarder."
+  }
+ ]
+}

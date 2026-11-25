@@ -1,0 +1,325 @@
+{
+ "number": 23,
+ "title": "La chute du lion",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le palais du Haut Conseil n'ouvrait ses portes à personne sans audience. Ce jour-là, il les ouvrit à Ysolde Valmont, parce qu'elle ne s'arrêta pas pour demander."
+  },
+  {
+   "type": "text",
+   "value": "Kaël et Séléné arrivèrent derrière elle, essoufflés, au moment où les deux gardes de l'entrée se relevaient en se frottant les côtes. Le grand hall était de marbre blanc, avec au plafond une fresque des sept esprits fondateurs. Au fond, sur une estrade, Dame Halvara tenait séance avec trois conseillers à propos de la sécurité des tribunes. Elle leva les yeux quand Ysolde entra. Elle ne parut pas surprise. Dame Halvara ne paraissait jamais surprise."
+  },
+  {
+   "type": "text",
+   "value": "— Mademoiselle Valmont, dit-elle. Vous avez frappé deux de mes gardes."
+  },
+  {
+   "type": "text",
+   "value": "— Je les ai écartés, Dame Halvara. Ils vont bien."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne sont pas de cet avis."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde s'arrêta au pied de l'estrade. Elle était trempée, les cheveux défaits par la course, et elle se tenait droite comme si on allait la juger. Kaël comprit qu'elle était venue pour ça."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "La dénonciation"
+  },
+  {
+   "type": "text",
+   "value": "— Je viens dénoncer mon père, dit-elle d'une voix claire qui monta jusqu'à la fresque. Edmond Valmont a engagé un nécromancien nommé Morvane pour fabriquer le spectre de la mère de Kaël et le faire chanter. Il voulait qu'il perde. Il voulait que je gagne. Je ne le savais pas. Mais j'en ai profité. Et je ne veux pas d'une couronne qui a été achetée comme ça."
+  },
+  {
+   "type": "text",
+   "value": "Les trois conseillers se regardèrent. Halvara ne bougea pas. Ses yeux gris passèrent d'Ysolde à Kaël, puis à Séléné, puis revinrent à Ysolde."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez ce que vous faites, mademoiselle ? Vous détruisez votre nom."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père l'a détruit avant moi. Je ramasse les morceaux, c'est tout."
+  },
+  {
+   "type": "text",
+   "value": "Halvara se leva."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'on m'amène le prisonnier de la tour de l'horloge."
+  },
+  {
+   "type": "text",
+   "value": "Morvane avoua en moins d'une heure."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y eut besoin ni de menace ni de torture. Il suffit que Kaël se tienne dans un coin de la salle, sans rien dire, et que les ombres autour de lui s'allongent un peu. Le nécromancien parla vite, les yeux fixés sur lui, comme un enfant qui récite pour avoir le droit de quitter la pièce. Les lettres d'Edmond. Les bourses d'or. La boîte de nacre. Les onze nuits. Le billet glissé sous la porte. Les hurlements jusqu'à l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Halvara écouta tout, les mains croisées. À la fin, elle se tourna vers le capitaine de la garde."
+  },
+  {
+   "type": "text",
+   "value": "— Arrêtez Edmond Valmont."
+  },
+  {
+   "type": "text",
+   "value": "On le trouva dans sa loge de Sombreval, en train de déjeuner. On raconta plus tard dans les tavernes qu'il n'avait pas protesté. Qu'il s'était essuyé la bouche avec sa serviette, qu'il avait retiré ses bagues une à une et qu'il les avait posées sur la nappe. Qu'il avait demandé qu'on prévienne son avocat et qu'on ne fasse pas trop de bruit dans les couloirs, à cause des voisins. On raconta aussi que son lion de pierre, l'esprit qui ne l'avait jamais quitté, s'était couché à ses pieds sans un grondement, comme un chien qui a compris."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne le vit pas. Il ne voulut pas le voir."
+  },
+  {
+   "type": "text",
+   "value": "Le soir même, le Haut Conseil fit afficher la décision sur les portes de l'arène : la famille Valmont était exclue de sa loge pour toute la durée du tournoi. Ysolde, seule, restait autorisée à concourir, « en raison de son témoignage et de son ignorance des faits »."
+  },
+  {
+   "type": "text",
+   "value": "Corvin le trouva dans la cour des écuries, à la tombée de la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas une marque depuis son duel, et c'était peut-être ce qu'il pardonnait le moins. Il avait l'œil mauvais d'un loup qu'on a chassé de la meute. Aldric était derrière lui. Aldric, avec ses épaules de dragon et sa bouche faite pour cracher."
+  },
+  {
+   "type": "text",
+   "value": "— Content ? dit Corvin. Tu as eu ce que tu voulais. Père en prison. Mère qui ne parle plus. La loge vide. Tu as détruit la famille."
+  },
+  {
+   "type": "text",
+   "value": "— Quelle famille ? demanda Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— La nôtre ! Celle qui t'a nourri, ingrat ! Celle qui t'a donné un toit !"
+  },
+  {
+   "type": "text",
+   "value": "— Un toit, dit Kaël. Oui. Au-dessus des écuries."
+  },
+  {
+   "type": "text",
+   "value": "Aldric fit un pas en avant. L'air se mit à sentir le bronze chauffé. Des écailles brillèrent sur ses avant-bras."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'es qu'un bâtard trouvé dans la neige, dit-il. Tu le seras toujours. Ta couronne d'Enfers, ta sorcière de mère… Tu crois que le monde va t'aimer ? Le monde va avoir peur de toi. Comme nous."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le regarda. Il ne bougea pas. Les lanternes de la cour, toutes, baissèrent d'un cran, comme si quelqu'un avait soufflé dessus de très loin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Les lanternes"
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'avez jamais eu peur de moi, Aldric, dit-il doucement. Vous aviez peur que je ne vous ressemble pas."
+  },
+  {
+   "type": "text",
+   "value": "Il passa entre eux. Aucun ne le retint."
+  },
+  {
+   "type": "text",
+   "value": "Séléné l'attendait sur les remparts de l'est, là où les murs de la vieille ville dominaient l'arène. D'en haut, Sombreval ressemblait à une coupe brisée pleine de nuit. Le vent sentait la pluie passée et les feux de cuisine des bas quartiers."
+  },
+  {
+   "type": "text",
+   "value": "Elle était assise sur le parapet, les jambes dans le vide, ce qu'aucune princesse ne fait jamais, et elle mangeait une pomme volée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas tomber, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me rattraperas. Tu as l'habitude."
+  },
+  {
+   "type": "text",
+   "value": "Il s'assit à côté d'elle. Pas trop près. Assez pour sentir la chaleur qui venait d'elle, cette chaleur douce et dorée du phénix qu'elle portait toujours sur la peau, même endormi."
+  },
+  {
+   "type": "text",
+   "value": "— Ysolde a été courageuse, dit Séléné."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne la détestes pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas encore."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui tendit la pomme. Il la regarda, puis la prit, et mordit dedans, et elle rit, parce qu'il avait l'air de quelqu'un à qui l'on n'avait jamais rien partagé."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais ce que tu es ? dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Le fils d'une reine des Enfers. Le Vide des Valmont. Un bâtard trouvé dans la neige. On m'a donné beaucoup de noms aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es la seule personne qui m'ait jamais regardée comme si j'étais juste moi."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas tout de suite. Le vent souleva une mèche dorée et la colla contre sa joue, près de la marque bleue qui s'effaçait. Il leva la main, lentement, et la remit en place. Son gant noir contre sa peau. Elle ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas faire ça, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Faire quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ça. Tenir à quelqu'un. Personne ne m'a appris."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit Séléné. On m'a appris à faire la révérence, à danser avec des ducs et à sourire quand on parle de mon mariage comme d'un traité. Alors on n'a qu'à apprendre ensemble. Lentement. On n'est pas pressés."
+  },
+  {
+   "type": "text",
+   "value": "— On est en plein tournoi."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord. On est un peu pressés."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit. Elle le vit sourire, et quelque chose dans son visage à elle changea, se fit sérieux, presque grave. Elle se pencha vers lui. Il sentit son souffle, le parfum de pomme et de pluie. Ses yeux ambre étaient tout près. Il ferma les siens."
+  },
+  {
+   "type": "text",
+   "value": "Leurs lèvres se frôlèrent."
+  },
+  {
+   "type": "text",
+   "value": "Et toutes les cloches d'Aurelhaven se mirent à sonner."
+  },
+  {
+   "type": "text",
+   "value": "Toutes à la fois, la grande cloche du palais, celles des temples, celle de l'arène, un vacarme de bronze qui fit trembler la pierre sous eux et envola les pigeons des toits. Séléné recula en sursautant, manqua glisser du parapet ; Kaël la rattrapa par le poignet, exactement comme elle l'avait prédit."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent ainsi, lui la tenant, elle à moitié dans le vide, à se regarder."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Les cloches"
+  },
+  {
+   "type": "text",
+   "value": "Puis elle éclata de rire. Un rire de soulagement, d'exaspération, de quelque chose d'autre encore."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois ? Toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Les cloches de neuf heures, dit Kaël. Elles sonnent tous les soirs."
+  },
+  {
+   "type": "text",
+   "value": "— Elles auraient pu attendre."
+  },
+  {
+   "type": "text",
+   "value": "Le lendemain matin, un héraut en livrée blanc et or frappa à la porte de son auberge."
+  },
+  {
+   "type": "text",
+   "value": "Le roi Aurélien d'Arvalis souhaitait le voir. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "On le conduisit dans les appartements que la délégation d'Arvalis occupait au palais. Une salle haute, des tentures dorées, une odeur de cire et de pouvoir. Le roi se tenait debout près d'une fenêtre. Il était grand, la barbe blonde mêlée de blanc, les yeux ambre de sa fille mais plus froids, plus fatigués. Il ne se retourna pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne s'inclina pas. Il resta droit, les mains derrière le dos."
+  },
+  {
+   "type": "text",
+   "value": "Le roi le remarqua. Un coin de sa bouche bougea, peut-être un sourire, peut-être le contraire."
+  },
+  {
+   "type": "text",
+   "value": "— Elle m'avait prévenu, dit-il. Que vous ne vous inclinez pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'incline devant ceux qui le méritent, Majesté. Je ne vous connais pas encore."
+  },
+  {
+   "type": "text",
+   "value": "— Insolent."
+  },
+  {
+   "type": "text",
+   "value": "— Honnête."
+  },
+  {
+   "type": "text",
+   "value": "Le roi se retourna enfin."
+  },
+  {
+   "type": "text",
+   "value": "— On m'a rapporté ce qui s'est passé sur les remparts hier soir. Mes gardes sont discrets, mais ils ont des yeux. Je vais être clair, jeune homme, parce que je n'ai pas le temps d'être autre chose. Séléné est l'héritière de la plus grande nation de ce continent. Elle n'épousera pas un orphelin sans nom, quel que soit l'esprit qui dort dans sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne répondit rien. Il attendait. Il avait appris, chez les Valmont, que les hommes puissants disent toujours la vraie phrase en dernier."
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille ne vous épousera pas, reprit le roi. Sauf si vous gagnez."
+  },
+  {
+   "type": "text",
+   "value": "Il prit sur la table un parchemin scellé du sceau du Haut Conseil, et le tendit à Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Le tirage des demi-finales vient d'être fait. Je voulais que vous l'appreniez de moi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël déroula le parchemin. Deux lignes. La deuxième disait : *Ysolde Valmont contre Brann Hollow.*"
+  },
+  {
+   "type": "text",
+   "value": "La première disait : *Kaël, dit le Vide, contre Varek Dorn de Kesh.*"
+  }
+ ]
+}

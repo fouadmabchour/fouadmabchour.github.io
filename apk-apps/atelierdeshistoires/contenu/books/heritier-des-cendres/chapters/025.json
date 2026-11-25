@@ -1,0 +1,261 @@
+{
+ "number": 25,
+ "title": "La veille",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La lettre attendit jusqu'à la dernière nuit."
+  },
+  {
+   "type": "text",
+   "value": "Kaël l'avait portée deux jours contre sa poitrine, sans l'ouvrir. Il la touchait à travers son manteau quand il marchait dans les rues, quand il mangeait, quand il s'entraînait dans la cour de l'auberge sous les regards des enfants du quartier qui grimpaient aux murs pour voir le porteur de la Reine. Il la touchait et il n'osait pas. Comme si, tant qu'elle restait fermée, sa mère avait encore quelque chose à lui dire."
+  },
+  {
+   "type": "text",
+   "value": "La veille de la finale, il alluma une seule bougie, s'assit sur son lit, et brisa le cachet de cire noire."
+  },
+  {
+   "type": "text",
+   "value": "Le papier était fin, jauni, plié en quatre. L'écriture était la même que sur l'enveloppe. Penchée, rapide, de plus en plus irrégulière vers la fin."
+  },
+  {
+   "type": "text",
+   "value": "*Mon fils,*"
+  },
+  {
+   "type": "text",
+   "value": "*Je ne sais pas qui te lira ces mots, ni quand. Je ne sais même pas si tu existes encore, au moment où tu les lis. J'écris dans une grange, près de la route de Valcendre. Il neige. Tu bouges en moi comme si tu avais hâte. Je voudrais te dire d'attendre, mais je crois que nous n'avons plus le temps, toi et moi.*"
+  },
+  {
+   "type": "text",
+   "value": "*Je m'appelle Lyra. Ma mère portait la Reine, et sa mère avant elle, depuis trois cents ans. On dit qu'elle ne choisit qu'une lignée et qu'elle la garde. C'est vrai. Elle nous garde. Mais le Haut Conseil a appris qu'elle existait encore, et il veut la prendre. Il croit qu'on peut arracher un esprit à une lignée comme on arrache une épée à un mort. Il a tué mon père pour essayer. Il me cherche depuis deux ans.*"
+  },
+  {
+   "type": "text",
+   "value": "*Alors je vais faire la seule chose qu'ils ne peuvent pas prévoir. Je vais la cacher en toi. Si profond que personne ne la verra, pas même toi, jusqu'à tes dix-huit ans. Tu n'auras pas de marque. On te croira vide. On sera peut-être cruel avec toi. Pardonne-moi pour ça. C'est le prix pour que tu vives.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'arrêta. Il regarda la flamme de la bougie un long moment. Elle était droite, jaune, ordinaire. Il reprit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-1.webp",
+   "caption": "La lettre de sa mère"
+  },
+  {
+   "type": "text",
+   "value": "*Je vais mourir en le faisant. Je le sais. La Reine me l'a dit. Je n'ai pas peur. Ou si, un peu. Mais pas pour moi.*"
+  },
+  {
+   "type": "text",
+   "value": "*Écoute-moi bien, mon fils, parce que c'est la seule chose qui compte dans cette lettre. Tout le reste, ce sont des histoires de couronnes et de conseils.*"
+  },
+  {
+   "type": "text",
+   "value": "*Tu n'es pas ma puissance. Tu es mon fils.*"
+  },
+  {
+   "type": "text",
+   "value": "*On te dira que tu portes le plus grand esprit du monde. On voudra te faire roi, ou monstre, ou arme. Ne les crois pas. Ce qu'il y a en toi n'est pas un trésor que je t'ai confié pour qu'on s'en serve. C'est mon amour. C'est tout ce que j'avais. Je te l'ai donné entier.*"
+  },
+  {
+   "type": "text",
+   "value": "*Brûle doucement.*"
+  },
+  {
+   "type": "text",
+   "value": "*Ta mère, qui t'aime depuis avant le premier jour,*"
+  },
+  {
+   "type": "text",
+   "value": "*Lyra.*"
+  },
+  {
+   "type": "text",
+   "value": "Il y avait, au bas de la page, une tache ronde où l'encre avait coulé. Une larme, peut-être. Ou un flocon de neige tombé du toit de la grange, dix-huit ans plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "Kaël replia la lettre. Il la remit dans l'enveloppe. Il la posa sur ses genoux."
+  },
+  {
+   "type": "text",
+   "value": "Il ne pleura pas cette fois. Il l'avait fait le soir où il avait ouvert le médaillon. Cette nuit, c'était autre chose. Une chose qui ressemblait au calme d'une maison quand quelqu'un qu'on aime y est rentré."
+  },
+  {
+   "type": "text",
+   "value": "*Elle avait froid*, dit la Reine en lui, dans sa langue à lui, et sa voix grave était presque douce. *Dans cette grange. Je l'ai réchauffée jusqu'au matin. Elle chantait pour toi.*"
+  },
+  {
+   "type": "text",
+   "value": "— Que chantait-elle ? murmura Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Un silence. Puis, au fond de lui, très bas, quelques notes. Une berceuse sans paroles, dans une langue morte, *aleth, aleth, sovaan*, lente comme une barque sur une eau noire."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux et il écouta jusqu'au bout."
+  },
+  {
+   "type": "text",
+   "value": "On frappa vers dix heures."
+  },
+  {
+   "type": "text",
+   "value": "Il pensait que c'était Séléné. Ce n'était pas elle."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde se tenait dans le couloir de l'auberge, en simple tunique brune, les cheveux tressés en couronne comme toujours, sans armure, sans lance, sans rien qui brille. Elle semblait plus jeune, comme ça. Elle avait vingt ans. Il l'oubliait toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux entrer ?"
+  },
+  {
+   "type": "text",
+   "value": "Il s'écarta. Elle entra, regarda la chambre minuscule, le lit étroit, la bougie, la lettre sur la couverture. Elle ne s'assit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas venue te demander pardon, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'en doutais."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis venue m'excuser. Ce n'est pas la même chose. Demander pardon, c'est te demander quelque chose. Je n'ai pas le droit de te demander quoi que ce soit."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda droit dans les yeux, avec ce menton relevé, cette fine cicatrice blanche qu'elle s'était faite à douze ans en tombant de cheval et que Kaël l'avait vue cacher sous sa main pendant toute une année."
+  },
+  {
+   "type": "text",
+   "value": "— Pendant dix-huit ans, je t'ai regardé comme un meuble, dit-elle. Ce n'était pas de la haine. C'était pire. Je ne te voyais pas. Et quand je t'ai enfin vu, dans la forêt de Morteaux, j'ai pensé : voilà quelqu'un que je veux battre. Pas quelqu'un que je veux connaître. Quelqu'un que je veux battre. Ça aussi, c'était une façon de ne pas te voir."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père a triché pour moi. Je ne lui pardonnerai pas. Mais je ne vais pas te faire le cadeau de perdre exprès demain, si c'est ce que tu crains. Ce serait l'insulte finale. Je vais me battre de toutes mes forces. Et je veux que tu fasses pareil."
+  },
+  {
+   "type": "text",
+   "value": "— C'est tout ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est tout. Un combat loyal. Le premier de toute notre vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle tendit la main. Pas comme une sœur. Comme une adversaire."
+  },
+  {
+   "type": "text",
+   "value": "Kaël la regarda longtemps. Puis il retira son gant noir, et serra la main d'Ysolde Valmont, peau contre peau, pour la première fois."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-2.webp",
+   "caption": "La poignée de main"
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête une fois, et sortit sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "Séléné arriva à minuit, par la fenêtre."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a une porte, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a des gardes de mon père devant la porte. Et une fenêtre, c'est plus romantique. Je l'ai lu dans des livres."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit sur le rebord, puis sur le lit, à côté de lui, les genoux repliés, sa tresse fine qui retombait sur son épaule. Elle vit la lettre. Elle ne demanda rien. Il la lui tendit quand même."
+  },
+  {
+   "type": "text",
+   "value": "Elle la lut en silence. Quand elle releva la tête, ses yeux ambre brillaient."
+  },
+  {
+   "type": "text",
+   "value": "— *Tu n'es pas ma puissance. Tu es mon fils*, répéta-t-elle doucement. J'aurais voulu la connaître."
+  },
+  {
+   "type": "text",
+   "value": "— Moi aussi."
+  },
+  {
+   "type": "text",
+   "value": "Ils parlèrent toute la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Pas de la finale. Pas du roi, ni des Valmont, ni de la Reine. Ils parlèrent de choses qui n'avaient aucune importance et qui en avaient toutes. Du premier livre qu'il avait lu dans la bibliothèque d'Orsin, un traité sur les oiseaux de mer, parce que c'était le seul sur l'étagère du bas. Du cheval qu'elle avait eu à huit ans et qu'elle avait appelé Duc pour se moquer de ses prétendants. Des étoiles d'Arvalis, qui étaient paraît-il plus nombreuses qu'ailleurs, ce que Kaël déclara scientifiquement impossible, ce qui la fit rire si fort qu'il dut poser la main sur sa bouche à cause des gardes."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'endormit un peu avant l'aube, la tête sur son épaule. Il ne bougea pas. Il regarda la fenêtre pâlir et pensa à une autre femme qui avait dormi un jour sur une autre épaule, et il se dit que, cette fois, personne ne mourrait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-3.webp",
+   "caption": "Jusqu'à l'aube"
+  },
+  {
+   "type": "text",
+   "value": "Ce furent des pas qui le tirèrent de cette pensée. Des pas lourds dans l'escalier, quatre marches à la fois, qui firent trembler tout l'étage."
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit avec fracas. Séléné se redressa d'un bond, une flamme dorée déjà au creux de la main."
+  },
+  {
+   "type": "text",
+   "value": "C'était Brann. Il était hors d'haleine, sa grande barbe rousse trempée de sueur, son bras encore bandé serré contre lui. Il avait le visage gris des hommes du Nord quand ils ont vu quelque chose qu'ils n'ont pas de mot pour nommer."
+  },
+  {
+   "type": "text",
+   "value": "— L'arène, dit-il. Il faut venir. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ? demanda Kaël en se levant."
+  },
+  {
+   "type": "text",
+   "value": "— Les gardes de la nuit. Ceux qui surveillaient les souterrains. Six hommes. Ils ont disparu. Plus de trace, plus rien, juste leurs lanternes par terre, encore allumées."
+  },
+  {
+   "type": "text",
+   "value": "Il reprit son souffle. Sa voix baissa, comme s'il avait peur que la pierre l'entende."
+  },
+  {
+   "type": "text",
+   "value": "— Et sous l'arène, Kaël… J'ai collé l'oreille au sol de la grande porte. Il y a des voix. Des voix de femmes."
+  },
+  {
+   "type": "text",
+   "value": "Il déglutit."
+  },
+  {
+   "type": "text",
+   "value": "— Elles chantent sous la pierre."
+  }
+ ]
+}

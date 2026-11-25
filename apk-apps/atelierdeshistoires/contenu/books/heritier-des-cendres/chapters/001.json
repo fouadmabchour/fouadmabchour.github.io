@@ -1,0 +1,297 @@
+{
+ "number": 1,
+ "title": "L'orphelin des Valmont",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le vin était rouge sombre, presque noir, et il ne fallait pas en renverser une seule goutte."
+  },
+  {
+   "type": "text",
+   "value": "Kaël le savait depuis l'âge de sept ans. C'était l'année où il avait taché la nappe brodée d'Isaure Valmont, une nappe venue d'Arvalis, cousue de fils d'or. Personne ne l'avait frappé. Edmond s'était contenté de le regarder, longtemps, avec ce sourire doux qu'il gardait pour les choses qu'il comptait détruire. Puis il avait dit, à voix basse, qu'on ne l'avait pas recueilli pour salir ce qui est beau. Kaël avait passé la nuit à frotter la nappe dans la buanderie glacée. La tache n'était jamais partie. On l'avait brûlée le lendemain, devant lui."
+  },
+  {
+   "type": "text",
+   "value": "Onze ans plus tard, il ne renversait plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Il fit le tour de la longue table de chêne, la carafe à la main, dans son éternelle chemise noire boutonnée jusqu'au col. Il servit Edmond d'abord, puis Isaure, puis les quatre héritiers dans l'ordre de leur valeur. Ce n'était écrit nulle part. Tout le monde le savait."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde, la première. Vingt ans, grande, ses cheveux auburn tressés en couronne autour de la tête, une cicatrice fine sur le menton qu'elle portait comme une décoration. Elle ne leva pas les yeux vers lui. Ysolde ne levait jamais les yeux vers lui. Ce n'était pas du mépris, pensait parfois Kaël. C'était pire. C'était de l'indifférence."
+  },
+  {
+   "type": "text",
+   "value": "Puis Aldric, l'aîné, vingt-trois ans, large d'épaules, le sourire en coin. Puis Corvin. Puis Margaux, la plus jeune, qui aurait elle aussi dix-huit ans demain, et qui tendit son verre en le regardant à peine."
+  },
+  {
+   "type": "text",
+   "value": "— Plus haut, dit-elle. Tu sers comme un mendiant."
+  },
+  {
+   "type": "text",
+   "value": "— Il est né mendiant, ricana Corvin."
+  },
+  {
+   "type": "text",
+   "value": "Quelques rires. Kaël remplit le verre plus haut. Ses gestes ne tremblaient pas."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir, on fêtait quelque chose. Le grand salon de Valcendre brillait de toutes ses chandelles, les portraits des ancêtres luisaient dans leurs cadres d'or, et au bout de la table, sur un chevalet, on avait posé deux parchemins scellés de cire pourpre. Les inscriptions officielles d'Ysolde et de Corvin au Tournoi de l'Aube Pourpre."
+  },
+  {
+   "type": "text",
+   "value": "Le tournoi n'avait lieu que tous les dix ans. Le vainqueur recevait la Couronne d'Aube et un siège au Haut Conseil des Esprits. Pour une famille comme les Valmont, riche mais pas assez noble, puissante mais pas assez ancienne, c'était le seul trophée qui manquait."
+  },
+  {
+   "type": "text",
+   "value": "Edmond se leva. Grand, la barbe grise taillée court, des bagues à chaque doigt, son manteau de velours vert sombre. Il leva son verre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Le dîner des Valmont"
+  },
+  {
+   "type": "text",
+   "value": "— À Ysolde, dit-il de sa voix douce. Qui rapportera la Couronne à Valcendre. Et à Corvin, qui lui ouvrira le chemin."
+  },
+  {
+   "type": "text",
+   "value": "Corvin grimaça, vexé d'être le second couteau. Ysolde inclina la tête, sans sourire. Isaure, au bout de la table, ne bougea pas. Tout le monde but."
+  },
+  {
+   "type": "text",
+   "value": "Kaël recula contre le mur, la carafe entre les mains, et attendit. C'était sa place. Le mur."
+  },
+  {
+   "type": "text",
+   "value": "Il mangeait à part, toujours. Une petite table dans l'office, près des cuisines, où il avait le droit de finir les plats après le service. Mais ce soir, Aldric le rattrapa dans le couloir avant qu'il ait pu s'y réfugier."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël. Le petit frère."
+  },
+  {
+   "type": "text",
+   "value": "Il disait toujours « petit frère » comme on dit le nom d'un chien qu'on n'aime pas."
+  },
+  {
+   "type": "text",
+   "value": "— Aldric."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais quel jour on est demain ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne répondit pas. Il savait. Demain, il aurait dix-huit ans. L'âge de l'Éveil. L'âge où l'esprit reçu à la naissance se manifeste enfin tout entier. Pour Margaux, ce serait une fête dans la grande cour, avec la moitié de Valcendre. Pour lui, un jour comme les autres."
+  },
+  {
+   "type": "text",
+   "value": "— Demain, dit Aldric, tout le monde verra que tu n'as rien. Officiellement. Plus d'excuses, plus de « peut-être qu'il se réveillera tard ». Rien."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un pas en avant. Kaël, lui, n'en fit aucun en arrière. Il avait appris ça aussi : reculer devant Aldric, c'était l'inviter à avancer."
+  },
+  {
+   "type": "text",
+   "value": "— Je le sais déjà, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Tu le sais. Bien."
+  },
+  {
+   "type": "text",
+   "value": "Aldric passa à côté de lui et, au dernier moment, glissa le pied devant le sien. Kaël trébucha. Le plateau d'argent qu'il portait heurta les dalles dans un vacarme de cloche fêlée, et les restes de sauce se répandirent partout. Au bout du couloir, la porte du salon était restée ouverte. On l'entendit rire."
+  },
+  {
+   "type": "text",
+   "value": "Corvin apparut dans l'encadrement, un verre à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Attention, le Vide, dit-il. Tu vas finir par te casser quelque chose. Montre-moi ton poignet, tiens. Montre à tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se releva. Il ne montra rien. Tout le monde savait ce qu'il y avait sur son poignet gauche : rien. Pas la lueur bronze du dragon d'Aldric, pas l'argent vif de la guerrière d'Ysolde, pas le gris sombre du loup de Corvin. Une peau pâle, lisse, sans histoire."
+  },
+  {
+   "type": "text",
+   "value": "— Sa marque est vide, lança Corvin vers la salle. Comme le reste."
+  },
+  {
+   "type": "text",
+   "value": "Nouveaux rires. Kaël ramassa le plateau, essuya la sauce avec un linge, et partit sans un mot."
+  },
+  {
+   "type": "text",
+   "value": "*Un jour*, pensa-t-il. Puis il s'arrêta. Un jour quoi ? Il n'y avait pas de suite à cette phrase. Il n'y en avait jamais eu."
+  },
+  {
+   "type": "text",
+   "value": "La bibliothèque des Valmont occupait toute l'aile est du manoir. Trois étages de rayonnages, des échelles de bois qui grinçaient, une odeur de poussière, de cuir et de cire. Personne n'y venait. Les Valmont achetaient les livres pour montrer qu'ils en avaient, pas pour les lire."
+  },
+  {
+   "type": "text",
+   "value": "C'était le seul endroit de la maison où Kaël respirait."
+  },
+  {
+   "type": "text",
+   "value": "Maître Orsin était là, comme chaque soir, assis à sa table près du feu, une loupe à la main. Soixante-dix ans, une barbe blanche en désordre, des yeux ronds et dorés, des yeux de hibou, comme son esprit. Il leva la tête quand Kaël entra."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "La bibliothèque"
+  },
+  {
+   "type": "text",
+   "value": "— Ils t'ont gardé longtemps, ce soir."
+  },
+  {
+   "type": "text",
+   "value": "— Ils fêtaient."
+  },
+  {
+   "type": "text",
+   "value": "— Ah. Le tournoi."
+  },
+  {
+   "type": "text",
+   "value": "Orsin regarda la manche de Kaël, la tache de sauce, et ne dit rien. C'était sa façon d'être bon : ne pas poser les questions dont il connaissait déjà les réponses."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai laissé quelque chose pour toi sur le troisième rayon, dit-il. Les *Annales des Lignées*. Le tome sept. Tu m'avais dit que tu t'étais arrêté au six."
+  },
+  {
+   "type": "text",
+   "value": "— Le six était mauvais."
+  },
+  {
+   "type": "text",
+   "value": "— Le six était épouvantable, concéda Orsin. Le sept est pire. Mais il parle des esprits perdus. Ça devrait te plaire."
+  },
+  {
+   "type": "text",
+   "value": "Kaël eut presque un sourire. Presque. Avec Orsin, c'était ce qu'il avait de plus proche."
+  },
+  {
+   "type": "text",
+   "value": "Il monta l'échelle, trouva le livre, redescendit s'asseoir dans le fauteuil de cuir usé près de la fenêtre. Celui d'où il avait regardé, pendant dix ans, les leçons d'escrime des héritiers dans la cour. Il avait tout appris de là. Les gardes, les feintes, les pas. La nuit, seul au grenier, il répétait avec un manche à balai, puis avec une vieille épée rouillée trouvée dans un coffre. Personne ne le savait. Même pas Orsin. Enfin, peut-être Orsin. Orsin savait beaucoup de choses."
+  },
+  {
+   "type": "text",
+   "value": "Vers onze heures, le vieil homme se leva, s'étira dans un craquement de vertèbres."
+  },
+  {
+   "type": "text",
+   "value": "— Ne lis pas jusqu'à l'aube. Demain est un jour important."
+  },
+  {
+   "type": "text",
+   "value": "— Pas pour moi."
+  },
+  {
+   "type": "text",
+   "value": "Orsin s'arrêta sur le seuil. Il le regarda longtemps, avec une expression étrange. Comme s'il voulait dire quelque chose, et qu'il l'avait déjà voulu cent fois."
+  },
+  {
+   "type": "text",
+   "value": "— On ne sait jamais, mon garçon, dit-il enfin. On ne sait jamais."
+  },
+  {
+   "type": "text",
+   "value": "Puis il partit."
+  },
+  {
+   "type": "text",
+   "value": "Kaël resta seul avec le feu."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lisait plus. Le livre était ouvert sur ses genoux, à une page qu'il ne voyait pas. Sa main droite était montée, sans qu'il y pense, jusqu'à son cou. Jusqu'au médaillon."
+  },
+  {
+   "type": "text",
+   "value": "Un petit médaillon d'argent, terni, au bout d'une chaîne fine. Sur la face, une flamme gravée, noircie par le temps ou par autre chose. Il ne s'ouvrait pas. Il avait essayé, enfant, avec la pointe d'un couteau. Rien. On le lui avait trouvé au cou, disait-on, le jour où les Valmont étaient venus le chercher à l'hospice de Valcendre. Le seul objet qu'il possédait qui ne leur appartenait pas."
+  },
+  {
+   "type": "text",
+   "value": "Le seul souvenir d'une mère dont il ne connaissait ni le nom, ni le visage, ni la voix."
+  },
+  {
+   "type": "text",
+   "value": "Il serra le métal froid dans sa paume."
+  },
+  {
+   "type": "text",
+   "value": "*Qui étais-tu ?*"
+  },
+  {
+   "type": "text",
+   "value": "Il se posait la question chaque année, la veille de son anniversaire. Ce soir, elle pesait plus lourd. Dix-huit ans. Il partirait bientôt. Il ne savait pas où. Quelque part où on ne le connaîtrait pas, où il ne servirait plus le vin."
+  },
+  {
+   "type": "text",
+   "value": "L'horloge du couloir sonna le premier coup de minuit."
+  },
+  {
+   "type": "text",
+   "value": "Kaël sentit d'abord la chaleur."
+  },
+  {
+   "type": "text",
+   "value": "Une chaleur sourde, au creux des paumes, comme s'il avait tenu ses mains trop près des braises. Il les regarda. Il y avait une ombre dessus. Non. Pas une ombre."
+  },
+  {
+   "type": "text",
+   "value": "Une flamme."
+  },
+  {
+   "type": "text",
+   "value": "Noire."
+  },
+  {
+   "type": "text",
+   "value": "Elle montait de sa peau, lente, souple, avec des reflets pourpres au cœur, comme du velours qui brûlerait. Le livre aurait dû s'embraser. Il ne s'embrasa pas. Le feu léchait les pages sans les toucher. Kaël ne sentait aucune douleur. Seulement un froid immense qui brûlait, une chaleur glacée qui lui remontait dans les bras, dans la poitrine, jusque derrière les yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le feu noir"
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième coup de minuit sonna."
+  },
+  {
+   "type": "text",
+   "value": "Toutes les chandelles de la bibliothèque se couchèrent en même temps, comme sous un souffle."
+  },
+  {
+   "type": "text",
+   "value": "Et dans le silence, si près qu'il crut sentir une haleine sur sa nuque, une voix de femme murmura :"
+  },
+  {
+   "type": "text",
+   "value": "*Vael… vael enthari. Sorn ama, sorn ama ketharë…*"
+  },
+  {
+   "type": "text",
+   "value": "Une langue qu'il n'avait jamais entendue. Une langue morte."
+  },
+  {
+   "type": "text",
+   "value": "Et pourtant, tout au fond de lui, quelque chose la reconnut."
+  }
+ ]
+}

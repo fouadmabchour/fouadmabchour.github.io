@@ -1,0 +1,457 @@
+{
+ "number": 9,
+ "title": "Les ombres d'Aurelhaven",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il ne dormit pas. Il relut la lettre jusqu'à l'aube, à la lueur d'une chandelle qui fondait de travers."
+  },
+  {
+   "type": "text",
+   "value": "*Ta mère ne s'appelait pas comme tu crois.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne croyait rien. C'était bien le problème. On ne lui avait jamais donné de nom à croire. Aux Valmont, on disait « la femme de l'hospice », quand on disait quelque chose. Le plus souvent, on ne disait rien."
+  },
+  {
+   "type": "text",
+   "value": "Le papier était épais, coûteux, d'un grain fin. L'encre, d'un brun de rouille. L'écriture penchait à droite, très serrée, comme quelqu'un qui écrit vite ou qui a l'habitude d'économiser la place. Pas l'écriture d'Orsin : celle du vieux bibliothécaire était ronde, tremblante, il l'aurait reconnue n'importe où."
+  },
+  {
+   "type": "text",
+   "value": "Au matin, il interrogea la servante. Personne n'était monté. Personne n'avait demandé sa chambre. Le patron jura sur ses trois enfants qu'il n'avait vu passer que des charretiers."
+  },
+  {
+   "type": "text",
+   "value": "Kaël descendit dans la rue, la lettre pliée contre le médaillon."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez une tête à chercher quelqu'un qui ne veut pas être trouvé."
+  },
+  {
+   "type": "text",
+   "value": "Elle était adossée au mur de l'auberge, en face, sous un auvent de tanneur. Elle portait une cape de laine brune, trop grande, la capuche baissée sur le front. Mais il aurait fallu bien plus qu'une capuche pour cacher ces yeux-là."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez une tête à avoir semé six gardes, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Huit. Mon père a doublé la garde après la bibliothèque. Je suis flattée."
+  },
+  {
+   "type": "text",
+   "value": "Séléné se décolla du mur et traversa la rue en sautant une flaque."
+  },
+  {
+   "type": "text",
+   "value": "— Troisième, dit-elle. Sous un plafond. Tout le palais ne parle que de ça. Mon père a cassé une coupe."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il casse des coupes quand il ne comprend pas quelque chose. On en a beaucoup. Alors, ce visage de corbeau ?"
+  },
+  {
+   "type": "text",
+   "value": "Il hésita. Puis il lui tendit la lettre."
+  },
+  {
+   "type": "text",
+   "value": "Elle la lut deux fois. Son visage, si mobile d'habitude, devint parfaitement immobile."
+  },
+  {
+   "type": "text",
+   "value": "— Qui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas."
+  },
+  {
+   "type": "text",
+   "value": "— Le papier vient du quartier des Lanternes, dit-elle en le frottant entre ses doigts. Il n'y a que les vieux papetiers des bas quartiers qui le font encore à la main. Ma gouvernante l'utilisait pour écrire à son amant. Elle croyait que je ne savais pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui rendit la lettre et remonta sa capuche."
+  },
+  {
+   "type": "text",
+   "value": "— Venez. Je connais le chemin. Enfin, je le connais dans les livres."
+  },
+  {
+   "type": "text",
+   "value": "Les bas quartiers d'Aurelhaven descendaient vers le fleuve en escaliers tordus. Les maisons s'y penchaient les unes vers les autres, si proches qu'en haut les toits se touchaient presque et laissaient à peine passer un ruban de ciel. Il y avait des fils à linge, des chats maigres, des enfants pieds nus qui couraient avec des esprits de souris, de pie, de lézard, qui leur grimpaient sur l'épaule."
+  },
+  {
+   "type": "text",
+   "value": "Séléné regardait tout. Les étals de poissons. Les vieilles qui fumaient la pipe sur les seuils. Un jongleur qui faisait tourner des balles de feu avec un esprit de salamandre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'êtes jamais venue, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Jamais. On m'a montré Aurelhaven depuis un balcon. C'est très joli, depuis un balcon. Ça sent moins."
+  },
+  {
+   "type": "text",
+   "value": "— Ça sent la vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna la tête vers lui, surprise."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes poète, maintenant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. J'ai grandi dans une maison qui sentait la cire et la peur. Je sais faire la différence."
+  },
+  {
+   "type": "text",
+   "value": "Le papetier du quartier des Lanternes était un vieil homme presque aveugle, au fond d'une boutique encombrée de rames de papier crème. Il palpa la feuille, la renifla, et hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "— De chez moi. Mais j'en vends à tout le monde. Aux notaires, aux amoureux, aux maisons nobles. Une maison noble m'en achète une rame par saison, toujours la même, depuis vingt ans."
+  },
+  {
+   "type": "text",
+   "value": "— Laquelle ? demanda Séléné."
+  },
+  {
+   "type": "text",
+   "value": "Le vieil homme sourit de toutes ses gencives."
+  },
+  {
+   "type": "text",
+   "value": "— Ma petite dame, si je disais le nom de mes clients, je n'aurais plus de clients."
+  },
+  {
+   "type": "text",
+   "value": "Séléné ouvrit la bouche, sans doute pour dire qui elle était. Kaël posa deux doigts sur son bras. Elle se tut."
+  },
+  {
+   "type": "text",
+   "value": "Ils ressortirent. Il pleuvait un peu, une pluie fine et tiède."
+  },
+  {
+   "type": "text",
+   "value": "— Vous alliez lui dire votre nom, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— J'allais l'impressionner."
+  },
+  {
+   "type": "text",
+   "value": "— Il aurait parlé. Et ce soir, tout le quartier aurait su que la princesse d'Arvalis cherche l'auteur d'une lettre adressée au monstre des Valmont."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda un long moment, sous la pluie."
+  },
+  {
+   "type": "text",
+   "value": "— Vous pensez toujours à tout, comme ça ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il le fallait. Chez moi, si on ne pensait pas à tout, on mangeait par terre."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Ils marchèrent en silence jusqu'au bord du fleuve, où un muret de pierre dominait l'eau grise. Elle s'y assit, les pieds dans le vide. Il resta debout, puis s'assit à côté d'elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez ce qu'on m'a appris, en premier ? dit-elle. Avant de lire. Avant de nager. À sourire sans montrer les dents. On m'a mis un ruban entre les lèvres, à cinq ans. Si je souriais trop, le ruban tombait, et ma gouvernante me tapait sur les doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Et le phénix ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le phénix, c'était la seule chose qui était à moi. Le jour de mon Éveil, il a brûlé tous les rideaux de la salle du trône. Mon père a dit que c'était un signe de grandeur. Moi, je savais que c'était de la colère. Mon oiseau a toujours eu plus de courage que moi."
+  },
+  {
+   "type": "text",
+   "value": "— Vous vous êtes échappée deux fois en trois jours. Ce n'est pas un oiseau, ça."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit. Puis son rire s'éteignit."
+  },
+  {
+   "type": "text",
+   "value": "— Une couronne, ça pèse sur la tête, Kaël. Mais le pire, c'est que tout le monde ne voit qu'elle. On me parle, et on parle à la couronne. On me regarde, et on regarde la couronne. Je pourrais être une chèvre en dessous, personne ne s'en apercevrait."
+  },
+  {
+   "type": "text",
+   "value": "— Une chèvre avec une tresse, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Elle le fixa."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ?"
+  },
+  {
+   "type": "text",
+   "value": "— Si vous étiez une chèvre. Avec une tresse sur le côté. Je m'en apercevrais."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta une seconde sans voix. Puis elle éclata d'un rire si franc qu'un pêcheur, en bas, faillit lâcher sa ligne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "Au bord du fleuve"
+  },
+  {
+   "type": "text",
+   "value": "Et Kaël rit aussi."
+  },
+  {
+   "type": "text",
+   "value": "Le son le surprit lui-même. Il sortit de lui comme un oiseau sort d'une cage dont on a oublié de fermer la porte, rauque, maladroit, pas du tout entraîné. Il ne savait pas qu'il avait ce son-là quelque part. Séléné s'arrêta de rire pour le regarder, la bouche entrouverte, comme on regarde une comète."
+  },
+  {
+   "type": "text",
+   "value": "— Vous riez, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Apparemment."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la première fois ?"
+  },
+  {
+   "type": "text",
+   "value": "Il réfléchit sérieusement."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je le garde, dit-elle doucement. C'est à moi."
+  },
+  {
+   "type": "text",
+   "value": "La pluie redoubla. Ils se réfugièrent dans une taverne au toit bas, la Lanterne Borgne, pleine de fumée et de chants. Kaël commanda deux bols de soupe. Séléné n'avait jamais mangé de soupe dans un bol en bois. Elle le tenait à deux mains comme un trésor."
+  },
+  {
+   "type": "text",
+   "value": "Il sentit le changement avant de le voir. Un silence qui gagnait les tables proches de la porte, une à une."
+  },
+  {
+   "type": "text",
+   "value": "— Tiens, tiens. Le monstre a une amoureuse."
+  },
+  {
+   "type": "text",
+   "value": "Aldric."
+  },
+  {
+   "type": "text",
+   "value": "Il était entré avec trois amis, des jeunes nobles aux manteaux trempés et aux joues rouges de vin. Il était grand, large, blond comme un lingot, et sur son cou, sous le col, on voyait luire les écailles de bronze de son dragon. Il avait vingt-trois ans. Trop vieux pour le tournoi. Assez vieux pour s'ennuyer à Aurelhaven pendant que ses cadets combattaient."
+  },
+  {
+   "type": "text",
+   "value": "— Aldric, dit Kaël, sans se lever."
+  },
+  {
+   "type": "text",
+   "value": "— Pour toi, c'est « monsieur ». Tu as oublié tes manières, depuis qu'on t'a jeté dehors ?"
+  },
+  {
+   "type": "text",
+   "value": "Il s'approcha de la table. Il ne regarda pas Séléné, ou à peine : sous la capuche brune, il ne vit qu'une fille des bas quartiers. Il se pencha vers Kaël, les deux mains à plat sur le bois."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais ce qu'on dit, à la maison ? Que tu as volé quelque chose. Qu'un Vide ne devient pas comme ça, d'un coup. Alors dis-moi. Qu'est-ce que tu as volé, petit corbeau ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël but une gorgée de soupe."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sers toujours le vin comme une fille, reprit Aldric plus fort. Tu te souviens ? Tous les soirs. Debout derrière ma chaise. « Encore un peu, Aldric ? » C'est tout ce que tu sais faire. Servir."
+  },
+  {
+   "type": "text",
+   "value": "Les amis d'Aldric ricanèrent. Quelqu'un, à une table voisine, eut un rire gêné."
+  },
+  {
+   "type": "text",
+   "value": "Séléné posa son bol. Kaël sentit, sous la table, la chaleur monter d'elle comme d'un four. Il posa doucement la pointe de sa botte contre la sienne. *Non.*"
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne réponds pas ? dit Aldric."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien à répondre, dit Kaël. Tu poses des questions dont tu connais déjà les réponses. Tu l'as toujours fait. Pour qu'on t'écoute."
+  },
+  {
+   "type": "text",
+   "value": "Le coup partit sans prévenir."
+  },
+  {
+   "type": "text",
+   "value": "Le revers de la main d'Aldric frappa Kaël en pleine joue. Le claquement résonna dans la taverne. Une de ses bagues lui ouvrit la pommette. La tête de Kaël partit sur le côté, ses cheveux noirs lui tombèrent sur les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Puis il la ramena, lentement. Il la redressa. Il essuya le sang, du dos de son gant, sans hâte."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "La gifle"
+  },
+  {
+   "type": "text",
+   "value": "Et il ne fit rien."
+  },
+  {
+   "type": "text",
+   "value": "Ses mains restèrent posées sur la table, de chaque côté du bol. Ses yeux noirs restèrent fixés sur Aldric, sans colère, sans peur, avec juste une attention calme, presque polie. Comme on regarde une averse."
+  },
+  {
+   "type": "text",
+   "value": "— Réponds ! cria Aldric."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "— Frappe-moi ! Allez ! Montre-leur ton feu, montre-leur ton démon ! Frappe-moi, espèce de…"
+  },
+  {
+   "type": "text",
+   "value": "Il leva la main à nouveau. Elle trembla en l'air. Autour de lui, toute la taverne regardait, et personne ne riait plus. Ses amis eux-mêmes avaient reculé. Parce qu'il était là, le noble au dragon de bronze, à hurler contre un garçon qui buvait sa soupe en saignant."
+  },
+  {
+   "type": "text",
+   "value": "Et le garçon avait l'air d'un roi."
+  },
+  {
+   "type": "text",
+   "value": "Aldric baissa la main. Ses lèvres tremblaient de rage. Il cracha par terre, à côté de la botte de Kaël, et sortit dans la pluie en bousculant deux tables."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura longtemps. Puis le tavernier, sans un mot, posa un linge propre et une chope d'eau-de-vie devant Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? souffla Séléné. Vous auriez pu le briser en deux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pour ça."
+  },
+  {
+   "type": "text",
+   "value": "Il pressa le linge contre sa joue."
+  },
+  {
+   "type": "text",
+   "value": "— Toute sa vie, il a voulu que je réponde. C'est la seule chose que je ne lui ai jamais donnée."
+  },
+  {
+   "type": "text",
+   "value": "La nuit était tombée quand ils remontèrent vers les beaux quartiers. La pluie avait cessé. Les pavés brillaient sous les rares lanternes, et l'eau gouttait des gouttières avec un bruit de pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous raccompagne jusqu'au palais, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Je connais le chemin."
+  },
+  {
+   "type": "text",
+   "value": "— Dans les livres."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui donna un coup de coude. Il le lui rendit, à peine. Elle sourit sans montrer les dents, puis, exprès, en les montrant toutes."
+  },
+  {
+   "type": "text",
+   "value": "La ruelle des Tisserands était étroite, aveugle, coincée entre deux hauts murs. À mi-chemin, Kaël s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ? dit Séléné."
+  },
+  {
+   "type": "text",
+   "value": "— Les ombres."
+  },
+  {
+   "type": "text",
+   "value": "Elles avaient bougé. Celles des porches, celles des gouttières. Elles s'étaient toutes penchées dans le même sens, comme des herbes avant la tempête. Vers l'arrière."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent des deux côtés à la fois. Six hommes, peut-être sept, en manteaux sombres, des masques de cuir noir sur le visage. Des lames courtes. Pas de cri. Pas de sommation. Des professionnels."
+  },
+  {
+   "type": "text",
+   "value": "Séléné jeta sa capuche en arrière. Ses mains s'embrasèrent d'or."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "L'embuscade"
+  },
+  {
+   "type": "text",
+   "value": "— Derrière moi, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Le premier homme chargea. Kaël attrapa son poignet, le tordit, sentit le couteau tomber. Il le repoussa contre le mur. Le masque de cuir glissa de travers. L'homme leva la main pour le remettre."
+  },
+  {
+   "type": "text",
+   "value": "Et à la lumière dorée des mains de Séléné, Kaël la vit, à l'annulaire de cette main : une lourde bague d'argent, gravée d'un lion de pierre."
+  },
+  {
+   "type": "text",
+   "value": "Le lion des Valmont."
+  }
+ ]
+}

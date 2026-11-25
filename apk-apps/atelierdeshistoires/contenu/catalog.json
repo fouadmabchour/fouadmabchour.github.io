@@ -8,6 +8,10 @@
   {
    "id": "comedie",
    "name": "Comédie"
+  },
+  {
+   "id": "fantasy",
+   "name": "Fantasy"
   }
  ],
  "books": [
@@ -62,7 +66,24 @@
    "updatedAt": "2026-11-25T08:56:47Z",
    "chapterCount": 30,
    "featured": false
+  },
+  {
+   "id": "heritier-des-cendres",
+   "publishedAt": "2026-11-25T17:04:21Z",
+   "order": 3,
+   "title": "L'Héritier des Cendres",
+   "author": "FouLaude",
+   "cover": "books/heritier-des-cendres/cover.webp",
+   "summary": "Dans ce monde, chaque enfant reçoit à sa naissance l'esprit d'une créature ancienne : un dragon, un loup-garou, un guerrier oublié. Et cet esprit décide de sa valeur. Kaël, lui, n'a rien reçu. Du moins, c'est ce que croient les Valmont, la riche famille qui l'a recueilli bébé et qui ne lui a jamais pardonné de porter leur nom. La nuit de ses dix-huit ans, quelque chose s'éveille en lui : quelque chose de froid, d'immense, qui murmure dans une langue morte. Contre l'avis de tous, il s'inscrit au Tournoi de l'Aube Pourpre. Les Valmont rient. L'arène rit. Puis, combat après combat, plus personne ne rit. Magie noire, tricherie, chance ? Pendant qu'on l'accuse, Kaël découvre qui était vraiment sa mère, et quel esprit elle lui a laissé. Et quand ceux qui l'ont méprisé voudront redevenir sa famille, il sera trop tard.",
+   "categories": [
+    "fantasy"
+   ],
+   "tags": [],
+   "status": "completed",
+   "updatedAt": "2026-11-25T17:04:21Z",
+   "chapterCount": 30,
+   "featured": false
   }
  ],
- "updatedAt": "2026-11-25T08:56:47Z"
+ "updatedAt": "2026-11-25T17:04:21Z"
 }

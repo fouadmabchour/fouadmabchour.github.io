@@ -1,0 +1,401 @@
+{
+ "number": 17,
+ "title": "La Tour des Échos (2)",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Une main se referma sur sa cheville."
+  },
+  {
+   "type": "text",
+   "value": "Le choc lui arracha un cri. Son corps, lancé dans la chute, fut stoppé net et cogna la paroi du puits. Au-dessus de lui, quelque chose craqua. Un bruit sec, mouillé, horrible. Puis un rugissement."
+  },
+  {
+   "type": "text",
+   "value": "Kaël leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Brann était à plat ventre au bord du vide, à moitié dans le puits, son esprit d'ours déployé autour de lui comme une armure brune. Un bras griffé dans la pierre. L'autre tendu vers le bas, la main serrée sur la cheville de Kaël. Et ce bras-là pendait dans un angle qui n'existait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Me lâche pas, haleta Brann. Toi, au moins, me lâche pas."
+  },
+  {
+   "type": "text",
+   "value": "— Ton bras..."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais ce qu'il a, mon bras !"
+  },
+  {
+   "type": "text",
+   "value": "Il tira. Le craquement recommença. Brann hurla entre ses dents serrées, et son ours rugit avec lui, et la pierre se fendit sous ses griffes. Centimètre par centimètre, il remonta Kaël le long de la paroi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël posa les mains sur le rebord. Il se hissa. Il roula sur la plateforme et resta sur le dos, les yeux ouverts sur le ciel gris."
+  },
+  {
+   "type": "text",
+   "value": "Brann s'effondra à côté de lui. Son bras droit était tordu au-dessus du coude. Il ne le regardait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Varek, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Parti. Il a passé l'arche pendant que je te repêchais. Troisième, avec son Kesh."
+  },
+  {
+   "type": "text",
+   "value": "Une seule place."
+  },
+  {
+   "type": "text",
+   "value": "Plus bas, dans la spirale, des pas résonnaient. Une autre équipe montait."
+  },
+  {
+   "type": "text",
+   "value": "Brann se releva sur un genou, en tenant son bras contre lui. Son visage était gris de douleur."
+  },
+  {
+   "type": "text",
+   "value": "— Debout, le corbeau."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se leva. Il passa son épaule sous le bras valide de Brann. Ils marchèrent jusqu'à l'arche, lentement, comme deux vieux soldats après une guerre perdue. Derrière eux, une équipe de Hautmarche surgit au sommet de l'escalier, à dix pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-1.webp",
+   "caption": "Les derniers"
+  },
+  {
+   "type": "text",
+   "value": "Ils franchirent l'arche."
+  },
+  {
+   "type": "text",
+   "value": "Une lumière blanche les enveloppa. Une cloche sonna, une seule fois."
+  },
+  {
+   "type": "text",
+   "value": "Quatrièmes. Derniers. Qualifiés."
+  },
+  {
+   "type": "text",
+   "value": "Les guérisseurs du Conseil remirent l'os en place sous une tente, au pied de la tour. Brann ne cria pas. Il mordit dans une lanière de cuir et fixa Kaël pendant toute l'opération, sans ciller, comme s'il voulait graver quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Quand ce fut fini, quand l'attelle fut serrée et le guérisseur sorti, Brann recracha la lanière."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu nous fais ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël se tenait debout près de l'entrée de la tente. La lumière du dehors découpait sa silhouette noire."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai vu tomber, continua Brann. Je t'ai vu. Tu n'as rien fait. Tu n'as même pas essayé. Tu voulais tomber ?"
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "— Je me suis cassé le bras pour toi, Kaël. Je le referais. Mais j'ai le droit de savoir pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ouvrit la bouche. Il pensa au billet, à la voix, aux chaînes. *Si tu parles, elle hurlera.* Personne ne l'avait écrit, mais il le savait."
+  },
+  {
+   "type": "text",
+   "value": "Il referma la bouche."
+  },
+  {
+   "type": "text",
+   "value": "Brann hocha lentement la tête. Il détourna les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Sors d'ici."
+  },
+  {
+   "type": "text",
+   "value": "— Brann..."
+  },
+  {
+   "type": "text",
+   "value": "— Sors."
+  },
+  {
+   "type": "text",
+   "value": "Kaël sortit."
+  },
+  {
+   "type": "text",
+   "value": "Dehors, Aurelhaven avait déjà décidé."
+  },
+  {
+   "type": "text",
+   "value": "Il l'entendit dans les rues, en rentrant. Dans les tavernes aux portes ouvertes, sur les marchés, dans la bouche des enfants qui jouaient aux tournois avec des bâtons."
+  },
+  {
+   "type": "text",
+   "value": "— La chance est finie."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'avais dit. Un sans-marque, ça ne dure pas."
+  },
+  {
+   "type": "text",
+   "value": "— Un tour de foire. Il a tenu trois combats sur un truc qu'il a volé, et maintenant le truc est vide."
+  },
+  {
+   "type": "text",
+   "value": "— Dernier ! Porté par un Nordique comme un sac de farine !"
+  },
+  {
+   "type": "text",
+   "value": "Un garçon de dix ans courut à côté de lui, un bâton à la main, et cria « Je suis le Vide ! » avant de se jeter dans une flaque. Ses amis éclatèrent de rire."
+  },
+  {
+   "type": "text",
+   "value": "Kaël continua de marcher."
+  },
+  {
+   "type": "text",
+   "value": "Sur une place, un crieur vendait des feuilles de paris. Son nom était toujours là, sous ceux d'Ysolde Valmont, de Séléné d'Arvalis, de Varek Dorn. On avait barré la cote d'hier à l'encre rouge et écrit à côté, en grosses lettres : *1 contre 40*."
+  },
+  {
+   "type": "text",
+   "value": "Dans la loge des Valmont, sur les gradins de la tour, Ysolde n'avait pas bougé depuis la fin de l'épreuve."
+  },
+  {
+   "type": "text",
+   "value": "Elle-même était arrivée deuxième, avec Ilian Fervaut, un lancier de Lorvenne, sans une égratignure. Séléné et sa coéquipière des Îles étaient passées les premières. Margaux était venue la voir dans la loge. Elle aurait dû être heureuse. Elle ne l'était pas. Elle regardait le miroir d'eau, éteint maintenant, où elle avait vu Kaël tomber."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait vu son visage pendant la chute. Pas de la peur. Pas de la surprise. Du consentement."
+  },
+  {
+   "type": "text",
+   "value": "— Il a perdu ses moyens, dit Margaux en se recoiffant. Ça arrive. La pression."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'a pas perdu ses moyens, dit Ysolde. Il a choisi."
+  },
+  {
+   "type": "text",
+   "value": "Margaux haussa les épaules."
+  },
+  {
+   "type": "text",
+   "value": "Derrière elles, adossé à la balustrade, Corvin mangeait une pomme. Il ne regardait pas le miroir. Il souriait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-2.webp",
+   "caption": "Le sourire"
+  },
+  {
+   "type": "text",
+   "value": "Un petit sourire. Le sourire de quelqu'un qui connaît la fin d'une histoire."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui te fait rire ? demanda Ysolde."
+  },
+  {
+   "type": "text",
+   "value": "— Rien. Tout. Le monstre des Valmont qui se jette dans un trou. C'est beau, non ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as l'air de quelqu'un qui savait que ça arriverait."
+  },
+  {
+   "type": "text",
+   "value": "Corvin croqua dans sa pomme. Il mâcha longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Père dit qu'il faut toujours savoir avant les autres."
+  },
+  {
+   "type": "text",
+   "value": "Il jeta le trognon par-dessus la balustrade et s'en alla en sifflotant."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde resta seule. Ses doigts, sans qu'elle y pense, effleurèrent la fine cicatrice de son menton. Elle pensa à la nuit dans la forêt, à Kaël qui la regardait sans peur. *Je veux te battre dans l'arène, pas ici*, lui avait-elle dit."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait pas envie de battre ce garçon-là. Celui qui tombait sans lever la main."
+  },
+  {
+   "type": "text",
+   "value": "Il rentra à l'auberge du Chaudron Fêlé à la nuit tombante. L'aubergiste, qui lui servait la soupe avec respect depuis le Labyrinthe, posa l'assiette devant lui sans un mot et repartit sans le regarder. Deux marchands, à la table voisine, échangèrent quelques pièces en ricanant. Un pari perdu, un pari gagné."
+  },
+  {
+   "type": "text",
+   "value": "Il monta dans sa chambre sans toucher à la soupe."
+  },
+  {
+   "type": "text",
+   "value": "Elle était déjà là. Assise au bord du lit, les mains sur les genoux, les chaînes grises enroulées autour des poignets comme des bracelets de deuil. Pour la première fois, elle ne hurlait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as été courageux aujourd'hui, murmura-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai failli faire tuer mon ami."
+  },
+  {
+   "type": "text",
+   "value": "— Mais tu ne l'as pas fait. Et ils m'ont laissée dormir, un peu. Tu ne sais pas ce que c'est, de dormir, là où je suis."
+  },
+  {
+   "type": "text",
+   "value": "Elle tendit la main vers son visage. Elle ne le toucha pas. Elle ne le touchait jamais. Ses doigts s'arrêtaient toujours à un souffle de sa joue, et il sentait seulement un froid de cave."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait voulu lui demander comment elle s'appelait vraiment. Ce qu'elle aimait. Si elle chantait, le soir. Il n'osa pas. Il avait peur qu'elle ne sache pas répondre, et il avait encore plus peur de ce que cela voudrait dire."
+  },
+  {
+   "type": "text",
+   "value": "Quand il releva la tête, elle avait disparu. Il ne restait sur la couverture qu'une fine poussière grise, qu'il épousseta du revers de la main sans y penser."
+  },
+  {
+   "type": "text",
+   "value": "Il ne pouvait pas rester dans cette chambre."
+  },
+  {
+   "type": "text",
+   "value": "La nuit tombait quand Kaël monta sur les remparts."
+  },
+  {
+   "type": "text",
+   "value": "Il venait là quand l'auberge devenait trop petite. Les remparts d'Aurelhaven étaient larges, battus par le vent, presque déserts à cette heure. De là, on voyait toute la ville : les toits d'ardoise, les mille lumières, et au centre, la masse noire de l'Arène de Sombreval."
+  },
+  {
+   "type": "text",
+   "value": "Il n'était pas seul depuis longtemps quand il entendit les pas."
+  },
+  {
+   "type": "text",
+   "value": "Il les reconnut. Rapides, légers, impatients. Des pas qui n'avaient jamais attendu personne."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'évites, dit Séléné."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta à trois pas de lui. Elle avait ôté son armure. Une cape claire sur une tunique simple, ses cheveux blond doré défaits, sauf la tresse fine sur le côté. Ses yeux ambre brillaient de colère dans la pénombre."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne t'évite pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as baissé les yeux ce matin. Tu ne baisses jamais les yeux. Même devant mon père. Même devant moi, ce qui est franchement insolent."
+  },
+  {
+   "type": "text",
+   "value": "— Séléné."
+  },
+  {
+   "type": "text",
+   "value": "— Et ensuite tu te laisses passer devant par deux chacals de Kesh. Tu laisses une fille de Lorvenne ouvrir le dos de Brann. Et tu tombes. Tu tombes, Kaël. J'ai vu ton visage dans le miroir."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit un pas."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ? Parle-moi. Je suis une princesse, je sais garder un secret, on me l'apprend avant de marcher."
+  },
+  {
+   "type": "text",
+   "value": "Il ne rit pas. Elle s'en rendit compte, et son visage changea."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël..."
+  },
+  {
+   "type": "text",
+   "value": "— Laisse-moi."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Laisse-moi ! cria-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix claqua contre les pierres. Un pigeon s'envola. Séléné ne recula pas. Elle avait l'habitude des cris : des généraux, des courtisans, de son père. Mais pas des siens. Elle le regardait, la bouche entrouverte."
+  },
+  {
+   "type": "text",
+   "value": "Il avait levé la main, sans le vouloir, comme pour la repousser."
+  },
+  {
+   "type": "text",
+   "value": "Et elle vit."
+  },
+  {
+   "type": "text",
+   "value": "Sur le dos de sa main, là où le gant avait glissé, sur la peau blanche du poignet. Une trace. Un anneau gris, terne, qui faisait le tour du poignet comme une brûlure ancienne. Il avait la forme exacte d'un maillon de chaîne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-3.webp",
+   "caption": "La marque grise"
+  },
+  {
+   "type": "text",
+   "value": "Séléné cessa de respirer."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait vu cette marque une seule fois, dans un livre de la réserve royale que sa gouvernante lui avait arraché des mains quand elle avait douze ans. Une gravure d'un homme aux yeux vides, le poignet cerclé de gris. En dessous, une légende qu'elle n'avait jamais oubliée."
+  },
+  {
+   "type": "text",
+   "value": "*Le sceau du lien des morts. Celui qui le porte est tenu par un nécromancien.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël rabattit son gant d'un geste sec. Trop tard."
+  },
+  {
+   "type": "text",
+   "value": "Leurs yeux se croisèrent. Et dans ceux de Séléné, pour la première fois, il vit de la peur. Pas de lui. Pour lui."
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "number": 12,
+ "title": "Le procès des cendres",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "On l'enferma pour la nuit dans une cellule sous la tour du Haut Conseil. Elle était propre, sèche, et sa porte avait trois serrures. Kaël compta les trois. Puis il s'assit sur la banquette de pierre, le dos droit, et attendit."
+  },
+  {
+   "type": "text",
+   "value": "Il avait connu pire que des serrures. Il avait connu le grenier des Valmont, les hivers sans feu, les dîners où on le laissait debout. Une cellule, au moins, ne faisait pas semblant d'être une famille."
+  },
+  {
+   "type": "text",
+   "value": "*Thal veneth*, murmura la voix, très loin."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit-il à voix basse. Je ne m'inquiète pas."
+  },
+  {
+   "type": "text",
+   "value": "C'était un mensonge. La Reine ne le releva pas."
+  },
+  {
+   "type": "text",
+   "value": "La salle d'audience était ronde, haute, froide. Sept sièges de pierre noire formaient un demi-cercle sur une estrade : le Haut Conseil des Esprits. Au centre, Dame Halvara, cheveux blancs coupés court, robe grise, le regard d'une femme qui avait jugé des rois. Sur les bancs, tout ce qu'Aurelhaven comptait de curieux, de nobles et de rapaces."
+  },
+  {
+   "type": "text",
+   "value": "Kaël se tenait seul au milieu, sans chaînes, mais avec deux gardes derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël, sans nom de famille enregistré, lut le greffier. Accusé d'avoir pratiqué la nécrophagie des esprits dans la Forêt de Morteaux, crime puni de l'exclusion du tournoi et de dix ans de cachot à la Tour Morne."
+  },
+  {
+   "type": "text",
+   "value": "Dix ans. Quelqu'un siffla dans la salle."
+  },
+  {
+   "type": "text",
+   "value": "— Qui accuse ? demanda Halvara."
+  },
+  {
+   "type": "text",
+   "value": "Corvin se leva. Il avait changé de chemise et peigné ses cheveux, et il parla bien. Il raconta la clairière, les cendres, l'odeur. Il raconta qu'il avait toujours su. Que, déjà enfant, Kaël rôdait dans l'ossuaire familial. Que les domestiques en avaient peur."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'a jamais eu d'esprit, conclut-il. Et soudain, à dix-huit ans, il en a un plus fort que tous les nôtres ? Un esprit, ça ne s'achète pas. Ça se vole."
+  },
+  {
+   "type": "text",
+   "value": "Des hochements de tête. Kaël regardait le mur au-dessus de la tête de Corvin. Il avait appris, très jeune, que le visage ne donne rien quand on ne lui demande rien."
+  },
+  {
+   "type": "text",
+   "value": "Puis Edmond Valmont se leva."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas besoin d'élever la voix. Sa voix douce emplit la salle comme une huile. Il parla de charité. De ce bébé abandonné qu'il avait recueilli, nourri, élevé comme un fils. Il parla de son chagrin."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai prié pour qu'il trouve sa place, dit-il en baissant les yeux. Je n'ai pas su voir ce qui grandissait sous mon toit. Si le Conseil le condamne, je ne m'y opposerai pas. Je demande seulement que mon nom ne soit plus associé au sien."
+  },
+  {
+   "type": "text",
+   "value": "Il se rassit. Isaure, à côté de lui, n'avait pas levé les yeux de ses gants. Margaux fixait le sol, les joues rouges. Ysolde était absente."
+  },
+  {
+   "type": "text",
+   "value": "— Accusé, dit Halvara. Vous avez quelque chose à répondre ?"
+  },
+  {
+   "type": "text",
+   "value": "Kaël réfléchit."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais mis les pieds dans l'ossuaire des Valmont, dit-il. On ne m'en a jamais donné la clé. On ne me donnait pas les clés."
+  },
+  {
+   "type": "text",
+   "value": "Un rire nerveux traversa les bancs."
+  },
+  {
+   "type": "text",
+   "value": "— C'est tout ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas d'où vient cette bourse. Je sais d'où je viens, moi. Ce n'est pas assez pour vous, je suppose."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas une preuve, en effet."
+  },
+  {
+   "type": "text",
+   "value": "Alors une porte s'ouvrit au fond de la salle, et tout le monde se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Séléné d'Arvalis entra. Elle ne portait pas son armure mais une robe de cour blanche et or, et elle marchait raide, à cause des bandages sous ses côtes. Derrière elle, un homme en manteau pourpre essayait de la retenir par la manche sans en avoir l'air."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "La princesse témoin"
+  },
+  {
+   "type": "text",
+   "value": "— Altesse, souffla-t-il, votre père a expressément…"
+  },
+  {
+   "type": "text",
+   "value": "— Mon père n'est pas là, répondit-elle sans se retourner. Et je suis majeure."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta à côté de Kaël. Elle ne le regarda pas. Elle regardait Halvara."
+  },
+  {
+   "type": "text",
+   "value": "— Je demande à témoigner."
+  },
+  {
+   "type": "text",
+   "value": "Le silence fut total. Une princesse héritière d'Arvalis ne témoignait pas dans une affaire de roturier. Elle ne témoignait jamais, nulle part. Elle signait."
+  },
+  {
+   "type": "text",
+   "value": "— Le Conseil vous écoute, dit Halvara."
+  },
+  {
+   "type": "text",
+   "value": "— Deuxième nuit dans la forêt. J'étais blessée, mon phénix épuisé, encerclée par une douzaine de chimères. J'allais mourir. Je le dis clairement pour que le greffier l'écrive bien : j'allais mourir. Cet homme est venu. Il a brûlé la meute. Il ne l'a pas dévorée, il ne l'a pas touchée, il n'a pas ramassé une seule cendre. Ensuite, il m'a portée dans une grotte et il m'a soignée toute la nuit, sans dormir."
+  },
+  {
+   "type": "text",
+   "value": "Elle marqua une pause."
+  },
+  {
+   "type": "text",
+   "value": "— Je dois la vie à Kaël. Si vous l'envoyez à la Tour Morne, vous m'enverrez avec lui, parce que j'irai lui porter son dîner chaque soir, et ça fera un scandale diplomatique très ennuyeux pour tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un, au fond, éclata de rire avant de se couvrir la bouche. Kaël sentit quelque chose se dénouer dans sa poitrine, très lentement, comme un nœud qu'on a serré pendant des années."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la regarda pas. S'il l'avait regardée, il n'aurait pas su quoi faire de son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a un autre témoin, dit une grosse voix depuis les bancs."
+  },
+  {
+   "type": "text",
+   "value": "Brann Hollow se leva, énorme, la barbe rousse en désordre, une hache dans le dos que personne n'avait osé lui retirer."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis de Hautefrise, on ne sait pas bien parler, alors je vais faire court. Dans le Labyrinthe, il m'a sorti d'un piège alors qu'il aurait pu me laisser crever et prendre ma place. Un type qui mange les esprits, il m'aurait mangé, moi. Je suis un ours. Je suis très appétissant."
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, toute la salle rit. Même un conseiller."
+  },
+  {
+   "type": "text",
+   "value": "Halvara leva la main, et le rire mourut."
+  },
+  {
+   "type": "text",
+   "value": "— Apportez la bourse."
+  },
+  {
+   "type": "text",
+   "value": "Un garde la posa devant elle sur un plateau d'argent. Halvara retira ses gants, prit une pincée de poudre entre ses doigts et ferma les yeux. Une lueur blanche monta de son poignet : le cygne d'ivoire de son esprit, que l'on disait capable de lire la mémoire des choses."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "Les cendres d'os"
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura longtemps. Kaël vit Edmond se redresser imperceptiblement sur son banc."
+  },
+  {
+   "type": "text",
+   "value": "Halvara rouvrit les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Ces os ne viennent pas de la Forêt de Morteaux, dit-elle. Ils ne viennent d'aucune chimère. Ce sont des os humains, vieux d'au moins un siècle, qui ont reposé dans une crypte familiale scellée par un lion de pierre."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna lentement la tête vers le banc des Valmont."
+  },
+  {
+   "type": "text",
+   "value": "— L'ossuaire de Valcendre, monseigneur Valmont. Dont votre famille, si je ne m'abuse, possède seule les clés."
+  },
+  {
+   "type": "text",
+   "value": "Le visage d'Edmond ne bougea pas. Pas un cil. Mais ses bagues tintèrent contre le bois du banc."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un a pu les voler, dit-il doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un a pu, en effet. Le Conseil ouvrira une enquête. En attendant, je déclare l'accusé innocent de l'accusation portée contre lui. Il est réintégré dans le tournoi."
+  },
+  {
+   "type": "text",
+   "value": "Le marteau de pierre tomba. La salle explosa en murmures. Corvin était devenu blanc, puis rouge. Il se pencha vers son père, qui ne le regarda pas."
+  },
+  {
+   "type": "text",
+   "value": "Séléné se tourna enfin vers Kaël. Ses yeux ambre brillaient d'une satisfaction de chat."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me dois un dîner, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je croyais que c'était toi qui devais me les apporter."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai changé d'avis. Tu es libre, maintenant, c'est beaucoup moins romantique."
+  },
+  {
+   "type": "text",
+   "value": "L'homme au manteau pourpre l'emporta presque de force. Elle se laissa faire en riant, et en sortant, elle se retourna une seule fois."
+  },
+  {
+   "type": "text",
+   "value": "La salle se vida. Kaël se dirigeait vers la porte quand une voix sèche l'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Pas vous. Restez."
+  },
+  {
+   "type": "text",
+   "value": "Les gardes sortirent. La porte se ferma. Il ne resta que lui, et Dame Halvara, seule sur l'estrade, qui descendit les marches avec la lenteur des gens qui ont mal aux genoux et refusent de le montrer."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta tout près de lui. Elle était petite. Il ne l'avait pas remarqué."
+  },
+  {
+   "type": "text",
+   "value": "— Montrez-moi votre médaillon."
+  },
+  {
+   "type": "text",
+   "value": "Il hésita. Puis il le sortit de sous sa chemise. La flamme noire gravée accrocha la lumière des torches. Halvara ne le toucha pas. Elle le regarda comme on regarde une tombe."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "Le médaillon"
+  },
+  {
+   "type": "text",
+   "value": "— C'est bien ce que je pensais, murmura-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous m'avez appelé Morrigane, le jour des qualifications. Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle leva vers lui des yeux très pâles, et pour la première fois, la grande arbitre du tournoi eut l'air d'avoir peur."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais qui était ta mère, dit-elle. Et si je le sais, d'autres le savent. Tu es en danger, mon garçon."
+  }
+ ]
+}

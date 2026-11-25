@@ -1,0 +1,365 @@
+{
+ "number": 30,
+ "title": "Brûle doucement",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il prit la main du roi."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut tout. Pas de discours. Une poignée de main ferme, et un seul mot, que seuls le roi et la princesse entendirent :"
+  },
+  {
+   "type": "text",
+   "value": "— Bientôt."
+  },
+  {
+   "type": "text",
+   "value": "Le roi Aurélien fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Bientôt ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai quelque chose à faire avant, Majesté. À Valcendre."
+  },
+  {
+   "type": "text",
+   "value": "Le roi le dévisagea. Puis, à la surprise générale, il éclata d'un rire bref."
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille m'avait prévenu, dit-il. Vous ne vous inclinez devant rien."
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit Kaël. Devant les tombes."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'estrade, Séléné s'était remise à respirer. Elle descendit les marches sans attendre la permission de personne, s'arrêta devant lui, et dit, très bas :"
+  },
+  {
+   "type": "text",
+   "value": "— Je viens avec toi."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas un voyage pour une princesse."
+  },
+  {
+   "type": "text",
+   "value": "— Tant mieux. Je suis fatiguée d'en être une."
+  },
+  {
+   "type": "text",
+   "value": "Valcendre n'avait pas changé."
+  },
+  {
+   "type": "text",
+   "value": "Les mêmes rues de pierre grise, les mêmes cheminées, le même vent qui descendait des collines. Ce qui avait changé, c'était les gens. Ils s'écartaient sur son passage. Certains ôtaient leur chapeau. Une vieille femme, au marché, lui tendit une pomme sans un mot ; il l'accepta."
+  },
+  {
+   "type": "text",
+   "value": "— Avant, dit-il à Séléné, elle me chassait de son étal."
+  },
+  {
+   "type": "text",
+   "value": "— Tu veux que je la brûle ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. La pomme est bonne."
+  },
+  {
+   "type": "text",
+   "value": "Il ne passa pas devant la grande maison des Valmont. Il fit le tour par la ruelle des communs, poussa une petite porte de bois que personne ne fermait jamais, et monta l'escalier de service jusqu'à la bibliothèque."
+  },
+  {
+   "type": "text",
+   "value": "Maître Orsin était là. Bien sûr qu'il était là. Assis à sa table, devant un registre ouvert, ses lunettes au bout du nez, un hibou gris endormi sur l'épaule. Il leva la tête quand la porte grinça."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-1.webp",
+   "caption": "Le retour"
+  },
+  {
+   "type": "text",
+   "value": "Il ne dit rien pendant un long moment. Puis il ôta ses lunettes et les essuya, beaucoup trop longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a de la poussière, dit-il d'une voix enrouée."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Kaël. Il y a toujours de la poussière ici."
+  },
+  {
+   "type": "text",
+   "value": "Le vieil homme se leva. Il était plus petit que dans son souvenir. Kaël traversa la pièce et, pour la première fois de sa vie, ce fut lui qui serra quelqu'un dans ses bras. Orsin sentait le vieux papier et la cire. Le hibou ouvrit un œil, réprouva, le referma."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as gagné, dit Orsin contre son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai ouvert votre lettre, dit Kaël. Le soir de la couronne."
+  },
+  {
+   "type": "text",
+   "value": "— Alors tu sais que j'écris mal."
+  },
+  {
+   "type": "text",
+   "value": "— Il y avait tout ce que vous m'aviez raconté. Et une ligne de plus, à la fin. « Je suis fier de toi. » Vous l'avez écrite il y a dix-huit ans."
+  },
+  {
+   "type": "text",
+   "value": "— Je savais déjà, dit le vieil homme."
+  },
+  {
+   "type": "text",
+   "value": "Kaël recula. Il sortit de son manteau une petite bourse de cuir et la posa sur la table."
+  },
+  {
+   "type": "text",
+   "value": "— Les frais d'inscription, dit-il. Avec les intérêts."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne veux pas de ton argent, mon garçon."
+  },
+  {
+   "type": "text",
+   "value": "— Ce ne sont pas des intérêts en argent."
+  },
+  {
+   "type": "text",
+   "value": "Orsin ouvrit la bourse. À l'intérieur, une clé de fer, lourde, ouvragée. Il la regarda sans comprendre."
+  },
+  {
+   "type": "text",
+   "value": "— La clé d'une maison à Aurelhaven, dit Kaël. Près des archives du Conseil. Halvara dit qu'ils cherchent un bibliothécaire. Quelqu'un qui connaît les vieux textes. Et qui a connu Lyra."
+  },
+  {
+   "type": "text",
+   "value": "Orsin s'assit. Il garda la clé dans sa main, longtemps, sans rien dire. Le hibou, sur son épaule, frotta sa tête contre sa joue."
+  },
+  {
+   "type": "text",
+   "value": "Séléné, à la porte, fit semblant de lire les titres des livres pour leur laisser ce moment. Elle tenait un livre à l'envers."
+  },
+  {
+   "type": "text",
+   "value": "L'hospice de Valcendre se trouvait au bout de la ville, contre le mur d'enceinte. Un bâtiment bas, aux fenêtres étroites, avec un petit jardin envahi d'herbes. Derrière, un cimetière pour ceux qui n'avaient pas de famille."
+  },
+  {
+   "type": "text",
+   "value": "La sœur qui les accueillit était très vieille. Elle se souvenait."
+  },
+  {
+   "type": "text",
+   "value": "— Une jeune femme aux cheveux noirs, dit-elle en marchant entre les tombes. Elle est arrivée en pleine nuit, en plein hiver. Elle n'a jamais dit son nom. Elle a seulement dit : « Prenez soin de lui. » Puis elle a mis l'enfant au monde, et elle s'est éteinte avant l'aube. Il faisait si froid, cette nuit-là. Et pourtant, je m'en souviens, la chambre était chaude. Comme s'il y avait du feu."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta devant une pierre grise, couverte de mousse. Pas de nom. Seulement une date, à demi effacée."
+  },
+  {
+   "type": "text",
+   "value": "— Voilà. Je suis désolée, il n'y avait rien d'autre à écrire."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a quelque chose maintenant, dit Kaël."
+  },
+  {
+   "type": "text",
+   "value": "La sœur s'éloigna. Séléné recula de quelques pas, jusqu'au vieux mur. Kaël resta seul devant la pierre."
+  },
+  {
+   "type": "text",
+   "value": "Il ôta son gant droit. Il posa la main à plat sur la pierre froide."
+  },
+  {
+   "type": "text",
+   "value": "Une flamme noire s'alluma sous ses doigts, petite, précise, silencieuse. Il la guida lentement, lettre après lettre, comme on écrit pour la première fois. La pierre ne fondit pas. Elle se creusa, juste assez, et les bords des lettres prirent une teinte pourpre qui ne partirait plus."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-2.webp",
+   "caption": "La tombe"
+  },
+  {
+   "type": "text",
+   "value": "*Lyra.*"
+  },
+  {
+   "type": "text",
+   "value": "Il resta là, la main sur le nom. Le médaillon d'argent pendait à son cou, la flamme noire gravée tournée vers la pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Kaël, dit-il tout bas. Mais tu le sais. C'est toi qui l'as choisi. Je ne sais pas ce que tu voulais que je devienne. J'ai essayé de ne pas devenir ce qu'ils voulaient. C'est un début."
+  },
+  {
+   "type": "text",
+   "value": "Le vent passa dans l'herbe. Quelque part, un oiseau chanta."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais bien, ajouta-t-il. Je voulais que tu le saches. Je vais bien."
+  },
+  {
+   "type": "text",
+   "value": "Derrière lui, il entendit Séléné renifler, et faire semblant que c'était le pollen."
+  },
+  {
+   "type": "text",
+   "value": "Ils partirent le lendemain, à l'aube, par la route du nord."
+  },
+  {
+   "type": "text",
+   "value": "Pas de carrosse. Deux chevaux, une tente, des provisions pour dix jours. Le roi avait proposé une escorte de cinquante cavaliers ; Séléné avait répondu que si un brigand osait les attaquer, il méritait ce qui allait lui arriver. Brann était venu jusqu'aux portes de la ville leur dire au revoir, et il avait pleuré comme un ours, c'est-à-dire bruyamment et sans aucune honte."
+  },
+  {
+   "type": "text",
+   "value": "— Écris, avait-il dit. Je ne sais pas lire, mais écris quand même. Quelqu'un me lira."
+  },
+  {
+   "type": "text",
+   "value": "Kaël portait du noir. Le long manteau, la chemise, les gants. La Couronne d'Aube était roulée dans une couverture au fond de son sac, entre deux chemises, et Séléné trouvait ça scandaleux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la couronne la plus célèbre du continent, dit-elle le troisième jour."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est très bien dans la couverture."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as aucun sens de la grandeur."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai le sens du confort."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit. Elle riait beaucoup, sur la route. Plus qu'à Aurelhaven. Ses cheveux dorés avaient pris le soleil, sa tresse fine se défaisait, et elle ne la refaisait plus."
+  },
+  {
+   "type": "text",
+   "value": "Le quatrième jour, ils croisèrent un village de bûcherons. Les enfants sortirent des maisons pour les regarder passer. L'un d'eux, un garçon maigre d'une dizaine d'années, se tenait à l'écart des autres, les mains dans les poches. Quand les autres coururent derrière les chevaux, il resta sur place."
+  },
+  {
+   "type": "text",
+   "value": "Kaël arrêta sa monture."
+  },
+  {
+   "type": "text",
+   "value": "Le garçon avait le poignet nu. Pas de marque. Les autres enfants, en revenant, le bousculèrent en passant, et l'un d'eux lança un mot que Kaël connaissait par cœur."
+  },
+  {
+   "type": "text",
+   "value": "Il descendit de cheval. Il s'accroupit devant le garçon, à sa hauteur."
+  },
+  {
+   "type": "text",
+   "value": "— Comment tu t'appelles ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tam, dit le garçon, méfiant."
+  },
+  {
+   "type": "text",
+   "value": "— Quel âge as-tu, Tam ?"
+  },
+  {
+   "type": "text",
+   "value": "— Onze ans."
+  },
+  {
+   "type": "text",
+   "value": "— Il te reste sept ans, dit Kaël. C'est long. Lis beaucoup, en attendant. Et ne crois personne qui te dit qu'il n'y a rien en toi."
+  },
+  {
+   "type": "text",
+   "value": "Le garçon le regarda, puis regarda la flamme noire gravée sur le médaillon qui pendait à son cou. Ses yeux s'agrandirent. Il avait compris qui il était."
+  },
+  {
+   "type": "text",
+   "value": "Quand ils repartirent, Séléné ne dit rien pendant une heure. Puis elle approcha son cheval du sien et posa la main, juste une seconde, sur la sienne."
+  },
+  {
+   "type": "text",
+   "value": "En lui, la Reine se taisait. Ce n'était pas le silence étouffé des nuits du chantage. C'était un silence plein, tranquille, comme celui d'une maison où quelqu'un dort dans la pièce d'à côté. Parfois, quand le paysage était beau, il la sentait regarder avec lui."
+  },
+  {
+   "type": "text",
+   "value": "Le cinquième soir, ils campèrent au bord d'un lac, sous des pins noirs."
+  },
+  {
+   "type": "text",
+   "value": "Kaël alluma le feu. Un vrai feu, de bois sec, orange et ordinaire. Séléné le regarda faire en se moquant de sa lenteur, puis elle tendit les mains vers les flammes, et une étincelle dorée s'y mêla."
+  },
+  {
+   "type": "text",
+   "value": "Ils parlèrent longtemps. De rien. D'Arvalis, de ses tours blanches, de la bibliothèque du palais qu'elle lui promettait immense. Du mariage arrangé qu'elle n'aurait plus à fuir. Elle ne dit pas pourquoi. Il ne demanda pas. Ils savaient tous les deux, et le savoir suffisait pour l'instant."
+  },
+  {
+   "type": "text",
+   "value": "Puis la voix de Séléné ralentit. Elle bâilla, protesta qu'elle ne dormait pas, et s'endormit contre son épaule au milieu d'une phrase sur les jardins de son père."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda le lac, noir et lisse, où tremblait la lune. Il écouta la respiration de Séléné. Il sentit le poids de sa tête, la chaleur de sa joue à travers le manteau. Il pensa à la bibliothèque, au vin qu'il servait, aux torches éteintes, à la pierre fissurée. À tout ce chemin."
+  },
+  {
+   "type": "text",
+   "value": "Il ôta son gant."
+  },
+  {
+   "type": "text",
+   "value": "Dans sa paume, il alluma une petite flamme noire, aux reflets pourpres. Elle dansa, silencieuse. Il approcha la main du visage de Séléné endormie. La flamme effleura ses cheveux dorés."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-3.webp",
+   "caption": "La petite flamme"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne les brûla pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle les éclaira, seulement, d'une lueur douce, comme une veilleuse."
+  },
+  {
+   "type": "text",
+   "value": "Alors, du plus profond de lui, d'un endroit plus ancien que les royaumes, la voix monta une dernière fois. Grave. Tendre. Et pour la première fois, elle ne parlait ni la langue morte, ni la langue des vivants. Elle parlait comme une mère."
+  },
+  {
+   "type": "text",
+   "value": "*Brûle doucement, mon fils.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël sourit."
+  }
+ ]
+}

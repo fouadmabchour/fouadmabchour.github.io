@@ -1,0 +1,413 @@
+{
+ "number": 6,
+ "title": "Le monstre des Valmont",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le matin, Aurelhaven avait trouvé un nouveau nom pour lui."
+  },
+  {
+   "type": "text",
+   "value": "Kaël l'entendit dès qu'il descendit l'escalier de l'auberge du Chaudron Fêlé. Deux charretiers le murmuraient au-dessus de leur bouillie. La servante le dit plus bas, en lui posant une écuelle devant lui, sans le regarder. Dans la rue, un gamin le cria en courant, comme on lance une pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Le monstre des Valmont !"
+  },
+  {
+   "type": "text",
+   "value": "Il mangea quand même. Le pain était rassis, le lait tiède. Il avait connu pire, et à des tables plus riches."
+  },
+  {
+   "type": "text",
+   "value": "Sur la place du Marché-aux-Cloches, un crieur avait grimpé sur une fontaine et lisait une feuille encore humide d'encre. La foule était dense. Kaël tira le col de son long manteau noir et s'arrêta au dernier rang."
+  },
+  {
+   "type": "text",
+   "value": "— Déclaration de la maison Valmont, de Valcendre ! clama le crieur. La maison Valmont fait savoir que le dénommé Kaël, recueilli par charité, ne porte plus son nom depuis son départ de Valcendre. La maison ignore tout de ses pratiques et condamne par avance toute magie contraire aux lois du Haut Conseil."
+  },
+  {
+   "type": "text",
+   "value": "Un murmure gras parcourut la place. Quelqu'un rit."
+  },
+  {
+   "type": "text",
+   "value": "*Par charité*, pensa Kaël. Edmond avait toujours aimé ce mot. Il le prononçait comme on pose une bague sur un doigt."
+  },
+  {
+   "type": "text",
+   "value": "— Magie noire, dit une femme près de lui. Mon cousin était au troisième rang. Il dit que les ombres avaient des dents."
+  },
+  {
+   "type": "text",
+   "value": "— Un pacte, répondit son voisin. Ces gens-là vendent leur âme pour une marque."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'a pas de marque, justement."
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est pire."
+  },
+  {
+   "type": "text",
+   "value": "Kaël s'éloigna. Il avait dormi quatre heures, et ses mains, au fond de ses gants, gardaient une chaleur qui n'était pas la sienne. Depuis l'arène, la voix s'était tue. Il avait passé la nuit à l'attendre, comme on attend un pas dans un couloir."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne revint pas. Restait le mot."
+  },
+  {
+   "type": "text",
+   "value": "*Morrigane.*"
+  },
+  {
+   "type": "text",
+   "value": "Il trouva Corvin avant de le chercher."
+  },
+  {
+   "type": "text",
+   "value": "Devant les grilles de l'Arène de Sombreval, là où l'on affichait les résultats, une vingtaine de participants s'étaient rassemblés autour de son frère adoptif. Corvin parlait fort. Il parlait toujours fort quand il avait peur."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous dis qu'il triche ! Je l'ai vu grandir. Dix-huit ans sans rien. Pas une étincelle. Et d'un coup il jette Varek Dorn hors du cercle ? Quelqu'un l'aide. Une fiole, un sortilège, un démon acheté au marché noir."
+  },
+  {
+   "type": "text",
+   "value": "Il aperçut Kaël et son visage s'illumina d'une joie mauvaise."
+  },
+  {
+   "type": "text",
+   "value": "— Le voilà. Dis-leur, Vide. Dis-leur ce que tu as payé."
+  },
+  {
+   "type": "text",
+   "value": "Les têtes se tournèrent. Kaël s'arrêta à trois pas. Corvin était plus large que lui, plus grand d'une demi-tête, et ses ongles s'allongeaient déjà, gris, recourbés. Son loup affleurait sous la peau, comme toujours quand il était en colère."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai payé quarante couronnes d'argent, dit Kaël. Les frais d'inscription. Comme toi."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un pouffa. Corvin rougit."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te crois drôle ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Je crois que tu as perdu ton souffle à crier, et qu'il te faudra pour le Labyrinthe."
+  },
+  {
+   "type": "text",
+   "value": "Il passa devant lui. Corvin lui saisit l'épaule. Ses griffes percèrent le tissu du manteau, effleurèrent la peau."
+  },
+  {
+   "type": "text",
+   "value": "Kaël tourna lentement la tête. Il ne fit rien d'autre. Mais l'ombre de Corvin, sur les pavés, frémit. Juste un instant, elle sembla se tordre, comme une flamme sous le vent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "L'ombre"
+  },
+  {
+   "type": "text",
+   "value": "Corvin retira sa main. Il ne comprit pas pourquoi. Kaël le vit dans ses yeux : la peur pure, celle des bêtes."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne durera pas, souffla Corvin. Père va trouver ce que tu es."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'est pas mon père, dit Kaël. Il l'a écrit lui-même ce matin. Sur une fontaine."
+  },
+  {
+   "type": "text",
+   "value": "La grande bibliothèque d'Aurelhaven occupait tout un flanc de la colline royale. Un escalier de deux cents marches y montait entre deux statues de hiboux de marbre. Kaël les gravit d'un pas régulier. Pour la première fois depuis son arrivée, il avait le cœur qui battait pour autre chose que la peur."
+  },
+  {
+   "type": "text",
+   "value": "Les livres. Il y en avait là des milliers de fois plus que dans la bibliothèque des Valmont. Peut-être un livre qui disait ce qu'était la chose dans sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "Le gardien de la porte était un homme rond, en robe bleue, avec un registre ouvert sur un lutrin."
+  },
+  {
+   "type": "text",
+   "value": "— Nom ?"
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël de quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il hésita. Une seconde de trop."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Le gardien leva les yeux. Il le regarda de la tête aux pieds : le noir, les gants, le visage trop pâle. Puis il regarda le poignet nu, que la manche ne couvrait pas tout à fait."
+  },
+  {
+   "type": "text",
+   "value": "— Ah, dit-il. C'est vous."
+  },
+  {
+   "type": "text",
+   "value": "— Je cherche les chroniques sur les esprits anciens. Les lignées disparues. Un nom en particulier."
+  },
+  {
+   "type": "text",
+   "value": "— L'accès aux salles est réservé aux porteurs de marque inscrits au registre des esprits. Vous n'êtes pas inscrit."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis inscrit au tournoi."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas le même registre."
+  },
+  {
+   "type": "text",
+   "value": "— La pierre de mesure de Valcendre s'est fissurée sous ma main. C'est écrit quelque part, ça aussi."
+  },
+  {
+   "type": "text",
+   "value": "Le gardien referma son registre. Doucement, presque poliment."
+  },
+  {
+   "type": "text",
+   "value": "— Ordre du Haut Conseil, depuis hier soir. Pas vous. Pas ici. Je suis désolé."
+  },
+  {
+   "type": "text",
+   "value": "Il ne l'était pas. Kaël redescendit vingt marches, puis s'assit. Il avait appris tout seul à lire les vieilles écritures, à manier l'épée, à se taire à table. Il pouvait bien apprendre à attendre sur un escalier."
+  },
+  {
+   "type": "text",
+   "value": "*Ils ferment les registres. Ils ferment les portes.* Dame Halvara savait quelque chose. Quelqu'un, très haut, avait eu peur d'un mot."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez l'air d'un corbeau qui boude."
+  },
+  {
+   "type": "text",
+   "value": "Il leva la tête."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tenait trois marches au-dessus de lui, le soleil derrière elle, de sorte qu'il ne vit d'abord qu'une silhouette et des cheveux qui prenaient la lumière comme de l'or chauffé. Puis elle descendit d'une marche et il reconnut la tresse fine sur le côté, les yeux ambre, l'armure légère blanc et or, que personne d'autre dans la ville n'aurait osé porter un jour sans combat."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Sur les marches"
+  },
+  {
+   "type": "text",
+   "value": "La fille qu'il avait bousculée sur la place, le jour de son arrivée. Celle qui l'avait regardé partir comme on regarde une énigme."
+  },
+  {
+   "type": "text",
+   "value": "— Les corbeaux ne boudent pas, dit Kaël. Ils attendent."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Que quelque chose meure."
+  },
+  {
+   "type": "text",
+   "value": "Elle éclata de rire. Un vrai rire, trop fort pour l'escalier sacré, qui fit se retourner deux érudits."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes sinistre. C'est merveilleux. Vous savez qui je suis ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un qui porte une armure pour aller à la bibliothèque."
+  },
+  {
+   "type": "text",
+   "value": "— Séléné d'Arvalis."
+  },
+  {
+   "type": "text",
+   "value": "Elle le dit simplement. Elle attendit. Il savait ce qu'elle attendait : la révérence, le genou, la voix qui change. Tout Aurelhaven pliait devant ce nom. Arvalis était la plus grande nation du continent, et elle en était l'héritière."
+  },
+  {
+   "type": "text",
+   "value": "Kaël inclina la tête d'un pouce. Pas plus."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Tout le monde sait. Vous êtes le monstre."
+  },
+  {
+   "type": "text",
+   "value": "— Ce matin, oui. Hier, j'étais le Vide. Demain, on verra."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit à côté de lui, sans demander. L'armure tinta contre la pierre. Elle sentait le cuir neuf et quelque chose de chaud, comme une braise d'été."
+  },
+  {
+   "type": "text",
+   "value": "— On vous a refusé l'entrée."
+  },
+  {
+   "type": "text",
+   "value": "— On m'a refusé l'entrée."
+  },
+  {
+   "type": "text",
+   "value": "— Moi aussi, on me refuse des choses, dit-elle. Pas les portes. Les portes, on me les ouvre en courant. C'est le reste. Sortir sans six gardes. Choisir mes robes. Parler à un garçon sur un escalier."
+  },
+  {
+   "type": "text",
+   "value": "Elle jeta un coup d'œil en bas des marches. Kaël suivit son regard : deux hommes en livrée d'Arvalis cherchaient quelqu'un dans la foule, l'air désespéré."
+  },
+  {
+   "type": "text",
+   "value": "— Vous vous êtes échappée."
+  },
+  {
+   "type": "text",
+   "value": "— Je me suis promenée très vite."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi moi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna la tête vers lui. Ses yeux ambre étaient sérieux, tout à coup."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que j'étais au deuxième rang, hier. J'ai vu vos ombres. J'ai un phénix, Kaël. Le feu, je connais. Ce que vous avez fait, ce n'était pas du feu. C'était plus vieux que ça. Mon oiseau s'est caché sous mes côtes, comme un moineau devant un orage. Il ne s'était jamais caché devant rien."
+  },
+  {
+   "type": "text",
+   "value": "Kaël ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Et puis, ajouta-t-elle, vous ne vous êtes pas excusé, l'autre soir. Personne ne m'a bousculée depuis que j'ai six ans. C'était très désagréable. Je voulais voir à quoi ressemblait quelqu'un qui ose."
+  },
+  {
+   "type": "text",
+   "value": "— À un corbeau qui boude."
+  },
+  {
+   "type": "text",
+   "value": "— Exactement."
+  },
+  {
+   "type": "text",
+   "value": "Il faillit sourire. Il sentit le coin de sa bouche bouger et l'en empêcha."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous cherchiez, là-haut ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait pu mentir. Il mentait bien ; il avait eu dix-huit ans d'entraînement. Mais il était fatigué, et elle était la première personne depuis Orsin à lui poser une question en attendant vraiment la réponse."
+  },
+  {
+   "type": "text",
+   "value": "— Un mot. Dame Halvara l'a dit, hier. Après le combat."
+  },
+  {
+   "type": "text",
+   "value": "Le visage de Séléné changea. Elle baissa la voix."
+  },
+  {
+   "type": "text",
+   "value": "— Morrigane."
+  },
+  {
+   "type": "text",
+   "value": "— Vous l'avez entendu."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le deuxième rang l'a entendu. Et ce soir, mon père en a parlé avec ses conseillers, porte fermée. Il croyait que je dormais. Je ne dors jamais quand on ferme les portes."
+  },
+  {
+   "type": "text",
+   "value": "Elle défit une sangle sur le côté de son armure, glissa la main sous le cuir et en tira un petit livre relié de rouge sombre, aux coins usés, qu'elle avait porté contre son flanc comme un poignard."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai pris cette nuit dans la réserve royale. Mon père a une réserve de livres qu'il ne lit jamais. C'est la seule chose qu'il ait qui m'intéresse."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez volé un livre au roi d'Arvalis."
+  },
+  {
+   "type": "text",
+   "value": "— Emprunté. Je suis sa fille. Techniquement, il est un peu à moi."
+  },
+  {
+   "type": "text",
+   "value": "Elle le lui tendit. Sur la couverture, en lettres d'or écaillées : *Chronique des Esprits perdus*."
+  },
+  {
+   "type": "text",
+   "value": "— Page marquée, dit-elle. Je n'ai pas compris. Mais j'ai pensé que vous, oui."
+  },
+  {
+   "type": "text",
+   "value": "Un ruban noir dépassait des pages. Kaël ouvrit le livre là où il tombait."
+  },
+  {
+   "type": "text",
+   "value": "Une gravure occupait la page entière. Une femme immense, faite de flammes, debout au-dessus d'une armée à genoux. Une couronne de pointes noires. Des ailes repliées comme un manteau. Et sous la gravure, une seule ligne : *Celle qui ne choisit qu'une lignée, et la garde.*"
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "La gravure"
+  },
+  {
+   "type": "text",
+   "value": "Kaël sentit le froid avant de comprendre pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Au cou de la reine de flammes, au bout d'une chaîne fine, pendait un médaillon. Rond. Une flamme gravée au centre."
+  },
+  {
+   "type": "text",
+   "value": "Lentement, sans quitter la page des yeux, il porta la main à sa poitrine, là où, sous sa chemise noire, le médaillon d'argent de sa mère venait de devenir brûlant."
+  }
+ ]
+}

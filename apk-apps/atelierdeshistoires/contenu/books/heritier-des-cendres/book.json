@@ -1,0 +1,195 @@
+{
+ "id": "heritier-des-cendres",
+ "title": "L'Héritier des Cendres",
+ "author": "FouLaude",
+ "summary": "Dans ce monde, chaque enfant reçoit à sa naissance l'esprit d'une créature ancienne : un dragon, un loup-garou, un guerrier oublié. Et cet esprit décide de sa valeur. Kaël, lui, n'a rien reçu. Du moins, c'est ce que croient les Valmont, la riche famille qui l'a recueilli bébé et qui ne lui a jamais pardonné de porter leur nom. La nuit de ses dix-huit ans, quelque chose s'éveille en lui : quelque chose de froid, d'immense, qui murmure dans une langue morte. Contre l'avis de tous, il s'inscrit au Tournoi de l'Aube Pourpre. Les Valmont rient. L'arène rit. Puis, combat après combat, plus personne ne rit. Magie noire, tricherie, chance ? Pendant qu'on l'accuse, Kaël découvre qui était vraiment sa mère, et quel esprit elle lui a laissé. Et quand ceux qui l'ont méprisé voudront redevenir sa famille, il sera trop tard.",
+ "cover": "books/heritier-des-cendres/cover.webp",
+ "categories": [
+  "fantasy"
+ ],
+ "tags": [],
+ "status": "completed",
+ "updatedAt": "2026-11-25T17:04:21Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "L'orphelin des Valmont",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 2,
+   "title": "L'Éveil",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 3,
+   "title": "L'inscription",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 4,
+   "title": "Aurelhaven",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 5,
+   "title": "Les qualifications",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 6,
+   "title": "Le monstre des Valmont",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 7,
+   "title": "Le Labyrinthe de Cendres (1)",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 8,
+   "title": "Le Labyrinthe de Cendres (2)",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 9,
+   "title": "Les ombres d'Aurelhaven",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 10,
+   "title": "La Forêt de Morteaux (1)",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 11,
+   "title": "La Forêt de Morteaux (2)",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 12,
+   "title": "Le procès des cendres",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 13,
+   "title": "Les Duels de l'Arène",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 14,
+   "title": "Lyra",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 15,
+   "title": "Le spectre",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 16,
+   "title": "La Tour des Échos (1)",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 17,
+   "title": "La Tour des Échos (2)",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 18,
+   "title": "Ce qui ne meurt pas",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 19,
+   "title": "Quart de finale : le phénix",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 20,
+   "title": "La Reine",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 21,
+   "title": "Les runes grises",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 22,
+   "title": "Ce qu'Isaure savait",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 23,
+   "title": "La chute du lion",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 24,
+   "title": "Demi-finale : le serpent",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 25,
+   "title": "La veille",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 26,
+   "title": "La Couronne d'Aube",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 27,
+   "title": "Les spectres",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 28,
+   "title": "Sous l'arène",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 29,
+   "title": "La famille",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  },
+  {
+   "number": 30,
+   "title": "Brûle doucement",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-25T17:04:21Z"
+  }
+ ]
+}

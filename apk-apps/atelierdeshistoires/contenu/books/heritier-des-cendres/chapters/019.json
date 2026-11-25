@@ -1,0 +1,397 @@
+{
+ "number": 19,
+ "title": "Quart de finale : le phénix",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elle vint frapper à sa porte la veille au soir. Il n'ouvrit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël. Je sais que tu es là. J'entends que tu ne respires pas."
+  },
+  {
+   "type": "text",
+   "value": "Il était assis par terre, dos au lit, dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai trouvé un livre, dit-elle à travers le bois. Sur les spectres. Il faut que tu m'écoutes. Ce que tu vois, la nuit..."
+  },
+  {
+   "type": "text",
+   "value": "— Va-t'en, Séléné."
+  },
+  {
+   "type": "text",
+   "value": "Un long silence. Puis sa voix, plus basse, presque contre la porte."
+  },
+  {
+   "type": "text",
+   "value": "— Demain, je ne te ferai pas de cadeau. Je te préviens. Si tu veux perdre, il faudra me passer sur le corps. Et je suis très difficile à passer."
+  },
+  {
+   "type": "text",
+   "value": "Ses pas s'éloignèrent."
+  },
+  {
+   "type": "text",
+   "value": "Au pied du lit, dans la lumière grise, la femme enchaînée apparut, et elle pleurait."
+  },
+  {
+   "type": "text",
+   "value": "Le tunnel qui menait au sable était long, frais, éclairé par des torches qui crachotaient. Les bruits de la foule y descendaient en grondements sourds, comme la mer contre une falaise."
+  },
+  {
+   "type": "text",
+   "value": "Kaël attendait le signal, seul, adossé à la pierre."
+  },
+  {
+   "type": "text",
+   "value": "Des pas lourds. Une silhouette massive, un bras en écharpe."
+  },
+  {
+   "type": "text",
+   "value": "Brann s'arrêta à côté de lui. Il ne le regarda pas. Il fixait l'ouverture lumineuse au bout du tunnel."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-1.webp",
+   "caption": "Le tunnel"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis toujours en colère, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais rester en colère longtemps. Chez nous, dans le Nord, on dit qu'une colère d'ours dure un hiver entier."
+  },
+  {
+   "type": "text",
+   "value": "— C'est long."
+  },
+  {
+   "type": "text",
+   "value": "— Les hivers sont longs chez nous."
+  },
+  {
+   "type": "text",
+   "value": "Un silence. La foule rugit, là-haut, au nom de Séléné."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es venu pour me dire ça ? demanda Kaël."
+  },
+  {
+   "type": "text",
+   "value": "Brann grogna. Il fouilla dans sa poche de sa main valide et en sortit un petit caillou rond, gris, percé d'un trou, pendu à une lanière de cuir."
+  },
+  {
+   "type": "text",
+   "value": "— Pierre de rivière. Ma mère me l'a donnée avant mon premier combat. Ça porte pas chance. Ça rappelle juste qu'il y a quelqu'un qui t'attend à la maison."
+  },
+  {
+   "type": "text",
+   "value": "Il la lui fourra dans la main."
+  },
+  {
+   "type": "text",
+   "value": "— Toi, t'as personne qui t'attend. Alors, je sais pas. Garde-la. Rends-la-moi après."
+  },
+  {
+   "type": "text",
+   "value": "Il repartit avant que Kaël ait pu répondre. Kaël referma les doigts sur la pierre tiède et la glissa dans sa poche, contre le billet."
+  },
+  {
+   "type": "text",
+   "value": "L'Arène de Sombreval était pleine à craquer."
+  },
+  {
+   "type": "text",
+   "value": "Cent mille personnes, disait-on. Les gradins de pierre antique montaient en cercles jusqu'au ciel, noirs de monde. Les bannières d'Arvalis, blanc et or, flottaient sur tout le côté est, là où s'était massé le peuple venu du nord pour voir sa princesse. Le roi Aurélien, dans la loge d'honneur, une couronne fine sur ses cheveux blonds mêlés de blanc."
+  },
+  {
+   "type": "text",
+   "value": "À l'ouest, la loge des Valmont. Edmond, bagues aux doigts, manteau de velours vert sombre, souriait aux nobles. Isaure, droite, les mains jointes sur ses genoux, ne souriait pas. Elle regardait le sable."
+  },
+  {
+   "type": "text",
+   "value": "Ses mains, jointes, serraient quelque chose. Une petite boîte de nacre, pas plus grande qu'une boîte à pilules, qu'elle ne quittait plus depuis quelques jours. Margaux, assise à côté d'elle, avait demandé ce qu'il contenait. Isaure n'avait pas répondu."
+  },
+  {
+   "type": "text",
+   "value": "Derrière elles, Corvin se pencha vers son père et murmura quelque chose. Edmond hocha la tête sans quitter le sable des yeux."
+  },
+  {
+   "type": "text",
+   "value": "Ysolde, assise un peu à l'écart, observa la scène. Elle observa la boîte de nacre dans les mains de sa mère, le sourire de Corvin, le calme parfait de son père. Elle ne savait pas encore ce qu'elle voyait. Mais elle n'aimait pas la façon dont tout le monde, dans cette loge, semblait connaître la fin du combat avant qu'il ait commencé."
+  },
+  {
+   "type": "text",
+   "value": "— Pour le premier quart de finale, tonna le héraut, Séléné d'Arvalis, Princesse héritière, porteuse du Phénix !"
+  },
+  {
+   "type": "text",
+   "value": "L'arène explosa. Séléné entra dans le cercle, armure blanc et or étincelante, la tresse sur le côté, l'épée courte à la hanche. Elle leva le bras. Des flammes dorées coururent le long de son gantelet."
+  },
+  {
+   "type": "text",
+   "value": "— Contre Kaël, de Valcendre... dit le héraut, et il hésita, ne sachant quel titre donner."
+  },
+  {
+   "type": "text",
+   "value": "— LE VIDE ! hurla une tribune entière."
+  },
+  {
+   "type": "text",
+   "value": "Rires. Sifflets. Des trognons de pomme volèrent sur le sable."
+  },
+  {
+   "type": "text",
+   "value": "Kaël entra. Manteau noir, gants noirs, le dos droit par habitude. Il ne regarda pas les gradins. Il ne regarda pas Séléné. Il regarda le sable devant ses bottes."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara leva la main depuis la tribune des juges."
+  },
+  {
+   "type": "text",
+   "value": "— Commencez."
+  },
+  {
+   "type": "text",
+   "value": "Séléné ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta au centre de l'arène, l'épée au fourreau, et le regarda. Le public se tut peu à peu, intrigué."
+  },
+  {
+   "type": "text",
+   "value": "— Attaque, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Attaque, Kaël."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas envie de te faire du mal."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne pourrais pas me faire du mal, même si tu essayais. Pas comme tu es aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "Elle tira son épée. La lame s'embrasa d'un or pur. Elle fondit sur lui."
+  },
+  {
+   "type": "text",
+   "value": "Il para. Le choc lui remonta jusqu'à l'épaule. Elle frappa encore, haut, bas, rapide, précise, sans retenue. Il recula, para, recula. Il connaissait ce rythme ; elle avait combattu ainsi dans la forêt, contre les chimères, avant que son phénix ne s'épuise. Elle était magnifique quand elle se battait. Il le pensa malgré lui."
+  },
+  {
+   "type": "text",
+   "value": "Elle passa sous sa garde et lui envoya le pommeau dans les côtes. Il plia en deux."
+  },
+  {
+   "type": "text",
+   "value": "— Riposte !"
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "Elle le frappa du plat de la lame sur l'épaule. Il tomba à genoux dans le sable. Les gradins rugirent de joie."
+  },
+  {
+   "type": "text",
+   "value": "— Regarde-les, dit-elle, la respiration courte. Ils rient de toi. Comme chez les Valmont. Tu aimes ça ? Tu veux redevenir le garçon qui sert le vin ?"
+  },
+  {
+   "type": "text",
+   "value": "Il se releva. Il ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle recula de trois pas. Son phénix jaillit derrière elle, immense, ailes dorées déployées sur toute la largeur de l'arène, et la chaleur fit trembler l'air. Les premiers rangs se protégèrent le visage."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-2.webp",
+   "caption": "Le phénix"
+  },
+  {
+   "type": "text",
+   "value": "— Tu es un lâche, cria-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Ce mot-là, il le sentit."
+  },
+  {
+   "type": "text",
+   "value": "— Le garçon qui m'a sortie de la forêt de Morteaux n'était pas un lâche. Le garçon qui a soulevé un plafond pour en sortir n'était pas un lâche. Où est-il ? Rends-le-moi !"
+  },
+  {
+   "type": "text",
+   "value": "Une boule de feu doré fila vers lui. Il l'esquiva à peine ; elle explosa dans le sable derrière lui et souleva une gerbe de verre fondu."
+  },
+  {
+   "type": "text",
+   "value": "— Arrête, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Fais-moi arrêter !"
+  },
+  {
+   "type": "text",
+   "value": "Elle frappait, encore et encore. Il saignait à la lèvre. Son manteau était brûlé à l'épaule. Il ne rendait aucun coup. Les sifflets du public étaient devenus un grondement continu, une marée de mépris qui descendait des gradins."
+  },
+  {
+   "type": "text",
+   "value": "À l'ouest, dans la loge des Valmont, Edmond avait cessé de sourire aux nobles. Il regardait le combat avec une attention de joueur d'échecs."
+  },
+  {
+   "type": "text",
+   "value": "Séléné s'arrêta à deux pas de lui. Elle haletait. Son épée tremblait un peu."
+  },
+  {
+   "type": "text",
+   "value": "Elle baissa la voix. Seul lui pouvait l'entendre."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pour ton poignet, murmura-t-elle. Je sais ce que c'est. Kaël, écoute-moi. Ce n'est pas elle. Les spectres de souvenirs sont des masques. Ils disent ce que leur maître..."
+  },
+  {
+   "type": "text",
+   "value": "Le cri le traversa."
+  },
+  {
+   "type": "text",
+   "value": "Il venait des tribunes. Il leva la tête."
+  },
+  {
+   "type": "text",
+   "value": "Elle était là. Au milieu de la foule de l'ouest, au troisième rang, juste sous la loge des Valmont. Debout parmi les spectateurs qui ne la voyaient pas. Cheveux noirs, robe grise, chaînes de lumière autour des poignets."
+  },
+  {
+   "type": "text",
+   "value": "Et elle hurlait."
+  },
+  {
+   "type": "text",
+   "value": "Le même hurlement que la nuit du billet. Un cri qui n'en finissait pas, qui déchirait l'air, qui lui entrait dans le crâne et lui arrachait tout. Elle tendait les bras vers lui. Les chaînes se resserraient sur sa peau. Elle se tordait."
+  },
+  {
+   "type": "text",
+   "value": "*Tu m'avais promis.*"
+  },
+  {
+   "type": "text",
+   "value": "Kaël tomba à genoux."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sentait plus le sable, ni le sang à sa lèvre, ni les cent mille regards. Il ne sentait que l'anneau gris à son poignet qui brûlait, qui brûlait de froid, qui serrait."
+  },
+  {
+   "type": "text",
+   "value": "— Kaël ? dit Séléné. Kaël, qu'est-ce que tu vois ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il fixait le troisième rang."
+  },
+  {
+   "type": "text",
+   "value": "Séléné suivit son regard. Elle ne vit que des spectateurs qui riaient, et au-dessus d'eux, dans la loge, Edmond Valmont qui ne riait pas. Elle comprit en une seconde. Son visage devint blanc de rage."
+  },
+  {
+   "type": "text",
+   "value": "— Ne fais pas ça, souffla-t-elle. Ne fais pas ça, je t'en supplie. Ce n'est pas ta mère. Regarde-moi. Moi, je suis réelle."
+  },
+  {
+   "type": "text",
+   "value": "Il ne pouvait plus la regarder. La femme hurlait."
+  },
+  {
+   "type": "text",
+   "value": "*Perds. Perds. Perds, et elle sera libre.*"
+  },
+  {
+   "type": "text",
+   "value": "Le règlement du tournoi était simple. Un combattant pouvait déclarer forfait en levant la main ouverte vers la tribune des juges. Le combat s'arrêtait. L'autre l'emportait. Il n'y avait pas de retour possible."
+  },
+  {
+   "type": "text",
+   "value": "Dame Halvara, dans sa tribune, s'était penchée en avant. Elle avait vu le genou à terre. Elle attendait."
+  },
+  {
+   "type": "text",
+   "value": "Kaël leva lentement le bras droit."
+  },
+  {
+   "type": "text",
+   "value": "Sa main tremblait. Les doigts se dépliaient un à un. Les sifflets du public se changèrent en un rugissement de triomphe : *il abandonne, le Vide abandonne*. Séléné lâcha son épée. Elle tendit la main vers lui, trop tard, beaucoup trop tard."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-3.webp",
+   "caption": "Le forfait"
+  },
+  {
+   "type": "text",
+   "value": "Au troisième rang, la femme aux chaînes s'était tue. Elle souriait."
+  },
+  {
+   "type": "text",
+   "value": "Les doigts de Kaël s'ouvrirent."
+  },
+  {
+   "type": "text",
+   "value": "Et tout s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Les ombres de l'arène, d'abord. Celles des gradins, celles des bannières, celles des cent mille spectateurs projetées par le soleil sur la pierre. Elles cessèrent de bouger. Les bannières flottaient encore, mais leurs ombres restaient figées. Les gens riaient encore, mais leurs ombres ne riaient plus."
+  },
+  {
+   "type": "text",
+   "value": "Puis le son se retira, comme une vague."
+  },
+  {
+   "type": "text",
+   "value": "Et dans le silence absolu de sa tête, pour la première fois depuis des jours, quelque chose parla."
+  },
+  {
+   "type": "text",
+   "value": "*Vael. Vael, ith morra.*"
+  },
+  {
+   "type": "text",
+   "value": "Une voix de femme. Profonde. Immense. Une voix qui n'avait rien à voir avec les sanglots de la robe grise. Une voix qu'il avait déjà entendue, une nuit, dans une bibliothèque, quand ses mains avaient pris feu."
+  },
+  {
+   "type": "text",
+   "value": "Puis, dans sa langue à lui, claire comme une cloche dans la nuit :"
+  },
+  {
+   "type": "text",
+   "value": "*Regarde-moi, Kaël. Ce n'est pas moi.*"
+  }
+ ]
+}
