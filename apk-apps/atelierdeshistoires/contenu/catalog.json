@@ -45,7 +45,24 @@
    "updatedAt": "2026-11-25T01:51:40Z",
    "chapterCount": 20,
    "featured": false
+  },
+  {
+   "id": "seconde-langue",
+   "publishedAt": "2026-11-25T03:09:46Z",
+   "order": 2,
+   "title": "Seconde langue",
+   "author": "FouLaude",
+   "cover": "books/seconde-langue/cover.webp",
+   "summary": "Nathan, 22 ans, étudiant boursier en dernière année, croyait avoir une vie simple : une petite amie qu'il aime, un meilleur ami qui est comme un frère. Une nuit d'octobre, il les surprend ensemble. Cette même nuit, aux urgences de l'hôpital, la main en sang après avoir frappé un mur, il croise la dernière personne qu'il s'attendait à voir : Élise Fournier, sa professeure d'anglais, brillante, élégante, intouchable — avec une lèvre fendue qu'elle explique par « une chute dans l'escalier ». Ils se reconnaissent. Ils ne disent rien. Mais à partir de ce soir-là, ils sont les seuls à savoir ce que l'autre cache. Et dans une université où son mari est vice-président, et où tout le monde observe tout le monde, il y a des secrets qui finissent toujours par sortir.",
+   "categories": [
+    "romance"
+   ],
+   "tags": [],
+   "status": "ongoing",
+   "updatedAt": "2026-11-25T03:09:46Z",
+   "chapterCount": 0,
+   "featured": false
   }
  ],
- "updatedAt": "2026-11-25T02:17:31Z"
+ "updatedAt": "2026-11-25T03:09:46Z"
 }
