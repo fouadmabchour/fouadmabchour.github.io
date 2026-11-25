@@ -116,3 +116,5 @@ code { font-size: .85em; background: var(--surface-2); padding: 1px 4px; border-
 .editor figure .cap { width: 100%; margin-top: 6px; text-align: center; font-style: italic; font-family: inherit; }
 .fig-tools { position: absolute; top: 12px; right: 12px; display: flex; gap: 4px; }
 .fig-tools button { padding: 6px; display: inline-flex; background: var(--surface); }
+.ed-toolbar .ic { padding: 8px; }
+.ed-toolbar .btn.ic { margin-left: 0; }

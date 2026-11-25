@@ -141,12 +141,10 @@
     <input id="c-title" name="title" required maxlength="120" autocomplete="off">
     <span class="label" id="c-ed-label">Texte du chapitre</span>
     <div class="ed-toolbar" role="toolbar" aria-label="Mise en forme">
-      <button type="button" data-ed="italic" title="Italique (Ctrl+I) : pensées, titres, messages"><i data-lucide="italic"></i>Italique</button>
-      <button type="button" data-ed="dialogue" title="Ajoute le tiret de dialogue au début du paragraphe">— Dialogue</button>
-      <button type="button" data-ed="quotes" title="Met la sélection entre guillemets">« » Citation</button>
-      <button type="button" data-ed="ellipsis" title="Points de suspension">…</button>
-      <button type="button" data-ed="scene" title="Changement de scène (⁂)"><i data-lucide="asterisk"></i>Scène</button>
-      <label class="btn" for="c-image"><i data-lucide="image-plus"></i>Insérer une image</label>
+      <button type="button" class="ic" data-ed="dialogue" title="Parole d'un personnage (—)" aria-label="Parole d'un personnage"><i data-lucide="message-circle"></i></button>
+      <button type="button" class="ic" data-ed="quotes" title="Citation : « texte » en italique" aria-label="Citation"><i data-lucide="quote"></i></button>
+      <button type="button" class="ic" data-ed="italic" title="Italique (Ctrl+I)" aria-label="Italique"><i data-lucide="italic"></i></button>
+      <label class="btn ic" for="c-image" title="Ajouter une image" aria-label="Ajouter une image"><i data-lucide="image-plus"></i></label>
       <input type="file" id="c-image" accept="image/*" class="visually-hidden">
     </div>
     <div id="c-editor" class="editor" contenteditable="true" role="textbox" aria-multiline="true" aria-labelledby="c-ed-label" spellcheck="true" lang="fr"></div>

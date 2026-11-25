@@ -492,7 +492,10 @@ function edCommand(cmd) {
   ed.focus(); restoreRange();
   if (cmd === 'italic') document.execCommand('italic');
   else if (cmd === 'ellipsis') document.execCommand('insertText', false, '…');
-  else if (cmd === 'quotes') document.execCommand('insertText', false, `« ${getSelection().toString()} »`);
+  else if (cmd === 'quotes') {
+    const t = getSelection().toString().trim();
+    document.execCommand('insertHTML', false, `<em>« ${esc(t)} »</em>${t ? '' : ''}`);
+  }
   else if (cmd === 'dialogue') {
     let p = currentPara();
     if (!p || p.nodeName === 'FIGURE') { p = paragraph(''); ed.append(p); }
