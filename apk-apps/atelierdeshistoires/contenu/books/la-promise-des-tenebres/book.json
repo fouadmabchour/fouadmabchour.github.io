@@ -9,7 +9,7 @@
  ],
  "tags": [],
  "status": "completed",
- "updatedAt": "2026-11-26T16:54:04Z",
+ "updatedAt": "2026-11-26T21:31:58Z",
  "chapters": [
   {
    "number": 1,
@@ -33,7 +33,7 @@
    "number": 4,
    "title": "Le premier service",
    "file": "chapters/004.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 5,
@@ -45,7 +45,7 @@
    "number": 6,
    "title": "Le plat rouge",
    "file": "chapters/006.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 7,
@@ -69,7 +69,7 @@
    "number": 10,
    "title": "Monsieur Paul",
    "file": "chapters/010.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 11,
@@ -105,7 +105,7 @@
    "number": 16,
    "title": "Les mots interdits",
    "file": "chapters/016.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 17,
@@ -123,7 +123,7 @@
    "number": 19,
    "title": "Clara",
    "file": "chapters/019.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 20,
@@ -141,7 +141,7 @@
    "number": 22,
    "title": "Première mort",
    "file": "chapters/022.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 23,
@@ -177,7 +177,7 @@
    "number": 28,
    "title": "Le reflet",
    "file": "chapters/028.json",
-   "updatedAt": "2026-11-26T16:54:04Z"
+   "updatedAt": "2026-11-26T21:31:58Z"
   },
   {
    "number": 29,
