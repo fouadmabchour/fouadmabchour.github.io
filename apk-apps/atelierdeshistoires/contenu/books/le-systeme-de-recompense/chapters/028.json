@@ -31,6 +31,11 @@
    "value": "Marta leur avait prêté son âne, une bête grise et philosophe nommée Pompidou, qui tirait la carriole dans laquelle Léo, côtes bandées, voyageait contre son gré. Victoria marchait à côté, dans ses bottes rouges, en relevant sa robe comme sur les marches du Palais, ce qui, sur un sentier de montagne, relevait moins du caprice que de l'exploit sportif."
   },
   {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "L'âne Pompidou"
+  },
+  {
    "type": "text",
    "value": "— Tu pourrais monter, toi aussi, proposa Léo."
   },
@@ -89,6 +94,11 @@
   {
    "type": "text",
    "value": "Au bout du couloir, une salle immense s'ouvrit sous la montagne, si grande que leurs voix s'y perdaient. Des rayonnages montaient jusqu'au plafond sur des dizaines de rangées, et sur chaque étagère s'alignaient des milliers de petites boîtes de verre étiquetées, givrées par le froid. Lina s'arrêta net. Elle s'approcha d'une étagère, lut une étiquette, puis une autre, puis porta les deux mains à sa bouche."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "La réserve de semences"
   },
   {
    "type": "text",
@@ -233,6 +243,11 @@
   {
    "type": "text",
    "value": "Il recula d'un pas, grimaça à cause des côtes, et mit un genou à terre sur le sol d'acier, entre les rayonnages, ce qui fut nettement moins élégant que prévu."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "La demande"
   },
   {
    "type": "text",

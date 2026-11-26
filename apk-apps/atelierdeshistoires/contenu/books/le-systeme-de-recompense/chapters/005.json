@@ -79,6 +79,11 @@
    "value": "Il s'agrippa à une bretelle. Gros Didier tira de l'autre côté. Pendant deux secondes absurdes, ils jouèrent à la corde à tirer dans le noir, au-dessus de la marmite vide, en ahanant comme deux déménageurs."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Tir à la corde"
+  },
+  {
    "type": "text",
    "value": "[Conseil : lâchez la bretelle.]"
   },
@@ -167,6 +172,11 @@
    "value": "La barre de fer heurta la fonte avec un « dong » de cloche d'église, énorme, qui résonna dans toute la cabane et sans doute dans tout Fort-Rouille. L'onde de choc remonta dans les bras de l'homme, qui lâcha son arme en jurant. Léo, emporté par son élan, lui donna un deuxième coup de marmite, pas très fort, plutôt maladroit, sur le côté du crâne. L'homme partit en arrière, passa à moitié par la fenêtre, et disparut dans la nuit en courant, plié en deux, une main sur la tête."
   },
   {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Le coup de marmite"
+  },
+  {
    "type": "text",
    "value": "Léo resta debout, la marmite à bout de bras, le souffle court."
   },
@@ -225,6 +235,11 @@
   {
    "type": "text",
    "value": "Brutus s'arrêta devant la cabane. Il regarda la scène lentement : Rico à genoux, Gros Didier assis par terre, la porte ouverte, la fenêtre cassée, le sac sur le seuil, et Léo, une marmite à la main."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "La ronde de nuit"
   },
   {
    "type": "text",

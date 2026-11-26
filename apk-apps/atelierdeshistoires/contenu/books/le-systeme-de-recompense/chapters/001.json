@@ -51,6 +51,11 @@
    "value": "Il posa sa conserve sur la palette. Elle roula un peu, à cause de la bosse, et s'arrêta contre la botte de Brutus."
   },
   {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "La boîte cabossée"
+  },
+  {
    "type": "text",
    "value": "Le silence qui suivit dura exactement le temps qu'il fallait pour que Léo regrette d'être né."
   },
@@ -151,6 +156,11 @@
    "value": "Léo tourna la tête. Kara Duval se tenait près d'un conteneur, les bras croisés, ses mitaines noires sur ses biceps nus, ses cheveux bruns coupés si court qu'on aurait dit qu'elle les avait rasés au couteau. Ce qui était peut-être le cas. Ancienne militaire, disait-on. Elle parlait peu, ne souriait jamais, et Léo l'avait vue une fois maîtriser un ivrogne deux fois plus lourd qu'elle sans même renverser son gobelet d'eau."
   },
   {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "La sergente"
+  },
+  {
    "type": "text",
    "value": "— Toi, tu montes la garde quand je te le permets, répondit Brutus. Et je ne te le permets plus."
   },
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "Une lumière bleu cyan, nette, rectangulaire, flottant à trente centimètres de son visage. Des contours fins, des lettres parfaites, une petite musique joyeuse de jeu vidéo qui résonna directement à l'intérieur de son crâne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "L'écran apparaît"
   },
   {
    "type": "text",

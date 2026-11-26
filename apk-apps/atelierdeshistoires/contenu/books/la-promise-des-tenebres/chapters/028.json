@@ -23,6 +23,11 @@
    "value": "Il tenait toujours sa main. Il la sentit se raidir."
   },
   {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "Regarde"
+  },
+  {
    "type": "text",
    "value": "— Je ne peux pas. Je n'ai pas le droit."
   },
@@ -123,6 +128,11 @@
    "value": "Le voile noir taché avait glissé sur le parquet et ne s'était pas relevé. La robe ivoire, jaunie par trois siècles, avait retrouvé l'éclat d'un tissu neuf. Et le visage d'Isaure, ce visage que Noé seul avait vu depuis le premier soir, tous le voyaient enfin : les cheveux d'encre qui coulaient jusqu'à ses reins, la peau de neige, les grands yeux noirs brillants de larmes, et cette bouche fine, intacte, qui souriait."
   },
   {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "Tous la voient"
+  },
+  {
    "type": "text",
    "value": "Cinquante invités la regardaient, et personne ne criait."
   },
@@ -201,6 +211,11 @@
   {
    "type": "text",
    "value": "Elle regarda le comte droit dans ses yeux sans pupilles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "Non"
   },
   {
    "type": "text",

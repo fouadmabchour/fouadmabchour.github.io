@@ -59,6 +59,11 @@
    "value": "Il saisit le coin du drap et le fit glisser."
   },
   {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "Le portrait"
+  },
+  {
    "type": "text",
    "value": "Isaure le regardait."
   },
@@ -113,6 +118,11 @@
   {
    "type": "text",
    "value": "Il se tenait devant un petit tableau, accroché bas, à moitié dissimulé par l'angle d'une armoire vitrée. Un portrait d'homme, en buste, sur fond sombre. Pas d'habit brodé, pas de perruque : une chemise ouverte au col, une veste de toile tachée de couleur, des cheveux châtains un peu trop longs retenus par un cordon. Un pinceau coincé derrière l'oreille. Des yeux verts. Une mâchoire fine. Et ce sourire en coin, à peine esquissé, que Noé voyait chaque matin dans le miroir de sa salle de bains, à la Croix-Rousse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Aurèle"
   },
   {
    "type": "text",
@@ -181,6 +191,11 @@
   {
    "type": "text",
    "value": "Malik avait déjà fermé les yeux. Il les avait fermés si fort que tout son visage se plissait, et il s'était figé sur le seuil, une main en avant, comme un enfant qui joue à colin-maillard."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "Le miroir"
   },
   {
    "type": "text",

@@ -11,6 +11,11 @@
    "value": "Les servantes tiraient de longues tables à tréteaux au milieu de la salle. Elles les couvraient de nappes damassées, jaunies aux plis, y alignaient des assiettes de porcelaine, des couverts d'argent, des chandeliers aux flammes noires. Elles travaillaient vite, en silence, toutes ensemble, et leurs gestes identiques avaient quelque chose de mécanique, comme les figurines d'une horloge de clocher."
   },
   {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "Le banquet"
+  },
+  {
    "type": "text",
    "value": "Céleste monta sur une marche de l'estrade."
   },
@@ -107,6 +112,11 @@
    "value": "Elle coupa elle-même un minuscule morceau dans l'assiette de Clara, le porta à ses lèvres, comme elle l'aurait fait pour un patient trop faible. Clara ferma les yeux et avala. Puis un autre. Yasmine lui parlait sans arrêt, d'une voix basse et régulière, de Marseille, des collègues de son service, de la mer en hiver quand il n'y a plus de touristes. Elle ne s'arrêta pas une seconde, et l'assiette de Clara se vida bouchée après bouchée."
   },
   {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "Ensemble"
+  },
+  {
    "type": "text",
    "value": "Au milieu du repas, Noé osa un regard vers l'estrade. On avait servi les mariés, eux aussi. Le comte mangeait avec une élégance parfaite, coupant de petites bouchées qu'il portait à sa bouche sans jamais quitter la salle des yeux, comme un fermier qui surveille son troupeau. La mariée, elle, n'avait pas d'assiette. Ses mains restaient croisées sur ses genoux. Elle regardait les invités manger, un à un, et sur son visage de neige passait une expression que Noé mit longtemps à reconnaître, parce qu'il ne s'attendait pas à la trouver là. C'était de la pitié. Et peut-être de la culpabilité."
   },
@@ -177,6 +187,11 @@
   {
    "type": "text",
    "value": "Une servante s'approcha à pas légers. Elle ramassa la chaussure prune, la posa sur son plateau à côté des verres, et repartit en souriant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "La chaussure"
   },
   {
    "type": "text",

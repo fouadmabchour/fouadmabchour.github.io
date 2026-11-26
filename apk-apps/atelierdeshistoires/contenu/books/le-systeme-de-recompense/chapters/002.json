@@ -23,6 +23,11 @@
    "value": "Léo se frotta les yeux. Fort. Il vit des étoiles orange, puis à nouveau le rectangle bleu, intact, lumineux, avec sa petite bordure élégante."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Pas une hallucination"
+  },
+  {
    "type": "text",
    "value": "[Bonjour, Léo Marchal ! Je suis votre Système d'assistance. Votre bien-être est ma priorité.]"
   },
@@ -153,6 +158,11 @@
   {
    "type": "text",
    "value": "Un peu plus loin, la rousse en robe rouge s'était plantée devant Brutus. Elle parlait avec une diction impeccable, chaque syllabe posée comme un bijou sur un coussin de velours."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La diva négocie"
   },
   {
    "type": "text",
@@ -297,6 +307,11 @@
   {
    "type": "text",
    "value": "— Les trois, répéta Brutus, en savourant chaque mot. Triple double Tribut. Tu sais compter jusque-là, au moins ?"
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "Je les prends"
   },
   {
    "type": "text",

@@ -27,6 +27,11 @@
    "value": "Une femme. Maigre à faire peur, les cheveux noirs tirés en arrière, un vieux coupe-vent rouge sur le dos. Derrière elle, deux enfants. Une fille d'environ huit ans, un garçon de cinq ans peut-être, qui serrait des jumelles en plastique, des jumelles de jouet, avec un dessin de dinosaure sur le côté."
   },
   {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "Rencontre en forêt"
+  },
+  {
    "type": "text",
    "value": "— Ne touchez pas à mes enfants, dit la femme. Je vous en supplie. On n'a rien. On voulait juste voir si vous étiez méchants."
   },
@@ -137,6 +142,11 @@
   {
    "type": "text",
    "value": "Léo ouvrit son sac par réflexe. Une poule rousse en sortit en battant des ailes, traversa la cuisine en caquetant d'indignation et alla se percher sur la tête de Hakim, qui dormait dans son fauteuil à oreilles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "La poule vivante"
   },
   {
    "type": "text",
@@ -253,6 +263,11 @@
   {
    "type": "text",
    "value": "Derrière le tas de bois, accroupi, il y avait Thibault. Il tenait un talkie-walkie contre sa bouche. Un vrai, noir, avec une petite antenne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Le traître"
   },
   {
    "type": "text",

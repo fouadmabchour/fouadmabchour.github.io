@@ -67,6 +67,11 @@
    "value": "Puis le cœur arriva dans les mains de Monsieur Paul."
   },
   {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "Le bibliothécaire"
+  },
+  {
    "type": "text",
    "value": "— Stop."
   },
@@ -101,6 +106,11 @@
   {
    "type": "text",
    "value": "La Douairière, droite sur son siège, ne bougeait plus du tout."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "La Douairière"
   },
   {
    "type": "text",
@@ -209,6 +219,11 @@
   {
    "type": "text",
    "value": "La chaise de Monsieur Paul était vide. Sur la nappe, à côté du cœur de verre, il ne restait que ses lunettes de lecture, et un petit carnet relié de cuir, fermé par un élastique, que Noé n'avait jamais vu entre ses mains."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Le carnet"
   },
   {
    "type": "text",

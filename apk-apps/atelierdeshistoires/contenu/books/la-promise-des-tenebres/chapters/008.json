@@ -95,6 +95,11 @@
    "value": "Céleste s'avança avec un coussin de velours pourpre. Posé dessus, un objet de la taille d'un poing. Noé crut d'abord à une pierre, polie et noire comme de l'obsidienne. Puis il vit la chose se contracter. Se dilater. Se contracter encore."
   },
   {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Le Passe-cœur"
+  },
+  {
    "type": "text",
    "value": "C'était un cœur. Un cœur de verre noir, aux veines figées dans la matière, et il battait. Chaque pulsation emplissait le verre d'une faible lueur sombre, comme une braise qui respire sous la cendre. On entendait son battement d'un bout à l'autre de la salle, sourd, mouillé, régulier."
   },
@@ -203,6 +208,11 @@
    "value": "Quand les flammes noires se rallumèrent, la chaise était vide. Ses lunettes reposaient sur la nappe, les branches repliées, soigneusement, comme si quelqu'un les avait rangées pour lui. Et le cœur de verre attendait au milieu de la table, battant de nouveau, tranquille, rassasié."
   },
   {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Les lunettes"
+  },
+  {
    "type": "text",
    "value": "— Un secret, dit doucement le comte. Ce n'était qu'un secret. Tout le monde en a."
   },
@@ -241,6 +251,11 @@
   {
    "type": "text",
    "value": "Malik se figea, les bras tendus, le cœur de verre battant entre ses doigts. Il tourna lentement la tête vers Noé. Ses yeux étaient immenses."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Stop"
   },
   {
    "type": "text",

@@ -63,6 +63,11 @@
    "value": "Elle s'appelait Yasmine Haddad, elle était infirmière de nuit à Marseille, et elle s'était endormie dans la salle de repos du service entre deux tournées. Elle le dit d'une traite, sans pathos, comme on donne un compte rendu. À côté d'elle se tenait une jeune femme blonde, menue, qui serrait autour de ses épaules un châle de soie trop fin pour le froid."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "L'infirmière"
+  },
+  {
    "type": "text",
    "value": "— Clara, se présenta-t-elle d'une voix douce. Je suis institutrice. À Dijon. Enfin, j'étais à Dijon il y a une heure. Elle eut un rire qui se brisa. Pardon. Je ne sais pas pourquoi je ris."
   },
@@ -117,6 +122,11 @@
   {
    "type": "text",
    "value": "Noé se pencha à son tour. Le brouillard collait à la vitre, épais, laiteux, sans un arbre, sans un toit, sans ciel. Il bougeait lentement, comme une eau qui respire. Et dans ce mouvement, à une dizaine de mètres peut-être, une forme se dessina. Une silhouette humaine, blanche, très mince, qui ne marchait pas : elle se tenait là, la tête légèrement penchée. Puis une deuxième, un peu plus loin. Une troisième."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "Dans le brouillard"
   },
   {
    "type": "text",
@@ -229,6 +239,11 @@
   {
    "type": "text",
    "value": "Sous ses yeux, le givre commença à la recouvrir. Il partit des pieds griffus, grimpa en fines aiguilles le long des barreaux, s'étala sur le coussin en fougères blanches, jusqu'à ce que la chaise tout entière soit prise dans la glace, étincelante, comme une pierre tombale qu'on aurait posée là pour que personne n'oublie."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "La chaise givrée"
   }
  ]
 }

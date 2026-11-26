@@ -147,6 +147,11 @@
    "value": "Kara entra à ce moment-là, en sueur après sa ronde, et s'assit sans un mot. Elle prit la galette de Léo, mordit dedans, et reposa l'assiette."
   },
   {
+   "type": "image",
+   "src": "images/ch19-1.webp",
+   "caption": "Le petit-déjeuner volé"
+  },
+  {
    "type": "text",
    "value": "— Hé ! dit Lina. C'est à Léo !"
   },
@@ -251,6 +256,11 @@
    "value": "Il s'assit sur un seau retourné. Le seau était plein d'eau. Il se releva. Personne ne rit, ce qui était très mauvais signe."
   },
   {
+   "type": "image",
+   "src": "images/ch19-2.webp",
+   "caption": "Le tribunal du potager"
+  },
+  {
    "type": "text",
    "value": "— On a parlé, dit Lina. Toutes les trois."
   },
@@ -341,6 +351,11 @@
   {
    "type": "text",
    "value": "Le grenier à foin était vide. Le sac de randonnée de Thibault avait disparu. Et sur le mur de la cuisine, à l'endroit où Romane avait accroché son grand plan des Combes, avec le puits, les réserves, les postes de garde et le passage sous le mur nord, il ne restait plus qu'un clou."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-3.webp",
+   "caption": "Le plan volé"
   },
   {
    "type": "text",

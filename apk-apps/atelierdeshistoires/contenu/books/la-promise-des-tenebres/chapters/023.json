@@ -75,6 +75,11 @@
    "value": "Le rectangle de la salle. Trois lustres, dont il ne pouvait regarder que la lumière qu'ils jetaient au sol. L'estrade à l'est. Le fauteuil de la Douairière au fond, et derrière elle cette grande forme drapée de noir. Les fenêtres aveugles au nord. Le mur ouest et son faux espoir. Et les règles de la danse, qu'il notait une à une, comme il l'aurait fait au dos d'une boîte de jeu."
   },
   {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "La carte mentale"
+  },
+  {
    "type": "text",
    "value": "Un : quand la musique joue, on danse. Celui qui s'arrête, le parquet le prend."
   },
@@ -171,6 +176,11 @@
    "value": "Cette fois, quand les lustres faiblirent, ils étaient prêts. Noé avait prévenu les autres, et les autres avaient prévenu leurs voisins, et un murmure avait couru sur la piste comme un frisson : fermez les yeux quand il fera noir. Il sentit les longs doigts dans ses cheveux. La goutte sur sa joue. Il serra les paupières si fort qu'il vit des étoiles, et il continua de tourner, la main de Yasmine dans la sienne, un, deux, trois."
   },
   {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Danser à l'aveugle"
+  },
+  {
    "type": "text",
    "value": "Quelqu'un, à sa droite, poussa un petit cri de surprise. Puis plus rien. Seulement le bruit d'une chaussure de femme qui roulait sur le parquet."
   },
@@ -233,6 +243,11 @@
   {
    "type": "text",
    "value": "Il leva les yeux. C'était une servante. Le même visage que toutes les autres, le même sourire de porcelaine. Elle referma les doigts sur les siens, doucement, et l'entraîna dans la valse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "La servante en gris"
   },
   {
    "type": "text",

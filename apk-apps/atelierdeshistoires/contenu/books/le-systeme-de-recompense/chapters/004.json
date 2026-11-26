@@ -11,6 +11,11 @@
    "value": "Personne ne parla pendant ces sept minutes. On n'entendait que les cuillères, puis les doigts qui raclaient le fond de la marmite, puis Lina qui soupira de bonheur, les yeux fermés, comme on soupire devant la mer. Victoria Sorel mangea avec une élégance de dîner officiel, le dos droit, les petits doigts écartés, mais elle se resservit trois fois et lécha discrètement sa cuillère quand elle crut que personne ne regardait."
   },
   {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "Dîner de gala"
+  },
+  {
    "type": "text",
    "value": "Léo regardait. Il ne dit rien. Il tenait à la vie."
   },
@@ -157,6 +162,11 @@
   {
    "type": "text",
    "value": "Le rectangle bleu s'alluma aussitôt, à quelques centimètres de son nez. Il plissa les yeux. Dans le noir, c'était comme regarder un téléphone à pleine luminosité à trois heures du matin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "Mode nuit"
   },
   {
    "type": "text",
@@ -405,6 +415,11 @@
   {
    "type": "text",
    "value": "Il venait de la porte. Quelqu'un, de l'autre côté, glissait une lame entre le battant et le chambranle. Lentement. Pour couper la ficelle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "La ficelle"
   },
   {
    "type": "text",

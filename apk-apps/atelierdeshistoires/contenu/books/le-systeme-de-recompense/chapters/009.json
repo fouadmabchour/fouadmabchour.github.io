@@ -123,6 +123,11 @@
    "value": "Une heure plus tard, Petit Sam se tenait sur le seuil de la cabane, un sac poubelle sur l'épaule contenant l'intégralité de ses possessions : un tournevis, une bande dessinée sans couverture, une chaussette orpheline et une figurine de dinosaure à qui il manquait la queue. Il avait des cheveux noirs coupés au couteau, des genoux écorchés et un regard de méfiance absolue."
   },
   {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "C'est un piège"
+  },
+  {
    "type": "text",
    "value": "— C'est un piège, déclara-t-il."
   },
@@ -175,6 +180,11 @@
    "value": "La première tentative fut un désastre. Victoria jeta une poignée de riz dans l'eau froide, posa la casserole sur le poêle et partit déclamer du Racine devant Sam, qui écoutait la bouche ouverte. Le riz brûla, l'eau s'évapora, la fumée remplit la cabane, et ils finirent tous les six dehors, en toussant, pendant que Mémé Jo hurlait des insultes de cantinière que Léo n'avait jamais entendues, même chez les livreurs."
   },
   {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "Le riz brûlé"
+  },
+  {
    "type": "text",
    "value": "— Mais qui t'a appris à faire cuire du riz, bon sang ?"
   },
@@ -197,6 +207,11 @@
   {
    "type": "text",
    "value": "La deuxième tentative fut seulement mauvaise. La troisième fut mangeable. À la quatrième, Victoria servit un riz aux haricots tout à fait honnête, dans des assiettes ébréchées, avec une cérémonie de grand restaurant, une serviette pliée sur l'avant-bras."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Le plat du jour"
   },
   {
    "type": "text",

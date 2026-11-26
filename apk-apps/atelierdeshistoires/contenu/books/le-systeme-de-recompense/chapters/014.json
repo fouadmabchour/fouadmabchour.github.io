@@ -27,6 +27,11 @@
    "value": "Petit Sam, lui, n'avait pas demandé la permission. Il s'était simplement endormi sur le sac de Léo, en le serrant comme un ours en peluche. Personne n'avait eu le cœur de le réveiller pour lui dire non."
   },
   {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "Le passager clandestin"
+  },
+  {
    "type": "text",
    "value": "Et puis, au moment où ils se glissaient vers le trou du grillage, une silhouette les attendait dans l'ombre, une caisse à outils à la main."
   },
@@ -147,6 +152,11 @@
    "value": "— Elles sont blanches. Avec des bandes fluo. Je vais ressembler à une prof d'aérobic."
   },
   {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Les baskets fluo"
+  },
+  {
    "type": "text",
    "value": "— Une prof d'aérobic vivante, dit Kara."
   },
@@ -229,6 +239,11 @@
   {
    "type": "text",
    "value": "Les feux s'allumaient un par un, lentement, méthodiquement, comme on referme un piège."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "Le cercle de feux"
   },
   {
    "type": "text",

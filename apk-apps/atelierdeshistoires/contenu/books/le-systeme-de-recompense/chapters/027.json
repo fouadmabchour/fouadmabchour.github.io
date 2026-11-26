@@ -75,6 +75,11 @@
    "value": "Elle l'emmena derrière la grange, là où, sous la bâche que le feu n'avait pas atteinte, survivait le premier carré de tomates. Il y en avait une, une seule, qui avait rougi pendant la bataille. Ronde, brillante, ridicule de beauté au milieu de la cendre."
   },
   {
+   "type": "image",
+   "src": "images/ch27-1.webp",
+   "caption": "La première tomate"
+  },
+  {
    "type": "text",
    "value": "— Je l'ai gardée pour toi, dit Lina. C'est la première tomate du nouveau monde. Enfin, de notre nouveau monde."
   },
@@ -149,6 +154,11 @@
   {
    "type": "text",
    "value": "Elle lui prit la main valide, la retourna, montra les cals qui avaient poussé sur sa paume depuis les leçons de combat."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-2.webp",
+   "caption": "Le serment de Kara"
   },
   {
    "type": "text",
@@ -305,6 +315,11 @@
   {
    "type": "text",
    "value": "Au-dessus des arbres, sur le flanc noir du Pilat, une lumière venait de s'allumer. Une ligne droite, blanche, parfaite, qui s'élargissait lentement à mesure qu'un grondement de métal roulait jusqu'à eux à travers la vallée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-3.webp",
+   "caption": "La porte s'ouvre"
   },
   {
    "type": "text",

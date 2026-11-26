@@ -83,6 +83,11 @@
    "value": "Léo courut jusqu'à la chambre des femmes. Le lit de Victoria était fait, ce qui en soi était déjà suspect : elle ne le faisait jamais, au nom d'un principe qu'elle appelait « le désordre artistique ». Sur l'oreiller, un papier plié en deux. L'écriture était grande, élégante, pleine de boucles inutiles."
   },
   {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "La lettre de Victoria"
+  },
+  {
    "type": "text",
    "value": "« Mes chéris. Il manque de l'huile, du sel et des bougies, et je refuse de passer l'hiver à manger des patates à la lueur des étoiles comme une figurante dans un film paysan. Je vais à Pélussin. Je connais l'endroit, j'y ai tourné une publicité pour du fromage en 2019, ne posez pas de questions. Je serai rentrée avant le dîner. Ne m'attendez pas pour être heureux, vous avez l'air d'y arriver très bien sans moi. V. »"
   },
@@ -227,6 +232,11 @@
    "value": "Dans la ruelle, contre un mur couvert de tags délavés, gisait une basket blanche à bandes fluo."
   },
   {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "La basket abandonnée"
+  },
+  {
    "type": "text",
    "value": "Léo la ramassa. Le lacet était arraché. Il pensa aux talons rouges qu'elle avait perdus dans le car, la nuit des Charognards, et qu'elle regrettait encore à voix haute chaque fois qu'elle enfilait ces baskets « de joggeuse dépressive ». « Une femme peut tout perdre, sauf sa dignité », disait-elle. Elle venait de perdre une chaussure de plus."
   },
@@ -289,6 +299,11 @@
   {
    "type": "text",
    "value": "C'était un vieux morceau de boîte de céréales. Au dos, au feutre noir, en grosses lettres maladroites, le Bourreau avait écrit son message. Il n'y avait pas de signature. Il n'y en avait pas besoin : au coin du carton, quelqu'un avait dessiné un masque de hockey avec un sourire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "L'ultimatum"
   },
   {
    "type": "text",

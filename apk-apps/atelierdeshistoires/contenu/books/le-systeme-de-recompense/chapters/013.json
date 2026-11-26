@@ -15,6 +15,11 @@
    "value": "Léo avait les mains attachées dans le dos. Ce n'était pas nécessaire, mais Brutus aimait les détails."
   },
   {
+   "type": "image",
+   "src": "images/ch13-1.webp",
+   "caption": "L'accusé"
+  },
+  {
    "type": "text",
    "value": "[Bonjour, Léo ! Nouvel événement : procès. Information utile : je n'ai aucune compétence juridique. Mais je vous soutiens à 100 %.]"
   },
@@ -77,6 +82,11 @@
   {
    "type": "text",
    "value": "Didier ouvrit la bouche. Il la referma. Il regarda Brutus d'un air désespéré."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-2.webp",
+   "caption": "Le faux témoin"
   },
   {
    "type": "text",
@@ -181,6 +191,11 @@
   {
    "type": "text",
    "value": "Victoria se tourna vers la foule et, pendant cinq minutes, elle fut magnifique. Elle ne cria pas. Elle parla doucement, puis plus fort, puis doucement encore. Elle fit rire la foule en imitant Didier qui cherchait l'heure dans le ciel. Elle la fit frissonner en racontant la corde, le pilier, la petite rose arrachée. Elle posa des questions simples, terribles : où étaient les quarante-deux conserves, si Léo les avait volées ? Pourquoi pas une seule trouvée dans son sac, qu'il ouvrait pourtant devant tout le monde ? Pourquoi seulement deux, posées bien en vue, comme dans un mauvais téléfilm de dimanche après-midi ?"
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-3.webp",
+   "caption": "La plaidoirie"
   },
   {
    "type": "text",

@@ -27,6 +27,11 @@
    "value": "D'abord, il ne vit rien. Puis la peau rose du majordome sembla pâlir, comme une photographie qu'on laisse au soleil. Elle prit une teinte de cendre mouillée, se tendit sur les pommettes jusqu'à laisser deviner l'os. Le sourire, lui, ne changea pas. Mais Noé vit qu'il était trop long, qu'il continuait bien au-delà de l'endroit où une bouche devrait s'arrêter, qu'il remontait presque jusqu'aux oreilles en une fente fine et sombre. Et les yeux de Céleste, qu'il avait crus bruns, étaient deux billes blanches, laiteuses, sans pupille, tournées vers la salle sans la voir."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Le vrai visage"
+  },
+  {
    "type": "text",
    "value": "Noé cligna des paupières. Le majordome redevint un majordome, rose et souriant."
   },
@@ -93,6 +98,11 @@
   {
    "type": "text",
    "value": "— Valmorte était la demeure d'une vieille famille du Jura. Des comtes. Riches, puissants, assez peu aimés. Le château a brûlé à la fin du dix-huitième siècle, puis il a été pillé, puis on l'a oublié. Aujourd'hui, les randonneurs y pique-niquent. Mais il existe une légende. Les gens du village voisin la racontaient encore quand j'étais jeune. Je l'ai retrouvée dans un vieux recueil de contes locaux, imprimé à compte d'auteur par un curé de campagne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "La légende"
   },
   {
    "type": "text",
@@ -177,6 +187,11 @@
   {
    "type": "text",
    "value": "C'était un ruban de soie noire, long comme une main, doux, tiède encore. Un ruban de corsage, du genre qu'on nouait autrefois dans les cheveux ou aux poignets. Il le glissa dans sa paume, se redressa, et le déroula discrètement contre sa cuisse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Aide-moi"
   },
   {
    "type": "text",

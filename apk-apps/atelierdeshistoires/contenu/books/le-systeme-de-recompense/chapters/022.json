@@ -87,6 +87,11 @@
    "value": "Pas une chute ordinaire. Une chute de cinéma, longue, gracieuse, la main sur le front, le dos qui se cambre, la chevelure rousse qui s'étale sur le bitume comme un drapeau. Puis elle se mit à tousser. Une toux affreuse, profonde, qui lui secouait tout le corps."
   },
   {
+   "type": "image",
+   "src": "images/ch22-1.webp",
+   "caption": "La fièvre grise"
+  },
+  {
    "type": "text",
    "value": "— Ne… ne vous approchez pas, haleta-t-elle. C'est revenu. Mon Dieu, c'est revenu."
   },
@@ -137,6 +142,11 @@
   {
    "type": "text",
    "value": "Elle surgit du quai de livraison comme un orage, la machette dans une main, une barre de fer dans l'autre. Le premier Charognard ne la vit même pas venir ; il s'écroula contre un caddie. Le deuxième voulut lever son arbalète, Kara la lui arracha et l'assomma avec la crosse. Sur le toit, une pierre siffla : Hakim, posté dans l'arbre derrière le parking, faisait des miracles avec la fronde de Petit Sam."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-2.webp",
+   "caption": "Kara surgit"
   },
   {
    "type": "text",
@@ -245,6 +255,11 @@
   {
    "type": "text",
    "value": "Victoria sortit les bottes du sac, les contempla, et éclata d'un rire si franc que les oiseaux s'envolèrent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-3.webp",
+   "caption": "Les bottes rouges"
   },
   {
    "type": "text",

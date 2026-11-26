@@ -15,6 +15,11 @@
    "value": "Pas le froid d'un appartement mal chauffé. Un froid de pierre, de cave, qui montait par les semelles et s'enroulait autour des chevilles. Noé ouvrit les yeux sur une lumière qui n'éclairait pas. Des centaines de bougies brûlaient dans des chandeliers d'argent, et leurs flammes étaient noires. Pas sombres : noires, comme découpées dans du velours, et pourtant elles dansaient, elles crépitaient, elles jetaient sur les murs une clarté grise de petit matin."
   },
   {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Le réveil"
+  },
+  {
    "type": "text",
    "value": "Il était assis. Une chaise dorée aux pieds griffus, un coussin de soie fanée. Il baissa les yeux. Il portait un costume qu'il n'avait jamais possédé, sombre, cintré, une chemise blanche empesée qui lui serrait le cou, des chaussures vernies qui lui faisaient mal aux orteils. Ses mains reposaient sur ses genoux comme celles d'un autre."
   },
@@ -95,6 +100,11 @@
    "value": "Car ce qu'il voyait remonter l'allée, au bras de personne, c'était la plus belle femme qu'il eût jamais vue."
   },
   {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "La mariée"
+  },
+  {
    "type": "text",
    "value": "Elle était très jeune, dix-neuf, vingt ans peut-être. Une robe ancienne couleur d'ivoire, aux manches de dentelle, un corsage brodé de perles minuscules. Sur ses cheveux, un voile de dentelle noire qui tombait jusqu'à ses reins, et sous le voile, des cheveux plus noirs encore, longs, lourds, d'un noir d'encre fraîche. Sa peau avait la pâleur de la neige qui vient de tomber, quand personne n'a encore marché dessus. Un visage fin, des lèvres dessinées comme par un pinceau patient, et des yeux immenses, noirs, brillants d'une eau qui ne coulait pas."
   },
@@ -133,6 +143,11 @@
   {
    "type": "text",
    "value": "Elle leva sa canne. Elle frappa le plancher. Une fois. Deux fois. Trois fois. À chaque coup, les flammes noires se couchèrent toutes ensemble, comme sous un vent que personne ne sentait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Les règles"
   },
   {
    "type": "text",

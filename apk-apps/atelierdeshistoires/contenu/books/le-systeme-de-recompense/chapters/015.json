@@ -79,6 +79,11 @@
    "value": "Le chef des Charognards s'avança dans la lumière d'un feu. Il était grand, mince, vêtu d'un long manteau de cuir rapiécé. Et sur son visage, un vieux masque de gardien de hockey, blanc, fendillé, avec des traits de peinture rouge à l'endroit de la bouche. On l'appelait le Bourreau. Même à Fort-Rouille, on baissait la voix en prononçant son nom."
   },
   {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "Le Bourreau"
+  },
+  {
    "type": "text",
    "value": "— Le fameux livreur, dit-il. Brutus nous a beaucoup parlé de toi. Il dit que tu as un sac qui ne se vide jamais."
   },
@@ -147,6 +152,11 @@
    "value": "Kara sauta du car, machette à la main, et atterrit à côté de lui. En une seconde, ils se retrouvèrent dos à dos, comme dans l'entraînement, coudes serrés, pieds bien plantés."
   },
   {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "Dos à dos"
+  },
+  {
    "type": "text",
    "value": "— Tu te souviens ? souffla-t-elle."
   },
@@ -205,6 +215,11 @@
   {
    "type": "text",
    "value": "Ils jaillirent du car. Mémé Jo traînant Petit Sam par la main, sa louche en inox levée comme une épée. Lina portant la trousse, pâle comme un linge. Victoria, en baskets fluo, qui lança un regard désespéré vers ses talons rouges restés dans le car, puis courut quand même, et Léo l'aima un peu pour ça."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Adieu talons"
   },
   {
    "type": "text",

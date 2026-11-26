@@ -39,6 +39,11 @@
    "value": "Sixième coup. Ils dévalèrent les marches de marbre. Le vestibule s'ouvrit sous eux, l'horloge arrêtée, le dallage noir et blanc. Les deux hautes portes de la salle de bal étaient encore ouvertes, mais elles bougeaient. Elles pivotaient sur leurs gonds, sans que personne les pousse, avec une lenteur tranquille."
   },
   {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "La course"
+  },
+  {
    "type": "text",
    "value": "Septième coup."
   },
@@ -97,6 +102,11 @@
   {
    "type": "text",
    "value": "— C'est l'histoire d'une jeune fille, commença-t-il, dont le père avait perdu tout son argent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "L'histoire"
   },
   {
    "type": "text",
@@ -201,6 +211,11 @@
   {
    "type": "text",
    "value": "Elle repoussa sa chaise. Le comte tendit la main pour la retenir ; elle se dégagea d'un geste si brusque que les verres tintèrent sur toute la longueur de la table. Elle tremblait de la tête aux pieds. La dentelle noire de son voile frémissait à chacun de ses souffles. Deux cents invités la virent se dresser, monstrueuse pour eux, la bouche fendue, la peau craquelée, traversée de cette unique ligne de lumière, et pas un seul ne détourna les yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Elle se lève"
   },
   {
    "type": "text",

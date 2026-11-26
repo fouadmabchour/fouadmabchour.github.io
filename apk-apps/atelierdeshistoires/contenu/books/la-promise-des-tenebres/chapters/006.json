@@ -47,6 +47,11 @@
    "value": "Des grains de grenade luisaient en tas, gorgés de jus, comme une poignée de petites dents mouillées. Autour, des cerises noires-rouges, la queue encore attachée. Et au centre, sur un lit de sucre filé, un petit cœur de pâte de fruit, moulé avec un soin troublant, confit dans un sirop vermeil, qui brillait sous la flamme noire des bougies. Et la goutte tombée d'en haut luisait toujours au milieu, contre le sucre filé : la servante avait garni l'assiette autour d'elle, sans l'essuyer."
   },
   {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "Desserts rouges"
+  },
+  {
    "type": "text",
    "value": "Rouge. Tout était rouge."
   },
@@ -195,6 +200,11 @@
    "value": "La mariée regarda l'assiette. Puis elle leva les yeux vers lui, et Noé vit qu'ils étaient pleins de larmes qui ne tombaient pas. Ses lèvres s'entrouvrirent. Lentement, avec une infinie précaution, elle posa ses deux mains de chaque côté de la porcelaine, et l'attira à elle."
   },
   {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "L'offrande"
+  },
+  {
    "type": "text",
    "value": "Elle acceptait. Tout, jusqu'à la goutte tombée du plafond."
   },
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "Les assiettes s'empilaient autour de la mariée comme des offrandes au pied d'une statue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "Les offrandes"
   },
   {
    "type": "text",

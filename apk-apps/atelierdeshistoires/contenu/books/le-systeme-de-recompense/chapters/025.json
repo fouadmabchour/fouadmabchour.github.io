@@ -59,6 +59,11 @@
    "value": "La grange sentait la paille, la poussière et la sauce tomate de la veille. La grande table était encore dressée, avec les assiettes empilées. Léo se jeta derrière une pile de bottes de foin. Brutus entra une seconde après, et sa silhouette se découpa contre les flammes du potager."
   },
   {
+   "type": "image",
+   "src": "images/ch25-1.webp",
+   "caption": "Cache-cache mortel"
+  },
+  {
    "type": "text",
    "value": "— Tu vas pas te cacher toute la nuit, le livreur."
   },
@@ -123,6 +128,11 @@
    "value": "Victoria se tenait dans l'encadrement de la porte, les mains sur les hanches, ses bottes rouges plantées dans la boue, la robe en lambeaux, la chevelure en feu à la lueur du potager."
   },
   {
+   "type": "image",
+   "src": "images/ch25-2.webp",
+   "caption": "Tête de pastèque"
+  },
+  {
    "type": "text",
    "value": "— Bruno Taillard, articula-t-elle de sa plus belle voix de théâtre. Quarante-cinq ans. Videur raté. Chef de camp raté. Et méchant raté, ce qui est le plus triste. Même pas fichu de réussir une scène d'assaut."
   },
@@ -141,6 +151,11 @@
   {
    "type": "text",
    "value": "Et Lina, qui n'était pas allée à la cave, évidemment, arriva en courant avec le dernier seau d'eau du puits, et le lui vida sur la tête."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-3.webp",
+   "caption": "Le seau d'eau"
   },
   {
    "type": "text",

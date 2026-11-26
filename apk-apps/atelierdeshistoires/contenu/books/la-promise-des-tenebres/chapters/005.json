@@ -75,6 +75,11 @@
    "value": "Il venait d'en haut. Un grattement, d'abord, très doux, comme une souris dans une cloison. Puis un autre, un peu plus loin. Puis un frottement long, soyeux, comme celui d'un tissu qu'on traîne sur du bois. Il se déplaçait. Il passait au-dessus de la table, lentement, d'un bout à l'autre, et à son passage les flammes noires des chandeliers se penchaient légèrement, comme pour saluer."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Ne pas lever les yeux"
+  },
+  {
    "type": "text",
    "value": "Tout le monde se figea. Deux cents personnes, la tête rentrée dans les épaules, les yeux rivés sur la nappe."
   },
@@ -159,6 +164,11 @@
    "value": "Le nœud papillon rouge vint ensuite. Il descendit lentement, en tournoyant comme une feuille morte, et se posa sur la nappe sans un bruit."
   },
   {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "La chaise renversée"
+  },
+  {
    "type": "text",
    "value": "Personne ne bougea. Personne ne parla. Le frottement soyeux reprit, au-dessus d'eux, s'éloigna vers le fond de la salle, et s'éteignit dans l'ombre de la voûte."
   },
@@ -209,6 +219,11 @@
   {
    "type": "text",
    "value": "Elle traversa l'air dans la lumière grise des bougies, et il la vit tomber, sans pouvoir détourner le regard, sans pouvoir lever la tête non plus. Elle s'écrasa au centre de l'assiette blanche avec un bruit minuscule, parfaitement audible dans le silence de la salle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "La goutte rouge"
   },
   {
    "type": "text",

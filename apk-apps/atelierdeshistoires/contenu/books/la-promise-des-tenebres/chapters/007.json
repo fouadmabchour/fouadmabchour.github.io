@@ -79,6 +79,11 @@
    "value": "Monsieur Paul s'était assis au bord du lit de camp, ses longues mains posées sur ses genoux. Il observait Noé, qui faisait les cent pas devant la fenêtre givrée."
   },
   {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "La chambre"
+  },
+  {
    "type": "text",
    "value": "— Elle vous a parlé, dit le vieil homme. Je l'ai vu."
   },
@@ -191,6 +196,11 @@
    "value": "Devant la toile voilée, il s'immobilisa longtemps."
   },
   {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "Le comte"
+  },
+  {
    "type": "text",
    "value": "Noé le fixait. Et parce qu'il le fixait, parce qu'il ne pouvait pas détourner les yeux, il vit ce qu'il avait déjà entrevu chez Céleste : le masque qui glisse. La peau du comte grisa sous la poudre, se tendit sur les os comme un parchemin mouillé. Ses yeux perdirent leurs pupilles, devinrent deux galets de lait. Et ses mains, croisées dans son dos, s'allongèrent, doigt après doigt, jusqu'à toucher le bas de ses reins."
   },
@@ -213,6 +223,11 @@
   {
    "type": "text",
    "value": "Juste devant lui. À un souffle de velours. Il voyait, sous le bord de la tenture, la pointe des souliers à boucle d'argent, immobiles. Il sentait monter du comte une odeur de cave et de fleurs fanées, une odeur de chapelle après un enterrement."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "Caché"
   },
   {
    "type": "text",

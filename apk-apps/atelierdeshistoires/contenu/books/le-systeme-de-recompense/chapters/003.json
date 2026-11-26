@@ -59,6 +59,11 @@
    "value": "Pas plein de sa couverture trouée et de sa cuillère. Plein à craquer. Des bouteilles d'eau, transparentes, intactes, avec leurs bouchons bleus scellés. Des conserves aux étiquettes neuves et brillantes : haricots blancs, raviolis, maquereaux, pêches au sirop. Un sac de riz de cinq kilos, si dense qu'il déformait la toile. Il y avait même, coincé sur le côté, un paquet de biscuits secs encore emballé dans son plastique."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Le sac plein"
+  },
+  {
    "type": "text",
    "value": "Léo resta accroupi, la bouche ouverte, sans un son."
   },
@@ -211,6 +216,11 @@
    "value": "Lina lâcha son petit sac en tissu, traversa la cabane en deux enjambées et se jeta à son cou. Elle pleurait contre son épaule, elle riait aussi, elle disait « merci » en boucle, si vite que le mot finissait par ne plus ressembler à rien. Léo resta les bras en l'air, comme un homme qu'on arrête, puis, très doucement, il lui tapota le dos."
   },
   {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "L'accolade"
+  },
+  {
    "type": "text",
    "value": "Une musique de victoire, triomphale, retentit dans sa tête. Il sursauta si fort que Lina recula."
   },
@@ -317,6 +327,11 @@
   {
    "type": "text",
    "value": "Léo ouvrit le sac. Une marmite en fonte, fumante, couvercle tremblant, trônait au milieu des conserves."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Le ragoût magique"
   },
   {
    "type": "text",
