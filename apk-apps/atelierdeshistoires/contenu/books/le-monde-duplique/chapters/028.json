@@ -1,0 +1,345 @@
+{
+ "number": 28,
+ "title": "L'équilibre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Kael, non !"
+  },
+  {
+   "type": "text",
+   "value": "Elara se jeta vers la rambarde. Il l'attrapa par les deux bras, doucement, fermement, et la regarda en face. La lumière bleue du puits montait derrière lui et dessinait autour de ses cheveux sombres un halo presque irréel."
+  },
+  {
+   "type": "text",
+   "value": "— Écoute-moi, dit-il. Il n'y a que moi qui sache où est la vanne et comment elle est faite. Je l'ai dessinée cent fois. Toi, tu restes à la console. Quand je te le dirai, tu relances le flux. Pas avant. Pas après."
+  },
+  {
+   "type": "text",
+   "value": "— Et si tu ne me le dis pas ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il posa son front contre le sien, une seconde, deux secondes. Elle sentit contre sa peau le froid du pendentif d'aldérite qui pendait à son cou."
+  },
+  {
+   "type": "text",
+   "value": "— Je te le dirai, murmura-t-il. Je t'ai ramenée au quai une fois. Je reviendrai toujours."
+  },
+  {
+   "type": "text",
+   "value": "Puis il se laissa glisser dans le puits."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il y avait une échelle de maintenance, étroite, rongée par le temps, que personne n'avait empruntée depuis des décennies. Kael descendit barreau après barreau, dans une lumière de plus en plus vive. L'air vibrait. Il avait l'impression de s'enfoncer dans l'eau d'un lac, une eau lumineuse et tiède qui pesait sur ses épaules et lui bourdonnait dans les oreilles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "Le puits du flux"
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus de lui, la voix d'Elara grésillait dans la radio accrochée à son col."
+  },
+  {
+   "type": "text",
+   "value": "— Je te vois sur l'écran. Tu es à vingt mètres. La vanne est à soixante."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Parle-moi. Continue de me parler."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit malgré lui."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te souviens du toit, à Vasse ? La première nuit ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as traitée de touriste."
+  },
+  {
+   "type": "text",
+   "value": "— Tu étais une touriste. Une touriste qui m'a donné son pendentif en me disant : pour que tu me retrouves. J'ai trouvé ça complètement idiot."
+  },
+  {
+   "type": "text",
+   "value": "— Et maintenant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant je trouve que c'est la chose la plus intelligente que quelqu'un ait jamais faite."
+  },
+  {
+   "type": "text",
+   "value": "Il entendit son rire, mouillé de larmes, à travers les parasites. Il continua de descendre."
+  },
+  {
+   "type": "text",
+   "value": "— Kael, dit-elle encore, plus bas. Ce matin, dans le vaisseau, j'ai pensé à un prénom pour le bébé. Je ne te l'avais pas dit."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta un instant, la joue contre le métal tiède de l'échelle. Quelque chose se serra dans sa poitrine, si fort qu'il dut fermer les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Alors il faudra que je remonte, dit-il. Pour l'entendre de ta bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as intérêt."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais manqué une promesse, Elara Vey. Pas une seule. Demande à Mira."
+  },
+  {
+   "type": "text",
+   "value": "— Mira dit que tu lui as promis un vrai carnet de dessin il y a cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "— Mira exagère toujours."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit encore, et ce rire, il le garda contre lui comme une lampe, barreau après barreau, à mesure que la lumière devenait plus blanche et que le monde, au-dessus, s'éloignait."
+  },
+  {
+   "type": "text",
+   "value": "À quarante mètres, la chaleur devint pénible. À cinquante, il ne voyait presque plus ses mains, tant la lumière était forte. Les parois du puits étaient tapissées de cristaux d'aldérite qui chantaient, une note continue, si pure qu'elle en devenait douloureuse. C'était donc cela, le secret de Célestia. Une ville entière suspendue à cette pierre bleue que son père, sa mère, et tous les mineurs de Vasse arrachaient à la terre depuis des siècles, les mains en sang, sans que personne là-haut ne dise jamais merci."
+  },
+  {
+   "type": "text",
+   "value": "À soixante mètres, il trouva la vanne."
+  },
+  {
+   "type": "text",
+   "value": "C'était une grande roue de métal, prise dans un collier de cristaux, grippée par des années de dépôts bleus. Il posa les mains dessus. Elle était brûlante, même à travers ses gants."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis devant, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Décris-la-moi, dit Elara."
+  },
+  {
+   "type": "text",
+   "value": "— Une roue. Grande comme une porte de mine. Elle est prise dans les cristaux comme une racine dans la roche. Personne ne l'a touchée depuis des générations."
+  },
+  {
+   "type": "text",
+   "value": "— Tu peux l'ouvrir ?"
+  },
+  {
+   "type": "text",
+   "value": "Il regarda ses mains, posées sur le métal. Des mains de mineur, de fils de mineur, couvertes de petites cicatrices. Des mains qui avaient appris à creuser avant d'apprendre à écrire."
+  },
+  {
+   "type": "text",
+   "value": "— On va voir, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Là-haut, dans la salle du Cœur, Elara serrait la console à s'en blanchir les jointures. Sur l'écran, un compte à rebours venait de s'afficher : le temps qui restait avant que l'inclinaison de la ville ne dépasse le point de non-retour. Neuf minutes. Les chiffres défilaient, implacables."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian se tenait à côté d'elle. Il ne disait rien, mais elle sentait sa présence comme un mur dans son dos."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne vit pas Cassius se relever."
+  },
+  {
+   "type": "text",
+   "value": "Il avait reculé dans l'ombre, vers un pupitre secondaire, au bord de la salle. Un panneau de commande d'urgence, que seuls les chefs de la Sécurité connaissaient : la coupure générale du flux. Il posa la main sur la manette."
+  },
+  {
+   "type": "text",
+   "value": "— Si cette ville ne m'appartient pas, dit-il d'une voix blanche, elle n'appartiendra à personne."
+  },
+  {
+   "type": "text",
+   "value": "Elara se retourna. Elle comprit en une seconde. Si le flux était coupé maintenant, alors que Kael était dans le puits, la vanne se refermerait, la recalibration échouerait, et Kael…"
+  },
+  {
+   "type": "text",
+   "value": "— Cassius, non !"
+  },
+  {
+   "type": "text",
+   "value": "Mais ce fut son père qui bougea."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey traversa la salle en quatre enjambées. Il n'était plus jeune, il avait été frappé et attaché pendant des heures, et pourtant il se déplaça comme un homme qui a enfin compris pourquoi il vit. Il saisit le poignet de Cassius et l'arracha à la manette. Les deux hommes restèrent face à face, immobiles, l'un en blanc, l'autre en noir."
+  },
+  {
+   "type": "text",
+   "value": "— Lâchez-moi, siffla Cassius."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Aurelian. Il y a quinze ans, j'ai laissé des hommes comme vous décider qui avait le droit de vivre. Ma femme en est morte. C'est terminé."
+  },
+  {
+   "type": "text",
+   "value": "À cet instant, les grandes portes de bronze s'ouvrirent."
+  },
+  {
+   "type": "text",
+   "value": "Une dizaine de gardes en uniforme blanc entrèrent dans la salle, armes basses. Les hommes de la Sécurité des passages. Les hommes de Cassius. Ils s'arrêtèrent, interdits, devant la scène."
+  },
+  {
+   "type": "text",
+   "value": "— Arrêtez-les ! ordonna Cassius. Arrêtez Vey et sa fille. C'est un ordre !"
+  },
+  {
+   "type": "text",
+   "value": "Le capitaine Dren, carré, silencieux, le casque gris de la poussière de Vasse, regarda longuement son chef. Puis il regarda les écrans, le compte à rebours, la ville qui penchait. Il regarda Elara à la console, les larmes sur les joues, et le Maître des Mines debout, sans arme."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "L'arrestation de Cassius"
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons entendu les fréquences, commandant Morn, dit-il lentement. Toute la ville a entendu. Vous avez pris en otage le président de la Compagnie. Vous avez voulu laisser tomber Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un signe. Deux gardes s'avancèrent et saisirent Cassius par les bras."
+  },
+  {
+   "type": "text",
+   "value": "— Cassius Morn, je vous arrête pour trahison envers Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Cassius ne cria pas. Il ne se débattit pas. Il regarda seulement Elara, une dernière fois, avec une sorte d'incompréhension, comme si le monde avait cessé d'obéir à ses règles. Puis les hommes qu'il avait commandés l'emmenèrent, et les portes se refermèrent derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "— Quatre minutes, dit Aurelian d'une voix rauque. Elara."
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna vers la console."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Au fond du puits, Kael tirait sur la roue de toutes ses forces."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne bougeait pas. Les cristaux la tenaient comme des dents. Il cala ses pieds contre la paroi, banda ses muscles jusqu'à en trembler, sentit la cicatrice de sa main droite se tendre sous le gant. Rien."
+  },
+  {
+   "type": "text",
+   "value": "— Kael, deux minutes."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux. Il pensa à son père, mort dans un éboulement quand il était petit, à ses mains noires de poussière. Il pensa à sa mère, qui descendait chaque matin au fond de la terre sans jamais se plaindre. Il pensa à Mira, à ses tresses et ses dessins. À Jory. À Elara. À l'enfant."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lutta plus contre la roue. Il chercha son sens. Comme le courant, avait dit Elara. Il sentit, sous ses doigts, un léger jeu, un endroit où le métal cédait d'un cheveu. Il tira dans ce sens-là, doucement d'abord, puis de tout son poids."
+  },
+  {
+   "type": "text",
+   "value": "La roue grinça. Un cristal se brisa avec un tintement clair. Puis un autre. Et soudain, tout céda d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "La vanne s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant ! cria-t-il. Elara, maintenant !"
+  },
+  {
+   "type": "text",
+   "value": "Là-haut, Elara abattit la main sur la commande."
+  },
+  {
+   "type": "text",
+   "value": "Le flux d'aldérite jaillit dans le puits comme un fleuve libéré. Une vague de lumière bleue monta, monta, envahit tout, emporta le bourdonnement irrégulier et le remplaça par une note unique, puissante, profonde. Au-dessus de la console, les grands anneaux se remirent à tourner, ensemble, enfin d'accord."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "Le fleuve de lumière"
+  },
+  {
+   "type": "text",
+   "value": "Et Célestia se redressa."
+  },
+  {
+   "type": "text",
+   "value": "Lentement, majestueusement, comme un géant qui se relève après une longue maladie. Dans les rues, les gens sentirent le sol revenir sous leurs pieds. Les jardins flottants perdus regagnèrent leur orbite un à un. Et à Vasse, tout en bas, des milliers de visages levés vers le ciel virent l'ombre immense qui menaçait de les écraser reculer, reprendre sa place, et briller de nouveau, à l'envers, au-dessus d'eux."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, le compte à rebours s'arrêta à onze secondes."
+  },
+  {
+   "type": "text",
+   "value": "Elara éclata en sanglots. Son père la serra contre lui."
+  },
+  {
+   "type": "text",
+   "value": "— Kael, dit-elle dans la radio, en riant et en pleurant à la fois. Kael, tu as réussi. Tu entends ? Elle tient. Elle tient !"
+  },
+  {
+   "type": "text",
+   "value": "Pas de réponse."
+  },
+  {
+   "type": "text",
+   "value": "— Kael ?"
+  },
+  {
+   "type": "text",
+   "value": "Rien d'autre que le chant clair de l'aldérite, et le souffle des parasites."
+  },
+  {
+   "type": "text",
+   "value": "— Kael, réponds-moi."
+  },
+  {
+   "type": "text",
+   "value": "Au fond du puits de lumière, plus personne ne répondait."
+  }
+ ]
+}

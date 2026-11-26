@@ -1,0 +1,285 @@
+{
+ "number": 1,
+ "title": "Le ciel à l'envers",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La cage remontait en grinçant, et Kael Orren comptait les secousses."
+  },
+  {
+   "type": "text",
+   "value": "Quarante-deux. Toujours quarante-deux, depuis le fond du puits numéro sept jusqu'à la surface, chaque secousse correspondant à un joint de rail mal soudé que personne ne réparerait jamais. Autour de lui, dix mineurs épaule contre épaule, les lampes éteintes pour économiser les piles, les visages noirs de poussière où seuls les yeux brillaient encore. Quelqu'un toussait. Quelqu'un toussait toujours."
+  },
+  {
+   "type": "text",
+   "value": "À la trente-huitième secousse, la lumière tomba d'en haut. Pas celle du soleil. L'autre."
+  },
+  {
+   "type": "text",
+   "value": "La cage s'immobilisa, la grille s'ouvrit avec un hurlement de métal, et Kael sortit dans l'aube de Vasse en levant les yeux, comme tout le monde, comme chaque matin, parce qu'on ne pouvait pas faire autrement."
+  },
+  {
+   "type": "text",
+   "value": "Célestia était là."
+  },
+  {
+   "type": "text",
+   "value": "Elle occupait la moitié du ciel. Un monde entier, suspendu à l'envers au-dessus du leur, si proche qu'on distinguait les détails : des tours blanches qui pointaient vers le bas comme des stalactites de nacre, des dômes dorés qui accrochaient les premiers rayons, des jardins flottants dont les arbres poussaient la tête en bas, vers Vasse, comme s'ils voulaient tomber et n'osaient pas. Entre les deux mondes, la Faille brillait d'une lueur bleutée, un vide lumineux que traversaient parfois les vaisseaux gravitationnels, minuscules et lents, pareils à des insectes de verre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Célestia"
+  },
+  {
+   "type": "text",
+   "value": "Kael avait dix-neuf ans, et il avait passé dix-neuf ans sous ce ciel-là. Il ne s'y habituait pas. Personne ne s'y habituait vraiment. On apprenait seulement à faire semblant."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas encore la regarder longtemps ? dit une voix à côté de lui. Elle va pas te tomber dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Pas aujourd'hui, en tout cas, répondit Kael."
+  },
+  {
+   "type": "text",
+   "value": "Jory Brask lui tapa l'épaule, et un nuage de poussière s'éleva entre eux. Il avait vingt ans, un an de plus que Kael, une carrure à soulever une berline à mains nues, les côtés du crâne rasés et une tresse courte qui lui battait la nuque. Son foulard rouge, noué au cou, était la seule couleur vive à des centaines de mètres à la ronde. Il disait que c'était pour qu'on le retrouve sous un éboulement. Tout le monde savait que c'était pour qu'on le voie."
+  },
+  {
+   "type": "text",
+   "value": "— T'as entendu la nouvelle ? demanda Jory."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai entendu quarante-deux secousses et un type qui crachait ses poumons. C'est tout ce que j'ai entendu de la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Le Maître des Mines descend aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "Kael s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Autour d'eux, la relève de l'aube s'agitait sur le carreau de la mine : des grues rouillées qui se balançaient, des wagonnets chargés de cailloux gris, et, dans des caisses scellées gardées par deux hommes armés, le seul minerai qui comptait vraiment. L'aldérite. Des éclats bleus, lumineux, qui pulsaient doucement sous le couvercle de verre comme des cœurs minuscules. Ça brillait plus fort que tout le reste de Vasse réuni, et ça partait là-haut, chaque jour, sans que personne en bas ne sache vraiment pourquoi on en avait besoin à ce point."
+  },
+  {
+   "type": "text",
+   "value": "— Aurelian Vey en personne ? dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "— En personne. Avec sa cour. Inspection des installations. Ils bouclent les quartiers du centre à partir de midi. Personne ne sort, personne ne traîne, personne ne respire trop fort."
+  },
+  {
+   "type": "text",
+   "value": "Kael éclata de rire. Ce n'était pas un rire très joyeux."
+  },
+  {
+   "type": "text",
+   "value": "— Ils bouclent les quartiers pour des gens qui ne nous regardent jamais, dit-il. Tu sais ce qu'il va voir, le Maître des Mines ? Des chiffres. Des tonnes. Des courbes qui montent. Il pourrait marcher sur nous qu'il ne s'en rendrait pas compte."
+  },
+  {
+   "type": "text",
+   "value": "— Il marche sur nous depuis trente ans, dit Jory. C'est pour ça qu'il s'en rend plus compte."
+  },
+  {
+   "type": "text",
+   "value": "Ils traversèrent le carreau, passèrent devant la pointeuse où un contremaître notait les heures avec un crayon trop court, et prirent la rue de la Fonderie. Les maisons de Vasse s'entassaient les unes sur les autres, en tôle ondulée, en briques récupérées, en planches que la poussière avait rendues grises. Des fils à linge couraient d'une fenêtre à l'autre. Des enfants jouaient pieds nus dans des flaques irisées. Une odeur de friture, de fumée et de métal chaud flottait partout, comme toujours."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "La maison des Orren était au bout de l'impasse des Tamis, deux pièces et un toit qui fuyait quand il pleuvait, c'est-à-dire rarement, parce qu'à Vasse le ciel était trop occupé pour faire pleuvoir."
+  },
+  {
+   "type": "text",
+   "value": "Mira était assise sur le rebord de la fenêtre, les jambes dans le vide, un morceau de charbon à la main. Elle avait douze ans, deux tresses noires qui lui tombaient jusqu'aux coudes et une façon de lever le menton qui donnait envie de lui confisquer quelque chose, n'importe quoi, par principe."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es en retard, dit-elle sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— La cage est en retard. Moi, je suis à l'heure de la cage."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ce que disent tous les gens en retard."
+  },
+  {
+   "type": "text",
+   "value": "Il s'approcha. Sur le mur de la maison, à côté de la fenêtre, elle avait dessiné Célestia. Pas une Célestia approximative, comme les enfants en faisaient avec leurs doigts dans la poussière : une vraie, avec ses tours, ses dômes, ses ponts de verre, les arbres à l'envers, et même les petits points des vaisseaux dans la Faille. Elle avait mis trois semaines. Elle rajoutait des détails chaque matin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Le dessin de Mira"
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu ajoutes aujourd'hui ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Des gens."
+  },
+  {
+   "type": "text",
+   "value": "Il se pencha. Sur l'un des ponts de verre, elle avait dessiné de minuscules silhouettes, la tête en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne les as jamais vus, fit remarquer Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Toi non plus. Personne ne les a jamais vus. Alors je fais comme je veux. Elle désigna une silhouette plus petite que les autres. Celle-là, elle s'ennuie."
+  },
+  {
+   "type": "text",
+   "value": "— Comment tu sais ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce qu'elle regarde vers nous."
+  },
+  {
+   "type": "text",
+   "value": "Mira toussa. Une toux sèche, qui lui secouait les épaules et qui dura un peu trop longtemps. Kael ne dit rien. Il posa juste la main sur son dos, entre les omoplates, et attendit que ça passe. La poussière. Toujours la poussière. Le médecin du quartier avait dit que l'air d'en haut la guérirait sûrement, et il l'avait dit avec un sourire triste, comme on dit qu'on guérirait en buvant la lune."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va, souffla-t-elle. Arrête de faire cette tête."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne fais aucune tête."
+  },
+  {
+   "type": "text",
+   "value": "— Tu fais la tête de maman."
+  },
+  {
+   "type": "text",
+   "value": "— Qui fait ma tête ? demanda une voix depuis l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Hana Orren sortit sur le seuil, un foulard sur les cheveux, les mains enveloppées dans des chiffons. Elle travaillait au tri, à la surface, et le minerai lui avait mangé la peau des doigts année après année. Elle avait quarante-cinq ans et l'air d'en avoir dix de plus, sauf quand elle souriait, et elle souriait rarement, mais toujours au bon moment."
+  },
+  {
+   "type": "text",
+   "value": "— Personne, maman, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Mange. Il y a de la soupe. Et toi, descends de cette fenêtre avant que je te dessine sur le mur à côté de tes gens à l'envers."
+  },
+  {
+   "type": "text",
+   "value": "Mira sauta dans la rue en riant. Kael entra, s'assit sur le banc, prit le bol que sa mère lui tendait. De la soupe de racines, un peu d'huile, du pain dur qu'on trempait pour le rendre mangeable. Au mur, au-dessus de la table, il y avait le casque de son père, cabossé, la lampe arrachée. Personne n'y touchait. Personne n'en parlait. L'éboulement du puits numéro trois avait eu lieu sept ans plus tôt, et la Compagnie Vey avait envoyé une lettre de condoléances imprimée, avec le nom mal orthographié."
+  },
+  {
+   "type": "text",
+   "value": "— Jory dit que le Maître des Mines descend, dit Hana."
+  },
+  {
+   "type": "text",
+   "value": "— Jory dit beaucoup de choses."
+  },
+  {
+   "type": "text",
+   "value": "— Celle-là est vraie. Ils ont affiché l'ordre au marché. Couvre-feu dans le centre, inspection des puits un, deux et sept. Elle le regarda. Le sept, c'est le tien."
+  },
+  {
+   "type": "text",
+   "value": "— Je serai couché. J'ai fait la nuit. Il ne viendra pas me chercher dans mon lit pour me demander combien de cailloux j'ai cassés."
+  },
+  {
+   "type": "text",
+   "value": "— Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ne fais rien de bête."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit dans son bol."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne fais jamais rien de bête. Je fais des choses intelligentes qui tournent mal. Ce n'est pas pareil."
+  },
+  {
+   "type": "text",
+   "value": "Hana soupira, mais il vit le coin de sa bouche trembler. Sous le banc, caché dans un sac de toile, il y avait trois livres que Kael n'aurait jamais dû posséder. Des manuels de physique d'en haut, tombés d'une caisse de fret mal fermée un an plus tôt, et qu'il lisait la nuit, à la lampe, page après page, jusqu'à connaître par cœur des équations que personne à Vasse n'était censé comprendre. Il voulait savoir comment un monde entier pouvait flotter la tête en bas. Il voulait savoir ce qui le retenait. Et, quelque part au fond de lui, sans jamais le dire, il voulait savoir ce qui se passerait si ça lâchait."
+  },
+  {
+   "type": "text",
+   "value": "Dehors, Mira cria."
+  },
+  {
+   "type": "text",
+   "value": "— Regardez ! Il arrive !"
+  },
+  {
+   "type": "text",
+   "value": "Kael sortit avec sa mère. Dans l'impasse, tout le monde avait levé la tête. Au milieu de la Faille, un vaisseau descendait, plus grand que les autres, blanc et argent, entouré d'une lueur bleue qui ondulait autour de sa coque comme de l'eau. Le vaisseau du Maître des Mines. Il glissait lentement vers le quai, majestueux, indifférent, et sa lumière balayait les toits de tôle sans s'y arrêter."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne nous regardent jamais, murmura Kael."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Elle les regardait."
+  },
+  {
+   "type": "text",
+   "value": "Dans la cabine du vaisseau, derrière la grande vitre panoramique, une jeune fille avait collé son front contre le verre froid, et elle ne bougeait plus depuis vingt minutes. Ses longs cheveux roux cuivré tombaient sur le col d'un manteau bleu pâle. Ses yeux verts allaient d'un toit à l'autre, d'une grue à l'autre, d'une silhouette minuscule à une autre, avec une avidité qu'elle ne cherchait même pas à cacher."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le front contre la vitre"
+  },
+  {
+   "type": "text",
+   "value": "Derrière elle, son père parlait de rendements avec un homme en uniforme blanc. Elle n'écoutait pas."
+  },
+  {
+   "type": "text",
+   "value": "En bas, sur le mur d'une maison de tôle, elle venait de voir quelque chose d'incroyable : un dessin immense de son propre monde, tracé au charbon, avec ses tours et ses ponts. Et, à côté, une petite fille aux tresses noires qui pointait le doigt vers le ciel."
+  },
+  {
+   "type": "text",
+   "value": "Elara Vey avait dix-huit ans. On lui avait répété toute sa vie que Vasse n'avait rien à lui montrer."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit contre la vitre, et dans le reflet, son sourire ressemblait à une promesse."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait déjà décidé qu'elle leur échapperait avant la fin de la journée."
+  }
+ ]
+}

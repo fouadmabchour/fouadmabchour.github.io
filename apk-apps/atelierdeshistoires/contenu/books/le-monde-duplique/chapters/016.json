@@ -1,0 +1,297 @@
+{
+ "number": 16,
+ "title": "Vasse en colère",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le vaisseau se posa sur le quai de Vasse dans un nuage de poussière rouge, et personne ne vint chercher Kael."
+  },
+  {
+   "type": "text",
+   "value": "Deux gardes en uniforme blanc le poussèrent sur la passerelle. L'un d'eux arracha le bracelet d'identification de son poignet, d'un geste sec qui lui écorcha la peau, et le jeta dans un bac de métal avec d'autres bracelets, comme on jette des déchets."
+  },
+  {
+   "type": "text",
+   "value": "— Interdit de passage à vie, récita-t-il. Si tu t'approches d'un quai, on tire."
+  },
+  {
+   "type": "text",
+   "value": "Puis la porte se referma, et le vaisseau remonta vers le ciel en vrombissant, emportant avec lui le dernier fil qui reliait Kael à Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Il resta un long moment immobile. L'air de Vasse lui brûla la gorge dès la première inspiration : un goût de rouille, de charbon, de sueur. Il l'avait oublié. Cinq mois là-haut, dans l'air filtré et parfumé des tours blanches, avaient suffi à lui faire oublier ce que respirait sa mère chaque matin. Il en eut honte."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus de lui, Célestia brillait à l'envers, immense, indifférente. Quelque part dans ces tours, il y avait Elara. Sa gifle lui chauffait encore la joue. Son baiser aussi."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "Le retour"
+  },
+  {
+   "type": "text",
+   "value": "Elle t'a dénoncé, souffla une voix dans sa tête, la voix douce et polie de Cassius. Il revit la vidéo, son visage à elle, ses lèvres qui disaient des mots qu'il ne voulait pas entendre. Puis il revit le quai, ses yeux verts noyés de colère, et la manière dont elle s'était accrochée à sa combinaison."
+  },
+  {
+   "type": "text",
+   "value": "On ne gifle pas quelqu'un qu'on a trahi. On ne l'embrasse pas comme ça."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait plus. C'était peut-être ça, le pire."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "La porte de la maison n'était pas fermée à clé. Elle ne l'était jamais. Kael la poussa, et l'odeur de soupe aux racines le prit au ventre."
+  },
+  {
+   "type": "text",
+   "value": "— Kael ?"
+  },
+  {
+   "type": "text",
+   "value": "Mira lâcha son crayon. À dix-sept ans, elle avait toujours ses deux tresses noires, mais elle avait grandi d'une demi-tête, et ses yeux le dévoraient avec un mélange de joie et de terreur. Elle se jeta contre lui si fort qu'ils faillirent tomber tous les deux."
+  },
+  {
+   "type": "text",
+   "value": "— On a cru que tu étais mort, dit-elle contre son épaule. On n'avait plus de nouvelles. Maman ne dormait plus."
+  },
+  {
+   "type": "text",
+   "value": "Hana se tenait dans l'encadrement de la cuisine, un torchon entre ses mains abîmées. Elle ne courut pas. Elle n'avait jamais couru vers personne. Elle s'approcha lentement, posa sa paume rugueuse sur la joue de son fils, là où la gifle avait laissé une trace, et le regarda longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Ils t'ont fait du mal, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une question. Kael voulut répondre que non, que ce n'était rien, mais sa voix ne vint pas. Les nuits sans sommeil dans la cellule blanche lui retombèrent dessus d'un coup. Il s'assit sur le banc de bois, et sa mère lui servit un bol de soupe sans rien dire, comme quand il avait dix ans et qu'il revenait de la mine les mains en sang."
+  },
+  {
+   "type": "text",
+   "value": "Mira toussa, une toux sèche et sifflante qui le fit relever la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va, dit-elle avant qu'il demande. C'est la poussière. Elle est pire depuis qu'ils ont doublé les cadences."
+  },
+  {
+   "type": "text",
+   "value": "— Doublé ?"
+  },
+  {
+   "type": "text",
+   "value": "Hana échangea un regard avec sa fille."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut que tu voies Jory, dit-elle. Il se passe des choses, ici."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "L'entrepôt abandonné du Puits-Sept sentait l'huile froide et la colère. Ils étaient plus d'une centaine, assis sur des caisses, debout contre les poutres, serrés les uns contre les autres sous les lampes à aldérite qui jetaient sur leurs visages une lumière bleue de noyés. Des mineurs aux épaules courbées, des femmes aux foulards gris, des gamins trop jeunes pour être là."
+  },
+  {
+   "type": "text",
+   "value": "Jory se tenait sur une plateforme de chargement, son foulard rouge noué autour du cou. Il parlait fort, et chaque mot tombait sur la foule comme une pierre dans l'eau."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "L'entrepôt"
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont doublé les cadences. Ils ont fermé l'infirmerie du Puits-Trois. Le mois dernier, Tobin et ses deux fils sont restés sous l'éboulement de la galerie Est, et la Compagnie a envoyé une lettre. Une lettre ! Pour dire que la production reprendrait le lendemain."
+  },
+  {
+   "type": "text",
+   "value": "Un grondement monta de la foule."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne nous voient pas, continua Jory. Ils ne nous ont jamais vus. Alors on va leur apprendre à regarder vers le bas."
+  },
+  {
+   "type": "text",
+   "value": "C'est alors qu'il aperçut Kael au fond de l'entrepôt. Il s'arrêta net. La foule se retourna, et un murmure courut de bouche en bouche : Orren. Le génie. Celui qui est monté."
+  },
+  {
+   "type": "text",
+   "value": "Jory sauta de la plateforme et fendit la foule. Pendant une seconde, Kael crut qu'il allait le frapper. Puis son ami le serra contre lui, une étreinte brutale de mineur qui lui coupa le souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Frère, dit Jory. Ils t'ont renvoyé comme un chien, hein ? On sait. Tout le monde sait."
+  },
+  {
+   "type": "text",
+   "value": "— Jory, il faut que je te parle."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas parler. À tous. Ils ont besoin d'entendre ce que tu as vu là-haut."
+  },
+  {
+   "type": "text",
+   "value": "Il le poussa vers la plateforme. Kael monta les marches de métal, sentit les regards peser sur lui, des centaines d'yeux fatigués qui attendaient qu'il leur donne une raison de se battre. Il pensa à Elara, à la salle du Cœur, aux chiffres sur l'écran. Quarante jours."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pour la grève, commença-t-il. Je sais que vous voulez couper l'aldérite. Et je sais pourquoi. J'ai vu comment ils vivent. J'ai vu leurs fontaines, leurs jardins, leurs tables pleines. J'ai vu tout ce qu'ils nous volent."
+  },
+  {
+   "type": "text",
+   "value": "La foule approuva bruyamment. Jory, en bas, souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Mais il y a une chose que vous ne savez pas."
+  },
+  {
+   "type": "text",
+   "value": "Le silence retomba."
+  },
+  {
+   "type": "text",
+   "value": "— Célestia ne flotte pas toute seule. Elle flotte grâce à l'aldérite. Notre aldérite. Les stabilisateurs la brûlent jour et nuit, trois fois plus vite que ce que le Conseil annonce. Les réserves ne tiennent que quelques semaines. Si on coupe l'extraction, Célestia ne va pas juste avoir froid ou faim."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers le toit troué de l'entrepôt, vers l'immense ombre blanche qui occupait le ciel."
+  },
+  {
+   "type": "text",
+   "value": "— Elle va tomber. Sur nous."
+  },
+  {
+   "type": "text",
+   "value": "Le silence devint si épais qu'on entendait grésiller les lampes. Puis quelqu'un rit, un rire nerveux, et d'autres voix éclatèrent."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ce qu'ils lui ont appris à dire !"
+  },
+  {
+   "type": "text",
+   "value": "— Il a mangé à leur table, maintenant il parle comme eux !"
+  },
+  {
+   "type": "text",
+   "value": "— On l'a renvoyé ou on l'a payé ?"
+  },
+  {
+   "type": "text",
+   "value": "Kael serra les poings."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai vu les chiffres de mes propres yeux. Je suis entré dans le Cœur. Si Célestia tombe, Vasse disparaît. Vos maisons, vos enfants, tout."
+  },
+  {
+   "type": "text",
+   "value": "Jory monta à son tour sur la plateforme. Il ne souriait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Ça suffit, dit-il, assez bas pour que seul Kael l'entende. Puis, plus fort, à la foule : Kael a souffert là-haut. Ils lui ont mis des idées dans la tête. On en reparlera. La réunion est finie. Rentrez chez vous, et pas un mot aux contremaîtres."
+  },
+  {
+   "type": "text",
+   "value": "La foule se dispersa en grognant. Certains crachèrent par terre en passant devant Kael. Une vieille femme qu'il connaissait depuis l'enfance détourna les yeux."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Quand l'entrepôt fut vide, Jory resta longtemps silencieux, adossé à une caisse, à faire tourner entre ses doigts un éclat d'aldérite qui jetait des reflets bleus sur ses mains."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as humilié devant tout le monde, dit-il enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai dit la vérité."
+  },
+  {
+   "type": "text",
+   "value": "— Ta vérité. Celle qu'ils t'ont montrée sur leurs jolis écrans. Tu sais ce que je crois, moi ? Je crois que c'est le plus vieux mensonge du monde. Ils nous disent que si on arrête de les servir, on mourra avec eux. Comme ça on continue à les servir."
+  },
+  {
+   "type": "text",
+   "value": "— Jory. Regarde-moi. Est-ce que je t'ai déjà menti ?"
+  },
+  {
+   "type": "text",
+   "value": "Son ami le regarda longtemps. Dans ses yeux, il y avait de la colère, de la fatigue, et autre chose que Kael ne lui avait jamais vu : du chagrin."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-il. Jamais. Et c'est pour ça que j'ai peur que tu aies raison."
+  },
+  {
+   "type": "text",
+   "value": "Il referma le poing sur l'éclat de pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais combien on en a enterré, cette année ? Quarante-trois. J'ai porté les cercueils. J'ai regardé les mères. Tu étais là-haut, Kael, et moi j'étais ici, et je me suis juré que ce serait la dernière année. Je ne vais pas reculer parce que tu me dis que leur monde est fragile."
+  },
+  {
+   "type": "text",
+   "value": "— Si leur monde tombe, le nôtre est écrasé."
+  },
+  {
+   "type": "text",
+   "value": "Jory hocha lentement la tête, comme s'il avait déjà fait ce calcul mille fois."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on la fera tomber, dit-il. Mais on aura évacué nos gens avant."
+  },
+  {
+   "type": "text",
+   "value": "Kael sentit son sang se glacer."
+  },
+  {
+   "type": "text",
+   "value": "— Évacuer un million de personnes ? Où ça ? Avec quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Jory se tourna vers le fond de l'entrepôt, vers une rangée de caisses recouvertes d'une bâche goudronnée. Il en souleva un coin. Kael vit des cartes des galeries, des itinéraires tracés au crayon rouge vers les plaines du sud, et, rangés avec un soin effrayant, des cylindres gris marqués du sceau des carrières de la Compagnie. Il n'eut pas besoin de demander ce que c'était. Tout mineur de Vasse reconnaissait les charges qu'on utilisait pour ouvrir la roche."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "Les caisses"
+  },
+  {
+   "type": "text",
+   "value": "— Il y a les stabilisateurs de liaison, dit Jory calmement. Les grandes tours d'ancrage, là où les flux de Célestia touchent le sol. Tu m'en as parlé toi-même, dans tes lettres, il y a des années. Si elles cèdent, Célestia ne tombe pas dans quelques semaines. Elle tombe quand je le décide."
+  },
+  {
+   "type": "text",
+   "value": "Il laissa retomber la bâche."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai un plan, frère. Et je n'ai plus besoin de ta permission."
+  }
+ ]
+}

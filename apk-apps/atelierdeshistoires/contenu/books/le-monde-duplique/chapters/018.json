@@ -1,0 +1,221 @@
+{
+ "number": 18,
+ "title": "Le fret",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le port de fret de Célestia ne ressemblait à rien de ce qu'Elara connaissait de sa propre cité."
+  },
+  {
+   "type": "text",
+   "value": "Ici, pas de dômes dorés ni de fontaines chantantes. Seulement des quais de métal noirci, des grues magnétiques qui pivotaient en grinçant, et une lumière jaune, crue, qui tombait de projecteurs suspendus. L'air sentait l'huile chaude et une odeur minérale, presque électrique, celle de l'aldérite brute. Des employés en combinaison grise allaient et venaient en silence, le bracelet d'identification au poignet, sans jamais lever les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Elara avançait parmi eux, les cheveux cachés sous un bonnet de laine, le visage barbouillé de graisse, une combinaison grise trop large serrée à la taille par une ceinture. Séléna l'avait volée dans la blanchisserie du quartier des Employés, avec une désinvolture qui l'avait sidérée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu marches trop droit, lui souffla Séléna, qui marchait à côté d'elle dans un manteau de soirée couleur prune absolument déplacé. Les employés ne marchent pas comme ça. Baisse les épaules. Regarde tes pieds. Aie l'air fatiguée."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis fatiguée."
+  },
+  {
+   "type": "text",
+   "value": "— Alors aie l'air pauvre et fatiguée. C'est différent."
+  },
+  {
+   "type": "text",
+   "value": "Elara voûta les épaules. Autour d'elles, une vieille femme poussait un chariot chargé de bacs vides, un garçon d'à peine quinze ans lavait le pont d'un cargo à grande eau, un homme maigre comptait des caisses en remuant les lèvres. Aucun d'eux ne leur accorda un regard. Ici, on apprenait vite que lever les yeux ne servait à rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle eut honte, soudain, de la facilité avec laquelle elle apprenait ce rôle, comme si elle avait toujours su, quelque part, à quoi ressemblaient les gens qu'on écrase."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le cargo s'appelait le *Lourd-Sept*. C'était une coque trapue, couverte de rayures et de plaques soudées, avec trois soutes béantes d'où s'échappaient des volutes de poussière bleue. Il avait livré son minerai dans l'après-midi et redescendait à vide à minuit."
+  },
+  {
+   "type": "text",
+   "value": "— La soute arrière, chuchota Séléna. Elle n'est jamais inspectée à la descente, d'après le pilote que j'ai fait parler hier soir au bar du port. Il m'a aussi raconté sa vie, son divorce et ses problèmes de dos, donc tu me dois aussi trois heures d'ennui."
+  },
+  {
+   "type": "text",
+   "value": "— Séléna."
+  },
+  {
+   "type": "text",
+   "value": "— Oui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "Son amie la regarda, et pour une fois il n'y avait aucune ironie dans ses yeux sombres."
+  },
+  {
+   "type": "text",
+   "value": "— Reviens, dit-elle simplement. Reviens avec lui, ou reviens seule, mais reviens. Et ne me fais pas être marraine par lettre interposée."
+  },
+  {
+   "type": "text",
+   "value": "Elles se faufilèrent derrière une pile de conteneurs. La soute arrière était ouverte, sombre comme une bouche. Elara allait s'y glisser quand une voix claqua derrière elles."
+  },
+  {
+   "type": "text",
+   "value": "— Contrôle de sécurité ! Tout le monde reste où il est !"
+  },
+  {
+   "type": "text",
+   "value": "Elara se figea. Une escouade de gardes en uniforme blanc venait de déboucher sur le quai, menée par un officier au col haut. Ils avaient des scanners de bracelets à la main. Ils arrêtaient chaque employé, vérifiaient son poignet, le poussaient sans ménagement. Depuis l'arrestation de Kael, Cassius avait renforcé tous les contrôles, même ceux du fret."
+  },
+  {
+   "type": "text",
+   "value": "Elara n'avait pas de bracelet."
+  },
+  {
+   "type": "text",
+   "value": "— Ne bouge pas, murmura Séléna."
+  },
+  {
+   "type": "text",
+   "value": "Et avant qu'Elara ait pu la retenir, son amie sortit de derrière les conteneurs, rajusta son manteau prune et s'avança en pleine lumière en titubant légèrement, une main sur le front."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "La diversion"
+  },
+  {
+   "type": "text",
+   "value": "— Oh, Dieux du ciel, enfin des gens civilisés ! s'écria-t-elle d'une voix haut perchée. Officier ! Officier, vous devez m'aider, c'est un scandale !"
+  },
+  {
+   "type": "text",
+   "value": "Les gardes se retournèrent d'un bloc. L'officier fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Mademoiselle Arkos ? Que faites-vous au port de fret ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est précisément ce que je me demande ! Mon chauffeur m'a déposée au mauvais quai, ma navette est partie, j'ai cassé un talon sur vos affreuses grilles, et je crois que quelqu'un m'a volé mon bracelet de diamants. Mon père siège au Conseil des Finances, vous le savez, n'est-ce pas ? Il sera ravi d'apprendre comment on traite sa fille ici."
+  },
+  {
+   "type": "text",
+   "value": "L'officier pâlit. Les gardes échangèrent des regards inquiets. Séléna s'accrocha au bras de l'officier, l'entraîna vers l'autre bout du quai en parlant sans reprendre son souffle, et toute l'escouade suivit, comme des oiseaux derrière un morceau de pain."
+  },
+  {
+   "type": "text",
+   "value": "Elara ne perdit pas une seconde. Elle se glissa dans la soute."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il faisait noir, et froid, et la poussière d'aldérite lui piqua aussitôt les yeux. Elle avança à tâtons sur le plancher métallique jusqu'au fond de la soute, se recroquevilla derrière une rangée de bacs vides, et remonta le col de sa combinaison sur sa bouche. Ses mains tremblaient. Elle les posa sur son ventre pour les calmer."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va aller, chuchota-t-elle. On va voir ton père."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois qu'elle parlait à l'enfant. Sa propre voix lui parut étrange, minuscule dans l'obscurité."
+  },
+  {
+   "type": "text",
+   "value": "Un grondement sourd fit vibrer la coque. Les portes de la soute se refermèrent dans un fracas de métal, et le noir devint total. Puis le *Lourd-Sept* s'arracha du quai."
+  },
+  {
+   "type": "text",
+   "value": "Elara n'avait traversé la Faille qu'une fois, aller et retour, cinq ans plus tôt, dans la cabine luxueuse du vaisseau de son père, avec des fauteuils de cuir et une vitre panoramique. Rien ne l'avait préparée à ça."
+  },
+  {
+   "type": "text",
+   "value": "D'abord, il y eut le basculement. Le moment où le vaisseau quittait la gravité de Célestia pour entrer dans celle de Vasse, et où le haut devenait le bas. Son estomac se retourna. Les bacs vides glissèrent en raclant le plancher, et elle s'agrippa à une barre de fixation pendant que tout son corps semblait flotter, suspendu entre deux mondes, sans poids, sans direction. Pendant une seconde interminable, elle ne sut plus où était le sol."
+  },
+  {
+   "type": "text",
+   "value": "Puis la lumière arriva."
+  },
+  {
+   "type": "text",
+   "value": "Par les interstices des plaques soudées, des filets d'éclat bleu et blanc s'infiltrèrent dans la soute. C'était la Faille, le vide lumineux entre les deux mondes, qui traversait la coque comme si elle n'existait pas. La poussière d'aldérite en suspension s'alluma tout autour d'elle, des milliers de particules scintillantes qui tournoyaient lentement dans l'air, comme des étoiles prisonnières."
+  },
+  {
+   "type": "text",
+   "value": "Elara oublia sa peur. Elle tendit la main, et la lumière glissa sur ses doigts, froide et douce à la fois. Elle pensa à sa mère. Isolde avait fait ce voyage, autrefois, dans l'autre sens. Elle était montée de Vasse par amour, et elle était morte parce qu'on lui avait refusé, là-haut, les soins réservés aux gens nés du bon côté du ciel. Aujourd'hui, sa fille faisait le chemin inverse, avec un enfant de Vasse dans le ventre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "La lumière de la Faille"
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois, maman, murmura-t-elle. Je rentre chez toi."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau trembla violemment. Une alarme lointaine résonna dans la cabine de pilotage, puis se tut. La gravité de Vasse revint d'un coup, lourde, écrasante, et Elara retomba sur le plancher. Elle se protégea le ventre de ses bras, le souffle coupé, et resta là, immobile, pendant que le cargo descendait dans un rugissement continu."
+  },
+  {
+   "type": "text",
+   "value": "L'air changea. Il devint plus chaud, plus épais, chargé d'une odeur de rouille et de charbon qui lui brûla la gorge. Elara toussa, les yeux pleins de larmes. C'était l'air que Kael respirait depuis toujours. L'air de Mira. L'air qui avait abîmé, petite fille, les poumons de sa propre mère."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "L'atterrissage fut brutal. La coque frappa le sol, rebondit, s'immobilisa dans un long gémissement de métal. Il y eut des voix au-dehors, des ordres criés dans un accent rugueux qu'elle n'avait pas entendu depuis cinq ans. Puis les portes de la soute s'ouvrirent, et un rectangle de jour gris et poussiéreux tomba sur le plancher."
+  },
+  {
+   "type": "text",
+   "value": "Elara se plaqua derrière les bacs. Des pas lourds approchèrent. Une lampe balaya la soute, passa sur les parois, sur le plancher, revint en arrière."
+  },
+  {
+   "type": "text",
+   "value": "Et s'arrêta sur elle."
+  },
+  {
+   "type": "text",
+   "value": "Un homme se tenait dans l'ouverture. Un contremaître, à en juger par le brassard orange à son bras, le visage creusé, une barbe grise couverte de poussière. Il la regarda longtemps. Elle vit ses yeux descendre vers les mèches cuivrées qui s'étaient échappées du bonnet pendant le voyage, puis remonter vers son visage."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Le contremaître"
+  },
+  {
+   "type": "text",
+   "value": "Elara sut qu'il l'avait reconnue. Tout Vasse avait vu son visage sur les affiches de la Compagnie, à côté de celui de son père."
+  },
+  {
+   "type": "text",
+   "value": "L'homme ne cria pas. Il n'appela pas les gardes. Il jeta un coup d'œil par-dessus son épaule, vers le quai où patrouillaient deux uniformes blancs, puis il sortit de sa poche un vieil émetteur rafistolé avec du fil de cuivre."
+  },
+  {
+   "type": "text",
+   "value": "Il appuya sur le bouton, sans la quitter des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Ici Dorn, au quai de fret, dit-il à voix basse. Préviens Jory. Dis-lui que j'ai trouvé quelque chose dans le Lourd-Sept. Quelque chose qui vaut plus que toute l'aldérite de la mine."
+  }
+ ]
+}

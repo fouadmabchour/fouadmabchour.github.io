@@ -1,0 +1,277 @@
+{
+ "number": 13,
+ "title": "L'interrogatoire",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La cellule était blanche."
+  },
+  {
+   "type": "text",
+   "value": "Pas d'un blanc de neige ou de nuage. D'un blanc chirurgical, sans ombre, sans grain, sans joint visible entre les murs, le sol et le plafond. La lumière ne venait de nulle part et de partout à la fois. Elle traversait les paupières fermées. Elle ne s'éteignait jamais."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne savait plus depuis combien de temps il était là."
+  },
+  {
+   "type": "text",
+   "value": "Au début, il avait compté. Les repas, glissés par une trappe : une bouillie tiède, un gobelet d'eau. Les visites. Les pas dans le couloir. Puis les repas étaient arrivés à des intervalles absurdes, deux en une heure, puis plus rien pendant ce qui avait semblé une journée entière. Il avait compris que c'était voulu. On lui volait le temps, morceau par morceau."
+  },
+  {
+   "type": "text",
+   "value": "Chaque fois qu'il s'assoupissait contre le mur, un son strident jaillissait du plafond. Pas assez fort pour faire mal. Juste assez pour arracher le sommeil comme on arrache un drap."
+  },
+  {
+   "type": "text",
+   "value": "Il avait les yeux brûlants, la bouche pâteuse, et une pensée fixe qu'il tenait serrée comme une barre de fer dans le Puits-Noir : ne pas parler de Jory."
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit sans bruit. Cassius Morn entra, impeccable, avec une chaise pliante qu'il déplia lui-même et une tasse de thé fumante qu'il posa sur le sol, juste hors de portée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-1.webp",
+   "caption": "La cellule blanche"
+  },
+  {
+   "type": "text",
+   "value": "— Bonjour, Kael. Ou bonsoir. Je ne sais plus très bien, et vous non plus, j'imagine."
+  },
+  {
+   "type": "text",
+   "value": "Il s'assit, croisa les jambes. Ses cheveux blond pâle brillaient sous la lumière crue, plaqués sans un fil de travers."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez l'air fatigué, observa-t-il avec une sollicitude parfaite. C'est normal. Le corps humain n'est pas fait pour ce genre d'endroit. Au bout de quatre jours, en général, les gens commencent à confondre ce qu'ils pensent et ce qu'ils disent. C'est fascinant. Vous en êtes au troisième."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne répondit pas. Il regardait un point du mur, toujours le même."
+  },
+  {
+   "type": "text",
+   "value": "— Reprenons. Vous avez accédé au Cœur sans autorisation. Vous avez copié des relevés classés. À qui les avez-vous transmis ?"
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "— Vous recevez des messages codés sur votre bracelet. Nous les avons. Nous ne les avons pas encore déchiffrés, je vous l'accorde, vos amis d'en bas sont plus malins que je ne le pensais. Mais nous y arriverons. Ce serait tellement plus simple si vous me disiez qui les envoie."
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "Cassius soupira, comme un professeur devant un élève doué mais paresseux. Il sortit de sa poche intérieure une petite tablette et la tourna vers Kael. Une image : la porte de la maison des Orren, au quartier des Tôles. La tôle cabossée, le rideau rapiécé que Mira avait peint de petites étoiles bleues."
+  },
+  {
+   "type": "text",
+   "value": "— Charmant, n'est-ce pas ? J'ai une patrouille à deux rues. Elle n'a reçu aucun ordre. Pas encore."
+  },
+  {
+   "type": "text",
+   "value": "Kael sentit son cœur cogner contre ses côtes. Il garda les yeux sur le mur."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez ce qui arrive aux jeunes filles asthmatiques dans les centres de détention de Vasse ? poursuivit Cassius, très doucement. La poussière y est épouvantable. On dit qu'on n'y tient pas un hiver. Je trouverais ça si triste. Elle dessine si bien."
+  },
+  {
+   "type": "text",
+   "value": "— Si vous la touchez..."
+  },
+  {
+   "type": "text",
+   "value": "Sa propre voix le surprit, rauque, cassée. Cassius sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Ah. Le voilà. Je commençais à croire que vous aviez oublié comment on parle. Si je la touche, quoi ? Vous êtes dans une boîte blanche, Kael. Personne ne sait que vous êtes ici. Votre bracelet indique que vous avez été rapatrié pour raisons de santé. Pour le reste d'Aldren, vous êtes déjà parti."
+  },
+  {
+   "type": "text",
+   "value": "Il se pencha en avant, les coudes sur les genoux."
+  },
+  {
+   "type": "text",
+   "value": "— Un nom. Juste un. Celui qui vous écrit. Et votre sœur reste dans sa jolie maison aux étoiles bleues."
+  },
+  {
+   "type": "text",
+   "value": "Kael pensa à Jory. À leurs quinze ans, quand ils s'étaient juré dans le noir d'une galerie de ne jamais se vendre. Au foulard rouge. Aux mineurs qui, dans neuf jours, ou huit, ou sept, il ne savait plus, poseraient leurs outils sans savoir que le ciel leur tomberait dessus."
+  },
+  {
+   "type": "text",
+   "value": "S'il donnait Jory, Cassius écraserait la grève dans le sang. S'il se taisait, Mira..."
+  },
+  {
+   "type": "text",
+   "value": "Non. Cassius bluffait. Cassius avait besoin de lui vivant, besoin de son silence brisé, pas d'un cadavre. Il fallait le croire. Il fallait."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas de quoi vous parlez, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "Cassius le regarda longtemps. Puis il se leva, ramassa la tasse de thé, et la but lentement, debout, jusqu'à la dernière goutte."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons tout le temps, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "La porte se referma. La lumière parut s'intensifier. Le son strident jaillit du plafond."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "— Il n'est pas rentré, Séléna. Il n'est jamais rentré."
+  },
+  {
+   "type": "text",
+   "value": "Elara tournait dans la petite cuisine de son amie comme une bête en cage. Elle était arrivée par l'escalier de service, une capuche sur ses cheveux roux, après avoir laissé son bracelet surveillé sur son oreiller. Séléna Arkos l'avait fait entrer sans un mot, en robe de chambre de soie, son carré brun impeccable même à minuit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-2.webp",
+   "caption": "Chez Séléna"
+  },
+  {
+   "type": "text",
+   "value": "— Son logement est vide, continua Elara. Ses affaires y sont encore. Ses carnets de calculs, sa veste, tout. Et le registre dit qu'il a été rapatrié à Vasse pour raisons de santé. Kael n'aurait jamais laissé ses carnets. Jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi, ma belle. Tu me donnes le tournis."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas m'asseoir."
+  },
+  {
+   "type": "text",
+   "value": "Séléna lui mit d'autorité une tasse dans les mains et la poussa sur un tabouret. Puis elle s'adossa au comptoir, les bras croisés, et son visage de mondaine frivole se transforma en quelque chose de beaucoup plus aigu."
+  },
+  {
+   "type": "text",
+   "value": "— Bon. Réfléchissons. Si on l'avait vraiment renvoyé en bas, il y aurait un vol au registre du quai. J'ai un cousin qui s'ennuie aux manifestes de vol. Il me doit trois dîners et un secret honteux."
+  },
+  {
+   "type": "text",
+   "value": "— Et si ce n'est pas le cas ?"
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est qu'il est encore en haut. Et s'il est encore en haut, en cachette, ça ne peut être qu'un seul service."
+  },
+  {
+   "type": "text",
+   "value": "Elles se regardèrent. Le nom n'avait pas besoin d'être prononcé."
+  },
+  {
+   "type": "text",
+   "value": "— Cassius, souffla Elara."
+  },
+  {
+   "type": "text",
+   "value": "— La Sécurité des passages a des cellules sous la tour de contrôle du quai. Tout le monde le sait, personne n'en parle. Mais il me faudrait une preuve, une liste, un numéro de cellule. Quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Elara serra la tasse si fort que la porcelaine lui brûla les paumes."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père sait. Forcément. Rien ne se passe dans cette ville sans qu'il le sache."
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est dans son bureau que se trouve la réponse."
+  },
+  {
+   "type": "text",
+   "value": "Elles restèrent silencieuses. Dehors, le bourdonnement des stabilisateurs emplissait la nuit, régulier comme un pouls. Elara pensa aux quarante jours, qui n'étaient déjà plus quarante. Elle pensa à Kael, quelque part sous ses pieds, seul."
+  },
+  {
+   "type": "text",
+   "value": "— Demain soir, dit-elle. Mon père a séance au Conseil."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Kael ne savait plus si ses yeux étaient ouverts ou fermés. Le blanc était le même des deux côtés."
+  },
+  {
+   "type": "text",
+   "value": "Il avait parlé tout seul, tout à l'heure. Il en était presque sûr. Des équations, des constantes, la formule du flux gravitationnel, récitée à voix haute comme une prière, pour garder quelque chose de solide dans sa tête. Le son du plafond l'avait interrompu deux fois au milieu d'une démonstration."
+  },
+  {
+   "type": "text",
+   "value": "La porte s'ouvrit. Cassius entra, sans chaise cette fois, avec la même tablette."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai une surprise pour vous, Kael. Je crois que vous méritez de savoir la vérité, après tout ce que vous avez enduré pour protéger les gens que vous aimez."
+  },
+  {
+   "type": "text",
+   "value": "Il s'accroupit à sa hauteur, avec une douceur presque fraternelle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous vous êtes demandé qui vous a dénoncé. Je le vois dans vos yeux depuis le premier jour. Le père, pensez-vous. Bien sûr, le père. C'est logique."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna l'écran."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-3.webp",
+   "caption": "La vidéo"
+  },
+  {
+   "type": "text",
+   "value": "Elara apparut. Ses cheveux cuivrés défaits sur les épaules, sa robe claire, le décor du salon de la tour Vey derrière elle. Elle regardait la caméra avec des yeux secs. Sa voix sortit du petit haut-parleur, nette, posée, terriblement reconnaissable."
+  },
+  {
+   "type": "text",
+   "value": "— C'est moi qui ai prévenu la Sécurité. Il s'est servi de moi pour entrer au Cœur. Je ne veux plus jamais le revoir."
+  },
+  {
+   "type": "text",
+   "value": "L'image se figea sur son visage."
+  },
+  {
+   "type": "text",
+   "value": "Kael la fixa. Quelque chose, très loin, au fond de son esprit épuisé, criait que c'était faux, que la lumière n'était pas la bonne, que les lèvres d'Elara ne bougeaient pas tout à fait comme elles devaient. Mais la voix. Sa voix."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sentait plus le sol. Il ne sentait plus que le petit poids froid du pendentif contre sa poitrine, qui soudain pesait comme une pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis désolé, murmura Cassius en se relevant. Vraiment. Dormez un peu, maintenant. Vous l'avez bien mérité."
+  },
+  {
+   "type": "text",
+   "value": "Et pour la première fois depuis des jours, la lumière s'éteignit."
+  }
+ ]
+}

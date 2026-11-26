@@ -1,0 +1,245 @@
+{
+ "number": 8,
+ "title": "Les jardins flottants",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le lendemain matin, Elara arriva au bureau persuadée qu'on allait l'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait à peine dormi. Chaque bruit de pas dans le couloir lui faisait lever la tête, chaque sonnerie de l'écran lui serrait l'estomac. Mais la secrétaire au chignon impeccable lui apporta son thé comme tous les jours, Cassius ne se montra pas, et son père, au dîner de la veille, avait parlé pendant deux heures des quotas d'extraction sans lui accorder plus d'un regard. Rien. Le monde continuait de tourner, poli, blanc, indifférent."
+  },
+  {
+   "type": "text",
+   "value": "À midi, n'y tenant plus, elle descendit au service de surveillance sous un prétexte administratif. L'agent de garde du matin n'était plus le même que celui de la veille. Elle demanda, d'un ton léger, si les caméras du niveau 38 fonctionnaient bien, parce qu'on lui avait signalé des pannes. L'agent consulta son registre."
+  },
+  {
+   "type": "text",
+   "value": "— Une coupure hier, de douze heures dix à douze heures quarante. Le collègue a noté un défaut de l'écran vingt-trois. C'est réparé, madame."
+  },
+  {
+   "type": "text",
+   "value": "Une coupure. Un défaut. Elara remercia, remonta, s'enferma dans son bureau et respira enfin. Une simple panne. Ils avaient eu de la chance."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne se demanda pas pourquoi l'agent de la veille avait été changé de poste."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "— Tu es complètement folle, dit Séléna Arkos."
+  },
+  {
+   "type": "text",
+   "value": "Elle était assise en tailleur sur le lit d'Elara, une coupe de fruits confits sur les genoux, son carré brun aussi parfait qu'au premier jour de leur amitié, quand elles avaient huit ans et que Séléna avait mordu un garçon qui se moquait des taches de rousseur d'Elara."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Séléna"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Un employé de Vasse. Avec un bracelet. Dans la tour de ton père. Sous le nez de Cassius Morn, qui te regarde comme un notaire regarde un héritage."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Séléna."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu veux que je te couvre."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Séléna mâcha un abricot confit avec une lenteur dramatique."
+  },
+  {
+   "type": "text",
+   "value": "— Bien sûr que je vais te couvrir, idiote. Tu crois que j'ai passé quinze ans à faire semblant d'être une écervelée mondaine pour rien ? Personne ne soupçonne une fille qui parle de chapeaux. Officiellement, ce soir, tu es chez moi. Nous essayons des robes pour le bal du Solstice. Nous en essayons beaucoup. C'est épuisant."
+  },
+  {
+   "type": "text",
+   "value": "Elara se jeta sur elle et la serra si fort que la coupe de fruits se renversa sur le couvre-lit."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es la meilleure amie du monde."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis la seule amie que tu aies qui sache garder un secret, nuance. Et je veux le rencontrer. Je veux voir à quoi ressemble un homme pour qui Elara Vey ment à son père."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Les jardins flottants s'éteignaient à minuit. C'était une règle, comme presque tout à Célestia : on coupait l'éclairage des îles pour que les grandes familles puissent admirer les étoiles depuis leurs terrasses. Ensuite, plus personne n'y allait. Il n'y avait rien à y faire dans le noir, sinon être seul."
+  },
+  {
+   "type": "text",
+   "value": "Le plus petit des jardins s'appelait l'île des Glycines. Il flottait au bord de la ville, à l'aplomb de la Faille, relié à un ponton de service par une passerelle étroite que les jardiniers empruntaient le matin. Elara en avait la clé depuis l'enfance. Sa mère l'y emmenait, autrefois, quand elle était petite. C'était un des rares souvenirs d'elle qu'Elara n'avait pas perdus : une main douce, un rire, l'odeur des glycines."
+  },
+  {
+   "type": "text",
+   "value": "Kael arriva par le chemin qu'elle lui avait dessiné, en longeant l'arrière des serres, là où les caméras ne regardaient pas. Son bracelet était autorisé pour le laboratoire de nuit. Elle avait signé elle-même l'ordre de mission, pour des relevés gravimétriques urgents. Ce n'était pas tout à fait un mensonge : il avait vraiment des relevés à faire. Plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta au bout de la passerelle, la main sur la rambarde, et regarda en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te rends compte, dit-il, qu'il n'y a rien entre mes pieds et ma mère, à part la Faille et une très bonne équation ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis ingénieur. J'ai confiance en l'équation. C'est le jardinier qui a noué les filins qui m'inquiète."
+  },
+  {
+   "type": "text",
+   "value": "Elle le prit par la main et l'entraîna sous les arbres."
+  },
+  {
+   "type": "text",
+   "value": "Les glycines pendaient en grappes lourdes, mauves et blanches, et leur parfum était si dense qu'on aurait pu le boire. Le sol de l'île était couvert d'une mousse épaisse qui étouffait les pas. Au centre, il y avait un banc de pierre, et derrière le banc, la vue. Toute la Faille, ondulant de lumière bleue. Et au-dessus d'eux, immense et sombre, constellée de millions de feux, Vasse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "L'île des Glycines"
+  },
+  {
+   "type": "text",
+   "value": "Ils s'assirent sur la mousse, adossés au banc. Elle posa la tête sur son épaule. Il sentait le savon gris du quartier des Employés, et dessous, une odeur plus ancienne, la poussière, le fer, qu'aucun savon d'en haut n'effacerait jamais. Elle s'aperçut qu'elle l'aimait aussi, cette odeur-là."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois la grande cheminée ? demanda-t-il en pointant le ciel. Celle qui ressemble à un doigt ?"
+  },
+  {
+   "type": "text",
+   "value": "— Celle qui fait un geste grossier à Célestia ?"
+  },
+  {
+   "type": "text",
+   "value": "— Exactement. Ma mère dit que c'est voulu. Notre maison est juste à côté. Mira doit dormir, à cette heure. Ou dessiner en cachette à la bougie, ce qui est plus probable."
+  },
+  {
+   "type": "text",
+   "value": "— Parle-moi d'elle."
+  },
+  {
+   "type": "text",
+   "value": "Il lui parla de Mira. De ses tresses, de son insolence, des dessins qu'elle faisait sur les murs, sur les tables, sur la peau de son frère quand il dormait. De son asthme, de la poussière qui lui volait son souffle. De sa mère, Hana, qui avait les mains si abîmées qu'elle ne pouvait plus fermer complètement les poings, et qui le giflait quand il rentrait trop tard, puis le serrait dans ses bras. De Jory, son ami de toujours, plus grand que lui, plus en colère, qui portait un foulard rouge et refusait de baisser les yeux devant les contremaîtres."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui parla de son père. De la maison trop grande et trop silencieuse. De sa mère morte quand elle avait huit ans, d'une maladie dont personne ne voulait jamais lui dire le nom."
+  },
+  {
+   "type": "text",
+   "value": "— Et après ? demanda-t-il au bout d'un long moment."
+  },
+  {
+   "type": "text",
+   "value": "— Après quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Après ce soir. Dans un mois. Dans un an. Je suis l'employé 4471-V. Tu es l'héritière de la Compagnie. Ton père possède le puits où le mien est mort. Il n'y a pas d'après, Elara. Il n'y a pas de loi, ni en haut ni en bas, qui permette ce qu'on est en train de faire."
+  },
+  {
+   "type": "text",
+   "value": "Elle se redressa pour le regarder. Dans la lumière bleue de la Faille, ses yeux gris semblaient presque clairs."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on changera les lois."
+  },
+  {
+   "type": "text",
+   "value": "— Rien que ça."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis têtue, moi aussi. Tu l'as dit toi-même : tu ne veux pas que j'aie eu tort."
+  },
+  {
+   "type": "text",
+   "value": "Il rit doucement. Puis il cessa de rire, et il l'embrassa."
+  },
+  {
+   "type": "text",
+   "value": "Les glycines bruissaient dans la brise qui montait de la Faille. Quelque part, très loin en bas, ou très loin en haut, une sirène de relève sonna dans les mines de Vasse. Ni l'un ni l'autre ne l'entendit. La nuit se referma sur eux, tendre et sans témoin, et ce qu'ils se dirent ensuite, ce qu'ils se donnèrent, n'appartint qu'à l'île des Glycines."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Quand Kael quitta le jardin, il était trois heures du matin, et il souriait comme un imbécile."
+  },
+  {
+   "type": "text",
+   "value": "Il le savait, il essayait d'arrêter, il n'y arrivait pas. Dans l'ascenseur qui le menait au laboratoire, il croisa son reflet dans la paroi de verre et se trouva l'air d'un adolescent. Il s'en moqua. Il avait vingt-quatre ans, un bracelet au poignet, aucun avenir et l'impression d'être le plus riche des hommes."
+  },
+  {
+   "type": "text",
+   "value": "Il fallait bien faire ces relevés. L'ordre de mission était signé ; quelqu'un, quelque part, vérifierait peut-être qu'il avait travaillé. Il s'installa au poste du laboratoire de gravimétrie, alluma la console et ouvrit les registres de flux des stabilisateurs, ceux que la direction scientifique publiait chaque mois à l'intention du Conseil."
+  },
+  {
+   "type": "text",
+   "value": "Il connaissait ces chiffres par cœur. Il les avait étudiés à Vasse pour le Concours, sur des copies de copies. Consommation annuelle d'aldérite par les stabilisateurs de Célestia : quatre mille tonnes. Réserves en stock : trois ans. Tout était stable, sûr, rassurant. Le Conseil le répétait à chaque discours."
+  },
+  {
+   "type": "text",
+   "value": "Par habitude, il compara ces données aux mesures brutes que les capteurs du laboratoire enregistraient en temps réel. Un exercice d'étudiant, pour se dérouiller les neurones."
+  },
+  {
+   "type": "text",
+   "value": "Les chiffres ne correspondaient pas."
+  },
+  {
+   "type": "text",
+   "value": "Il fronça les sourcils, refit le calcul. Puis une troisième fois, plus lentement, en vérifiant chaque unité, chaque coefficient, comme son vieux professeur de Vasse le lui avait appris avec une règle sur les doigts."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Les chiffres"
+  },
+  {
+   "type": "text",
+   "value": "Le sourire s'effaça de son visage."
+  },
+  {
+   "type": "text",
+   "value": "Les stabilisateurs de Célestia ne consommaient pas quatre mille tonnes d'aldérite par an. Ils en consommaient douze mille. Trois fois plus que ce que le Conseil annonçait."
+  },
+  {
+   "type": "text",
+   "value": "Et si les chiffres officiels mentaient sur ce que Célestia brûlait, ils mentaient sans doute aussi sur ce qu'il lui restait."
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "number": 5,
+ "title": "Cinq ans",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La première lettre, Elara l'écrivit la nuit même de son retour, à la lueur d'une lampe de chevet, les genoux encore écorchés sous sa chemise de nuit."
+  },
+  {
+   "type": "text",
+   "value": "Elle recommença sept fois. Les six premières disaient trop, ou pas assez, ou n'importe quoi. La septième disait simplement : « Je suis rentrée. Mon père ne sait rien. Je regarde Vasse tous les soirs, depuis le bord du jardin, là où il n'y a pas de barrière. Est-ce que tu me vois ? » Elle l'adressa à Kael, impasse des Tamis, Vasse. Elle n'avait pas de nom de famille. Elle espéra que ça suffirait."
+  },
+  {
+   "type": "text",
+   "value": "Elle la confia au service du courrier des passages, avec une pièce pour le porteur."
+  },
+  {
+   "type": "text",
+   "value": "La réponse ne vint pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle écrivit la semaine suivante. Et celle d'après. Elle écrivit des lettres sur la couleur du ciel quand Vasse s'allumait le soir, sur les cours d'économie où l'on parlait des mineurs comme de « ressources », sur la petite fille à la fleur de poussière qu'elle n'arrivait pas à oublier. Elle écrivit des questions. Comment va ta main. Est-ce que Mira dessine toujours. Est-ce que tu as trouvé ce qui retient le monde."
+  },
+  {
+   "type": "text",
+   "value": "À la Sécurité des passages, dans un bureau blanc au dernier étage d'une tour blanche, Cassius Morn ouvrait chaque enveloppe avec un coupe-papier d'argent. Il les lisait toutes, jusqu'au bout, avec attention. Puis il les rangeait dans un tiroir fermé à clé, et le tiroir se remplissait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Les lettres"
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "À Vasse, la Sécurité vint trois semaines après la visite du Maître des Mines."
+  },
+  {
+   "type": "text",
+   "value": "Ils cherchaient un homme avec une blessure à la main droite. Ils ne le dirent pas comme ça. Ils dirent qu'ils cherchaient des « éléments perturbateurs », et ils fouillèrent les maisons du quartier des Tamis une par une, en retournant les matelas et en vidant les placards. Kael était au fond du puits sept. Ce fut Hana qui le prévint, en lui faisant passer un mot par le contremaître. Il resta en bas deux jours entiers, à dormir sur des sacs dans une galerie morte, la main enveloppée dans un chiffon noir pour cacher la cicatrice qui se formait."
+  },
+  {
+   "type": "text",
+   "value": "L'année suivante, ce fut une rafle. On prenait les jeunes pour les envoyer dans les puits profonds de l'est, ceux dont on ne revenait pas toujours. On disait qu'on prenait aussi des enfants, pour les galeries trop étroites. Mira avait treize ans et toussait de plus en plus. Kael la cacha sous le plancher de la maison, dans le trou où son père rangeait autrefois ses outils, et il resta assis au-dessus, sur le banc, à manger sa soupe pendant que les hommes en blanc fouillaient la pièce. Il sentit le plancher trembler quand elle retint une quinte de toux. Il ne leva pas les yeux. Ils repartirent."
+  },
+  {
+   "type": "text",
+   "value": "Cette nuit-là, Mira sortit du trou, couverte de poussière, et elle lui dit :"
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai dessinée dans ma tête, pendant que j'étais en dessous. Ta fille rousse."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas ma fille rousse."
+  },
+  {
+   "type": "text",
+   "value": "— Alors pourquoi tu dors avec sa pierre ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Le pendentif ne le quittait jamais, glissé sous sa chemise, au bout d'un lacet de cuir. La nuit, quand il ne dormait pas, il le sortait et le regardait briller. Il n'avait jamais reçu de lettre. Il s'était dit que c'était normal. Il s'était dit qu'une fille d'en haut avait oublié une heure passée en bas, comme on oublie un orage. Il s'était dit beaucoup de choses, et aucune ne l'avait convaincu."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Elara tenta de redescendre à vingt ans."
+  },
+  {
+   "type": "text",
+   "value": "Elle se présenta au quai de Célestia avec un sac, une cape grise et un faux laissez-passer qu'elle avait payé une fortune. On la reconnut avant même qu'elle ait tendu le papier. Cassius vint la chercher lui-même, courtois, désolé, impeccable."
+  },
+  {
+   "type": "text",
+   "value": "— Votre père serait très inquiet, dit-il. Vasse n'est pas un endroit pour vous."
+  },
+  {
+   "type": "text",
+   "value": "— Vasse n'est un endroit pour personne, dit-elle. C'est bien ça le problème."
+  },
+  {
+   "type": "text",
+   "value": "Son père ne cria pas. Aurelian Vey ne criait jamais. Il signa simplement un décret qui interdisait à sa fille tout passage vers le bas, et il le fit afficher dans chaque poste de la Sécurité. Elle ne lui parla pas pendant un mois. Puis elle comprit qu'il ne céderait pas, et elle changea de méthode."
+  },
+  {
+   "type": "text",
+   "value": "Elle étudia. Elle devint la meilleure de sa promotion en ingénierie des flux, puis la plus jeune chercheuse de la direction scientifique de la Compagnie, puis directrice adjointe, à vingt-trois ans, et personne ne put dire que c'était grâce à son nom, parce qu'elle travaillait deux fois plus que tout le monde. Si on lui interdisait de descendre, elle trouverait un moyen de faire monter Vasse jusqu'à elle. Elle ne savait pas encore comment. Elle savait seulement qu'il fallait être assez haut pour avoir le droit de décider."
+  },
+  {
+   "type": "text",
+   "value": "Séléna Arkos, son amie d'enfance, au carré brun parfait et aux sourires de salon, était la seule à qui elle avait tout raconté. Un soir, au bord du jardin des Arkos, Séléna lui demanda :"
+  },
+  {
+   "type": "text",
+   "value": "— Tu l'aimes encore, ton mineur ?"
+  },
+  {
+   "type": "text",
+   "value": "— On a passé une heure ensemble."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas une réponse."
+  },
+  {
+   "type": "text",
+   "value": "Elara regarda Vasse, en bas, ses lumières faibles et orangées sous la lueur bleue de la Faille."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-elle. Ce n'est pas une réponse."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Kael étudiait la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Après douze heures dans le puits, il rentrait, mangeait, dormait quatre heures, et le reste du temps, il lisait. Les trois manuels tombés du fret, d'abord, jusqu'à les savoir par cœur. Puis d'autres, que le vieux Tobbin lui trouvait dans les rebuts de Célestia contre des réparations, des livres déchirés, tachés, auxquels il manquait des pages qu'il reconstituait lui-même, équation par équation. Il remplissait des cahiers de calculs sur la gravité, le flux, la manière dont l'aldérite pliait les forces autour d'elle. Il construisait des maquettes avec des bouts de métal et des miettes de minerai bleu ramassées au tri. Une nuit, l'une d'elles flotta, trois secondes, à un doigt au-dessus de la table. Mira hurla de joie et réveilla toute l'impasse. Le lendemain, la moitié du quartier défila dans la cuisine des Orren pour voir le prodige, et Kael, épuisé, dut faire flotter sa maquette onze fois de suite, jusqu'à ce que la miette d'aldérite s'éteigne pour de bon et que la vieille voisine d'en face déclare, très déçue, qu'elle avait vu mieux au marché de nuit. Hana, elle, ne dit rien. Mais elle rangea la maquette éteinte sur l'étagère, à côté du casque de son mari."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Les nuits d'étude"
+  },
+  {
+   "type": "text",
+   "value": "Jory venait parfois le regarder travailler, assis sur le rebord de la fenêtre, son foulard rouge noué au cou."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas leur faire quoi, avec tout ça ? demandait-il."
+  },
+  {
+   "type": "text",
+   "value": "— Les comprendre."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je préférerais les faire tomber."
+  },
+  {
+   "type": "text",
+   "value": "— Pour les faire tomber, dit Kael, il faut d'abord savoir ce qui les tient."
+  },
+  {
+   "type": "text",
+   "value": "Jory riait. Il ne savait pas encore que Kael ne plaisantait pas."
+  },
+  {
+   "type": "text",
+   "value": "La quatrième année, la Compagnie Vey annonça le Grand Concours des Ingénieurs de Vasse. Une opération de prestige, disait-on au marché, pour faire croire que l'en-haut s'intéressait à l'en-bas. Un seul gagnant. Une seule récompense : un poste d'ingénieur à Célestia, à la Compagnie même."
+  },
+  {
+   "type": "text",
+   "value": "Kael s'inscrivit le dernier jour. Il présenta un modèle de stabilisation des flux d'aldérite qui réduisait les pertes de moitié. Le jury, venu d'en haut, le fit répéter trois fois, persuadé qu'il avait volé les calculs. Il les refit devant eux, à la craie, sur un tableau noir, sans une seule note, pendant deux heures."
+  },
+  {
+   "type": "text",
+   "value": "Il gagna."
+  },
+  {
+   "type": "text",
+   "value": "Le soir des résultats, Hana pleura pour la première fois depuis la mort de son mari. Mira, dix-sept ans, dessina son frère en haut d'une tour blanche, la tête en bas, l'air ridicule. Jory le serra contre lui à lui briser les côtes, puis lui dit à l'oreille, très bas :"
+  },
+  {
+   "type": "text",
+   "value": "— N'oublie jamais d'où tu viens, frère."
+  },
+  {
+   "type": "text",
+   "value": "— Comment je pourrais ? J'ai la poussière dans les poumons."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le jour du départ, il faisait beau, c'est-à-dire que Célestia brillait plus fort que d'habitude."
+  },
+  {
+   "type": "text",
+   "value": "Kael, vingt-quatre ans, une veste de travail sombre et usée sur le dos, un sac de toile à l'épaule et un pendentif bleu sous la chemise, monta la passerelle du vaisseau gravitationnel. Il ne se retourna pas, parce qu'il savait que s'il voyait sa mère, il ne monterait pas. Les portes se refermèrent. Le sol vibra. Par le hublot, Vasse s'éloigna, grise, minuscule, et la lumière bleue de la Faille l'enveloppa."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Le départ"
+  },
+  {
+   "type": "text",
+   "value": "Au même instant, très haut au-dessus de lui, dans un bureau aux murs blancs de la direction scientifique, Elara Vey, vingt-trois ans, parcourait d'un œil distrait la liste des nouvelles recrues de la Compagnie, une tasse de thé de fleurs à la main."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta sur la dernière ligne."
+  },
+  {
+   "type": "text",
+   "value": "Ingénieur stagiaire, lauréat du Grand Concours de Vasse : Kael Orren."
+  },
+  {
+   "type": "text",
+   "value": "La tasse lui glissa des doigts et se brisa sur le sol blanc."
+  },
+  {
+   "type": "text",
+   "value": "Cinq ans de lettres sans une seule réponse. Et il montait aujourd'hui, droit vers elle, sans lui avoir jamais écrit un mot."
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "number": 23,
+ "title": "Isolde",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La diode s'était éteinte depuis longtemps, mais Aurelian Vey n'avait pas lâché le micro."
+  },
+  {
+   "type": "text",
+   "value": "Il était assis par terre, dans son bureau, le dos contre le pied de la grande table d'ébène. La chaise renversée gisait à côté de lui. Il ne se souvenait pas de s'être levé, ni d'être tombé. Il savait seulement que le sol penchait, que la lumière bleue de la Faille entrait par la baie et peignait ses mains d'une couleur de noyé, et qu'il venait de dire à voix haute la phrase qu'il gardait enfermée depuis quinze ans."
+  },
+  {
+   "type": "text",
+   "value": "J'ai obéi au Conseil."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux. Et pour la première fois depuis très longtemps, il laissa revenir ce qu'il avait passé sa vie à repousser."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il avait vingt-sept ans, la première fois qu'il était descendu à Vasse. Jeune directeur, manteau neuf, l'arrogance tranquille de ceux qui n'ont jamais eu froid. Une inspection de routine, deux heures, un rapport à signer."
+  },
+  {
+   "type": "text",
+   "value": "Il avait cassé le talon d'une botte sur une marche de fer du marché de nuit, et une femme avait ri."
+  },
+  {
+   "type": "text",
+   "value": "Pas méchamment. Un rire clair, surpris, qui sortait d'un étal de lampes. Elle réparait des lanternes avec des éclats d'aldérite trop petits pour la Compagnie, des miettes bleues qu'elle sertissait dans du fil d'argent récupéré. Elle avait des cheveux roux qu'elle nouait avec un ruban de toile, des taches de rousseur jusque sur les mains, et des yeux verts qui ne baissaient devant personne. Même pas devant un homme en manteau brodé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "Le marché de nuit"
+  },
+  {
+   "type": "text",
+   "value": "— Vous allez boiter jusqu'à votre vaisseau, lui avait-elle dit. Asseyez-vous. Je vais vous la recoudre."
+  },
+  {
+   "type": "text",
+   "value": "Il s'était assis. Il ne savait pas pourquoi. Il avait regardé ses doigts fins passer l'alène dans le cuir, et elle lui avait demandé, sans lever la tête, à quoi ressemblait le dessous de Célestia, vu d'en haut. Il n'avait jamais pensé que Célestia avait un dessous."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'appelait Isolde."
+  },
+  {
+   "type": "text",
+   "value": "Il était revenu. D'abord avec des prétextes, puis sans. Il avait appris le chemin du marché de nuit comme on apprend une prière. Elle lui avait montré les toits de Vasse, d'où l'on voyait la ville d'en haut briller à l'envers, comme un lustre suspendu à rien. Elle lui avait appris le nom des étoiles qu'on ne voyait que d'en bas, quand Célestia tournait et dégageait un coin de ciel. Elle se moquait de ses mains trop douces. Il riait. À Célestia, personne ne l'avait jamais fait rire."
+  },
+  {
+   "type": "text",
+   "value": "Il se souvenait d'une nuit sur un toit de tôle encore chaud du soleil, la tête d'Isolde contre son épaule, et du silence entre eux qui n'avait besoin de rien. Il se souvenait de la première fois qu'il l'avait embrassée, maladroitement, et d'elle qui avait dit « enfin » en riant contre sa bouche. Le reste, il le gardait pour lui, comme on garde une lumière dans ses mains."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Le toit d'Isolde"
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait épousée contre l'avis de tous. Le Conseil avait accordé le passage, à condition qu'on n'en parle pas. Une épouse d'en bas, c'était une tache sur la Compagnie Vey. Alors on avait inventé une famille lointaine, une province de Célestia que personne ne visitait. Isolde avait accepté en haussant les épaules. Elle avait dit qu'elle se moquait du nom qu'on lui donnait, pourvu qu'elle puisse garder le sien quand ils étaient seuls."
+  },
+  {
+   "type": "text",
+   "value": "Puis Elara était née. Une petite chose rouge et furieuse, avec déjà un duvet cuivré sur le crâne. Isolde l'avait posée sur la poitrine d'Aurelian et il avait eu si peur de la casser qu'il n'avait plus respiré pendant une minute entière."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a ton menton têtu, avait dit Isolde."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a tes yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Alors elle verra tout."
+  },
+  {
+   "type": "text",
+   "value": "Huit ans de bonheur. Il ne savait pas, à l'époque, que c'était un nombre. Il pensait que c'était une durée sans fin."
+  },
+  {
+   "type": "text",
+   "value": "Puis la toux. La poussière d'aldérite qu'Isolde avait respirée toute son enfance au-dessus des étals, et qui s'était réveillée dans ses poumons comme une braise sous la cendre. Elle était retournée à Vasse pour l'enterrement de sa mère, et la maladie l'avait prise là-bas, d'un coup, si vite qu'elle ne pouvait plus remonter sans autorisation médicale. Il fallait un passage d'urgence. Il fallait la signature du Conseil."
+  },
+  {
+   "type": "text",
+   "value": "Le Conseil avait dit non."
+  },
+  {
+   "type": "text",
+   "value": "Pas avec ces mots-là, bien sûr. Il avait dit : « risque de contagion », « procédure en cours », « précédent dangereux ». Il avait dit : « Votre épouse est officiellement de Célestia, Maître Vey, mais son dossier médical dit Vasse. Si nous l'acceptons, combien d'autres demanderont la même chose ? »"
+  },
+  {
+   "type": "text",
+   "value": "Et Aurelian, qui venait d'être nommé Maître des Mines, qui avait passé dix ans à bâtir la Compagnie pierre par pierre, Aurelian avait baissé la tête. Il avait pensé qu'il pouvait encore négocier. Qu'il fallait respecter les formes. Qu'une troisième demande passerait, s'il ne faisait pas de vagues."
+  },
+  {
+   "type": "text",
+   "value": "Il se souvenait de la dernière fois qu'il lui avait parlé, par radio, comme sa fille venait de le faire. La voix d'Isolde, toute petite, entrecoupée de souffles."
+  },
+  {
+   "type": "text",
+   "value": "— Fais-moi monter, Aurel. S'il te plaît. Je veux voir la petite."
+  },
+  {
+   "type": "text",
+   "value": "— Demain, avait-il répondu. Le Conseil se réunit demain."
+  },
+  {
+   "type": "text",
+   "value": "Elle était morte la veille du lendemain."
+  },
+  {
+   "type": "text",
+   "value": "Il avait fait fermer sa chambre à clé. Il avait rangé les lanternes qu'elle réparait dans une malle. Il avait appris à Elara à ne pas regarder en bas, parce que chaque fois qu'il regardait Vasse, il voyait un toit de tôle chaud et une femme qui riait. Et il avait fait de sa douleur une armure si épaisse que, quinze ans plus tard, il avait failli faire à sa fille exactement ce que le Conseil lui avait fait à lui."
+  },
+  {
+   "type": "text",
+   "value": "Séparer. Interdire. Obéir."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Aurelian rouvrit les yeux. La lumière de la Faille avait pâli. Le jour se levait."
+  },
+  {
+   "type": "text",
+   "value": "Il se releva, lentement, une main sur la table. Ses genoux protestèrent. Il redressa la chaise. Puis il ouvrit le tiroir du bas, celui qui fermait à double tour, et en sortit une petite lanterne de cuivre. Un éclat d'aldérite bleu y était serti dans du fil d'argent, exactement comme le pendentif qu'Elara portait autrefois au cou, et qu'elle avait donné à ce garçon."
+  },
+  {
+   "type": "text",
+   "value": "Il comprit soudain. Ce n'était pas un hasard. Isolde avait fait ce pendentif aussi."
+  },
+  {
+   "type": "text",
+   "value": "Il glissa la lanterne dans la poche de son manteau noir et appuya sur le bracelet de communication."
+  },
+  {
+   "type": "text",
+   "value": "— Préparez ma navette personnelle. Pas d'escorte. Pas de pilote. Je descends seul à Vasse."
+  },
+  {
+   "type": "text",
+   "value": "Un silence surpris au bout du fil."
+  },
+  {
+   "type": "text",
+   "value": "— Maître Vey, avec la crise, le protocole…"
+  },
+  {
+   "type": "text",
+   "value": "— Le protocole a tué ma femme. Je descends."
+  },
+  {
+   "type": "text",
+   "value": "Il ne prit rien d'autre. Ni arme, ni dossier, ni garde du corps. Il traversa les couloirs de la tour à grandes enjambées, et les employés s'écartaient sur son passage, étonnés de voir le Maître des Mines aller si vite, la barbe défaite et les yeux rouges. Il ne s'était jamais senti aussi léger. Il allait voir sa fille. Il allait voir le garçon. Il allait s'asseoir avec ces mineurs qu'il avait passé sa vie à ne pas regarder, et il allait leur dire la vérité sur l'aldérite, sur les réserves, sur tout. Et s'ils voulaient le garder en otage à la place d'Elara, eh bien, qu'ils le gardent."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'ascenseur qui descendait vers les hangars, il se surprit à regarder son reflet dans la paroi de cuivre poli. Un vieil homme aux cheveux argentés en désordre, aux yeux rougis, au manteau ouvert. Isolde se serait moquée de lui. Elle lui aurait dit qu'il avait enfin l'air de quelqu'un qui a vécu quelque chose. Il sourit à ce reflet, un vrai sourire, maladroit, rouillé par quinze ans d'inutilité."
+  },
+  {
+   "type": "text",
+   "value": "Le hangar était vide quand il y entra. Sa navette attendait sous les projecteurs, argentée, la rampe abaissée."
+  },
+  {
+   "type": "text",
+   "value": "Mais devant la rampe, il y avait des hommes."
+  },
+  {
+   "type": "text",
+   "value": "Vingt, peut-être plus, en uniforme blanc de la Sécurité, alignés en silence. Et au milieu d'eux, les mains croisées dans le dos, le col haut parfaitement fermé, Cassius Morn."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Le hangar"
+  },
+  {
+   "type": "text",
+   "value": "— Maître Vey, dit-il avec son sourire de toujours. Vous partiez sans prévenir le Conseil ?"
+  },
+  {
+   "type": "text",
+   "value": "— Écartez-vous, Cassius."
+  },
+  {
+   "type": "text",
+   "value": "— Je crains que non."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un geste, à peine un mouvement des doigts. Deux gardes s'avancèrent et prirent Aurelian par les bras. Fermement. Sans brutalité. Comme on raccompagne un vieil homme qui s'est égaré."
+  },
+  {
+   "type": "text",
+   "value": "— En vertu des pleins pouvoirs accordés par le Conseil, dit Cassius d'une voix claire pour que tout le hangar l'entende, j'arrête le Maître des Mines pour tentative de collusion avec les insurgés. À compter de cette minute, la Sécurité des passages assure seule le gouvernement de Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Et pendant que les menottes se refermaient sur ses poignets, Aurelian entendit les haut-parleurs de toute la ville s'allumer en même temps, et la voix de Cassius y remplacer la sienne."
+  }
+ ]
+}

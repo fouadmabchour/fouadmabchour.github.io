@@ -1,0 +1,313 @@
+{
+ "number": 26,
+ "title": "La Faille",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le vaisseau de liaison montait à pleine puissance, et chaque rivet de sa coque protestait."
+  },
+  {
+   "type": "text",
+   "value": "Elara avait les deux mains sur les commandes, et les commandes tremblaient comme un animal effrayé. Sous ses paumes, les manettes de gravité vibraient, tièdes, gorgées d'un courant bleu qu'elle sentait jusque dans ses os. Derrière eux, Vasse n'était déjà plus qu'une tache grise : les grues, les toits de tôle, les fumées des puits arrêtés, et quelque part en bas, une jeune fille aux deux tresses noires qui rampait dans ses conduits pour aller chercher sa mère."
+  },
+  {
+   "type": "text",
+   "value": "— Assiette ? demanda-t-elle sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Trop à gauche, répondit Kael. Et trop lente. Corrige de quatre degrés, ou le courant va nous coucher sur le flanc."
+  },
+  {
+   "type": "text",
+   "value": "Il était assis au siège du copilote, penché sur un écran fissuré où défilaient des chiffres. Ses cheveux sombres lui tombaient dans les yeux. Il avait ouvert sur ses genoux son carnet froissé, et des feuilles arrachées couvertes de calculs, tachées de poussière et de doigts, qu'il tenait d'une main pendant que l'autre courait sur le clavier."
+  },
+  {
+   "type": "text",
+   "value": "Elara corrigea. Le vaisseau se cabra, grogna, puis se stabilisa. Un filament bleu passa sous la coque, si proche qu'elle sentit vibrer le métal."
+  },
+  {
+   "type": "text",
+   "value": "Autour d'eux, il n'y avait plus rien. Seulement la Faille."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'avait traversée cent fois, enfant, assise dans un fauteuil de velours, un verre de jus de fleur à la main, sans jamais regarder par le hublot. Aujourd'hui, elle la voyait. Un gouffre de lumière entre les deux mondes, un vide immense où l'air lui-même semblait scintiller, traversé de filaments bleus, de courants de gravité qui se tordaient comme des rivières dans le ciel. Au-dessus d'eux, à l'envers, Célestia emplissait tout : les tours blanches pointées vers le bas, les dômes dorés, les ponts de verre qui brillaient comme des fils de givre."
+  },
+  {
+   "type": "text",
+   "value": "Et Célestia penchait."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était plus une impression. Tout un flanc de la cité s'était affaissé, comme une assiette posée de travers sur une table. Des jardins flottants avaient dérivé hors de leur orbite et tournaient lentement, perdus, dans le vide."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Elara."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne répondit pas tout de suite. Elle entendit le bruit de son stylet sur la feuille."
+  },
+  {
+   "type": "text",
+   "value": "— Au rythme où elle s'incline, dit-il enfin, une quinzaine d'heures. Après, les stabilisateurs de liaison ne pourront plus compenser. Elle décrochera."
+  },
+  {
+   "type": "text",
+   "value": "Il le dit d'une voix calme. Elle connaissait ce calme : c'était celui qu'il prenait quand il avait peur."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Les patrouilles apparurent à mi-chemin."
+  },
+  {
+   "type": "text",
+   "value": "D'abord trois points blancs, très haut, qui se détachèrent du ventre de Célestia. Puis six. Ils grossirent avec une rapidité terrible : des chasseurs de la Sécurité des passages, effilés comme des aiguilles, les flancs marqués de l'emblème de Cassius Morn."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-1.webp",
+   "caption": "Les chasseurs blancs"
+  },
+  {
+   "type": "text",
+   "value": "Une voix grésilla dans la radio du cockpit."
+  },
+  {
+   "type": "text",
+   "value": "— Vaisseau de liaison, vous n'avez aucune autorisation de vol. Vous traversez une zone interdite. Coupez vos moteurs et laissez-vous remorquer."
+  },
+  {
+   "type": "text",
+   "value": "Kael se tourna vers elle. Leurs regards se croisèrent. Gris sombre contre vert."
+  },
+  {
+   "type": "text",
+   "value": "— S'ils nous remorquent, dit-il, ils te ramènent à lui. Et moi, ils me font disparaître dans la Faille. Personne ne retrouvera jamais rien."
+  },
+  {
+   "type": "text",
+   "value": "— Alors ils ne nous remorqueront pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle poussa les manettes à fond."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau plongea, non pas vers le haut, vers Célestia, mais de côté, droit dans un des grands courants bleus qui serpentaient à travers la Faille. Kael poussa un juron. Tout l'habitacle se mit à vibrer. Les feuilles de calcul s'envolèrent comme des oiseaux affolés. Dehors, la lumière devint si vive qu'Elara dut plisser les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es folle ! cria Kael. Personne ne pilote dans les courants !"
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit-elle. Ma mère."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne savait pas d'où lui venait cette certitude. Ou plutôt si : elle le savait. C'était un rêve qu'elle avait fait cent fois, petite, après la mort d'Isolde, un rêve si net qu'elle l'avait longtemps pris pour un souvenir. Sa mère, assise à côté d'elle dans un petit vaisseau de bois et de cuivre, les cheveux roux pris dans un foulard, riait en lui prenant les mains pour les poser sur les commandes. Ne lutte jamais contre le courant, ma chérie. Le courant est plus fort que toi. Laisse-le te porter, et choisis seulement où il te dépose."
+  },
+  {
+   "type": "text",
+   "value": "Peut-être Isolde lui avait-elle vraiment raconté cela, un soir, avant de dormir. Peut-être qu'une femme née à Vasse, qui avait regardé toute sa jeunesse le ciel à l'envers, avait rêvé elle aussi de voler dedans. Elara ne le saurait jamais. Mais ses mains, elles, se souvenaient."
+  },
+  {
+   "type": "text",
+   "value": "Elle relâcha la pression. Elle cessa de forcer. Le vaisseau, au lieu de se débattre, se coucha dans le courant comme une feuille sur une rivière, et soudain il fila, porté, rapide, presque silencieux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-2.webp",
+   "caption": "Le courant"
+  },
+  {
+   "type": "text",
+   "value": "Derrière eux, les chasseurs blancs tentèrent de suivre. Le premier entra dans le courant en luttant, les moteurs hurlants ; il fut rejeté sur le côté comme une brindille, tournoya, se rétablit très loin, hors de portée. Les autres hésitèrent, ralentirent, restèrent au bord."
+  },
+  {
+   "type": "text",
+   "value": "— Ils tirent, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "Des traits de lumière blanche passèrent à côté de la coque. Une secousse fit sonner le métal. Une alarme se mit à clignoter, rouge, sur le tableau de bord."
+  },
+  {
+   "type": "text",
+   "value": "— Moteur gauche touché, annonça Kael. On perd de la puissance."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Elara…"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Kael."
+  },
+  {
+   "type": "text",
+   "value": "Elle sentait le vaisseau s'alourdir à gauche, comme un oiseau blessé à l'aile. Ses doigts compensaient d'eux-mêmes. Elle avait la bouche sèche, le cœur battant à tout rompre, et pourtant, au fond d'elle, il y avait quelque chose de très calme, une petite flamme qui disait : tu peux le faire."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa une main, un instant, sur son ventre. Juste un instant."
+  },
+  {
+   "type": "text",
+   "value": "— Tiens bon, murmura-t-elle, sans savoir si elle parlait au bébé, au vaisseau ou à elle-même."
+  },
+  {
+   "type": "text",
+   "value": "Kael avait ramassé une feuille, une seule, celle qui comptait. Il la plaqua contre l'écran."
+  },
+  {
+   "type": "text",
+   "value": "— Le courant va remonter, dit-il très vite. Il longe le ventre de Célestia sur trois kilomètres, puis il se brise contre les jardins flottants de l'est. Si tu sors du courant au bon moment, on tombe pile sur les jardins. Si tu sors trop tard, on s'écrase contre la coque de la ville."
+  },
+  {
+   "type": "text",
+   "value": "— Et trop tôt ?"
+  },
+  {
+   "type": "text",
+   "value": "— Trop tôt, on retombe dans la Faille. Et on ne remonte plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle hocha la tête. Elle ne demanda pas comment il savait. Elle savait comment il savait : des nuits entières à étudier la gravité avec des livres volés, sous une lampe qui grésillait, dans une maison de tôle de Vasse. Tout ce savoir arraché à la nuit, et il le lui tendait maintenant comme on tend une main."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me diras quand."
+  },
+  {
+   "type": "text",
+   "value": "— Je te dirai quand."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Célestia grandissait au-dessus d'eux, vertigineuse. Elara voyait maintenant les détails qu'on ne voit jamais d'en bas : les racines métalliques de la ville, les grands anneaux des stabilisateurs qui pulsaient d'un bleu de plus en plus faible, les conduits d'aldérite pareils à des veines sous la peau. Une ville vivante, malade, qui retenait son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Prépare-toi, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "Les jardins flottants de l'est apparurent, une constellation d'îles de verdure suspendues dans le vide, reliées par des passerelles de verre. Certaines tanguaient déjà, détachées de leurs amarres par l'inclinaison de la ville."
+  },
+  {
+   "type": "text",
+   "value": "— Trois, dit Kael. Deux…"
+  },
+  {
+   "type": "text",
+   "value": "Le moteur gauche toussa et s'éteignit."
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant !"
+  },
+  {
+   "type": "text",
+   "value": "Elara arracha le vaisseau au courant. Le monde bascula. Pendant une seconde interminable, ils ne volèrent plus du tout : ils tombèrent, vers le haut, vers le bas, elle ne savait plus, dans un silence absolu où elle entendit seulement la respiration de Kael. Puis la gravité de Célestia les saisit, et le sol d'herbe et de fleurs se précipita vers eux."
+  },
+  {
+   "type": "text",
+   "value": "Le choc fut terrible."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau laboura un parterre de lys argentés, arracha une haie, glissa sur des dizaines de mètres dans une gerbe de terre et de pétales, et s'immobilisa enfin, le nez enfoncé dans une fontaine de marbre qui continua bêtement à couler sur le pare-brise."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-3.webp",
+   "caption": "L'atterrissage"
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "Elara rouvrit les yeux. Elle avait mal à l'épaule, au front, partout. Mais elle respirait. Elle chercha Kael du regard, affolée."
+  },
+  {
+   "type": "text",
+   "value": "Il était là, sanglé à son siège, une mèche noire collée au front par une goutte de sueur. Il la regardait. Et, incroyablement, il souriait."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne pilote dans les courants, hein ? dit-elle d'une voix tremblante."
+  },
+  {
+   "type": "text",
+   "value": "— Plus maintenant, répondit-il. Maintenant, il y a toi."
+  },
+  {
+   "type": "text",
+   "value": "Il détacha sa sangle, se pencha, et posa sa main sur la sienne, puis, très doucement, sur son ventre. Ses doigts étaient froids. Le pendentif d'aldérite, à son cou, avait glissé hors de sa veste et brillait d'une lueur bleue, minuscule, fidèle."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va, tous les deux ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— On est d'en bas et d'en haut, dit-elle. On est solides."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent du vaisseau en titubant. L'air de Célestia sentait les fleurs écrasées et l'ozone. Au loin, des sirènes. Le sol, sous leurs pieds, n'était pas tout à fait droit : il penchait d'une manière à peine perceptible, comme le pont d'un navire qui commence à prendre l'eau."
+  },
+  {
+   "type": "text",
+   "value": "Kael leva les yeux vers le centre de la cité, vers la grande coupole de cristal sous laquelle battait le Cœur."
+  },
+  {
+   "type": "text",
+   "value": "— Il nous reste peut-être quatorze heures, dit-il. On y va."
+  },
+  {
+   "type": "text",
+   "value": "Ils traversèrent les jardins déserts, puis les passerelles de verre où le vent sifflait. Personne pour les arrêter. Les rues de Célestia étaient vides, les habitants terrés chez eux ou entassés aux quais, en attendant des vaisseaux qui ne venaient pas. Personne ne les arrêta non plus aux portes du Cœur : les gardes avaient disparu. Elara aurait dû trouver cela étrange. Elle n'y pensa pas. Elle ne pensait qu'à l'heure qui tournait."
+  },
+  {
+   "type": "text",
+   "value": "Les grandes portes de bronze s'ouvrirent sur la salle immense, baignée de lumière bleue. Les anneaux des stabilisateurs tournaient lentement au-dessus du puits du flux, en émettant un bourdonnement grave, irrégulier, comme un cœur qui rate des battements."
+  },
+  {
+   "type": "text",
+   "value": "Et au centre, devant la console principale, quelqu'un les attendait."
+  },
+  {
+   "type": "text",
+   "value": "Cassius Morn, dans son uniforme blanc impeccable, le col haut, les cheveux blonds plaqués, souriait de son sourire poli. À côté de lui, à genoux sur le sol de verre, les mains liées, le manteau noir brodé d'argent déchiré à l'épaule, il y avait Aurelian Vey."
+  },
+  {
+   "type": "text",
+   "value": "Et contre la tempe du père d'Elara, Cassius tenait une arme."
+  },
+  {
+   "type": "text",
+   "value": "— Bienvenue chez vous, mademoiselle Vey, dit-il doucement. Je commençais à croire que vous ne viendriez pas."
+  }
+ ]
+}

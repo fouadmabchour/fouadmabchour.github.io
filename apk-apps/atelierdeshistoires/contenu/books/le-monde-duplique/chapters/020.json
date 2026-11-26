@@ -1,0 +1,245 @@
+{
+ "number": 20,
+ "title": "Le ciel qui penche",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le premier tremblement dura six secondes. À Célestia, ce fut suffisant pour que le monde change."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey était debout devant la grande baie de son bureau, au sommet de la tour de la Compagnie, un verre d'eau à la main, quand le sol se déroba d'un millimètre sous ses pieds. Rien de plus. Un frisson dans la pierre blanche. L'eau trembla dans le verre, dessina des cercles concentriques, puis s'immobilisa."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian reposa le verre très lentement sur le bureau."
+  },
+  {
+   "type": "text",
+   "value": "En trente ans à la tête des mines, il n'avait jamais senti Célestia bouger. Personne ne l'avait jamais senti. Les enfants de Célestia apprenaient à l'école que leur cité était immuable, qu'elle flottait depuis toujours et flotterait toujours, comme une étoile fixée dans le ciel. Aurelian savait que c'était faux. Il l'avait toujours su. Mais savoir et sentir étaient deux choses différentes."
+  },
+  {
+   "type": "text",
+   "value": "Son terminal se mit à clignoter. Puis un deuxième. Puis tous à la fois."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième tremblement survint à l'aube, et il ne s'arrêta pas."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était plus une secousse. C'était un mouvement lent, régulier, presque doux, qui faisait glisser imperceptiblement les objets sur les tables. Une tasse roula au bord d'une terrasse et tomba dans le vide. Dans les jardins flottants, l'eau des bassins se mit à déborder d'un seul côté, ruisselant sur les dalles de marbre. Les ponts de verre qui reliaient les tours grincèrent comme de vieux navires."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "Célestia penche"
+  },
+  {
+   "type": "text",
+   "value": "Célestia penchait."
+  },
+  {
+   "type": "text",
+   "value": "Pas beaucoup. Deux degrés, trois peut-être. Mais assez pour que, du haut des tours, l'horizon ne soit plus droit. Assez pour que les gens sortent dans les rues en chemise de nuit, les yeux levés vers un ciel qui ne semblait plus à sa place."
+  },
+  {
+   "type": "text",
+   "value": "La panique se répandit comme un incendie. Les familles du Conseil prirent d'assaut les ports privés. Des navettes décollèrent sans autorisation et tournèrent en rond au-dessus de la Faille, sans savoir où aller : il n'y avait nulle part où aller, sauf en bas. Sur la place des Fontaines, une foule de Célestiens en habits de soie hurlait devant les portes closes du palais du Conseil. Les gardes en uniforme blanc tenaient la ligne, mais leurs mains tremblaient sur leurs armes."
+  },
+  {
+   "type": "text",
+   "value": "Dans le quartier des Employés, gris et silencieux, les travailleurs venus de Vasse regardaient tout cela par leurs fenêtres étroites. Certains avaient peur. D'autres, en secret, souriaient."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "En bas, à Vasse, Kael regardait le ciel tomber."
+  },
+  {
+   "type": "text",
+   "value": "Il se tenait sur le toit de la maison, là où il s'asseyait autrefois avec Mira pour dessiner Célestia. Elara était à côté de lui, enveloppée dans sa veste, la main serrée dans la sienne. Autour d'eux, sur tous les toits de tôle, sur toutes les passerelles, dans toutes les ruelles, des milliers de visages étaient levés vers la même chose."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "L'ombre qui descend"
+  },
+  {
+   "type": "text",
+   "value": "L'ombre."
+  },
+  {
+   "type": "text",
+   "value": "Depuis toujours, Célestia occupait le ciel de Vasse, immense mais lointaine, comme un monde peint au plafond. Ce matin, elle paraissait plus grande. Plus proche. Son flanc oriental, celui qui penchait, s'était rapproché de quelques centaines de mètres, et son ombre s'étendait maintenant sur les quartiers de l'est, plongeant les rues dans une pénombre de crépuscule en plein jour."
+  },
+  {
+   "type": "text",
+   "value": "— Elle descend, dit Mira derrière eux, d'une toute petite voix."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait son carnet contre sa poitrine, mais elle ne dessinait pas. Elle toussait, une toux serrée que la peur rendait pire."
+  },
+  {
+   "type": "text",
+   "value": "— Pas encore, dit Kael. Elle penche. Les stabilisateurs compensent, ils brûlent les réserves plus vite pour tenir l'équilibre. Mais plus ils compensent, plus les réserves fondent."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Elara."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne répondit pas tout de suite. Il avait refait le calcul dix fois pendant la nuit, à la lueur d'une lampe, pendant qu'Elara dormait sur le vieux lit de camp de la remise."
+  },
+  {
+   "type": "text",
+   "value": "— Si la grève continue, et si le Conseil ne fait rien d'intelligent… Trois semaines. Peut-être moins."
+  },
+  {
+   "type": "text",
+   "value": "En bas, dans la ruelle, une femme se mit à pleurer. Un homme cria qu'il fallait fuir vers les plaines du sud. Un autre répondit qu'il n'y avait pas assez de route, pas assez de camions, pas assez de temps. Des enfants couraient sans savoir pourquoi. Le silence des machines, qui la veille encore ressemblait à une victoire, ressemblait maintenant à un deuil."
+  },
+  {
+   "type": "text",
+   "value": "Jory apparut sur le toit voisin, escaladant une gouttière. Il avait les yeux rouges de fatigue, mais son menton était levé."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois ? lança-t-il à Kael. Ils ont peur. Pour la première fois, ce sont eux qui ont peur."
+  },
+  {
+   "type": "text",
+   "value": "— Nous aussi, Jory, répondit Kael. Regarde autour de toi. Regarde l'ombre. Nous aussi, on a peur."
+  },
+  {
+   "type": "text",
+   "value": "Jory regarda. Une ombre passa sur son visage, et ce n'était pas seulement celle de Célestia. Puis il se détourna sans répondre et disparut de l'autre côté du toit."
+  },
+  {
+   "type": "text",
+   "value": "Elara serra plus fort la main de Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père, murmura-t-elle. Il doit savoir, maintenant. Pour moi."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il le savait."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey l'avait appris à six heures du matin, au milieu du chaos, par un rapport de la Sécurité des passages qui avait traversé trois bureaux avant d'arriver sur le sien. Une héritière disparue depuis deux jours. Une combinaison volée à la blanchisserie des Employés. Un contrôle de fret perturbé par Séléna Arkos. Un cargo, le *Lourd-Sept*, redescendu à vide à minuit. Et un contremaître de Vasse, aperçu par un garde du quai, qui avait parlé dans un émetteur avant de faire disparaître une silhouette aux cheveux roux."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian avait lu le rapport trois fois. Puis il s'était assis, ce qu'il ne faisait jamais pendant une crise."
+  },
+  {
+   "type": "text",
+   "value": "Elara était à Vasse. Elara était en bas, sous un monde qui penchait, entre les mains des grévistes qui étaient en train de le faire tomber."
+  },
+  {
+   "type": "text",
+   "value": "Cassius entra sans frapper, impeccable dans son uniforme blanc, pas un cheveu blond de travers malgré la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Maître Vey. Le Conseil se réunit dans une heure. Les réserves des stabilisateurs ont baissé de quatre pour cent depuis hier soir. Je propose des mesures d'urgence. J'ai déjà préparé…"
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille est à Vasse, dit Aurelian."
+  },
+  {
+   "type": "text",
+   "value": "Cassius s'interrompit. Pendant une fraction de seconde, quelque chose passa dans ses yeux pâles, une lueur froide et calculatrice, aussitôt recouverte d'un masque d'inquiétude polie."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai appris il y a une heure, dit-il. Je comptais vous en parler. Mes hommes sont prêts à descendre. Il suffit d'un ordre, et nous la ramènerons. Par la force, s'il le faut."
+  },
+  {
+   "type": "text",
+   "value": "— Par la force, répéta Aurelian. Dans une ville en grève, au milieu de la panique, avec des milliers de mineurs en colère autour d'elle."
+  },
+  {
+   "type": "text",
+   "value": "— Ce ne sont que des mineurs, Maître Vey."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian leva les yeux vers lui. Il pensa à Isolde. À sa main froide dans la sienne, la dernière nuit. Aux mots qu'elle avait murmurés et qu'il n'avait jamais répétés à personne. Ce ne sont que des mineurs. Le Conseil avait dit la même chose, autrefois, d'une autre femme."
+  },
+  {
+   "type": "text",
+   "value": "— Sortez, Cassius."
+  },
+  {
+   "type": "text",
+   "value": "— Maître Vey, je…"
+  },
+  {
+   "type": "text",
+   "value": "— Sortez."
+  },
+  {
+   "type": "text",
+   "value": "Cassius s'inclina avec un sourire parfait et sortit. La porte se referma sans un bruit."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian resta seul dans le grand bureau qui penchait. Sur la table, l'eau du verre avait glissé d'un côté et ne revenait plus droite. Par la baie vitrée, sous ses pieds, à l'envers, il voyait Vasse, ses toits, ses cheminées éteintes, et l'ombre de son propre monde qui s'étendait sur elle comme une main."
+  },
+  {
+   "type": "text",
+   "value": "Quelque part dans cette ombre, il y avait sa fille."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva, traversa la pièce, et ouvrit le panneau de la console de communication d'urgence, celle qu'on n'utilisait qu'en cas de catastrophe, celle qui pouvait parler à la fois à Célestia et à Vasse, à chaque radio, à chaque haut-parleur, à chaque bracelet. Ses mains, qui n'avaient jamais tremblé devant le Conseil, tremblaient en entrant les codes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "La voix du ciel"
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "À Vasse, sur tous les toits, dans toutes les ruelles, au fond de tous les puits silencieux, les vieux haut-parleurs de la Compagnie grésillèrent en même temps. Les gens levèrent la tête. Sur le toit, Elara se figea en reconnaissant le souffle avant les mots."
+  },
+  {
+   "type": "text",
+   "value": "Puis la voix d'Aurelian Vey tomba du ciel, grave, cassée, une voix que personne à Vasse n'avait jamais entendue ainsi."
+  },
+  {
+   "type": "text",
+   "value": "— Ici le Maître des Mines. Je m'adresse à ceux qui retiennent ma fille, Elara Vey."
+  },
+  {
+   "type": "text",
+   "value": "Un silence. Un souffle. Comme si l'homme le plus puissant des deux mondes cherchait ses mots."
+  },
+  {
+   "type": "text",
+   "value": "— Rendez-moi ma fille, et je vous donnerai ce que vous voulez."
+  }
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "number": 29,
+ "title": "Les deux rives",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elara n'attendit pas les secours."
+  },
+  {
+   "type": "text",
+   "value": "Elle enjamba la rambarde avant que son père ait pu la retenir et se laissa glisser sur l'échelle de maintenance, les mains brûlées par les barreaux, les yeux aveuglés par la lumière. Elle entendait Aurelian crier son nom, puis les voix des gardes, puis plus rien que le chant de l'aldérite, qui maintenant n'était plus douloureux mais doux, presque une berceuse."
+  },
+  {
+   "type": "text",
+   "value": "— Kael. Kael, je descends. Tiens bon."
+  },
+  {
+   "type": "text",
+   "value": "Elle compta les barreaux pour ne pas penser. Vingt. Trente. Quarante. Elle ne pensa quand même qu'à une chose : il avait promis."
+  },
+  {
+   "type": "text",
+   "value": "Elle le trouva à soixante mètres, allongé sur l'étroite plateforme, à côté de la grande roue enfin ouverte. Les cristaux brisés scintillaient autour de lui comme des étoiles tombées. Il avait les yeux fermés. Ses mains gantées étaient encore crispées, tendues vers la vanne, comme s'il tirait toujours."
+  },
+  {
+   "type": "text",
+   "value": "Elle tomba à genoux près de lui."
+  },
+  {
+   "type": "text",
+   "value": "— Kael…"
+  },
+  {
+   "type": "text",
+   "value": "Elle posa la main sur sa poitrine. Elle attendit. Une seconde. Deux secondes. Une éternité."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle le sentit. Sous sa paume, un battement. Faible, lent, têtu. Un battement d'homme de Vasse, qui ne lâche jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Il est vivant, souffla-t-elle dans la radio. Papa, il est vivant !"
+  },
+  {
+   "type": "text",
+   "value": "Sur sa poitrine, le pendentif d'aldérite brillait plus fort que jamais, comme s'il avait bu un peu de la lumière du puits pour la lui rendre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-1.webp",
+   "caption": "Le battement"
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Kael rouvrit les yeux deux jours plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Entre-temps, il y avait eu la remontée, interminable, dans un harnais que les gardes avaient fait descendre au bout d'un câble. Elara n'avait pas lâché sa main une seule fois. Il y avait eu les médecins de Célestia, qui avaient hésité un quart de seconde devant le bracelet d'employé de Vasse encore attaché à son poignet, et Aurelian, d'une voix que personne ne lui connaissait, qui avait dit simplement : soignez-le comme vous me soigneriez. Personne n'avait hésité ensuite."
+  },
+  {
+   "type": "text",
+   "value": "Et il y avait eu les deux nuits. Elara assise dans le fauteuil, la main de Kael dans la sienne, à lui parler tout bas de tout et de rien : du toit de Vasse, des jardins flottants, du prénom qu'elle aimerait donner à l'enfant si c'était une fille. Elle ne savait pas s'il l'entendait. Elle parlait quand même."
+  },
+  {
+   "type": "text",
+   "value": "La première chose qu'il vit fut un plafond blanc, et il crut avec terreur qu'il était de retour dans la cellule de Cassius. Puis il sentit une odeur de fleurs, et une main dans la sienne, et une autre, plus petite, qui lui tirait l'oreille."
+  },
+  {
+   "type": "text",
+   "value": "— Il se réveille ! Il se réveille ! Maman, Elara, il se réveille !"
+  },
+  {
+   "type": "text",
+   "value": "Mira était penchée sur lui, ses deux tresses noires pendant de chaque côté de son visage, les yeux rouges d'avoir pleuré, un grand sourire insolent aux lèvres."
+  },
+  {
+   "type": "text",
+   "value": "— T'es vraiment le pire grand frère du monde, dit-elle. Tu nous as fait une peur bleue."
+  },
+  {
+   "type": "text",
+   "value": "— Bleue comme l'aldérite, articula-t-il d'une voix rauque."
+  },
+  {
+   "type": "text",
+   "value": "— C'est nul, comme blague."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elle se jeta sur lui et le serra si fort qu'il gémit. Derrière elle, il vit sa mère, Hana, son foulard sur la tête, qui pleurait sans bruit, une main sur la bouche. Et dans le fauteuil près du lit, Elara, les cheveux roux défaits, les mains bandées, qui ne disait rien du tout et le regardait comme on regarde un lever de soleil."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'avais promis de me dire quand, dit-elle enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Je te l'ai dit."
+  },
+  {
+   "type": "text",
+   "value": "— Après, idiot. Je voulais que tu me parles après."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là, dit-il. Je te parle."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa la tête contre sa main et pleura enfin, tout ce qu'elle n'avait pas pleuré pendant deux jours."
+  },
+  {
+   "type": "text",
+   "value": "On lui raconta tout, par morceaux. Que Célestia tenait. Que les stabilisateurs, avec son nouveau mode de flux, consommaient moitié moins d'aldérite qu'avant, et que les réserves, au lieu de trois petites semaines, tiendraient désormais des années. Que Cassius Morn attendait son procès dans une cellule blanche, très semblable à celle où il avait enfermé Kael. Que Jory et Hana avaient retiré eux-mêmes les charges des puits, une par une, toute une nuit. Et que Jory était là, dans le couloir, depuis l'aube, et qu'il n'osait pas entrer."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-lui d'entrer, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "Jory entra. Il avait l'air plus petit que d'habitude, son foulard rouge serré dans ses grosses mains. Il resta debout au pied du lit sans rien dire."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as enfermé dans une galerie, dit Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Tu voulais faire tomber le ciel."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, frère."
+  },
+  {
+   "type": "text",
+   "value": "Kael tendit la main. Jory hésita, puis la prit. Et les deux garçons de Vasse restèrent comme ça, longtemps, sans un mot, parce qu'il n'y avait pas besoin de mots."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-2.webp",
+   "caption": "Les deux frères"
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "La négociation eut lieu une semaine plus tard, dans la grande salle du Conseil de Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Jamais la salle n'avait vu une chose pareille. Sous les dômes dorés, autour de la table de marbre blanc où les puissants d'en haut décidaient depuis des siècles du sort de ceux d'en bas, il y avait des mineurs. Des femmes aux mains abîmées. Des hommes au foulard de travail. Jory, en face des conseillers. Hana, à côté de lui. Et des centaines de visages, à Vasse, qui suivaient la scène sur les écrans installés au milieu des places de poussière."
+  },
+  {
+   "type": "text",
+   "value": "Au bout de la table, Aurelian Vey. À sa droite, sa fille. À sa gauche, Kael Orren, encore pâle, appuyé sur une canne, dans une veste sombre que Séléna lui avait fait faire pour l'occasion et dont il avait refusé qu'on cache les coutures."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-3.webp",
+   "caption": "Le pacte"
+  },
+  {
+   "type": "text",
+   "value": "Ce fut long. Ce fut dur. Il y eut des cris, des silences, des conseillers qui se levaient pour partir et que personne ne retenait, et qui finissaient par se rasseoir. Mais à la fin de la troisième journée, sur un parchemin posé au milieu de la table, il y avait des mots qui n'avaient jamais été écrits."
+  },
+  {
+   "type": "text",
+   "value": "Des salaires justes pour tous les mineurs de Vasse, fixés par eux-mêmes. Des soins pour tous, en haut comme en bas, sans passeport, sans permission. L'ouverture des passages entre les deux mondes, à quiconque voudrait les traverser. Et un Conseil commun, avec autant de sièges pour Vasse que pour Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Le Pacte des Deux Rives."
+  },
+  {
+   "type": "text",
+   "value": "Jory signa le premier, d'une main qui tremblait. Puis Hana, qui n'avait jamais beaucoup écrit et qui traça son nom en lettres lentes et appliquées. Puis les conseillers, un à un. Puis Elara. Puis Kael."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian signa le dernier."
+  },
+  {
+   "type": "text",
+   "value": "Il posa la plume. Il regarda longtemps le parchemin. Puis il se leva, fit le tour de la table, et s'arrêta devant Kael. La salle entière se tut."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Orren, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Kael se redressa sur sa canne."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Vey."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous ai offert de l'argent pour disparaître. J'ai menacé votre sœur. J'ai laissé un homme vous enfermer et vous briser, et je n'ai rien fait. Ma femme était née à Vasse, comme vous. Elle avait votre fierté, et votre façon de regarder les gens en face. Je l'ai aimée plus que tout, et je l'ai laissée mourir parce qu'on m'avait appris que votre monde ne comptait pas."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix se brisa. Il ne chercha pas à la cacher."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous demande pardon. À vous, et à travers vous à tous ceux d'en bas. Je sais que cela ne répare rien. Mais je voulais que vous l'entendiez, devant tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Kael le regarda longtemps. Il pensa à l'homme froid du bureau, au contrat posé sur la table, au dossier sur Mira. Puis il pensa à l'homme à genoux dans le Cœur, prêt à mourir, et à celui qui avait arraché la main de Cassius à la manette."
+  },
+  {
+   "type": "text",
+   "value": "— Vous m'avez sauvé la vie, dit-il. Dans le puits. Si vous ne l'aviez pas arrêté…"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vous ai pas sauvé la vie. Je l'ai seulement rendue. C'est différent."
+  },
+  {
+   "type": "text",
+   "value": "Kael tendit la main. Aurelian la serra."
+  },
+  {
+   "type": "text",
+   "value": "— Et Elara ? demanda le vieil homme, très bas."
+  },
+  {
+   "type": "text",
+   "value": "— Elara choisit elle-même, dit Kael. Elle l'a toujours fait."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est pour ça que je vous la confie sans peur. Vous avez ma bénédiction, tous les deux. Pour ce que vaut celle d'un vieil imbécile."
+  },
+  {
+   "type": "text",
+   "value": "Elara se leva. Elle avait les joues mouillées. Elle prit la main de son père et celle de Kael, et pour la première fois, ils se tinrent tous les trois."
+  },
+  {
+   "type": "text",
+   "value": "Puis Aurelian fit une chose qu'elle n'aurait jamais crue possible. Devant le Conseil, devant les mineurs, devant tous les écrans de Vasse et de Célestia, le Maître des Mines s'agenouilla devant sa fille, et posa doucement sa grande main sur son ventre, à peine arrondi."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux, comme on écoute une musique lointaine."
+  },
+  {
+   "type": "text",
+   "value": "— Il aura les deux mondes, murmura-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Elara posa sa main sur celle de son père et sourit à travers ses larmes."
+  },
+  {
+   "type": "text",
+   "value": "— Elle, papa. Elle aura les deux mondes. Et j'ai déjà choisi son nom."
+  }
+ ]
+}

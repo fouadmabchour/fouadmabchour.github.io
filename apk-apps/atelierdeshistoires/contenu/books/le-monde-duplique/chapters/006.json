@@ -1,0 +1,233 @@
+{
+ "number": 6,
+ "title": "Le monde d'en haut",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le vaisseau gravitationnel ne décollait pas. Il tombait vers le haut."
+  },
+  {
+   "type": "text",
+   "value": "Kael l'avait lu cent fois dans les livres volés, il avait recopié les équations sur des cartons de caisse à la lueur d'une lampe à huile, il avait même rêvé de cet instant précis où la gravité de Vasse lâchait prise et où celle de Célestia la reprenait. Mais aucun livre ne parlait de l'estomac. Au milieu de la Faille, quand le vaisseau pivota lentement sur lui-même pour présenter son ventre au monde d'en haut, son estomac resta en bas, quelque part au-dessus des grues, avec sa mère et Mira."
+  },
+  {
+   "type": "text",
+   "value": "Autour de lui, une vingtaine de passagers. Des employés de Vasse, comme lui, en combinaison grise neuve, distribuée à l'embarquement, qui sentait encore l'amidon. Personne ne parlait. Une femme âgée serrait un sac en toile contre sa poitrine, les lèvres en mouvement, une prière ou une liste de courses. Un garçon d'à peine vingt ans vomissait discrètement dans un sachet prévu à cet effet, ce qui en disait long sur l'habitude des lieux."
+  },
+  {
+   "type": "text",
+   "value": "Kael posa la main sur sa poitrine. Sous la combinaison, contre sa peau, la petite pierre d'aldérite était tiède. Cinq ans qu'elle ne le quittait pas. Il ne savait plus très bien si c'était un talisman, une promesse ou une bêtise."
+  },
+  {
+   "type": "text",
+   "value": "Par le hublot, la Faille brillait. Ce n'était ni de la lumière ni du vide, mais quelque chose entre les deux : un voile bleu pâle qui ondulait comme l'eau d'un bassin, traversé de filaments plus clairs. Les mineurs appelaient ça le souffle du ciel. Kael savait, lui, que c'était le champ des stabilisateurs. Savoir ne rendait pas la chose moins belle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "La Faille"
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau se posa avec un soupir de vérins."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le quai d'arrivée de Célestia était blanc. Pas blanc comme la chaux des maisons riches de Vasse, qui jaunissait en une saison. Blanc comme une idée. Le sol, les murs, les colonnes, tout brillait d'un éclat poli qui faisait cligner les yeux, et l'air sentait le citron et quelque chose de sucré, de floral, qu'il ne connaissait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Employés de Vasse, file de gauche, annonça une voix sans visage. Ne touchez à rien."
+  },
+  {
+   "type": "text",
+   "value": "La file de gauche menait à un couloir étroit. Celle de droite, vide, à un escalier de marbre couvert de tapis."
+  },
+  {
+   "type": "text",
+   "value": "Au bout du couloir attendaient trois agents de la Sécurité des passages, en uniforme blanc à col haut. Le premier prit les papiers de Kael du bout de ses doigts gantés. Le deuxième lui fit signe d'ouvrir la bouche, comme on inspecte un cheval, et braqua une petite lampe sur ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— Poussière ? demanda-t-il à son collègue."
+  },
+  {
+   "type": "text",
+   "value": "— Les poumons sont propres, répondit le troisième en lisant un écran. Étonnant."
+  },
+  {
+   "type": "text",
+   "value": "— Je respire par le nez, dit Kael. C'est une technique de chez nous. Très avancée."
+  },
+  {
+   "type": "text",
+   "value": "L'agent leva les yeux. Il n'y avait ni colère ni amusement dans son regard, seulement une vague surprise, celle qu'on éprouve quand un outil se met à parler."
+  },
+  {
+   "type": "text",
+   "value": "— Bras."
+  },
+  {
+   "type": "text",
+   "value": "On lui passa au poignet gauche un bracelet de métal gris, mince, qui se referma avec un claquement sec. Une lumière verte clignota deux fois, puis resta fixe."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Le bracelet"
+  },
+  {
+   "type": "text",
+   "value": "— Votre identifiant, dit l'agent. Il ouvre les portes autorisées. Il signale les autres. Il ne s'enlève pas. Si vous essayez, nous le saurons. Si vous sortez du quartier des Employés sans ordre de mission, nous le saurons. Bienvenue à Célestia."
+  },
+  {
+   "type": "text",
+   "value": "Il avait prononcé le dernier mot comme on referme un tiroir."
+  },
+  {
+   "type": "text",
+   "value": "Kael regarda le bracelet. Il pensa aux colliers que les contremaîtres de Vasse passaient aux chiens de garde du Puits-Noir. Puis il pensa à Mira, à son souffle qui sifflait les mauvaises nuits, au médecin qu'il pourrait enfin payer avec un salaire d'en haut. Il remercia l'agent. Poliment. Ce fut la chose la plus difficile de sa journée."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Une navette à rail l'emmena à travers la ville."
+  },
+  {
+   "type": "text",
+   "value": "Il colla son front à la vitre, et pendant quelques minutes il oublia le bracelet."
+  },
+  {
+   "type": "text",
+   "value": "Les tours de Célestia montaient comme des aiguilles de porcelaine, si fines qu'on se demandait comment elles tenaient debout, et Kael, qui savait exactement comment elles tenaient debout, se le demandait quand même. Des dômes dorés captaient la lumière et la renvoyaient en éventails. Entre les tours couraient des ponts de verre si transparents que les passants semblaient marcher sur l'air. Plus loin, des îles de verdure flottaient librement, retenues par de longs filins argentés : les jardins flottants. Il y avait des arbres dessus. Des arbres entiers, couverts de fleurs roses, au milieu du ciel."
+  },
+  {
+   "type": "text",
+   "value": "Sur un pont, une dame en robe crème promenait un petit animal blanc au poil soyeux. L'animal portait un manteau brodé. Kael fit le calcul : le manteau du chien valait trois mois de salaire de sa mère."
+  },
+  {
+   "type": "text",
+   "value": "Les passagers de la navette, des Célestiens pour la plupart, s'étaient installés aussi loin de lui que possible. Un homme en gilet de soie changea même de wagon à l'arrêt suivant, un mouchoir parfumé sous le nez. Une petite fille le fixait avec de grands yeux, la bouche ouverte, jusqu'à ce que sa mère lui tourne la tête d'une main ferme."
+  },
+  {
+   "type": "text",
+   "value": "— Ne regarde pas, ma chérie. Ils sont là pour travailler."
+  },
+  {
+   "type": "text",
+   "value": "Kael sourit à la petite fille. Elle lui rendit son sourire par-dessus l'épaule de sa mère avant de disparaître. C'était déjà ça."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le quartier des Employés se trouvait au bord de Célestia, là où la ville cessait d'être belle. Ici, plus de dômes dorés ni de jardins : des blocs gris, alignés, aux fenêtres étroites. Un mur blanc, haut de trois hommes, le séparait du reste de la ville, percé de portes qui ne s'ouvraient qu'aux bracelets autorisés. Le soleil y arrivait de biais, à regret."
+  },
+  {
+   "type": "text",
+   "value": "Sa chambre faisait quatre pas sur trois. Un lit, une table, une chaise, un lavabo, un écran mural éteint. Propre. Plus propre que n'importe quelle pièce où il avait dormi de sa vie. Il posa son sac, s'assit sur le lit et resta un moment immobile à écouter le silence. À Vasse, il n'y avait jamais de silence. Il y avait les machines, les sirènes de relève, les voisins qui se disputaient, la toux des vieux mineurs à travers les cloisons de tôle."
+  },
+  {
+   "type": "text",
+   "value": "Ici, rien. Il trouva ça presque inquiétant."
+  },
+  {
+   "type": "text",
+   "value": "Puis il alla à la fenêtre et oublia de respirer."
+  },
+  {
+   "type": "text",
+   "value": "Vasse était là. Au-dessus de lui, à l'envers, immense."
+  },
+  {
+   "type": "text",
+   "value": "Toute sa vie, il avait levé les yeux vers Célestia. Il n'avait jamais pensé, pas vraiment, qu'on pouvait faire le chemin inverse. Que son monde, vu d'ici, occupait tout le ciel. Les puits de mine ressemblaient à des pores sur une peau brune. Les grues étaient des brindilles. Les fumées des fonderies montaient vers le bas, ou descendaient vers le haut, il ne savait plus, en longs rubans gris qui se défaisaient dans la Faille. Et partout, des points de lumière : les lampes des quartiers, les feux du marché de nuit, des millions de petites flammes qui dessinaient la carte d'un peuple entier."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "Vasse vue d'en haut"
+  },
+  {
+   "type": "text",
+   "value": "Il chercha son quartier. Il crut le trouver, près de la grande cheminée en forme de doigt. Quelque part là-dedans, Mira dessinait sans doute Célestia. Elle ignorait qu'en ce moment même, Célestia la regardait."
+  },
+  {
+   "type": "text",
+   "value": "— C'est beau, murmura-t-il, et il en fut agacé."
+  },
+  {
+   "type": "text",
+   "value": "Il ne voulait pas que ce soit beau. Il voulait que ce soit laid, poussiéreux, misérable, pour pouvoir le haïr proprement. Mais vu d'en haut, Vasse avait la beauté des choses vivantes. Célestia, avec ses tours parfaites, avait celle des bibelots qu'on pose sur une cheminée."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "L'écran mural s'alluma sans prévenir. Un texte blanc sur fond bleu."
+  },
+  {
+   "type": "text",
+   "value": "Employé 4471-V, Orren Kael. Convocation immédiate. Bureau de la direction scientifique, tour Vey, niveau 40. Votre bracelet est autorisé pour ce trajet."
+  },
+  {
+   "type": "text",
+   "value": "Le bracelet clignota, vert."
+  },
+  {
+   "type": "text",
+   "value": "Kael lissa sa combinaison, se passa la main dans les cheveux, ce qui ne servit à rien, comme d'habitude. Il glissa le pendentif sous son col. Il franchit le mur blanc, reprit la navette, monta dans un ascenseur de verre qui fila si vite que ses oreilles se bouchèrent."
+  },
+  {
+   "type": "text",
+   "value": "La tour Vey. Évidemment. Il travaillerait pour l'homme qui possédait les mines où son père était mort. Il l'avait su en signant. Il l'avait accepté. Il se répétait qu'un ingénieur était un ingénieur, que les équations ne connaissaient pas les classes sociales. Et qu'il y avait peu de chances, dans une tour de quarante étages et une compagnie de dix mille employés, de croiser une certaine fille rousse."
+  },
+  {
+   "type": "text",
+   "value": "Il avait cessé d'espérer cinq ans plus tôt. Enfin, presque. Disons qu'il avait réduit l'espoir à la taille d'une pierre bleue."
+  },
+  {
+   "type": "text",
+   "value": "Au niveau 40, le couloir était tapissé d'un velours vert qui avalait le bruit des pas. Une secrétaire au chignon impeccable le regarda approcher avec l'expression qu'on réserve aux taches sur une nappe."
+  },
+  {
+   "type": "text",
+   "value": "— Orren ? Entrez. La directrice adjointe vous attend."
+  },
+  {
+   "type": "text",
+   "value": "Elle désigna une porte à double battant, en bois clair, ornée d'une plaque dorée qu'il ne prit pas le temps de lire."
+  },
+  {
+   "type": "text",
+   "value": "Kael frappa. Une voix répondit, un peu étouffée."
+  },
+  {
+   "type": "text",
+   "value": "— Entrez."
+  },
+  {
+   "type": "text",
+   "value": "Il poussa la porte. Le bureau était vaste, baigné de lumière, et derrière la grande table de verre, une jeune femme se leva. Une cascade de cheveux roux cuivré sur une robe claire. Des yeux verts, écarquillés. Des taches de rousseur qu'il aurait pu compter les yeux fermés."
+  },
+  {
+   "type": "text",
+   "value": "Il ne respirait plus. Elle non plus."
+  },
+  {
+   "type": "text",
+   "value": "Sur la plaque dorée, de l'autre côté de la porte qui se refermait lentement dans son dos, il avait eu le temps de lire, sans le comprendre, un nom qu'il connaissait par cœur : Elara Vey, directrice adjointe."
+  }
+ ]
+}

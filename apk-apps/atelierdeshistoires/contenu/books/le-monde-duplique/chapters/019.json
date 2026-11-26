@@ -1,0 +1,313 @@
+{
+ "number": 19,
+ "title": "Le retour d'Elara",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kael était penché sur ses calculs quand Jory enfonça la porte de l'atelier d'un coup d'épaule."
+  },
+  {
+   "type": "text",
+   "value": "Depuis trois nuits, il ne dormait presque plus. Il avait couvert les murs de la remise derrière la maison de feuilles griffonnées, de courbes de flux, de tableaux de chiffres. Il cherchait une solution, n'importe laquelle : un moyen de prouver à Vasse que Célestia tomberait, ou mieux, un moyen de la faire tenir sans que les mineurs crèvent à la tâche. Chaque nuit, les chiffres lui donnaient la même réponse. Chaque nuit, il recommençait."
+  },
+  {
+   "type": "text",
+   "value": "— Debout, dit Jory. Il y a quelqu'un qui veut te voir."
+  },
+  {
+   "type": "text",
+   "value": "Il avait un sourire étrange, un sourire de joueur qui vient de tirer la meilleure carte. Derrière lui, deux mineurs maintenaient une silhouette en combinaison grise, les mains liées devant elle par une corde, un sac de toile sur la tête."
+  },
+  {
+   "type": "text",
+   "value": "Kael se leva lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Jory, qu'est-ce que tu as fait ?"
+  },
+  {
+   "type": "text",
+   "value": "Jory retira le sac d'un geste théâtral."
+  },
+  {
+   "type": "text",
+   "value": "Des cheveux roux cuivré tombèrent en cascade sur les épaules grises, emmêlés, poudrés de poussière bleue. Un visage très pâle, barbouillé de graisse, des taches de rousseur, et deux yeux verts qui le cherchèrent dans la pénombre de l'atelier et le trouvèrent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-1.webp",
+   "caption": "L'otage"
+  },
+  {
+   "type": "text",
+   "value": "Le monde s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Elara, souffla-t-il."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il ne se souvint pas d'avoir traversé la pièce. Il se souvint seulement de ses mains sur la corde, de ses doigts qui tremblaient en défaisant le nœud, de Jory qui protestait derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "— Doucement, frère. C'est notre prisonnière."
+  },
+  {
+   "type": "text",
+   "value": "— Sors, dit Kael sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est la fille du Maître des Mines. Elle vaut plus que…"
+  },
+  {
+   "type": "text",
+   "value": "— Sors !"
+  },
+  {
+   "type": "text",
+   "value": "Sa voix claqua si fort que les deux mineurs reculèrent. Jory hésita, puis leva les mains en signe de paix et sortit avec eux. La porte se referma."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent face à face, dans l'odeur d'huile et de papier. La corde tomba par terre. Elara frotta ses poignets rougis. Elle tremblait, et Kael ne savait pas si c'était de froid, de peur ou de colère."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es descendue, dit-il bêtement. Comment… Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Dans une soute à minerai. Par le fret. Séléna a fait semblant d'avoir perdu un bracelet de diamants pour distraire une escouade entière."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es folle."
+  },
+  {
+   "type": "text",
+   "value": "— Probablement."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Puis elle leva le menton, et il reconnut ce geste, celui de la fille au manteau bleu sur les toits du Puits-Noir, cinq ans plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "— Cette vidéo, Kael. Sur le quai, tu m'as demandé pardon, et pourtant tu me regardais encore comme si je t'avais vendu. Qu'est-ce qu'elle montrait, exactement ?"
+  },
+  {
+   "type": "text",
+   "value": "Kael ferma les yeux. La vidéo défila derrière ses paupières pour la centième fois."
+  },
+  {
+   "type": "text",
+   "value": "— Toi, dit-il. Dans le salon de ta tour, ta robe claire, tes cheveux défaits. Tu disais que c'était toi qui avais prévenu la Sécurité. Que je m'étais servi de toi pour entrer au Cœur. Que tu ne voulais plus jamais me revoir."
+  },
+  {
+   "type": "text",
+   "value": "Elara blêmit. Puis le rouge lui monta aux joues, d'un coup, une colère pure qui fit briller ses yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu l'as encore crue. Même après le quai."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas ce que j'ai cru ! explosa-t-il. Je n'avais pas dormi depuis quatre jours, il me parlait de Mira, de la patrouille postée à deux rues de chez nous, et puis il y avait ton visage, ta voix…"
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas moi !"
+  },
+  {
+   "type": "text",
+   "value": "Elle avait crié. Elle s'avança, le frappa du poing sur la poitrine, une fois, deux fois, sans force."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas moi. Je t'ai cherché partout. J'ai fouillé le bureau de mon père, j'ai menacé de le traîner dans le plus grand scandale de l'histoire de Célestia pour qu'on te libère. Je n'ai jamais, jamais prononcé ces mots. Comment as-tu pu croire une seule seconde…"
+  },
+  {
+   "type": "text",
+   "value": "Sa voix se brisa. Kael lui saisit les poignets, doucement, et elle cessa de frapper. Ils étaient si proches qu'il sentait son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne l'ai jamais vraiment cru, murmura-t-il. Je crois que c'est pour ça que j'avais si mal."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda. Puis elle l'embrassa, ou il l'embrassa, il ne sut jamais lequel des deux avait bougé le premier. Un baiser au goût de poussière et de larmes, désespéré, qui effaça d'un coup la cellule blanche, le quai, la vidéo, les cinq ans et les cinq mois."
+  },
+  {
+   "type": "text",
+   "value": "Quand ils se séparèrent, elle garda son front contre le sien."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut que je te dise quelque chose, dit-elle. C'est pour ça que je suis descendue."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit sa main droite, celle qui portait la petite cicatrice, et la posa sur son ventre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-2.webp",
+   "caption": "L'aveu"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis enceinte, Kael."
+  },
+  {
+   "type": "text",
+   "value": "Il ne comprit pas tout de suite. Les mots flottèrent entre eux, étrangers, impossibles. Puis il sentit la chaleur sous sa paume, il vit les yeux d'Elara, pleins de peur et d'espoir mêlés, et le sens des mots le frappa en pleine poitrine, plus fort que n'importe quel éboulement."
+  },
+  {
+   "type": "text",
+   "value": "— Un enfant, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Huit semaines. J'ai entendu son cœur. Il bat vite. Le docteur dit qu'il est solide."
+  },
+  {
+   "type": "text",
+   "value": "Kael tomba à genoux. Il n'avait pas décidé de le faire, ses jambes l'avaient lâché. Il appuya son front contre elle et resta là, sans un mot, les épaules secouées. Il pensa à son père, mort sous la roche avant qu'il ait dix ans. Il pensa à toutes les fois où il s'était juré de ne jamais mettre un enfant au monde à Vasse, dans cette poussière, sous ce ciel qui écrasait tout."
+  },
+  {
+   "type": "text",
+   "value": "Elara passa les doigts dans ses cheveux sombres."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas ce qu'on va faire, dit-elle doucement. Je ne sais pas dans quel monde il va naître. Mais je voulais que tu le saches. Je voulais que tu saches que je ne t'ai pas trahi."
+  },
+  {
+   "type": "text",
+   "value": "Il leva vers elle ses yeux gris, mouillés."
+  },
+  {
+   "type": "text",
+   "value": "— Il naîtra dans un monde qui tient debout, dit-il. Je te le promets."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Mira fut la première à entrer, une heure plus tard, sans frapper, un carnet à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Jory dit que tu as enfermé l'héritière de Célestia dans ta remise, alors je suis venue voir si…"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta net. Elara était assise sur l'établi, enveloppée dans la vieille veste de Kael, une tasse de soupe chaude entre les mains. Mira la dévisagea de la tête aux pieds, la bouche ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— C'est toi, dit-elle. La fille du toit. Celle qui avait mangé notre soupe et qui avait dit qu'elle était meilleure que tout ce qu'on lui servait là-haut."
+  },
+  {
+   "type": "text",
+   "value": "Elara sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Elle l'était. Elle l'est toujours. Tu avais douze ans, et tu m'avais dessinée sur un morceau de carton."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai encore !"
+  },
+  {
+   "type": "text",
+   "value": "Mira ouvrit son carnet, tourna fébrilement les pages et en sortit un vieux carton jauni, glissé entre deux feuilles. Une fille aux cheveux en flammes, dessinée au charbon, avec des yeux trop grands. Elara le prit avec précaution, et ses yeux se remplirent de larmes."
+  },
+  {
+   "type": "text",
+   "value": "En quelques minutes, Mira s'était assise à côté d'elle, lui montrait ses dessins de Célestia vue d'en bas, lui posait cent questions sur les jardins flottants, toussait, riait, recommençait. Hana apparut sur le seuil, observa la scène en silence, puis posa une couverture sur les épaules d'Elara sans un mot. Kael comprit, à ce simple geste, que sa mère avait déjà tout deviné."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Jory l'attendait dehors, adossé au mur de tôle, les bras croisés. Au-dessus d'eux, Célestia brillait dans le crépuscule, ses tours blanches allumées comme des milliers de bougies renversées."
+  },
+  {
+   "type": "text",
+   "value": "— Alors ? dit Jory."
+  },
+  {
+   "type": "text",
+   "value": "— Elle reste avec moi."
+  },
+  {
+   "type": "text",
+   "value": "— Elle reste avec nous, corrigea Jory. Tu comprends ce qu'elle représente, Kael ? C'est la fille du Maître des Mines. Avec elle, on peut tout exiger. Les salaires. L'infirmerie. La fin des rafles. Il nous donnera ce qu'on veut pour la récupérer."
+  },
+  {
+   "type": "text",
+   "value": "— Elle n'est pas une monnaie d'échange."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde est une monnaie d'échange, pour eux. Nous, ça fait des siècles. Pour une fois, c'est notre tour."
+  },
+  {
+   "type": "text",
+   "value": "Kael se planta devant lui."
+  },
+  {
+   "type": "text",
+   "value": "— Elle porte mon enfant, Jory."
+  },
+  {
+   "type": "text",
+   "value": "Jory se figea. Pendant une seconde, son visage se défit, la colère glissa et laissa voir l'ami d'enfance, celui qui partageait son pain dans les galeries quand ils avaient huit ans. Puis il détourna les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Alors elle vaut encore plus cher, dit-il à voix basse. Je suis désolé, frère. Vraiment. Mais c'est trop tard pour reculer."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu veux dire ?"
+  },
+  {
+   "type": "text",
+   "value": "Jory leva les yeux vers le ciel. Au loin, une sirène se mit à hurler, puis une autre, puis toutes les sirènes des puits de Vasse à la fois, un hurlement immense qui monta des mines comme une plainte."
+  },
+  {
+   "type": "text",
+   "value": "— La grève commence ce soir, dit Jory."
+  },
+  {
+   "type": "text",
+   "value": "Une à une, les grandes machines d'extraction s'arrêtèrent. Le grondement continu qui faisait vibrer Vasse depuis toujours, que Kael entendait depuis sa naissance au point de ne plus l'entendre, se tut. Le silence tomba sur la ville, un silence que personne n'avait jamais connu."
+  },
+  {
+   "type": "text",
+   "value": "Et dans le ciel, au-dessus d'eux, pour la première fois depuis que le monde existait, Célestia trembla."
+  },
+  {
+   "type": "image",
+   "src": "images/ch19-3.webp",
+   "caption": "La grève"
+  }
+ ]
+}

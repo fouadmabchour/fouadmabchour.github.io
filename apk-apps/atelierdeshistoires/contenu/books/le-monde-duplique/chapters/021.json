@@ -1,0 +1,253 @@
+{
+ "number": 21,
+ "title": "Le plan de Cassius",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La voix d'Aurelian Vey roulait encore dans tous les haut-parleurs de Célestia quand Cassius Morn entra dans la salle du Conseil."
+  },
+  {
+   "type": "text",
+   "value": "— Rendez-moi ma fille et je vous donnerai ce que vous voulez."
+  },
+  {
+   "type": "text",
+   "value": "Le message tournait en boucle depuis une heure. Il passait sur les fréquences d'urgence, sur les écrans des ponts de verre, dans les jardins flottants où plus personne ne se promenait. Cassius l'avait laissé tourner. Chaque répétition lui rapportait quelque chose : la preuve que le Maître des Mines, l'homme le plus puissant d'en haut, venait de supplier publiquement des mineurs."
+  },
+  {
+   "type": "text",
+   "value": "La salle était une coupole de marbre blanc, percée d'une verrière immense qui donnait sur la Faille. D'ordinaire, on y voyait Vasse en bas, lointaine et grise, posée comme un tapis usé sous les pieds du monde. Ce soir, on la voyait de travers. Le sol de la salle penchait. Pas beaucoup, à peine de quoi faire glisser un verre d'eau sur la table ovale, mais assez pour que les douze conseillers se tiennent tous, sans s'en rendre compte, légèrement penchés de l'autre côté, comme si leur poids pouvait redresser la ville."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "Le Conseil"
+  },
+  {
+   "type": "text",
+   "value": "Un verre glissa, justement. Il tinta contre le rebord doré de la table et s'arrêta. Personne ne le ramassa."
+  },
+  {
+   "type": "text",
+   "value": "— Messieurs, mesdames, dit Cassius en s'inclinant."
+  },
+  {
+   "type": "text",
+   "value": "Son uniforme blanc était impeccable, le col haut fermé jusqu'à la gorge, ses cheveux blond pâle plaqués sans un épi. Il était le seul dans la pièce à ne pas avoir l'air d'avoir dormi tout habillé. Il le savait. Il comptait là-dessus."
+  },
+  {
+   "type": "text",
+   "value": "Au bout de la table, Aurelian Vey ne s'était pas levé. Il avait le visage creusé, la barbe grise moins nette que d'habitude, et ses mains, posées à plat sur le marbre, ne bougeaient pas du tout. Cassius y vit de la faiblesse. D'autres auraient vu un homme qui se retenait de trembler."
+  },
+  {
+   "type": "text",
+   "value": "— Le chef de la Sécurité a demandé la parole, annonça la doyenne, une vieille femme aux bagues lourdes. Nous l'écoutons."
+  },
+  {
+   "type": "text",
+   "value": "Cassius alluma l'écran central d'un geste. Une carte apparut : Vasse, ses puits, ses grues immobiles, ses ruelles en toile d'araignée. Des points rouges clignotaient sur chaque entrée de mine."
+  },
+  {
+   "type": "text",
+   "value": "— Voici la situation, dit-il. Depuis hier, plus un gramme d'aldérite n'est monté. Les mineurs ont bloqué les puits et coupé les ascenseurs de fret. Nos stabilisateurs puisent dans les réserves. D'après les ingénieurs, nous avons perdu deux degrés d'assiette. Au rythme actuel, il nous restera trois semaines avant que la ville ne commence à… descendre."
+  },
+  {
+   "type": "text",
+   "value": "Il laissa le mot tomber. Un conseiller toussa. Une femme serra son châle contre elle."
+  },
+  {
+   "type": "text",
+   "value": "— Trois semaines, répéta Cassius. C'est long pour attendre que des grévistes changent d'avis. C'est très court pour mourir."
+  },
+  {
+   "type": "text",
+   "value": "— Que proposez-vous ? demanda la doyenne."
+  },
+  {
+   "type": "text",
+   "value": "Cassius sourit. C'était un sourire poli, mesuré, le même qu'il servait aux dîners et aux enterrements."
+  },
+  {
+   "type": "text",
+   "value": "— De cesser de négocier avec ceux qui nous tiennent à la gorge. Nous avons trois mille hommes de Sécurité, des vaisseaux, des armes. Les mineurs ont des pioches et de la colère. Nous descendons, nous reprenons les puits, nous dispersons les meneurs. Et pour l'extraction…"
+  },
+  {
+   "type": "text",
+   "value": "Il fit glisser une autre image. Une liste, des chiffres."
+  },
+  {
+   "type": "text",
+   "value": "— Nos prisons, ici et en bas, comptent près de huit mille détenus. Des voleurs, des agitateurs, des fraudeurs. Ils travailleront dans les mines. Sous surveillance. Sans grève possible. Le flux d'aldérite reprendra en une semaine."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Puis un murmure, et ce murmure n'était pas de l'indignation. Cassius l'entendit avec plaisir. C'était le son de gens effrayés qui découvrent qu'on leur offre une porte de sortie, et qui préfèrent ne pas regarder ce qu'il y a derrière."
+  },
+  {
+   "type": "text",
+   "value": "— Des prisonniers, murmura un conseiller gras. Au fond, ce n'est pas si différent de…"
+  },
+  {
+   "type": "text",
+   "value": "— C'est un crime."
+  },
+  {
+   "type": "text",
+   "value": "La voix d'Aurelian n'était pas forte. Elle coupa pourtant la salle en deux."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva lentement. Le sol penché le déséquilibra un peu, il posa une main sur le dossier de sa chaise, et Cassius nota ce détail aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Vous parlez de « nettoyer » Vasse, dit Aurelian. Il y a là-bas des familles entières. Des enfants. Si vous envoyez trois mille hommes armés dans des galeries pleines de gens en colère, vous n'aurez pas une reprise des puits. Vous aurez un massacre. Et les puits brûleront avant que vous n'en ayez repris un seul."
+  },
+  {
+   "type": "text",
+   "value": "— Les puits ne brûleront pas si nous agissons vite, répondit Cassius sans hausser le ton."
+  },
+  {
+   "type": "text",
+   "value": "— Et ma fille ? Ma fille est en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Justement, Maître Vey. Votre fille est en bas, retenue par les meneurs de cette révolte. Vous venez d'offrir à ces gens, sur toutes les fréquences, tout ce qu'ils veulent. Tout. Le Conseil, la Compagnie, la ville. Contre une seule personne."
+  },
+  {
+   "type": "text",
+   "value": "Il se tourna vers les conseillers, et sa voix se fit presque douce."
+  },
+  {
+   "type": "text",
+   "value": "— Je comprends un père. Je le respecte. Mais Célestia ne peut pas être gouvernée par la peur d'un père. Pas quand elle penche."
+  },
+  {
+   "type": "text",
+   "value": "Le verre d'eau glissa encore d'un centimètre. Tout le monde le regarda."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian ouvrit la bouche, la referma. Cassius vit passer dans ses yeux quelque chose qu'il n'avait jamais vu chez cet homme : de la honte. Il ne comprit pas d'où elle venait. Il s'en moquait."
+  },
+  {
+   "type": "text",
+   "value": "— Je demande un vote, dit Cassius. Les pleins pouvoirs à la Sécurité des passages pour la durée de la crise. Le Maître des Mines conservera bien sûr la direction de la Compagnie."
+  },
+  {
+   "type": "text",
+   "value": "— Bien sûr, répéta Aurelian avec un rire sans joie."
+  },
+  {
+   "type": "text",
+   "value": "On vota à main levée. Sept mains se levèrent. Puis huit. La doyenne baissa les yeux sur ses bagues et leva la sienne en dernier, comme si elle pesait trop lourd."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "Le vote"
+  },
+  {
+   "type": "text",
+   "value": "— Neuf voix contre trois, dit-elle. Les pleins pouvoirs sont accordés au commandant Morn pour trente jours."
+  },
+  {
+   "type": "text",
+   "value": "Cassius inclina la tête. Il ne sourit pas. Ce n'était pas le moment."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Son bureau se trouvait au sommet de la tour de la Sécurité, une aiguille blanche plantée au bord de la Faille. Depuis les baies vitrées, on voyait la lumière bleutée du vide entre les deux mondes, et en bas, à l'envers, les feux de Vasse. Ils étaient plus nombreux que d'habitude. Des feux de grève, des braseros dans les rues, des torches sur les toits."
+  },
+  {
+   "type": "text",
+   "value": "Cassius les regarda longtemps, les mains croisées dans le dos."
+  },
+  {
+   "type": "text",
+   "value": "Derrière lui, le capitaine Dren attendait, casque sous le bras. C'était un homme carré, silencieux, qui ne posait jamais de question à laquelle il ne voulait pas de réponse."
+  },
+  {
+   "type": "text",
+   "value": "— Les vaisseaux sont prêts, commandant. Six transports, quatre cents hommes pour la première vague. Départ à l'aube."
+  },
+  {
+   "type": "text",
+   "value": "— Bien."
+  },
+  {
+   "type": "text",
+   "value": "Cassius se retourna. Sur son bureau, il y avait une boîte en métal, et dans la boîte, sous une feuille de papier de soie, un vieux bout de tissu gris, raide, avec une tache brune délavée. Il le gardait depuis cinq ans. Il le sortit et le fit tourner entre ses doigts gantés."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "La boîte"
+  },
+  {
+   "type": "text",
+   "value": "— Ordres officiels, dit-il. Reprendre les puits trois, quatre et sept. Disperser les attroupements. Ramener l'héritière Vey saine et sauve. Elle ne doit pas avoir une égratignure, capitaine. Pas une. Si elle a peur, vous la rassurez. Si elle pleure, vous lui donnez un mouchoir. C'est clair ?"
+  },
+  {
+   "type": "text",
+   "value": "— Très clair."
+  },
+  {
+   "type": "text",
+   "value": "— Et maintenant, les ordres qui n'existent pas."
+  },
+  {
+   "type": "text",
+   "value": "Dren ne bougea pas. Il ne cilla même pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a avec elle un homme. Kael Orren. Ingénieur, vingt-quatre ans, cheveux sombres, une cicatrice sur la main droite. Vous avez sa fiche."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai."
+  },
+  {
+   "type": "text",
+   "value": "— Cet homme ne remontera pas. Ni dans un vaisseau, ni dans un rapport, ni dans un procès. Il était dans les galeries au mauvais moment, voilà tout. Les galeries sont dangereuses en ce moment. Tout le monde le sait."
+  },
+  {
+   "type": "text",
+   "value": "Le capitaine resta un instant immobile. Puis il hocha la tête, une seule fois."
+  },
+  {
+   "type": "text",
+   "value": "— Et s'il est avec elle quand nous la trouvons ?"
+  },
+  {
+   "type": "text",
+   "value": "— Alors vous la faites sortir d'abord. Elle ne doit rien voir. Elle a déjà assez de souvenirs inutiles de ce garçon."
+  },
+  {
+   "type": "text",
+   "value": "Cassius rangea le tissu dans la boîte, referma le couvercle d'un claquement net."
+  },
+  {
+   "type": "text",
+   "value": "— Quand elle remontera, elle aura perdu l'homme qu'elle croit aimer et un père qui l'a vendue sur les ondes. Elle aura besoin de quelqu'un de solide. De quelqu'un qui aura sauvé la ville."
+  },
+  {
+   "type": "text",
+   "value": "Dren remit son casque sous le bras, salua et sortit sans un bruit. La porte se referma derrière lui avec un soupir pneumatique. Sur le bureau, le verre d'eau de Cassius glissa lentement vers le bord, et il le retint du bout d'un doigt ganté, sans même le regarder, comme on retient un monde."
+  },
+  {
+   "type": "text",
+   "value": "Il revint à la vitre. En bas, les feux de Vasse tremblaient dans la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— À l'aube, murmura-t-il pour lui seul. Et à midi, le nom de Kael Orren ne sera plus qu'une ligne dans une liste de disparus."
+  }
+ ]
+}

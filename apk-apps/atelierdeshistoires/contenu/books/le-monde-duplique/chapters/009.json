@@ -1,0 +1,285 @@
+{
+ "number": 9,
+ "title": "Le Cœur",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Douze mille, répéta Elara."
+  },
+  {
+   "type": "text",
+   "value": "Elle tenait les feuilles de calcul à deux mains, comme si elles risquaient de s'envoler. Il était sept heures du matin, son thé refroidissait sur la table de verre, et Kael se tenait devant elle avec les yeux rouges de quelqu'un qui n'a pas dormi du tout. Elle avait d'abord cru qu'il venait lui dire bonjour. Elle avait même rougi."
+  },
+  {
+   "type": "text",
+   "value": "— Douze mille tonnes, confirma-t-il. J'ai refait le calcul onze fois. J'ai vérifié les capteurs, au cas où l'un d'eux serait détraqué. Ils ne le sont pas. Ce sont les registres officiels qui sont faux."
+  },
+  {
+   "type": "text",
+   "value": "— Une erreur de saisie ? Quelqu'un qui aurait oublié un zéro..."
+  },
+  {
+   "type": "text",
+   "value": "— Un zéro, ça ferait dix fois. Là, c'est trois fois, chaque mois, depuis au moins quatre ans. Ce n'est pas une erreur, Elara. C'est une décision."
+  },
+  {
+   "type": "text",
+   "value": "Elle reposa les feuilles. Ses doigts avaient laissé des traces humides sur le papier."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père signe ces registres."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne peut pas... Il n'aurait jamais..."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta. Elle n'était plus sûre de rien. L'homme qui dînait avec elle chaque soir en parlant de quotas, l'homme qui avait fait doubler les gardes devant sa porte pour l'empêcher de redescendre, cet homme-là, elle ne le connaissait peut-être pas si bien."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut que je voie le Cœur, dit Kael. Les capteurs du labo ne mesurent que les flux qui passent par la tour. Le Cœur, c'est là que tout se décide. Les stabilisateurs eux-mêmes, les réservoirs, les jauges. Si on veut savoir combien il reste vraiment, c'est là."
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'entre dans le Cœur. Même moi, je n'y suis allée qu'une fois, pour une visite officielle, avec dix personnes du Conseil autour de moi."
+  },
+  {
+   "type": "text",
+   "value": "— Ton badge ouvre la porte ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda longtemps. Puis elle ouvrit le tiroir de son bureau et en sortit une carte d'accès blanche frappée du sceau de la Compagnie."
+  },
+  {
+   "type": "text",
+   "value": "— Mon badge ouvre presque toutes les portes. C'est bien ça le problème avec les héritières."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le Cœur se trouvait sous Célestia. Littéralement : dans la partie la plus basse de la ville, le bulbe de roche et de métal qui pendait au-dessus de la Faille comme le fond d'une goutte d'eau, et que les Célestiens ne regardaient jamais. On y descendait par un ascenseur réservé, puis par un long escalier en spirale qui sentait l'ozone et la pierre mouillée."
+  },
+  {
+   "type": "text",
+   "value": "Ils y allèrent à l'heure de la relève, quand les techniciens de jour croisaient ceux de nuit et que personne ne faisait attention à personne. Elara portait sa tenue de directrice adjointe et son air le plus ennuyé. Kael marchait deux pas derrière elle, un carnet de mesures sous le bras, le regard baissé. Un employé de Vasse qui accompagne sa supérieure. Rien de plus banal."
+  },
+  {
+   "type": "text",
+   "value": "Plus ils descendaient, plus l'air changeait. Les murs de marbre blanc cédaient la place à la roche nue, veinée de reflets bleus. Des gouttes d'eau tombaient du plafond et claquaient sur les marches. Kael posa la main sur la paroi : elle était tiède, et elle vibrait, très légèrement, comme la carrosserie d'une machine qui tourne au ralenti. Il pensa aux galeries de Vasse, à la même vibration sous ses paumes quand les foreuses mordaient la roche. Les deux mondes se ressemblaient davantage par en dessous qu'ils ne l'auraient jamais admis par au-dessus."
+  },
+  {
+   "type": "text",
+   "value": "Au bas de l'escalier, une porte d'acier. Un garde en uniforme blanc, assis sur un tabouret, qui bâillait."
+  },
+  {
+   "type": "text",
+   "value": "— Inspection de la direction scientifique, dit Elara en lui tendant sa carte."
+  },
+  {
+   "type": "text",
+   "value": "Le garde se leva d'un bond, salua, regarda la carte, regarda Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Lui aussi, madame ?"
+  },
+  {
+   "type": "text",
+   "value": "— Lui, c'est mon instrument de mesure. Vous voulez porter le carnet à sa place ?"
+  },
+  {
+   "type": "text",
+   "value": "Le garde rougit, bredouilla, ouvrit la porte."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as fait ça d'une façon très inquiétante, chuchota Kael quand ils furent à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai été élevée par Aurelian Vey. J'ai des talents cachés."
+  },
+  {
+   "type": "text",
+   "value": "Puis ils levèrent les yeux, et ils oublièrent de plaisanter."
+  },
+  {
+   "type": "text",
+   "value": "La salle était une cathédrale. Une voûte immense, taillée dans la roche, si haute que le plafond se perdait dans l'ombre. Au centre, suspendues dans le vide, sept colonnes de lumière bleue descendaient du haut de la voûte jusqu'à un puits sans fond au milieu du sol. Elles pulsaient, lentement, toutes ensemble, comme un cœur qui bat. Chacune était enveloppée d'un anneau de métal gravé, et autour des anneaux tournaient des milliers de petits éclats de cristal, en orbite, dans un bourdonnement grave qui faisait vibrer les dents."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "Le Cœur"
+  },
+  {
+   "type": "text",
+   "value": "L'aldérite. Pure, raffinée, vivante. Kael en avait arraché des fragments à la roche toute sa jeunesse, de petits cailloux bleus ternis par la poussière. Il n'avait jamais vu ce qu'elle devenait une fois montée là-haut."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ça, murmura-t-il. C'est ça qui vous porte."
+  },
+  {
+   "type": "text",
+   "value": "Le pendentif contre sa poitrine s'était mis à tiédir. Il le sentait vibrer très doucement, comme s'il reconnaissait ses frères."
+  },
+  {
+   "type": "text",
+   "value": "Le long des murs, des consoles et des jauges. Kael s'y précipita. Il lut, nota, compara, ses lèvres bougeant sans bruit au rythme des calculs. Elara le regardait faire, et pour la première fois depuis leur rencontre, elle eut un peu peur de ce qu'il allait trouver."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "Quarante jours"
+  },
+  {
+   "type": "text",
+   "value": "— Les jauges sont honnêtes, dit-il enfin. Elles, au moins. Personne ne pense à truquer un instrument que personne ne vient lire."
+  },
+  {
+   "type": "text",
+   "value": "— Et ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas tout de suite. Il désigna les sept colonnes."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais comment ça marche ? Vraiment ?"
+  },
+  {
+   "type": "text",
+   "value": "— L'aldérite repousse la gravité de Vasse. Les stabilisateurs la concentrent. Célestia flotte."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ce qu'on apprend aux enfants. La vérité, c'est que l'aldérite ne repousse rien du tout. Elle se consume. Elle brûle lentement, et c'est cette combustion qui crée le champ. Comme une bougie qui tiendrait une maison en l'air. Quand une bougie est finie, on en allume une autre. Sinon..."
+  },
+  {
+   "type": "text",
+   "value": "Il retourna sa main, paume vers le bas. Il n'eut pas besoin de finir."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Elara."
+  },
+  {
+   "type": "text",
+   "value": "— Les registres officiels disent trois ans de réserves. Les jauges du Cœur disent autre chose. Au rythme où ça brûle, sans nouvel arrivage, les réservoirs tiennent quarante jours."
+  },
+  {
+   "type": "text",
+   "value": "Le bourdonnement des colonnes emplit le silence."
+  },
+  {
+   "type": "text",
+   "value": "— Quarante jours, répéta-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Célestia ne vit pas sur ses réserves, Elara. Elle vit au jour le jour, sur ce que Vasse lui envoie chaque matin dans les vaisseaux de fret. Les mineurs que vos officiels essuient de leurs gants, ce sont eux qui vous tiennent en l'air. Sans eux, en quelques semaines, les stabilisateurs faiblissent. Et Célestia tombe."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda le puits sans fond au centre de la salle. Elle pensa à ce qu'il y avait en dessous, au bout de la Faille : les ruelles de tôle, le marché de nuit, la grande cheminée en forme de doigt, la maison de Kael, Mira qui dessinait à la bougie."
+  },
+  {
+   "type": "text",
+   "value": "— Tombe sur quoi ? demanda-t-elle, et sa voix n'était plus qu'un souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Sur Vasse, dit Kael. Sur nous. Une ville entière lâchée du ciel sur une autre. Il n'y aurait personne pour compter les morts."
+  },
+  {
+   "type": "text",
+   "value": "Elle se mit à trembler. Il la prit contre lui. Ils restèrent là, au pied des colonnes de lumière, deux silhouettes minuscules dans le battement bleu."
+  },
+  {
+   "type": "text",
+   "value": "— Mon père le sait, dit-elle contre son épaule. Forcément. Il signe les registres. Il a toujours su."
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être. Ou peut-être qu'on lui ment, à lui aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne le crois pas."
+  },
+  {
+   "type": "text",
+   "value": "— Non, admit-il. Mais je voulais que tu aies le choix de le croire."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva vers lui des yeux pleins de larmes, et malgré tout, elle sourit."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Ils remontèrent l'escalier en silence. Le garde salua de nouveau, sans les voir. Dans l'ascenseur, Elara tenait le carnet de mesures serré contre elle comme un enfant."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qu'on fait ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— On ne dit rien. Pas encore. Si le Conseil cache ça depuis des années, il ne nous laissera pas le crier sur les ponts de verre. Il me faut des preuves. Des copies des jauges, des registres signés, tout. Ensuite, on trouvera quelqu'un à qui parler. Quelqu'un qui n'a pas intérêt à ce que ça reste secret."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a personne comme ça à Célestia."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on le cherchera ailleurs."
+  },
+  {
+   "type": "text",
+   "value": "Les portes de l'ascenseur s'ouvrirent sur le niveau 38. Elara partit vers son bureau. Kael regagna le laboratoire, ferma la porte, s'assit devant la console et posa la tête dans ses mains."
+  },
+  {
+   "type": "text",
+   "value": "Quarante jours. Il ne pouvait penser qu'à ça. Quarante jours, et tout un monde suspendu à une chaîne de vaisseaux de fret."
+  },
+  {
+   "type": "text",
+   "value": "Son bracelet vibra contre son poignet."
+  },
+  {
+   "type": "text",
+   "value": "Il sursauta. Le bracelet ne vibrait jamais, sauf pour les ordres de mission. Il tourna le poignet. Sur le petit écran de métal gris, au milieu d'une ligne de caractères absurdes, une suite de chiffres et de lettres qui ressemblait à un défaut de transmission, il reconnut le code. Celui qu'ils avaient inventé, Jory et lui, quand Kael avait quatorze ans, pour se passer des messages sous le nez des contremaîtres."
+  },
+  {
+   "type": "text",
+   "value": "Il le déchiffra, lettre par lettre. Ses mains devinrent froides."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Le message de Jory"
+  },
+  {
+   "type": "text",
+   "value": "La grève commence dans dix jours. On va leur couper l'aldérite."
+  }
+ ]
+}

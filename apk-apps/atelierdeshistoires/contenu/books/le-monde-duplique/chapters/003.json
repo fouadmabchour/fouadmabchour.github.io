@@ -1,0 +1,313 @@
+{
+ "number": 3,
+ "title": "Le Puits-Noir",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kael n'aurait jamais dû être au Puits-Noir ce jour-là."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait dû dormir. Il avait fait la nuit, il avait les bras en plomb et les yeux pleins de sable. Mais le vieux Tobbin, le ferrailleur du quartier, lui avait promis une bobine de fil de cuivre contre une réparation, et le vieux Tobbin habitait à la lisière du Puits-Noir, et le fil de cuivre ne se trouvait nulle part ailleurs. Alors Kael avait traversé le couvre-feu par les arrière-cours, une barre de fer sur l'épaule pour la porter chez Tobbin, et il revenait par la ruelle des Tanneurs quand il entendit les voix."
+  },
+  {
+   "type": "text",
+   "value": "Des voix qu'il connaissait. Celles de Dorn, de Petit-Vasco et du grand Ruel. Trois types qui vivaient de ce qu'ils prenaient aux autres, et qui ne prenaient jamais rien de bon."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta à l'angle et risqua un œil."
+  },
+  {
+   "type": "text",
+   "value": "Ils avaient coincé quelqu'un contre le mur du vieux lavoir. Une silhouette dans une cape grise, plus petite qu'eux, qui reculait pas à pas jusqu'à ce que son dos touche la brique. La capuche avait glissé. Des cheveux roux, d'un roux impossible, un roux qu'on ne voyait jamais à Vasse, brillaient dans la pénombre comme un feu de forge."
+  },
+  {
+   "type": "text",
+   "value": "Et sous la cape, un manteau bleu pâle."
+  },
+  {
+   "type": "text",
+   "value": "— Une fille d'en haut, disait Dorn, d'une voix traînante. Toute seule. Au Puits-Noir. Tu t'es perdue, ma jolie ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je cherche le quai, dit la fille."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix tremblait à peine. Elle levait le menton, et Kael pensa, absurdement, à Mira."
+  },
+  {
+   "type": "text",
+   "value": "— Le quai, répéta Petit-Vasco, en riant. Elle cherche le quai. T'entends ça, Ruel ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'entends, dit Ruel. On va l'aider. On est des gens serviables, nous. Mais d'abord, elle va nous donner ce joli manteau. Et tout ce qu'il y a dessous, les bijoux, les pièces, tout. Une fille d'en haut, ça doit savoir payer le passage."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un pas vers elle. Les deux autres refermèrent le cercle."
+  },
+  {
+   "type": "text",
+   "value": "Kael comprit exactement ce qui allait se passer, et une colère froide, absolue, lui monta dans la poitrine. Il ne réfléchit pas. Ou plutôt, il réfléchit très vite, comme au fond du puits quand une poutre craque, avec cette lucidité glacée qui ne venait qu'au bord du désastre. Trois contre un. Ruel était plus grand que lui. Dorn avait un couteau, toujours, dans sa botte. Se battre, c'était perdre."
+  },
+  {
+   "type": "text",
+   "value": "Alors il ne se battit pas."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus du lavoir, une vieille gouttière de tôle portait le poids d'un réservoir d'eau croupie, retenu par deux crochets rouillés que Kael avait vus cent fois en passant. Il recula d'un pas, leva sa barre de fer, et frappa le crochet de gauche de toutes ses forces."
+  },
+  {
+   "type": "text",
+   "value": "Le crochet céda. Le réservoir bascula. Trois cents litres d'eau noire et de vase s'abattirent sur Dorn, Petit-Vasco et Ruel dans un fracas de tôle et de jurons."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Le réservoir"
+  },
+  {
+   "type": "text",
+   "value": "— Par ici ! cria Kael."
+  },
+  {
+   "type": "text",
+   "value": "La fille ne demanda rien. Elle courut. Il l'attrapa par le poignet au passage, l'entraîna dans un passage si étroit qu'il fallait le prendre de côté, puis sur une pile de caisses, puis sur un toit."
+  },
+  {
+   "type": "text",
+   "value": "— Grimpe !"
+  },
+  {
+   "type": "text",
+   "value": "— Je porte une robe !"
+  },
+  {
+   "type": "text",
+   "value": "— Alors grimpe en robe !"
+  },
+  {
+   "type": "text",
+   "value": "Elle grimpa. Il la hissa par le bras sur le toit de tôle, et ils coururent, courbés, pendant que derrière eux les cris enflaient. Le toit ondulait sous leurs pieds comme la surface d'un étang. Au bout, un vide d'un mètre au-dessus d'une ruelle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Les toits"
+  },
+  {
+   "type": "text",
+   "value": "— Saute."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es fou !"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis vivant. Saute, ou tu vas rester avec eux."
+  },
+  {
+   "type": "text",
+   "value": "Elle sauta. Elle atterrit mal, sur les genoux, mais elle atterrit. Il sauta derrière elle. Une planche céda sous son pied, il se rattrapa à un rebord de tôle coupant, et une douleur vive lui traversa la main droite. Il ne s'arrêta pas. Trois toits plus loin, il la fit descendre par une échelle de fer dans une cour où séchait du linge, et là, enfin, il s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent un moment adossés au mur, haletants. Au loin, les jurons s'éloignaient dans la mauvaise direction. Un drap mouillé claquait au vent à côté d'eux, et quelque part une radio grésillait une vieille chanson de mineurs. Elara avait les mains qui tremblaient. Elle les cacha dans les plis de sa cape, mais Kael l'avait vu, et il fit semblant de ne pas l'avoir vu, ce qui était peut-être la chose la plus gentille qu'on lui ait faite de la journée."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "— Merci, dit-elle, quand elle put parler."
+  },
+  {
+   "type": "text",
+   "value": "Kael la regarda. Vraiment, pour la première fois. Elle avait la peau très claire, des taches de rousseur légères sur le nez, et des yeux verts d'une couleur qu'il n'avait jamais vue ailleurs que sur les éclats d'oxyde de cuivre du puits numéro quatre. Elle avait de la poussière sur les joues, une écorchure au genou, une mèche rousse collée au front. Elle était absolument, scandaleusement, hors de sa place."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es complètement folle, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Elle cligna des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le Puits-Noir. Toute seule. Avec un manteau qui vaut plus que toute la rue. Tu voulais quoi, faire du tourisme ? Voir les pauvres de près ? Tu crois qu'on est un jardin flottant, ici ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je voulais voir, dit-elle, piquée. C'est interdit, de voir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pour toi ? Non. Pour toi, rien n'est interdit. C'est ça le problème. Toi, tu repars ce soir. Eux, ils restent. Et la prochaine fille d'ici qui passera dans cette ruelle, elle n'aura personne avec une barre de fer."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche, la referma. Quelque chose passa sur son visage, une honte qu'elle ne cachait pas, et Kael sentit sa colère vaciller un peu."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as raison, dit-elle enfin. Je suis désolée."
+  },
+  {
+   "type": "text",
+   "value": "Il ne s'attendait pas à ça. Les gens d'en haut ne s'excusaient pas. Les gens d'en haut ne savaient même pas que le mot existait dans la bouche de quelqu'un d'en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Tu saignes, ajouta-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda sa main. Une entaille courait sur le dos de sa main droite, pas profonde, mais le sang coulait jusqu'au poignet. Il arracha un bout de sa manche et serra le tissu autour."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est rien."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas rien."
+  },
+  {
+   "type": "text",
+   "value": "— C'est Vasse. Ici, on appelle ça un mardi."
+  },
+  {
+   "type": "text",
+   "value": "Pour la première fois, elle sourit. Un vrai sourire, un peu tremblant, et il eut l'impression bizarre que quelqu'un venait d'allumer une lampe dans la cour."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Elara, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Kael."
+  },
+  {
+   "type": "text",
+   "value": "Il ne demanda pas son nom de famille. Il n'avait pas besoin. Une seule famille d'en haut descendait aujourd'hui à Vasse, et une seule héritière avait des cheveux pareils."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il ne pouvait pas la ramener au quai par les rues. Pas avec les trois autres dans le coin, pas avec le couvre-feu. Alors il l'emmena chez lui."
+  },
+  {
+   "type": "text",
+   "value": "Mira faillit tomber de son banc."
+  },
+  {
+   "type": "text",
+   "value": "— C'est qui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Une perdue, dit Kael. On la rend ce soir."
+  },
+  {
+   "type": "text",
+   "value": "Mira s'approcha, tourna autour d'Elara comme autour d'une statue, toucha du bout du doigt le manteau bleu, puis leva les yeux vers les cheveux roux."
+  },
+  {
+   "type": "text",
+   "value": "— Tu viens de là-haut, dit-elle. Pour de vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Pour de vrai, dit Elara."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as la tête à l'envers, quand tu es chez toi ?"
+  },
+  {
+   "type": "text",
+   "value": "Elara éclata de rire."
+  },
+  {
+   "type": "text",
+   "value": "— Non. C'est vous qui avez la tête à l'envers, vu de chez moi."
+  },
+  {
+   "type": "text",
+   "value": "Mira réfléchit, très sérieuse."
+  },
+  {
+   "type": "text",
+   "value": "— Alors personne n'a raison."
+  },
+  {
+   "type": "text",
+   "value": "— Je crois que c'est exactement ça."
+  },
+  {
+   "type": "text",
+   "value": "Hana rentra du tri une heure plus tard. Elle vit la jeune fille assise à sa table, la cape grise, le manteau bleu, et elle ne dit rien. Elle regarda son fils longtemps. Puis elle regarda la main bandée. Puis elle soupira et prit un quatrième bol."
+  },
+  {
+   "type": "text",
+   "value": "Le repas fut maigre : la même soupe de racines, du pain trempé, un oignon partagé en quatre. Elara mangea tout, jusqu'à la dernière goutte, et elle remercia trois fois. Mira lui montra ses dessins. Elara resta un long moment devant le mur, devant sa propre Célestia tracée au charbon, avec ses petites silhouettes à l'envers."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Le repas partagé"
+  },
+  {
+   "type": "text",
+   "value": "— Celle-là s'ennuie, dit Mira en désignant la plus petite."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, murmura Elara. Je la connais."
+  },
+  {
+   "type": "text",
+   "value": "Kael la regardait, de l'autre côté de la pièce, et il se demanda à quel moment exactement sa journée avait cessé d'être normale."
+  },
+  {
+   "type": "text",
+   "value": "C'est alors que les sirènes commencèrent."
+  },
+  {
+   "type": "text",
+   "value": "Pas celles des mines. Les autres. Les sirènes blanches de la Sécurité des passages, un hurlement aigu qui montait et descendait au-dessus des toits. Puis une voix, amplifiée, métallique, tomba du ciel depuis les haut-parleurs des patrouilles."
+  },
+  {
+   "type": "text",
+   "value": "— Avis à la population de Vasse, grésilla la voix. L'héritière de la Compagnie Vey a disparu. Toute personne la retenant doit la remettre immédiatement aux autorités. Quiconque sera reconnu coupable de son enlèvement sera exécuté sur-le-champ."
+  },
+  {
+   "type": "text",
+   "value": "Le bol de Mira tomba par terre et se brisa."
+  },
+  {
+   "type": "text",
+   "value": "Hana se tourna lentement vers son fils."
+  },
+  {
+   "type": "text",
+   "value": "Et dehors, dans l'impasse, des bottes se mirent à courir."
+  }
+ ]
+}

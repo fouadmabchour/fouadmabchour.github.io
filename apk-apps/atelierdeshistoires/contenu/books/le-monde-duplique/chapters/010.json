@@ -1,0 +1,213 @@
+{
+ "number": 10,
+ "title": "Deux loyautés",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kael effaça le message. Puis il resta longtemps à fixer l'écran vide du bracelet, comme si les mots pouvaient revenir d'eux-mêmes."
+  },
+  {
+   "type": "text",
+   "value": "Dix jours. Jory n'avait jamais su attendre, mais il savait compter. Dix jours, c'était le temps qu'il fallait pour faire passer le mot d'un puits à l'autre, rallier les équipes de nuit, cacher des vivres, organiser la relève des piquets. Dix jours, et les vaisseaux de fret partiraient vides vers le ciel. Puis ne partiraient plus du tout."
+  },
+  {
+   "type": "text",
+   "value": "Et quarante jours de réserves, dans le Cœur."
+  },
+  {
+   "type": "text",
+   "value": "Kael fit le calcul malgré lui. Il le fit parce que c'était ce que son cerveau faisait toujours, qu'il le veuille ou non. Si la grève durait un mois, les réservoirs baisseraient sous le seuil critique. Les stabilisateurs commenceraient à faiblir. Célestia pencherait d'abord, à peine, quelques degrés, assez pour que les tasses glissent sur les tables des grandes familles. Puis davantage. Puis elle descendrait."
+  },
+  {
+   "type": "text",
+   "value": "Les mineurs croiraient avoir gagné. Ils lèveraient les yeux, ils verraient le monde d'en haut s'incliner, ils crieraient de joie dans les ruelles. Ils ne comprendraient qu'au dernier moment que l'ombre qui grandissait au-dessus d'eux, c'était la mort qui tombait."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva si brusquement que la chaise bascula."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il fallait prévenir Jory. Ça, c'était évident. Mais comment ? Le code du bracelet ne fonctionnait que dans un sens : Jory avait dû soudoyer un technicien du fret pour glisser son message dans le flux des ordres de mission. Kael ne pouvait pas répondre de la même façon sans se faire repérer. Et même s'il y arrivait, que dirait-il ? Arrête tout, Célestia va tomber ? Jory lui rirait au nez. Tant mieux, répondrait-il. Qu'elle tombe."
+  },
+  {
+   "type": "text",
+   "value": "Il fallait des preuves. Les mêmes que celles qu'il cherchait pour le Conseil. Mais une preuve qui convaincrait un chef de grève à Vasse pouvait, entre de mauvaises mains, devenir une arme."
+  },
+  {
+   "type": "text",
+   "value": "Car c'était l'autre moitié du problème, et elle était pire que la première : si la grève était un poignard pointé sur le cœur de Célestia, Jory venait de lui mettre le manche dans la main. Les mineurs pouvaient faire tomber le ciel. Personne, jamais, n'avait eu un tel pouvoir à Vasse. S'ils l'apprenaient, ils ne négocieraient plus des salaires. Ils négocieraient tout."
+  },
+  {
+   "type": "text",
+   "value": "Ou ils ne négocieraient rien, et ils tomberaient avec."
+  },
+  {
+   "type": "text",
+   "value": "Et puis il y avait Elara."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à elle dans le Cœur, tremblante contre lui. Il pensa à ce qu'elle ferait s'il lui disait. Elle était l'héritière de la Compagnie. Elle parlerait à son père, parce qu'elle était honnête et qu'elle croyait encore qu'on pouvait sauver les gens en leur disant la vérité. Et son père préviendrait le Conseil, et le Conseil enverrait la Sécurité dans les puits. Cassius Morn descendrait à Vasse avec ses uniformes blancs, et on chercherait le meneur, et on le trouverait. Jory, avec son foulard rouge. Sa mère, peut-être. Mira, qui dessinait des slogans sur les murs."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à son père. Au jour de l'éboulement, quand il avait douze ans, et que les contremaîtres de la Compagnie avaient fait rouvrir le puits avant même d'avoir sorti tous les corps, parce que les quotas n'attendaient pas. Jory était là, ce jour-là. Jory lui avait tenu la main pendant des heures devant l'entrée de la galerie, sans un mot, et c'était peut-être ce jour-là qu'ils étaient devenus frères. On ne trahit pas un frère. Mais on ne le laisse pas non plus marcher vers un précipice en chantant."
+  },
+  {
+   "type": "text",
+   "value": "Il resta debout au milieu du laboratoire, entre les pendules qui oscillaient, et il comprit qu'il ne pouvait être loyal à l'un sans trahir l'autre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "Deux loyautés"
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Elle vint le soir, comme elle l'avait promis, par le chemin des serres. Elle avait apporté des petits pains au miel, un thermos de thé et une couverture, et elle avait le visage de quelqu'un qui a passé la journée à faire semblant que tout allait bien."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai copié les registres, dit-elle en s'asseyant sur le bord de son lit, dans la minuscule chambre grise du quartier des Employés. Ceux des quatre dernières années. Ils sont dans un coffre chez Séléna. Elle m'a demandé ce que c'était. Je lui ai dit que c'étaient des lettres d'amour. Elle a fait semblant de me croire."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es entrée dans le quartier des Employés, dit Kael. Toi."
+  },
+  {
+   "type": "text",
+   "value": "— Ta porte n'a pas de caméra. Et j'ai mis la cape grise de la dernière fois. Elle me porte chance."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit. Il essaya de sourire aussi. Elle s'en aperçut, évidemment. Elle s'apercevait toujours de tout, c'était à la fois ce qu'il aimait le plus chez elle et ce qui le terrifiait ce soir."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qu'il y a ?"
+  },
+  {
+   "type": "text",
+   "value": "— Rien. La fatigue."
+  },
+  {
+   "type": "text",
+   "value": "— Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Je pensais aux chiffres, dit-il, et ce n'était pas tout à fait un mensonge. Je pensais à la quantité d'aldérite qui arrive chaque matin. À ce qui se passerait si un jour elle n'arrivait plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda un long moment. Il soutint son regard. Il pensa au message dans le bracelet, aux dix jours, au foulard rouge de Jory. Les mots étaient là, juste derrière ses dents. Il suffisait d'ouvrir la bouche."
+  },
+  {
+   "type": "text",
+   "value": "Il ne l'ouvrit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Ça n'arrivera pas, dit-elle doucement. On trouvera une solution avant. On le dira aux bonnes personnes. Tu verras."
+  },
+  {
+   "type": "text",
+   "value": "Il hocha la tête. Elle posa la main sur sa joue, et il ferma les yeux pour ne pas qu'elle y lise ce qu'il lui cachait."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta. Ils mangèrent les petits pains au miel assis par terre, en se moquant de la secrétaire au chignon et du chien en manteau brodé. Puis elle s'endormit contre lui, sous la couverture, ses cheveux roux étalés sur la combinaison grise comme une flamme sur de la cendre. Kael ne dormit pas. Il regarda par la fenêtre étroite les lumières de Vasse, au-dessus d'eux, à l'envers, et quelque part au milieu, la grande cheminée en forme de doigt."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "Les petits pains au miel"
+  },
+  {
+   "type": "text",
+   "value": "Dix jours. Neuf, maintenant."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois qu'il lui mentait. Il se promit que ce serait la dernière, et il savait déjà que ce n'était pas vrai."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Cassius Morn ne dormait pas non plus."
+  },
+  {
+   "type": "text",
+   "value": "Son bureau, au sommet de la tour de la Sécurité, était aussi blanc que son uniforme. Pas un papier qui dépasse, pas un livre de travers. Sur la table, trois objets seulement, alignés avec une précision de chirurgien."
+  },
+  {
+   "type": "text",
+   "value": "Le premier était une enveloppe épaisse, fermée par un ruban bleu. À l'intérieur, plus de deux cents lettres, triées par date. Il ne les avait jamais brûlées. Il les avait lues, toutes, avec l'attention qu'on accorde aux rapports d'un ennemi. Une jeune fille qui parlait de ruelles, d'une cheminée en forme de doigt, d'un garçon aux yeux gris. Un prénom, Kael, sans nom de famille, et une impasse de Vasse où chaque voisin interrogé avait juré ne connaître personne. Assez pour qu'on ait envie de le chercher, pas assez pour le trouver."
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième objet était un sachet transparent. Dedans, un morceau de tissu gris, raide, taché d'une vieille trace brune. Il l'avait ramassé sur le quai de Vasse cinq ans plus tôt, le jour où l'héritière était revenue de sa promenade avec les joues roses et un pendentif en moins. On avait analysé le sang, à l'époque. Sans rien à comparer, l'analyse n'avait servi à rien. Il avait gardé le sachet quand même. Il gardait tout."
+  },
+  {
+   "type": "text",
+   "value": "Ce matin, il avait fait prélever discrètement une goutte de sang à l'employé 4471-V, à l'occasion d'un contrôle médical de routine. Le laboratoire de la Sécurité avait rendu son rapport une heure plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "Correspondance complète."
+  },
+  {
+   "type": "text",
+   "value": "Cassius sourit. Il prit le troisième objet, une image imprimée sur papier glacé, et l'examina à la lumière de sa lampe. Écran vingt-trois, niveau 38, douze heures dix-sept. L'agent qui avait figé cette image croyait la lui avoir apportée par loyauté ; il était déjà muté aux quais de fret, où il apprendrait la discrétion. L'image était nette. Un homme en combinaison grise. Une jeune femme aux cheveux roux sur la pointe des pieds. Un baiser, et autour d'eux des pendules qui semblaient retenir leur souffle."
+  },
+  {
+   "type": "text",
+   "value": "Il aurait pu l'utiliser dès le premier jour. Il avait préféré attendre. Observer. Voir jusqu'où ils iraient, s'assurer qu'il ne s'agissait pas d'un caprice. Deux nuits sur l'île des Glycines, un soir dans le quartier des Employés, une visite au Cœur, ce qui était fâcheux. Ce n'était pas un caprice."
+  },
+  {
+   "type": "text",
+   "value": "Il glissa la photo dans une chemise de cuir noir et se leva."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey travaillait encore à minuit, comme toujours, dans le bureau au sommet de la tour qui portait son nom. Il ne leva pas les yeux quand Cassius entra."
+  },
+  {
+   "type": "text",
+   "value": "— J'espère que c'est important."
+  },
+  {
+   "type": "text",
+   "value": "— Ça l'est, monsieur. Cela concerne votre fille."
+  },
+  {
+   "type": "text",
+   "value": "Le Maître des Mines reposa sa plume. Lentement. Ses yeux, sous les sourcils argentés, devinrent deux lames."
+  },
+  {
+   "type": "text",
+   "value": "Cassius s'approcha du bureau, ouvrit la chemise de cuir noir et posa la photo devant lui, bien à plat, dans la lumière de la lampe : Elara, sa fille unique, embrassant l'employé de Vasse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "La photo"
+  }
+ ]
+}

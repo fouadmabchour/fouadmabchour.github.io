@@ -1,0 +1,297 @@
+{
+ "number": 7,
+ "title": "Les retrouvailles",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elara avait passé la nuit à préparer cette seconde, et la seconde ne ressemblait à rien de ce qu'elle avait préparé."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait imaginé qu'elle serait calme. Qu'elle sourirait d'un air professionnel, qu'elle tendrait la main, qu'elle dirait bonjour, monsieur Orren, bienvenue à la direction scientifique. Elle avait même répété la phrase devant son miroir, à trois heures du matin, jusqu'à ce que Séléna, qui dormait chez elle, lui jette un coussin à la figure."
+  },
+  {
+   "type": "text",
+   "value": "Au lieu de quoi elle restait debout derrière sa table, une main posée sur le verre pour ne pas tomber, et elle le regardait."
+  },
+  {
+   "type": "text",
+   "value": "Il avait grandi. Non, il avait vieilli, ce n'était pas la même chose. Ses épaules avaient pris la largeur des hommes qui portent des choses lourdes. Son visage s'était creusé, plus dur, plus net. Mais les cheveux étaient les mêmes, ce désordre brun très sombre, presque noir, qu'aucun peigne n'avait jamais dû vaincre. Et les yeux. Gris sombre, comme la Faille un soir d'orage. Ils la fixaient avec une telle intensité qu'elle sentit ses joues s'enflammer."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Ah, notre prodige d'en bas."
+  },
+  {
+   "type": "text",
+   "value": "La voix venait de sa gauche, du fauteuil près de la baie vitrée. Kael tourna la tête. Elara n'eut pas besoin de le faire : elle savait. Cassius Morn se leva avec cette lenteur élégante qu'il mettait en toute chose, lissa le revers de son uniforme blanc et s'avança, un sourire poli aux lèvres."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "Le bureau"
+  },
+  {
+   "type": "text",
+   "value": "Elle avait oublié qu'il était là. Elle avait oublié jusqu'à son existence pendant trois secondes entières, et c'était peut-être le plus grand danger de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— Cassius Morn, chef de la Sécurité des passages, dit-il. Je tenais à saluer personnellement le lauréat du Grand Concours. C'est la première fois qu'un enfant de Vasse franchit la Faille pour autre chose que porter des caisses. Un moment historique."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis ému, dit Kael d'une voix parfaitement neutre."
+  },
+  {
+   "type": "text",
+   "value": "Cassius ne lui tendit pas la main. Il se tourna vers Elara."
+  },
+  {
+   "type": "text",
+   "value": "— Vous connaissez déjà monsieur Orren, je crois ?"
+  },
+  {
+   "type": "text",
+   "value": "Le cœur d'Elara manqua un battement. Puis elle vit le léger plissement des yeux de Cassius, cette façon de pêcher à la ligne qu'il avait avec tout le monde, et elle comprit qu'il ne savait rien. Il tendait l'hameçon par habitude."
+  },
+  {
+   "type": "text",
+   "value": "— Seulement son dossier, répondit-elle. Remarquable, d'ailleurs. Vos calculs sur les flux de liaison sont plus élégants que ceux de nos ingénieurs titulaires, monsieur Orren."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes trop aimable, madame la directrice adjointe."
+  },
+  {
+   "type": "text",
+   "value": "Il avait appuyé sur chaque syllabe du titre. Elle eut envie de le gifler. Elle eut envie de faire le tour de la table et de lui prendre le visage entre les mains. Elle ne fit ni l'un ni l'autre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous commencerez au laboratoire de gravimétrie, niveau 38, dit-elle. Je vous y présenterai moi-même vos instruments. Cassius, vous vouliez autre chose ?"
+  },
+  {
+   "type": "text",
+   "value": "Cassius les regarda tour à tour. Un instant de trop. Puis il sourit encore."
+  },
+  {
+   "type": "text",
+   "value": "— Rien du tout. Je vous laisse à vos équations. Votre père dîne avec nous ce soir, Elara. N'oubliez pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'oublie jamais rien."
+  },
+  {
+   "type": "text",
+   "value": "La porte se referma sur lui. Le silence tomba, épais comme du velours."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent les deux étages par l'escalier de service, elle devant, lui derrière, à la distance réglementaire. Elle sentait son regard sur sa nuque à chaque marche. Ils croisèrent un coursier chargé de dossiers, puis deux ingénieurs qui la saluèrent et ne virent pas Kael, comme on ne voit pas une rampe d'escalier. Elle eut honte pour eux. Elle eut honte pour elle, aussi, qui avait vécu vingt-trois ans dans ce monde sans jamais remarquer qu'il rendait les gens invisibles."
+  },
+  {
+   "type": "text",
+   "value": "Le laboratoire de gravimétrie était une salle ronde, encombrée de pendules suspendus, de sphères de cuivre et de cadrans qui frémissaient au moindre souffle. Une odeur d'huile de machine et de métal chaud. Les ingénieurs titulaires étaient partis déjeuner. Elara verrouilla la porte derrière eux et s'y adossa."
+  },
+  {
+   "type": "text",
+   "value": "Kael se tenait au milieu de la pièce, les bras croisés. Il ne regardait pas les instruments."
+  },
+  {
+   "type": "text",
+   "value": "— Directrice adjointe, dit-il. Félicitations."
+  },
+  {
+   "type": "text",
+   "value": "— Kael."
+  },
+  {
+   "type": "text",
+   "value": "— C'est étrange. Pendant cinq ans, je me suis demandé ce que tu devenais. J'ai imaginé des tas de choses. Je ne t'ai jamais imaginée dans un bureau avec une plaque dorée, à dire bonjour aux gens comme moi par leur nom de famille."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que je devais faire ? Te sauter au cou devant Cassius Morn ? Tu sais ce qu'il fait aux gens qui..."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais ce que ta Sécurité fait aux gens d'en bas, oui. J'ai caché ma sœur sous le plancher pendant une rafle. Elle avait treize ans. Elle est restée des heures dans le noir à retenir sa toux."
+  },
+  {
+   "type": "text",
+   "value": "Elara ferma les yeux. Quand elle les rouvrit, ils brûlaient."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis désolée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as jamais écrit."
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait dit doucement, et c'était pire que s'il avait crié."
+  },
+  {
+   "type": "text",
+   "value": "— Pas une ligne, poursuivit-il. Cinq ans. J'ai fini par me dire que c'était normal. Une heure dans les ruelles avec un mineur, une jolie aventure à raconter à tes amies, et puis on oublie. Je ne t'en voulais même pas. Enfin si. Un peu. Beaucoup, les mauvais jours."
+  },
+  {
+   "type": "text",
+   "value": "— Pas une ligne ? répéta-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix se brisa sur le dernier mot. Elle se décolla de la porte."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai écrit toutes les semaines, Kael. Toutes les semaines pendant cinq ans. Le jeudi. Je les confiais au service des passages, avec ton nom, ton quartier, la grande cheminée en forme de doigt, je les décrivais si bien qu'un enfant aurait pu trouver ta maison. Plus de deux cents lettres. J'ai même essayé de redescendre. On m'a refoulée au quai. Mon père m'a interdit tout passage par décret."
+  },
+  {
+   "type": "text",
+   "value": "Kael la regarda. Les bras croisés se défirent lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Le service des passages, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— La Sécurité des passages."
+  },
+  {
+   "type": "text",
+   "value": "Elle comprit au même instant que lui. Elle porta la main à sa bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Cassius, souffla-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Toutes ces années. Tous ces jeudis. Elle l'imagina, le sourire poli, lisant ses lettres une par une dans son bureau blanc, ses phrases maladroites, ses dessins dans les marges, ses promesses, avant de les jeter au feu. Ou pire : de les garder. Une nausée lui monta à la gorge."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne t'ai jamais oublié, dit-elle. Pas un jour."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne répondit pas tout de suite. Il porta la main à son col, défit le premier bouton de sa combinaison et tira sur un fin cordon de cuir. Au bout, une petite pierre bleue sertie d'argent tournait sur elle-même et capturait la lumière des lampes."
+  },
+  {
+   "type": "text",
+   "value": "Le pendentif de sa mère. Le sien. Celui qu'elle lui avait donné sur un toit de Vasse, sous Célestia à l'envers, pour qu'il la retrouve."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "Le pendentif retrouvé"
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai gardé, dit-il simplement. J'ai vendu ma veste d'hiver, une année. J'ai vendu mes livres, une autre. Celui-là, jamais. Même quand j'étais sûr que tu m'avais oublié."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'approcha. Elle tendit la main, effleura la pierre du bout des doigts. Elle était chaude, de la chaleur de sa peau à lui."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que tu as dit : pour que tu me retrouves. Et je suis têtu. Je ne voulais pas que tu aies eu tort."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit. Un rire mouillé, ridicule, qui ressemblait à un sanglot. Il esquissa un sourire, ce demi-sourire en coin dont elle s'était souvenue pendant cinq ans sans être certaine de ne pas l'avoir inventé. Elle ne l'avait pas inventé."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as toujours une cicatrice, dit-elle en prenant sa main droite."
+  },
+  {
+   "type": "text",
+   "value": "La petite ligne blanche sur le dos de la main. La blessure des toits du Puits-Noir."
+  },
+  {
+   "type": "text",
+   "value": "— Souvenir de toi, dit-il. Tu coûtes cher, Elara Vey."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Alors elle se hissa sur la pointe des pieds et l'embrassa."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut d'abord maladroit, trop rapide, comme on saute dans l'eau froide. Puis il posa la main sur sa nuque, sous ses cheveux, et le monde ralentit. Les pendules continuaient d'osciller autour d'eux, tic, tac, comme si quelqu'un mesurait enfin le temps qu'on leur avait volé. Elle sentit le pendentif entre leurs deux cœurs, minuscule et brûlant. Elle sentit qu'il tremblait, lui aussi, et ça la rassura plus que tout."
+  },
+  {
+   "type": "text",
+   "value": "Quand ils se séparèrent, il appuya son front contre le sien."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une très mauvaise idée, murmura-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— La pire de toutes, approuva-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— On recommence ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle rit encore, et cette fois ce n'était plus un sanglot."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Six étages plus haut, dans une salle sans fenêtre de la Sécurité des passages, quarante écrans diffusaient en silence les couloirs, les ascenseurs, les laboratoires de la tour Vey."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "L'écran vingt-trois"
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran numéro vingt-trois, un employé en combinaison grise tenait dans ses bras la fille du Maître des Mines."
+  },
+  {
+   "type": "text",
+   "value": "L'agent de garde se pencha en avant, la bouche entrouverte. Il hésita. Puis il appuya sur une touche."
+  },
+  {
+   "type": "text",
+   "value": "L'image se figea."
+  }
+ ]
+}

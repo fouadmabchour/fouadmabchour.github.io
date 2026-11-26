@@ -1,0 +1,293 @@
+{
+ "number": 4,
+ "title": "Une heure",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les bottes passèrent devant la porte sans s'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Elara ne respira de nouveau que lorsque leur martèlement se fut perdu au bout de l'impasse. Dans la pièce, personne ne bougeait. Mira s'était figée au milieu des éclats de son bol. Hana avait posé la main sur l'épaule de sa fille. Et Kael, debout près de la fenêtre, regardait dehors avec une expression qu'Elara ne lui avait pas encore vue : pas de la peur, mais un calcul, rapide, implacable, comme s'il additionnait des chiffres que personne d'autre ne voyait."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais sortir, dit Elara. Je vais aller vers eux, je vais leur dire que je me suis perdue toute seule. Ils ne vous feront rien."
+  },
+  {
+   "type": "text",
+   "value": "— Ils te demanderont où tu étais, dit Kael sans se retourner. Tu mentiras mal. Tu as la tête de quelqu'un qui n'a jamais eu besoin de mentir. Et ils fouilleront chaque maison de la rue jusqu'à trouver un bol de soupe en trop."
+  },
+  {
+   "type": "text",
+   "value": "Elle voulut protester. Elle n'en trouva pas la force. Il avait raison, et elle commençait à détester à quel point il avait souvent raison."
+  },
+  {
+   "type": "text",
+   "value": "— Alors quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je te ramène au quai. Mais pas par les rues. Par en dessous."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Les galeries commençaient sous une trappe, au fond de la cour d'un voisin qui ne posa aucune question. Une vieille veine abandonnée depuis des années, disait Kael, que les gamins du quartier utilisaient pour passer d'une rue à l'autre sans croiser les contremaîtres. Il alluma une lampe à huile, et la lumière dansa sur des parois de roche noire, striées de minces filets brillants."
+  },
+  {
+   "type": "text",
+   "value": "Elara avança derrière lui, une main sur la paroi froide. L'air sentait la terre humide et le métal. Ses pas résonnaient. Quelque part, de l'eau gouttait avec la régularité d'une horloge."
+  },
+  {
+   "type": "text",
+   "value": "— Tu viens souvent ici ? demanda-t-elle, et sa voix lui revint en écho."
+  },
+  {
+   "type": "text",
+   "value": "— Je descends tous les jours un peu plus bas que ça. Ça, c'est mon jardin flottant."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit malgré elle. Il ne se retourna pas, mais elle aurait juré qu'il souriait."
+  },
+  {
+   "type": "text",
+   "value": "Ils marchèrent longtemps. Il lui montra des choses : une couche de roche où l'on voyait des coquillages fossiles, preuves qu'il y avait eu un océan à Vasse, autrefois, avant que tout ne devienne poussière. Une niche où les mineurs avaient gravé leurs noms, des centaines de noms, certains très anciens. Il s'arrêta devant l'un d'eux, une seconde, sans rien dire. Orren. Elle ne demanda pas."
+  },
+  {
+   "type": "text",
+   "value": "Un peu plus loin, le plafond s'abaissa si brusquement qu'elle dut se plier en deux. Sa cape s'accrocha à une pointe de roche, elle tira, le tissu se déchira avec un bruit sec, et elle jura. Un vrai juron, un de ceux qu'elle avait entendus dans la bouche des mécaniciens des quais de Célestia et qu'elle n'avait jamais osé répéter."
+  },
+  {
+   "type": "text",
+   "value": "Kael s'arrêta net et se retourna, la lampe levée."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que tu viens de dire ?"
+  },
+  {
+   "type": "text",
+   "value": "— Rien."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as dit un mot que ma mère m'interdit de dire depuis que j'ai six ans."
+  },
+  {
+   "type": "text",
+   "value": "— Ta mère n'est pas là, répliqua-t-elle, rouge jusqu'aux oreilles."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est toujours là. C'est le principe des mères."
+  },
+  {
+   "type": "text",
+   "value": "Elle éclata de rire, et le rire roula dans la galerie, rebondit sur les parois, revint vers eux transformé, plus grave, comme si la montagne elle-même s'amusait. Kael secoua la tête et repartit, mais ses épaules tremblaient. Pendant quelques pas, elle oublia les sirènes, son père, les bottes dans l'impasse. Il n'y avait que la lampe, le dos de Kael devant elle, et le bruit de l'eau."
+  },
+  {
+   "type": "text",
+   "value": "À un endroit, la galerie s'élargissait, et la lampe révéla, dans la paroi, une petite veine d'un bleu lumineux, qui pulsait doucement."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "La veine bleue"
+  },
+  {
+   "type": "text",
+   "value": "— De l'aldérite, souffla Elara."
+  },
+  {
+   "type": "text",
+   "value": "— Une miette. Pas assez pour que la Compagnie se déplace. Tu sais à quoi elle sert, là-haut ?"
+  },
+  {
+   "type": "text",
+   "value": "— Aux lumières, je crois. Aux machines. On ne nous en parle pas vraiment."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda d'un air étrange."
+  },
+  {
+   "type": "text",
+   "value": "— Vous la consommez par tonnes, dit-il, et vous ne savez pas à quoi elle sert."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi, tu le sais ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Mais moi, j'ai une excuse. On ne me l'a jamais demandé."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "La galerie remonta par une échelle de fer jusqu'à un toit plat, au sommet d'un ancien entrepôt, à deux rues du quai. Kael éteignit la lampe. Ils restèrent accroupis derrière un muret le temps de vérifier que personne ne les voyait. En bas, des patrouilles blanches quadrillaient les rues. Les sirènes s'étaient tues, mais leur silence était pire."
+  },
+  {
+   "type": "text",
+   "value": "— On attend que la relève du quai change, murmura Kael. Dix minutes. Peut-être un peu plus."
+  },
+  {
+   "type": "text",
+   "value": "Elara s'assit contre le muret. Et elle leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Célestia occupait tout le ciel. Le soir tombait, et son monde s'était allumé : des milliers de fenêtres, des ponts de verre éclairés comme des fils de perles, les dômes dorés qui renvoyaient les derniers rayons du soleil couchant. Tout cela à l'envers, immense, suspendu, si beau qu'elle en eut mal à la gorge."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne l'avais jamais vu, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Chez moi. Je n'avais jamais vu chez moi comme ça. Là-haut, on ne regarde jamais en bas. Il y a des barrières partout au bord des jardins, des voiles, des plantes. On dit que la vue de Vasse est déprimante. Elle hésita. Je n'avais jamais vu ton monde. Et je n'avais jamais vu le mien."
+  },
+  {
+   "type": "text",
+   "value": "Kael s'assit à côté d'elle. Leurs épaules ne se touchaient pas, mais presque."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je n'ai jamais vu le dessus de rien, dit-il. Je vois le dessous de ton monde depuis que je suis né. Le dessous des ponts. Le dessous des jardins. Le dessous des maisons des gens qui ne me regardent pas. Il eut un petit rire. Tu sais ce que je me demande, la nuit ? Ce qui retient tout ça. Comment un monde entier peut tenir à l'envers sans tomber."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu as trouvé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pas encore. Mais je trouverai."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda, son profil découpé sur la lumière de Célestia, les cheveux sombres en bataille, la main bandée posée sur son genou. Il disait ça comme on fait une promesse à quelqu'un d'absent."
+  },
+  {
+   "type": "text",
+   "value": "— Je te crois, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna la tête vers elle. Ses yeux étaient gris sombre, couleur d'orage, et ils la regardaient comme personne ne l'avait jamais regardée : pas comme l'héritière, pas comme la fille d'Aurelian Vey, mais comme quelqu'un d'étrange et de nouveau, quelqu'un qu'on aurait envie de comprendre."
+  },
+  {
+   "type": "text",
+   "value": "Elle porta la main à son cou. Elle détacha le pendentif, la petite pierre d'aldérite sertie d'argent, qui brilla doucement dans la pénombre."
+  },
+  {
+   "type": "text",
+   "value": "— Tiens."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Si. C'était à ma mère. Elle disait que l'aldérite retrouve toujours son chemin. Elle prit sa main valide, ouvrit ses doigts, y déposa la pierre. Pour que tu me retrouves."
+  },
+  {
+   "type": "text",
+   "value": "— Elara. Je suis un mineur de Vasse. Tu es…"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais ce que je suis. Garde-le."
+  },
+  {
+   "type": "text",
+   "value": "Il referma les doigts sur la pierre. La lumière bleue filtra entre ses phalanges. Ils étaient très proches, maintenant. Elle sentait la chaleur de son bras contre le sien, l'odeur de poussière et de fumée sur sa veste. Il se pencha, à peine. Elle ferma les yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "Le pendentif"
+  },
+  {
+   "type": "text",
+   "value": "En bas, un sifflet retentit. La relève."
+  },
+  {
+   "type": "text",
+   "value": "Ils se séparèrent d'un coup, comme si quelqu'un les avait surpris. Kael se racla la gorge. Elara sentit ses joues s'enflammer."
+  },
+  {
+   "type": "text",
+   "value": "— C'est maintenant, dit-il, d'une voix un peu rauque."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Il la conduisit jusqu'au bout d'une ruelle qui débouchait sur le quai. Il s'arrêta dans l'ombre, sans franchir la limite."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas aller plus loin. S'ils me voient avec toi, je suis mort."
+  },
+  {
+   "type": "text",
+   "value": "— Kael…"
+  },
+  {
+   "type": "text",
+   "value": "— Vas-y. Tout droit. Ne te retourne pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna quand même, une seule fois. Il avait déjà disparu."
+  },
+  {
+   "type": "text",
+   "value": "Elle marcha vers la lumière. Un garde cria. D'autres accoururent. Puis la foule des uniformes blancs s'ouvrit, et son père était là, immense, le visage gris, et il la serra contre lui si fort qu'elle eut du mal à respirer. Il ne dit rien. Il tremblait. Elara ne l'avait jamais vu trembler."
+  },
+  {
+   "type": "text",
+   "value": "— Je me suis perdue, murmura-t-elle. Toute seule. Je suis désolée."
+  },
+  {
+   "type": "text",
+   "value": "Par-dessus l'épaule de son père, elle vit Cassius Morn. Il ne la regardait pas. Il regardait la foule, au-delà des barrières, la ruelle d'où elle était sortie. Lentement, méthodiquement, visage après visage."
+  },
+  {
+   "type": "text",
+   "value": "Puis il baissa les yeux vers le sol du quai. Il se pencha, et ramassa quelque chose entre deux doigts gantés de blanc. Un bout de tissu gris, déchiré, raide de sang séché. Un bout de manche, tombé d'une main blessée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "Le tissu taché"
+  },
+  {
+   "type": "text",
+   "value": "Il le tendit à l'officier le plus proche, avec son sourire le plus poli."
+  },
+  {
+   "type": "text",
+   "value": "— Trouvez-moi à qui c'est."
+  }
+ ]
+}

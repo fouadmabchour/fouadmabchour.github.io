@@ -1,0 +1,305 @@
+{
+ "number": 11,
+ "title": "Le Maître des Mines",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La convocation arriva à l'aube, sur papier épais, scellée à la cire grise de la Compagnie. Pas un message sur le bracelet, pas un domestique venu frapper à sa porte avec un sourire gêné. Un pli. Comme pour un actionnaire en faute."
+  },
+  {
+   "type": "text",
+   "value": "Elara le lut debout, pieds nus sur le marbre froid de sa chambre, et sut aussitôt."
+  },
+  {
+   "type": "text",
+   "value": "« Mademoiselle Elara Vey est attendue au bureau du Maître des Mines à la septième heure. »"
+  },
+  {
+   "type": "text",
+   "value": "Pas « ma fille ». Pas même son prénom seul. Elle replia la feuille en quatre, très lentement, pour que ses mains cessent de trembler."
+  },
+  {
+   "type": "text",
+   "value": "Par la grande baie, le ciel de Célestia virait au blanc nacré. Plus bas, bien plus bas, à travers les nappes lumineuses de la Faille, Vasse s'éveillait à l'envers : des milliers de petites lueurs orange, les fumées des puits qui montaient vers elle comme des doigts. Quelque part dans ce chaos de tôle, Mira dessinait peut-être. Et dans le quartier des Employés, à vingt minutes de pont de verre, Kael dormait encore, ou faisait semblant."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa à lui envoyer un mot. Puis elle pensa à l'écran de surveillance, aux images figées, aux yeux partout. Elle n'envoya rien."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le bureau de son père occupait le sommet de la tour Vey. On y montait par un ascenseur de cristal qui laissait voir tout Célestia s'enfoncer sous soi, les dômes dorés, les jardins flottants accrochés à leurs câbles de lumière, les ponts suspendus comme des fils de soie. Enfant, Elara adorait cette montée. Elle collait ses mains au verre et criait qu'elle volait."
+  },
+  {
+   "type": "text",
+   "value": "Ce matin-là, elle garda les bras le long du corps."
+  },
+  {
+   "type": "text",
+   "value": "Les portes s'ouvrirent sur la pièce qu'elle connaissait par cœur : le long bureau d'ébène noir, les cartes des gisements gravées sur les murs, les rangées de petits flacons où dormaient des échantillons d'aldérite, bleus comme des yeux fermés. Et au fond, devant la baie, son père, de dos."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "Le bureau du père"
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey ne se retourna pas tout de suite. Il portait son manteau noir brodé d'argent, celui des séances du Conseil. Ses cheveux argentés étaient parfaitement tirés en arrière. Il semblait plus grand que d'habitude, ou peut-être était-ce elle qui se sentait plus petite."
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta debout."
+  },
+  {
+   "type": "text",
+   "value": "Alors il se retourna. Sur le bureau, entre eux, il y avait une seule photographie, posée bien droite, comme une pièce à conviction. Elara n'eut pas besoin de s'approcher. Elle reconnaissait le grain de la caméra du laboratoire, la lumière bleue des écrans, la courbe de sa propre nuque. Et la main de Kael dans ses cheveux."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis quand ? demanda son père."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix n'était pas forte. C'était pire. Elle était plate, exacte, comme un relevé de production."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne te regarde pas."
+  },
+  {
+   "type": "text",
+   "value": "— Tout ce qui se passe dans cette tour me regarde. Tout ce qui porte mon nom me regarde. Depuis quand, Elara ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle releva le menton."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "Pour la première fois, quelque chose bougea sur le visage d'Aurelian. Une ombre, vite rentrée."
+  },
+  {
+   "type": "text",
+   "value": "— Le jour de l'inspection, dit-il lentement. Le garçon du Puits-Noir."
+  },
+  {
+   "type": "text",
+   "value": "— Il s'appelle Kael. Il m'a sauvé la vie, ce jour-là. Pendant que tes hommes fouillaient les maisons et menaçaient d'exécuter n'importe qui."
+  },
+  {
+   "type": "text",
+   "value": "— Il t'a sauvé la vie, répéta son père. Et pour le remercier, tu le mets en danger. Bravo."
+  },
+  {
+   "type": "text",
+   "value": "Elle sentit la chaleur lui monter aux joues, cette rougeur qu'elle détestait, qui trahissait tout sous ses taches de rousseur."
+  },
+  {
+   "type": "text",
+   "value": "— C'est toi qui le mets en danger. Toi et ton Conseil, et tes lois qui interdisent à un homme de regarder une femme parce qu'elle est née trois mille mètres plus haut."
+  },
+  {
+   "type": "text",
+   "value": "— Ce ne sont pas mes lois."
+  },
+  {
+   "type": "text",
+   "value": "— Tu les appliques."
+  },
+  {
+   "type": "text",
+   "value": "— Je les applique parce qu'elles tiennent ce monde debout."
+  },
+  {
+   "type": "text",
+   "value": "Il contourna le bureau. Elle remarqua qu'il ne touchait pas la photo. Il la regardait de biais, comme on évite une plaie."
+  },
+  {
+   "type": "text",
+   "value": "— Écoute-moi bien, dit-il. Tu vas rompre. Aujourd'hui. Tu ne le reverras pas, tu ne lui écriras pas, tu ne lui adresseras plus la parole en dehors de ce qu'exige le travail, et dans une semaine il sera muté au service des relevés, à l'autre bout de la ville. Ensuite, nous n'en parlerons plus jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "Le mot tomba dans la pièce comme une pierre dans un puits. Elle l'entendit résonner longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian la fixa. Elle avait ses yeux verts, à lui, disait-on toujours. Mais ce n'était pas vrai, elle le savait. Les yeux de son père étaient gris-vert, pâles, presque transparents. Les siens étaient d'un vert plus profond, plus chaud. Les yeux de sa mère. Il ne parlait jamais de sa mère."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne m'as pas compris, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Si. Je t'ai très bien compris. C'est toi qui ne comprends pas. Je ne suis plus une enfant que tu enfermes dans sa chambre quand elle s'est sauvée. J'ai vingt-trois ans. Je dirige la moitié de ton département scientifique. Et pendant cinq ans, j'ai écrit à cet homme toutes les semaines, et pas une lettre n'est arrivée."
+  },
+  {
+   "type": "text",
+   "value": "Elle vit son père hésiter. Une demi-seconde."
+  },
+  {
+   "type": "text",
+   "value": "— Tu le savais, souffla-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je savais que Cassius filtrait le courrier vers Vasse. C'est son rôle."
+  },
+  {
+   "type": "text",
+   "value": "— Mes lettres. Les miennes. Tu l'as laissé lire mes lettres."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai laissé te protéger."
+  },
+  {
+   "type": "text",
+   "value": "— De quoi ? cria-t-elle enfin, et sa voix se brisa contre les vitres. D'avoir un cœur ? D'avoir vu qu'en bas les enfants toussent de la poussière bleue pendant qu'ici on la porte en bijoux ? Tu sais ce qu'ils mangent, papa ? J'ai mangé chez eux. Une soupe claire, avec trois morceaux de racine. La mère de Kael m'a donné sa part sans rien dire. Elle ne savait pas qui j'étais. Elle l'a fait quand même."
+  },
+  {
+   "type": "text",
+   "value": "Le silence qui suivit était si dense qu'elle entendait le bourdonnement lointain des stabilisateurs, ce grondement sourd qui faisait vibrer toute Célestia et que personne n'écoutait plus."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian marcha jusqu'à l'une des étagères. Il prit un flacon d'aldérite, le fit tourner entre ses doigts. La lumière bleue joua sur sa barbe grise."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "Le flacon bleu"
+  },
+  {
+   "type": "text",
+   "value": "— Tu crois que je ne sais pas ce qu'ils mangent, dit-il doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Alors pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que chaque gramme de ceci, dit-il en levant le flacon, a un prix. Parce que chaque tour de cette ville, chaque jardin où tu vas cacher tes rendez-vous, chaque souffle que tu prends ici repose sur des équilibres que tu n'imagines même pas. Tu as vu une soupe. J'ai vu des comptes. Tu as vu une femme généreuse. J'ai vu des émeutes, des puits effondrés, des conseils qui votaient la mort de quartiers entiers pour quelques tonnes de plus."
+  },
+  {
+   "type": "text",
+   "value": "Il reposa le flacon, avec une précision terrible."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne sais rien de ce que coûte ce monde, Elara. Rien."
+  },
+  {
+   "type": "text",
+   "value": "Les mots la frappèrent plus fort qu'une main. Elle chancela presque. Parce qu'il y avait, dans la voix de son père, autre chose que la colère. Une fatigue immense. Un vieux chagrin, mal enterré, qui remuait sous la terre."
+  },
+  {
+   "type": "text",
+   "value": "Elle aurait pu se taire. Elle aurait pu reculer, comme avant. Elle respira à fond."
+  },
+  {
+   "type": "text",
+   "value": "— Alors apprends-le-moi, dit-elle. Au lieu de me le cacher. Au lieu de cacher tout le reste."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensait au Cœur. Aux chiffres. Aux quarante jours. Elle vit son père se raidir, imperceptiblement, et elle comprit qu'elle était allée trop près de quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "— Sors, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Papa..."
+  },
+  {
+   "type": "text",
+   "value": "— Sors. Tu es dispensée de laboratoire jusqu'à nouvel ordre. Séléna Arkos n'entrera plus dans nos appartements. Ton bracelet sera surveillé. Ce n'est pas une punition. C'est une précaution."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une prison."
+  },
+  {
+   "type": "text",
+   "value": "— Appelle-la comme tu voudras."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda une dernière fois, cet homme droit et seul devant sa baie immense, et elle eut cette pensée absurde, qui lui serra la gorge : il a peur. Mon père a peur, et je ne sais pas de quoi."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit sans claquer la porte. C'était, elle le savait, ce qui le blesserait le plus."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Aurelian resta longtemps immobile après le départ de sa fille."
+  },
+  {
+   "type": "text",
+   "value": "Puis il s'assit, enfin, et regarda la photo. Le garçon avait les cheveux presque noirs, en bataille, une main posée sur la joue d'Elara avec une délicatesse qu'il n'aurait pas crue possible chez un mineur. Et Elara, sur l'image, souriait d'un sourire qu'il ne lui avait plus vu depuis qu'elle avait huit ans."
+  },
+  {
+   "type": "text",
+   "value": "Il retourna la photographie face contre le bois."
+  },
+  {
+   "type": "text",
+   "value": "Il appuya sur la plaque d'appel de son bureau."
+  },
+  {
+   "type": "text",
+   "value": "— Faites monter l'ingénieur Orren, dit-il. Seul. Pas d'escorte, pas de Sécurité. Et prévenez le commandant Morn que je n'ai pas besoin de lui."
+  },
+  {
+   "type": "text",
+   "value": "Il attendit que la plaque s'éteigne. Ensuite, il ouvrit le tiroir de gauche, celui qui fermait à clé, et en sortit deux documents."
+  },
+  {
+   "type": "text",
+   "value": "Le premier était un contrat de la Compagnie, déjà rempli, auquel il ne manquait qu'une signature : retour définitif à Vasse, avec prime."
+  },
+  {
+   "type": "text",
+   "value": "Le second était un dossier mince, à couverture grise. Sur l'étiquette, une main de secrétaire avait écrit un nom d'enfant."
+  },
+  {
+   "type": "text",
+   "value": "Mira Orren, dix-sept ans. Asthme chronique. impasse des Tamis, secteur quatre."
+  },
+  {
+   "type": "text",
+   "value": "Il les posa côte à côte sur la table, bien alignés, et attendit que le garçon frappe à la porte."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "Le contrat et le dossier"
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "number": 12,
+ "title": "Le marché",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Kael remarqua d'abord le silence."
+  },
+  {
+   "type": "text",
+   "value": "Dans le quartier des Employés, il y avait toujours du bruit : des chariots, des voix basses, la toux des anciens mineurs reconvertis en techniciens. Ici, au sommet de la tour Vey, même ses pas sur le tapis ne faisaient aucun son. On aurait dit que l'air lui-même avait été payé pour se taire."
+  },
+  {
+   "type": "text",
+   "value": "La porte du bureau glissa. Aurelian Vey était assis derrière une table d'ébène si longue qu'on aurait pu y coucher un homme. Il ne se leva pas."
+  },
+  {
+   "type": "text",
+   "value": "— Entrez, ingénieur Orren. Asseyez-vous."
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, il y avait une chaise. Kael s'y assit, lentement, en gardant les mains visibles sur ses genoux, comme on le lui avait appris à chaque contrôle de la Sécurité. Le bracelet d'identification pesait à son poignet. Sous sa combinaison grise, contre sa peau, il sentait le petit poids froid du pendentif d'Elara."
+  },
+  {
+   "type": "text",
+   "value": "Entre eux, deux documents. Un contrat, et un dossier gris."
+  },
+  {
+   "type": "text",
+   "value": "Kael lut le nom sur le dossier, à l'envers. Son sang se figea."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez pourquoi vous êtes ici, dit Aurelian."
+  },
+  {
+   "type": "text",
+   "value": "— Je crois que oui."
+  },
+  {
+   "type": "text",
+   "value": "— Alors nous allons gagner du temps, vous et moi. Je n'aime pas les discours. Je suppose que vous non plus."
+  },
+  {
+   "type": "text",
+   "value": "Il fit glisser le contrat vers lui du bout de deux doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Retour à Vasse, avec effet immédiat. Officiellement, vous rentrez pour raisons de santé. Votre nom reste au tableau d'honneur du Concours. La prime représente vingt ans de salaire de mineur. Votre mère n'aura plus jamais besoin de descendre dans un puits."
+  },
+  {
+   "type": "text",
+   "value": "Kael ne toucha pas le papier."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian ouvrit alors le dossier gris. À l'intérieur, une photographie de Mira, prise de loin, au marché de nuit. Elle riait, les deux tresses de travers, un crayon coincé derrière l'oreille. On l'avait photographiée sans qu'elle le sache. Kael sentit ses mâchoires se serrer à lui en faire mal."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "Le marché"
+  },
+  {
+   "type": "text",
+   "value": "— Votre sœur a dix-sept ans, dit le Maître des Mines. Elle dessine remarquablement bien, d'après nos rapports. Elle souffre d'un asthme sévère, aggravé par la poussière d'aldérite. Les médecins d'en bas lui donnent quoi, quinze ans de vie normale ? Peut-être moins."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez fait surveiller ma sœur."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai fait surveiller tout ce qui pouvait m'aider à vous comprendre. Écoutez la suite. Une bourse à l'École des Arts de Célestia. Un appartement dans le quartier des Employés, avec air filtré. Des soins ici, en haut, à vie. C'est ce que je vous offre, pour elle."
+  },
+  {
+   "type": "text",
+   "value": "Il referma le dossier."
+  },
+  {
+   "type": "text",
+   "value": "— En échange, vous disparaissez de la vie de ma fille. Pour toujours."
+  },
+  {
+   "type": "text",
+   "value": "Kael regarda longtemps la couverture grise. Il pensa aux nuits où Mira se réveillait en sifflant, les lèvres bleuies, et où il la tenait assise contre lui jusqu'à l'aube parce que couchée, elle étouffait. Il pensa à sa mère qui comptait les pièces sur la table. Une bourse. De l'air propre. Il aurait suffi d'un trait d'encre."
+  },
+  {
+   "type": "text",
+   "value": "Et Elara, de l'autre côté de ce trait."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian ne parut pas surpris."
+  },
+  {
+   "type": "text",
+   "value": "— Réfléchissez."
+  },
+  {
+   "type": "text",
+   "value": "— C'est tout réfléchi. Vous me demandez de vendre la seule chose que je n'ai jamais achetée. Et vous m'achetez avec la vie de ma sœur, comme si elle était à vous."
+  },
+  {
+   "type": "text",
+   "value": "— Tout ce qui respire à Vasse respire grâce à la Compagnie, ingénieur."
+  },
+  {
+   "type": "text",
+   "value": "Kael eut un rire bref, sans joie."
+  },
+  {
+   "type": "text",
+   "value": "— C'est drôle que vous disiez ça. Parce que c'est exactement l'inverse."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas prévu de le dire. Il en avait parlé à Elara, dans le Cœur, au milieu des grandes colonnes de lumière bleue. Ils avaient décidé d'attendre, de rassembler des preuves, de choisir le bon moment. Mais le bon moment n'existerait jamais. Et l'homme qui avait fait photographier Mira à son insu méritait d'entendre la vérité."
+  },
+  {
+   "type": "text",
+   "value": "— Vos stabilisateurs consomment trois fois plus d'aldérite que les chiffres publiés par le Conseil, dit-il. J'ai vérifié les relevés trois fois. Les réserves du Cœur tiennent quarante jours, pas plus. Après, Célestia commence à descendre. Doucement d'abord. Puis plus du tout doucement. Vous ne survivez pas sans Vasse. Aucun de vous. Chaque gramme que ma mère remonte d'un puits vous garde en l'air. Alors ne me dites pas que nous respirons grâce à vous."
+  },
+  {
+   "type": "text",
+   "value": "Il s'attendait à de la colère. À du déni. À un appel immédiat à la Sécurité."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian Vey ne bougea pas. Il regarda Kael avec une attention nouvelle, presque curieuse, comme on regarde un mécanisme plus fin qu'on ne l'aurait cru."
+  },
+  {
+   "type": "text",
+   "value": "— Trente-huit jours, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Kael cligna des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vos calculs datent d'une semaine, j'imagine. Il reste trente-huit jours de réserve, au rythme actuel. Trente et un si l'extraction ralentit encore. Le Conseil le sait depuis dix-huit mois. Moi, depuis plus longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Le sol sembla tanguer sous la chaise. Kael avait imaginé beaucoup de choses. Pas ça. Pas cet homme assis là, calme, qui connaissait la date de la fin du monde au jour près et continuait à signer des contrats."
+  },
+  {
+   "type": "text",
+   "value": "— Vous le savez, dit-il lentement. Et vous ne faites rien."
+  },
+  {
+   "type": "text",
+   "value": "— Je fais tout ce que je peux. Je fais augmenter les cadences. Je fais rouvrir des galeries condamnées. Je fais taire les ingénieurs trop curieux."
+  },
+  {
+   "type": "text",
+   "value": "Il laissa la phrase flotter."
+  },
+  {
+   "type": "text",
+   "value": "— Vous comprenez ce qui se passerait si la vérité sortait ? reprit-il. En haut, la panique. Des milliers de familles qui voudraient descendre et qu'on ne pourrait pas loger. En bas, des gens qui comprendraient soudain qu'ils tiennent ce monde à la gorge. Combien de temps avant que quelqu'un décide de serrer ?"
+  },
+  {
+   "type": "text",
+   "value": "Kael pensa à Jory. Au message codé sur son bracelet. À la grève, dans neuf jours maintenant. Il garda son visage parfaitement immobile, et ce fut l'effort le plus difficile de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— Alors vous préférez que tout le monde meure dans l'ignorance, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Je préfère que personne ne meure. Et pour cela, j'ai besoin d'ordre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez besoin de paie juste. De soins pour les enfants d'en bas. D'un vrai partage. Les gens ne serrent pas la gorge de ceux qui les traitent en humains."
+  },
+  {
+   "type": "text",
+   "value": "Pour la première fois, un muscle tressaillit sur la mâchoire d'Aurelian."
+  },
+  {
+   "type": "text",
+   "value": "— Vous parlez comme quelqu'un qui n'a jamais dirigé rien d'autre qu'un équipage de six mineurs."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous comme quelqu'un qui n'est jamais descendu dans un puits."
+  },
+  {
+   "type": "text",
+   "value": "Ils se regardèrent. Le gris sombre contre le gris pâle. Pendant une seconde étrange, Kael eut l'impression de voir passer quelque chose dans les yeux du vieil homme. Pas du mépris. Quelque chose de beaucoup plus ancien, et de beaucoup plus douloureux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "Face à face"
+  },
+  {
+   "type": "text",
+   "value": "Puis le Maître des Mines se leva. Il était grand, aussi grand que Kael. Il posa les deux mains à plat sur le bureau."
+  },
+  {
+   "type": "text",
+   "value": "— Vous allez m'écouter, maintenant, et très attentivement. Ce que vous savez sur les réserves ne sortira pas de cette pièce. Si j'en entends un mot, à Vasse ou ici, je saurai d'où il vient. Votre mère perdra son poste. Votre sœur perdra l'accès au dispensaire. Et vous, vous ne trouverez plus de travail nulle part sur Aldren, ni en haut, ni en bas."
+  },
+  {
+   "type": "text",
+   "value": "Il marqua une pause."
+  },
+  {
+   "type": "text",
+   "value": "— Quant à ma fille, vous ne la reverrez pas. Avec mon accord, vous partiriez riche. Sans lui, vous partirez quand même. C'est la seule différence."
+  },
+  {
+   "type": "text",
+   "value": "Kael se leva à son tour. Il prit le contrat, le regarda une dernière fois, et le reposa exactement à sa place, bien aligné, sans l'avoir signé."
+  },
+  {
+   "type": "text",
+   "value": "— Elle n'est pas un poste au bas d'un contrat, monsieur Vey. Elle décide pour elle-même. Vous devriez essayer de lui parler, un jour. Elle est bien plus forte que vous ne croyez."
+  },
+  {
+   "type": "text",
+   "value": "— Sortez."
+  },
+  {
+   "type": "text",
+   "value": "Kael sortit."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "L'ascenseur de cristal le redescendit à travers les étages, et Célestia défila autour de lui, blanche, dorée, magnifique. Il avait la bouche sèche et les mains qui tremblaient enfin, maintenant que personne ne le voyait. Trente-huit jours. Neuf jours avant la grève. Et Jory qui ne savait pas. Et Elara, enfermée quelque part dans cette tour."
+  },
+  {
+   "type": "text",
+   "value": "Il devait la prévenir. Il devait prévenir Jory. Il devait trouver un moyen de..."
+  },
+  {
+   "type": "text",
+   "value": "Les portes s'ouvrirent sur le hall."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient six. Uniformes blancs à col haut, matraques à la ceinture, visages lisses. Au centre, les mains croisées dans le dos, Cassius Morn souriait de ce sourire poli qu'il réservait aux réceptions du Conseil."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "L'arrestation"
+  },
+  {
+   "type": "text",
+   "value": "— Ingénieur Orren, dit-il aimablement. Quel plaisir."
+  },
+  {
+   "type": "text",
+   "value": "Deux hommes saisirent Kael par les bras avant qu'il ait pu faire un pas. Un troisième lui arracha son bracelet d'identification et le glissa dans une pochette scellée."
+  },
+  {
+   "type": "text",
+   "value": "— Kael Orren, reprit Cassius du même ton léger, vous êtes en état d'arrestation pour vol de secrets de la Compagnie Vey. Vous allez nous suivre. Je vous conseille de ne pas résister. Ce serait dommage d'abîmer une si belle intelligence."
+  },
+  {
+   "type": "text",
+   "value": "Et tandis qu'on l'entraînait vers les portes, Kael leva les yeux une dernière fois vers les étages, vers le bureau d'Aurelian Vey, et se demanda lequel des deux hommes l'avait vendu."
+  }
+ ]
+}

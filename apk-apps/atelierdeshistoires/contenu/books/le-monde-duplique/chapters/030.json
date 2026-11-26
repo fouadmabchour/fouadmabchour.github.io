@@ -1,0 +1,257 @@
+{
+ "number": 30,
+ "title": "Le pont",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Un an plus tard, le ciel de Vasse n'était plus tout à fait le même."
+  },
+  {
+   "type": "text",
+   "value": "Célestia brillait toujours au-dessus des toits, à l'envers, avec ses tours blanches et ses dômes dorés. Mais entre les deux mondes, à travers la Faille, il y avait désormais un trait de lumière. Il partait du grand quai de Vasse, là où, autrefois, les vaisseaux de la Compagnie déchargeaient les inspecteurs et les gardes, et il montait, droit, pur, jusqu'au ventre de la cité d'en haut. Le premier pont de lumière permanent entre Vasse et Célestia."
+  },
+  {
+   "type": "text",
+   "value": "On l'avait construit en dix mois. Des ingénieurs d'en haut et des mineurs d'en bas, côte à côte, sur les mêmes échafaudages. Les calculs étaient de Kael. La lumière venait de l'aldérite, extraite par des mains qui recevaient enfin un juste salaire. Et le premier à l'avoir traversé à pied, un matin de printemps, devant des milliers de gens qui retenaient leur souffle, avait été un vieil homme aux cheveux argentés, sans escorte, sans manteau brodé, qui était descendu jusqu'à Vasse pour déposer des fleurs sur une tombe de la rue des Lampes. La tombe d'Isolde."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-1.webp",
+   "caption": "Le pont"
+  },
+  {
+   "type": "text",
+   "value": "Aujourd'hui, le pont était décoré de rubans bleus et blancs. Et des deux côtés, des deux mondes, les gens arrivaient."
+  },
+  {
+   "type": "text",
+   "value": "Ils arrivaient de Vasse en vestes de travail brossées, en foulards de fête, avec des paniers de pain et des bouquets de fleurs de poussière. Ils arrivaient de Célestia en robes claires, un peu intimidés, certains posant le pied sur la Faille pour la première fois de leur vie. Des enfants couraient entre les jambes des adultes sans se demander à quel monde appartenait la main qu'ils attrapaient. Sur les places de Vasse, les écrans qui avaient diffusé la négociation montraient maintenant le pont, et les vieux qui ne pouvaient plus marcher regardaient depuis leurs chaises, en souriant."
+  },
+  {
+   "type": "text",
+   "value": "Dans les mines, on avait arrêté le travail pour la journée. Pas une grève, cette fois. Une fête. Le Conseil commun l'avait votée à l'unanimité, et pour la première fois de l'histoire d'Aldren, les machines s'étaient tues sans que personne, là-haut, ne tremble."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "— Tiens-toi tranquille, dit Mira. Si tu bouges encore, je te dessine avec une moustache."
+  },
+  {
+   "type": "text",
+   "value": "Kael, debout devant le miroir d'une petite chambre du quai, tenta de ne plus bouger. Sa sœur, armée d'un peigne, s'acharnait sur ses cheveux sombres, toujours un peu en bataille malgré tous ses efforts."
+  },
+  {
+   "type": "text",
+   "value": "Mira avait dix-huit ans. Ses deux tresses noires étaient devenues une seule, longue, qu'elle portait sur l'épaule. Depuis six mois, elle étudiait en haut, à l'école des arts de Célestia, la première fille de Vasse à y être admise. Elle respirait mieux là-haut, loin de la poussière, et elle avait déjà couvert de ses dessins la moitié des murs de sa résidence. Ses professeurs disaient qu'elle avait un talent rare. Elle disait qu'ils n'avaient rien vu."
+  },
+  {
+   "type": "text",
+   "value": "— Voilà, dit-elle en reculant. Tu es presque présentable. Pour un garçon d'en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Mira."
+  },
+  {
+   "type": "text",
+   "value": "— De rien. Maman pleure déjà, au fait. Elle pleure depuis ce matin."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment."
+  },
+  {
+   "type": "text",
+   "value": "— Et Jory a mis une chemise. Une vraie. Avec des boutons. Je crois qu'il va s'évanouir."
+  },
+  {
+   "type": "text",
+   "value": "Kael rit. À son cou, sous sa chemise blanche, le pendentif d'aldérite reposait contre sa peau, à sa place, comme depuis six ans. Il le toucha du bout des doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur ? demanda Mira, plus doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-il. Pas une seconde."
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. Il avait eu peur dans les puits, peur dans la Faille, peur dans la cellule blanche et au fond du puits de lumière. Aujourd'hui, il n'avait plus peur de rien."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Elara, elle, n'arrivait pas à mettre ses chaussures."
+  },
+  {
+   "type": "text",
+   "value": "— Elle ne veut pas me lâcher, dit-elle en riant, assise sur le bord d'un fauteuil, de l'autre côté du pont, dans une chambre de Célestia baignée de soleil."
+  },
+  {
+   "type": "text",
+   "value": "Dans ses bras, emmaillotée dans une couverture bleu pâle, il y avait une toute petite fille de cinq mois qui tenait fermement une mèche de ses cheveux roux dans son poing minuscule et ne voulait la rendre sous aucun prétexte."
+  },
+  {
+   "type": "text",
+   "value": "— Donne-la-moi, dit Séléna en tendant les bras. Je suis ta témoin, c'est mon travail de régler les crises."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es ma témoin, pas sa nourrice."
+  },
+  {
+   "type": "text",
+   "value": "— Aujourd'hui, je suis tout ce que tu veux."
+  },
+  {
+   "type": "text",
+   "value": "Séléna, son carré brun toujours parfait, sa robe de soie couleur d'aube, prit le bébé avec une précaution infinie. La petite la regarda avec sérieux. Elle avait les cheveux sombres de son père, déjà épais, et des yeux qui n'avaient pas encore choisi leur couleur, quelque part entre le gris et le vert."
+  },
+  {
+   "type": "text",
+   "value": "— Bonjour, Isolde, murmura Séléna. Tu sais que ta maman est la femme la plus têtue des deux mondes ?"
+  },
+  {
+   "type": "text",
+   "value": "Isolde. Elara ne s'en lassait pas. Chaque fois qu'elle prononçait ce prénom, elle avait l'impression d'ouvrir une fenêtre dans une maison restée fermée trop longtemps. La naissance avait eu lieu en plein hiver, dans l'hôpital commun qu'on venait d'ouvrir au pied du pont, là où les médecins de Célestia et les guérisseuses de Vasse travaillaient ensemble. Une nuit longue et difficile, et puis ce cri, et puis ce poids chaud contre son cœur. Kael avait pleuré comme un enfant. Aurelian, qui attendait dans le couloir, avait pleuré plus encore."
+  },
+  {
+   "type": "text",
+   "value": "On frappa à la porte. Aurelian entra."
+  },
+  {
+   "type": "text",
+   "value": "Il portait un manteau gris simple, sans broderie d'argent. Il avait vieilli, cette année, mais d'une façon qui lui allait : son visage s'était adouci, comme une pierre polie par l'eau. Il resta un instant sur le seuil, à regarder sa fille dans sa robe claire, ses longs cheveux roux défaits sur les épaules, et quelque chose trembla sur son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Tu lui ressembles tellement, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— À maman ?"
+  },
+  {
+   "type": "text",
+   "value": "— À elle. Le jour où je l'ai épousée, elle avait ce même air. Comme si elle s'apprêtait à défier le monde entier et qu'elle trouvait ça très drôle."
+  },
+  {
+   "type": "text",
+   "value": "Il s'approcha et lui tendit une petite boîte. Dedans, il y avait un ruban bleu, usé, délavé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-2.webp",
+   "caption": "Le ruban bleu"
+  },
+  {
+   "type": "text",
+   "value": "— Elle le portait dans ses cheveux, ce jour-là. Je l'ai gardé. Je ne savais pas pourquoi. Maintenant, je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elara noua le ruban dans ses cheveux, les mains tremblantes. Puis elle prit le bras de son père."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'accompagnes ?"
+  },
+  {
+   "type": "text",
+   "value": "— Jusqu'au milieu, dit-il. Après, c'est ton chemin."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le mariage eut lieu au milieu du pont, exactement à mi-chemin entre les deux mondes."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait ni autel doré, ni orchestre, ni robe de cour. Juste une arche de fleurs de poussière, ces petites fleurs grises qui poussent entre les pierres de Vasse, mêlées aux lys argentés des jardins flottants. Une vieille mineuse du Puits-Noir, élue au nouveau Conseil commun, pour prononcer les mots. Et autour d'eux, sur toute la longueur du pont, des gens d'en bas et des gens d'en haut, mélangés, serrés, qui ne savaient plus très bien qui venait d'où."
+  },
+  {
+   "type": "text",
+   "value": "Elara arriva du côté de Célestia, au bras de son père. Kael arriva du côté de Vasse, avec sa mère à sa gauche et Mira à sa droite, et Jory derrière, dans sa chemise à boutons, le foulard rouge noué au poignet parce qu'il avait refusé de s'en séparer."
+  },
+  {
+   "type": "text",
+   "value": "Ils se retrouvèrent au milieu."
+  },
+  {
+   "type": "text",
+   "value": "Aurelian posa la main de sa fille dans celle de Kael. Il ne dit rien. Il n'avait pas besoin. Puis il recula d'un pas, et Hana, sans hésiter, vint se placer à côté de lui. La mineuse et le Maître des Mines, côte à côte. Elle lui prêta un mouchoir. Il l'accepta."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as mis le temps, murmura Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Toi aussi, répondit Elara. Six ans, depuis le toit."
+  },
+  {
+   "type": "text",
+   "value": "— Ça valait la peine d'attendre."
+  },
+  {
+   "type": "text",
+   "value": "La vieille mineuse parla. Elle ne parla pas longtemps. Elle dit qu'autrefois, on croyait qu'il y avait deux mondes, un en haut et un en bas, et qu'ils ne se rencontreraient jamais. Elle dit qu'on s'était trompé. Qu'il n'y avait jamais eu qu'un seul monde, et qu'il avait simplement fallu du courage pour le voir."
+  },
+  {
+   "type": "text",
+   "value": "Ils échangèrent leurs promesses. Kael ôta le pendentif d'aldérite de son cou et le passa à celui d'Elara, là où il était né. Elle le reprit aussitôt et le lui rendit en riant."
+  },
+  {
+   "type": "text",
+   "value": "— Il est à toi, dit-elle. Pour que tu me retrouves."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai plus besoin de te chercher."
+  },
+  {
+   "type": "text",
+   "value": "— Garde-le quand même."
+  },
+  {
+   "type": "text",
+   "value": "Il l'embrassa. Et sur le pont, d'un bout à l'autre, des deux mondes à la fois, les gens se mirent à applaudir, à crier, à pleurer. Quelque part, Jory hurlait plus fort que tout le monde. Mira dessinait à toute vitesse, sur un carnet calé contre son bras, pour ne rien oublier."
+  },
+  {
+   "type": "text",
+   "value": "Séléna s'approcha et déposa la petite Isolde dans les bras de ses parents."
+  },
+  {
+   "type": "text",
+   "value": "Le bébé ouvrit grand les yeux. Autour d'elle, il y avait la lumière du pont, les rubans bleus qui claquaient dans le vent, les visages penchés sur elle, ceux d'en haut et ceux d'en bas, tous pareils dans leur tendresse."
+  },
+  {
+   "type": "text",
+   "value": "Isolde leva les yeux vers Célestia, toute blanche et dorée au-dessus d'elle. Puis elle baissa les yeux vers Vasse, ses toits de tôle, ses grues, ses rues où montait déjà l'odeur des repas de fête. Elle regarda en haut. Elle regarda en bas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-3.webp",
+   "caption": "Ni haut ni bas"
+  },
+  {
+   "type": "text",
+   "value": "Et elle sourit, d'un grand sourire sans dents, parce que pour elle, il n'y avait plus ni haut ni bas."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait seulement le monde. Un seul. Le sien."
+  }
+ ]
+}

@@ -8,7 +8,188 @@
   "fantasy"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-26T03:45:39Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-26T04:36:38Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Le ciel à l'envers",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 2,
+   "title": "La fille au manteau bleu",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 3,
+   "title": "Le Puits-Noir",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 4,
+   "title": "Une heure",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 5,
+   "title": "Cinq ans",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 6,
+   "title": "Le monde d'en haut",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 7,
+   "title": "Les retrouvailles",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 8,
+   "title": "Les jardins flottants",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 9,
+   "title": "Le Cœur",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 10,
+   "title": "Deux loyautés",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 11,
+   "title": "Le Maître des Mines",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 12,
+   "title": "Le marché",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 13,
+   "title": "L'interrogatoire",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 14,
+   "title": "Ce que le père savait",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 15,
+   "title": "Le renvoi",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 16,
+   "title": "Vasse en colère",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 17,
+   "title": "Deux battements de cœur",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 18,
+   "title": "Le fret",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 19,
+   "title": "Le retour d'Elara",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 20,
+   "title": "Le ciel qui penche",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 21,
+   "title": "Le plan de Cassius",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 22,
+   "title": "La voix du père",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 23,
+   "title": "Isolde",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 24,
+   "title": "La trahison de Jory",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 25,
+   "title": "Les galeries",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 26,
+   "title": "La Faille",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 27,
+   "title": "Le Cœur battant",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 28,
+   "title": "L'équilibre",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 29,
+   "title": "Les deux rives",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  },
+  {
+   "number": 30,
+   "title": "Le pont",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-26T04:36:38Z"
+  }
+ ]
 }

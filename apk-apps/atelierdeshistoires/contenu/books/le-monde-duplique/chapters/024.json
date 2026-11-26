@@ -1,0 +1,285 @@
+{
+ "number": 24,
+ "title": "La trahison de Jory",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La nouvelle descendit sur Vasse avant les vaisseaux."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit de toutes les radios à la fois, à l'aube, dans la voix lisse de Cassius Morn : le Maître des Mines était arrêté, la Sécurité gouvernait Célestia, et « l'ordre allait être rétabli dans les mines ». Elara l'entendit debout dans la cuisine des Orren, une tasse de thé amer entre les mains. Elle ne la lâcha pas, cette fois. Elle la posa très doucement sur la table, comme si le moindre bruit pouvait la faire voler en éclats."
+  },
+  {
+   "type": "text",
+   "value": "— Il voulait descendre, murmura-t-elle. Il venait nous voir. Et Cassius l'a arrêté pour ça."
+  },
+  {
+   "type": "text",
+   "value": "Kael était déjà en train d'enfiler sa veste de travail."
+  },
+  {
+   "type": "text",
+   "value": "— Ça veut dire qu'il n'y a plus personne là-haut pour retenir Cassius. Mira, va chercher maman au puits deux. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Mira partit en courant, ses deux tresses battant dans son dos."
+  },
+  {
+   "type": "text",
+   "value": "Le premier vaisseau creva la brume une demi-heure plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Elara le vit depuis le toit. Une forme blanche, puis six, glissant sous le ventre immense de Célestia comme des poissons sous une barque. Elles ne descendaient pas vers le quai. Elles descendaient droit sur le puits sept."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-1.webp",
+   "caption": "Les vaisseaux blancs"
+  },
+  {
+   "type": "text",
+   "value": "— Ils viennent pour les mines, dit Kael à côté d'elle. Et pour toi."
+  },
+  {
+   "type": "text",
+   "value": "— Et pour toi, ajouta-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il prit sa main et l'entraîna vers l'escalier."
+  },
+  {
+   "type": "text",
+   "value": "* * *"
+  },
+  {
+   "type": "text",
+   "value": "Le puits sept était une gueule de fer et de pierre, ouverte au milieu d'une esplanade de poussière. Les mineurs l'avaient barricadé avec des wagonnets renversés, des tôles, des sacs de gravats. Quand les vaisseaux se posèrent, soulevant un nuage gris qui brûlait les yeux, trois cents hommes et femmes attendaient derrière les barricades, des pioches et des barres de fer à la main."
+  },
+  {
+   "type": "text",
+   "value": "Les portes des vaisseaux s'ouvrirent. Les uniformes blancs en sortirent en rangs serrés, visières baissées, boucliers levés."
+  },
+  {
+   "type": "text",
+   "value": "— Au nom du gouvernement de Célestia, dispersez-vous !"
+  },
+  {
+   "type": "text",
+   "value": "Personne ne bougea. Puis quelqu'un lança une pierre, et tout bascula."
+  },
+  {
+   "type": "text",
+   "value": "Elara n'avait jamais vu une chose pareille. Ce n'était pas une bataille comme dans les livres, avec des lignes et des drapeaux. C'était un chaos de poussière, de cris, de bruits sourds. Des grenades fumigènes roulèrent sur l'esplanade et la transformèrent en brouillard. Des silhouettes couraient, tombaient, se relevaient. Les gardes avançaient derrière leurs boucliers, les mineurs reculaient vers l'entrée du puits, puis repartaient en avant en hurlant."
+  },
+  {
+   "type": "text",
+   "value": "— Par ici !"
+  },
+  {
+   "type": "text",
+   "value": "Kael la tira derrière un wagonnet. Une détonation claqua quelque part, et elle sentit son cœur cogner si fort qu'elle eut peur pour l'enfant. Elle posa la main sur son ventre. Kael vit le geste, et son visage se ferma comme une porte."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne restes pas ici. On descend dans les galeries. Je connais un passage vers le niveau trois, ils ne pourront pas nous suivre."
+  },
+  {
+   "type": "text",
+   "value": "Elle voulut protester, mais une voix amplifiée déchira le brouillard."
+  },
+  {
+   "type": "text",
+   "value": "— Elara Vey ! Mademoiselle Vey, nous sommes ici pour vous ! Montrez-vous et personne ne sera blessé !"
+  },
+  {
+   "type": "text",
+   "value": "Une rangée de boucliers blancs émergea de la fumée, à vingt pas. Derrière, Elara reconnut l'insigne d'un capitaine sur un casque. L'homme scrutait les barricades, une fiche à la main. Il ne cherchait pas seulement une jeune femme rousse. Son regard s'arrêta sur Kael, sur ses cheveux sombres, sur sa main droite posée sur le rebord du wagonnet. Elara vit ses yeux descendre jusqu'à la cicatrice. Elle vit le capitaine faire un petit signe à deux de ses hommes, qui se détachèrent du rang sans un mot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "Le puits sept"
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas un signe pour elle."
+  },
+  {
+   "type": "text",
+   "value": "— Kael, souffla-t-elle. Ils te cherchent. Toi."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Un groupe de mineurs déboula sur le flanc des gardes en hurlant, renversa un chariot de gravats qui se répandit dans un fracas terrible. La rangée de boucliers se rompit. Dans la confusion, Kael attrapa Elara par la taille et courut, plié en deux, entre deux tas de rails, sous une passerelle, jusqu'à la gueule noire du puits. Derrière eux, la voix amplifiée criait encore son nom, de plus en plus loin, de plus en plus inutile."
+  },
+  {
+   "type": "text",
+   "value": "Ils plongèrent dans la bouche du puits. L'air changea d'un coup : froid, humide, chargé de cette odeur minérale qui collait à la peau de Kael depuis toujours. Des lampes de sécurité clignotaient le long des parois. Derrière eux, le vacarme de l'esplanade s'éloignait, étouffé par la roche."
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent une échelle de fer, puis une autre. Au niveau trois, une lueur bleue filtrait au bout d'une galerie. Kael s'arrêta net."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas normal. Cette galerie mène à la colonne de liaison."
+  },
+  {
+   "type": "text",
+   "value": "— La quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le grand pilier d'aldérite. Celui qui relie le champ de Vasse à celui de Célestia. Si on le dérègle, les deux mondes perdent leur accroche."
+  },
+  {
+   "type": "text",
+   "value": "Il se mit à courir."
+  },
+  {
+   "type": "text",
+   "value": "La galerie s'ouvrait sur une caverne immense. Au centre, une colonne de cristal bleu montait de la roche et se perdait dans l'obscurité du plafond, pulsant d'une lumière lente, comme une respiration. Autour de sa base, des hommes s'affairaient. Ils posaient des caisses. Ils déroulaient des câbles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "Le pilier"
+  },
+  {
+   "type": "text",
+   "value": "Et au milieu d'eux, son foulard rouge noué sur le front, il y avait Jory."
+  },
+  {
+   "type": "text",
+   "value": "— Jory !"
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna. Il n'eut pas l'air surpris. Seulement fatigué."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'aurais pas dû venir, frère."
+  },
+  {
+   "type": "text",
+   "value": "Kael s'avança jusqu'à la première caisse. Il n'eut pas besoin de l'ouvrir. Il savait ce qu'elle contenait. Les explosifs de chantier, ceux qu'on utilisait pour ouvrir les nouvelles veines, ceux que Jory avait volés pendant des semaines."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'avais dit qu'on évacuerait d'abord, dit Kael d'une voix blanche. Tu m'avais dit qu'on aurait le temps."
+  },
+  {
+   "type": "text",
+   "value": "— On n'a plus le temps. Tu as vu ce qui se passe là-haut ? Cassius a pris le pouvoir. Il envoie ses chiens pour nous mettre des prisonniers dans les puits. Des prisonniers, Kael ! Il veut faire de Vasse une prison géante. Tant que Célestia flottera, ce sera toujours la même chose. Il y aura toujours un Cassius."
+  },
+  {
+   "type": "text",
+   "value": "— Et si elle tombe, elle tombe sur nous ! Sur ma mère. Sur Mira. Sur tes propres gens !"
+  },
+  {
+   "type": "text",
+   "value": "— Pas si elle tombe de travers."
+  },
+  {
+   "type": "text",
+   "value": "Jory désigna la colonne d'un geste large."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai lu tes calculs, frère. Tu les laisses traîner partout. Si on coupe la liaison d'un seul côté, Célestia ne descend pas droit. Elle glisse. Elle part vers l'est, vers les plaines vides. On a déjà commencé à vider les quartiers est."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas ce que disent mes calculs, Jory. Ce sont des approximations, des hypothèses ! Je n'en sais rien, de quel côté elle tombera. Personne n'en sait rien !"
+  },
+  {
+   "type": "text",
+   "value": "— Alors on verra bien."
+  },
+  {
+   "type": "text",
+   "value": "Elara s'avança à son tour, la voix tremblante mais droite."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a des enfants là-haut aussi, Jory. Des gens qui n'ont jamais rien décidé. Des employés du quartier gris. Des gens de Vasse qui travaillent là-haut pour nourrir leur famille."
+  },
+  {
+   "type": "text",
+   "value": "Jory la regarda longtemps. Il y avait quelque chose de très las dans ses yeux, et de très triste."
+  },
+  {
+   "type": "text",
+   "value": "— Ta mère était d'en bas, princesse. Ils l'ont laissée mourir. Et tu me demandes de les épargner ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle n'eut pas de réponse. Kael, lui, en avait une."
+  },
+  {
+   "type": "text",
+   "value": "— Oui. Parce que sinon, on devient eux."
+  },
+  {
+   "type": "text",
+   "value": "Pendant un instant, Elara crut que ça avait marché. Jory baissa la tête. Ses épaules s'affaissèrent. Il fit un pas vers Kael, posa la main sur sa nuque comme il le faisait quand ils avaient dix ans et qu'ils remontaient des puits couverts de suie."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as toujours été le meilleur de nous deux, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Puis il fit un signe."
+  },
+  {
+   "type": "text",
+   "value": "Quatre hommes les saisirent par-derrière. Kael se débattit, Elara cria, mais les mineurs étaient forts, et ils ne les frappèrent pas. Ils les tinrent, simplement, et les poussèrent dans une galerie latérale, un ancien entrepôt à outils creusé dans la roche, fermé par une grille de fer."
+  },
+  {
+   "type": "text",
+   "value": "La grille claqua. Une chaîne cliqueta. Un cadenas se referma."
+  },
+  {
+   "type": "text",
+   "value": "Kael se jeta sur les barreaux."
+  },
+  {
+   "type": "text",
+   "value": "— Jory ! Ne fais pas ça ! Jory, regarde-moi !"
+  },
+  {
+   "type": "text",
+   "value": "Jory revint vers la grille. À la lueur bleue de la colonne, son visage était un masque de cendre. Il glissa la main entre les barreaux et serra une seconde les doigts de Kael."
+  },
+  {
+   "type": "text",
+   "value": "— Vous serez à l'abri ici. C'est la galerie la plus solide de tout Vasse. Je t'ai toujours protégé, frère, depuis qu'on est petits. Je continue."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas me protéger, ça."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Il lâcha sa main et recula. Derrière lui, les hommes reprenaient leur travail autour du pilier, en silence, comme on prépare une cérémonie."
+  },
+  {
+   "type": "text",
+   "value": "— Pardonne-moi, frère. Demain, le ciel tombera."
+  }
+ ]
+}
