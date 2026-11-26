@@ -11,13 +11,13 @@
  ],
  "tags": [],
  "status": "completed",
- "updatedAt": "2026-11-26T21:28:15Z",
+ "updatedAt": "2026-11-26T21:32:23Z",
  "chapters": [
   {
    "number": 1,
    "title": "Le Tribut",
    "file": "chapters/001.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 2,
@@ -29,7 +29,7 @@
    "number": 3,
    "title": "Le sac",
    "file": "chapters/003.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 4,
@@ -71,7 +71,7 @@
    "number": 10,
    "title": "Le Tribut triplé",
    "file": "chapters/010.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 11,
@@ -83,7 +83,7 @@
    "number": 12,
    "title": "Lina",
    "file": "chapters/012.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 13,
@@ -95,7 +95,7 @@
    "number": 14,
    "title": "La route",
    "file": "chapters/014.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 15,
@@ -167,7 +167,7 @@
    "number": 26,
    "title": "Les trois",
    "file": "chapters/026.json",
-   "updatedAt": "2026-11-26T21:28:00Z"
+   "updatedAt": "2026-11-26T21:32:23Z"
   },
   {
    "number": 27,
