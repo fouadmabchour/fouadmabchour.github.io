@@ -1,0 +1,329 @@
+{
+ "number": 22,
+ "title": "Désobéir",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Nora refit le calcul une troisième fois, par principe, en sachant déjà que le résultat ne changerait pas."
+  },
+  {
+   "type": "text",
+   "value": "Dix-neuf jours. Dix-neuf virgule trois, pour être exacte, avec une marge d'erreur de plus ou moins deux jours qu'elle n'avait aucune envie d'annoncer à voix haute. Elle ôta ses lunettes, se frotta les yeux, les remit. Les chiffres étaient toujours là, sur l'écran du poste scientifique de l'Odyssée, propres et indifférents."
+  },
+  {
+   "type": "text",
+   "value": "Autour d'elle, le module de commande ressemblait à un vaisseau qu'on vient de secouer comme une boîte. Des tablettes avaient glissé sous les sièges. Une gourde flottait mollement au ras du plafond, en route vers le sol à la vitesse lente de la gravité lunaire. Kenji, penché sur ses consoles, recalait les gyroscopes en marmonnant en japonais des mots qu'elle soupçonnait de ne pas être très polis."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-1.webp",
+   "caption": "Dix-neuf jours"
+  },
+  {
+   "type": "text",
+   "value": "— Dis-moi que tu t'es trompée, dit-il sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne me trompe pas sur ce genre de choses."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est ce qui est insupportable chez toi."
+  },
+  {
+   "type": "text",
+   "value": "Il se retourna quand même. Ses yeux étaient rouges. Kenji Arata riait de tout, depuis trois jours de voyage et une semaine sur la Lune ; il avait même réussi à faire rire Sam pendant l'attaque des Vorr. Il ne riait pas maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan va bien ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit que oui. Il dit que Vael l'écoute."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit aussi qu'il va bien quand il a deux côtes cassées."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'en voulait de la façon dont sa voix s'était serrée, tout à l'heure, quand elle avait entendu la sienne dans les parasites. Une semaine plus tôt, elle aurait trouvé ça peu professionnel. Aujourd'hui, elle trouvait surtout que c'était vrai."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le premier message de Brandt arriva quarante minutes après le séisme."
+  },
+  {
+   "type": "text",
+   "value": "Il ne passait pas par le canal de diffusion, que Sam avait reconquis de haute lutte et qu'elle gardait comme une louve. Il passait par la liaison cryptée de Helion, celle réservée à la commandante. Rask le lut seule, dans sa cabine. Puis elle ressortit, le visage aussi lisse que d'habitude, et convoqua tout le monde dans le module d'habitat."
+  },
+  {
+   "type": "text",
+   "value": "Sam vint avec sa caméra éteinte sous le bras, ses cheveux presque blancs en bataille, les yeux cernés par deux nuits sans sommeil. Kenji s'adossa à la cloison. Nora resta debout, les bras croisés pour qu'on ne voie pas ses mains."
+  },
+  {
+   "type": "text",
+   "value": "Dorsey n'était pas là. Personne ne l'avait vu depuis le séisme. Après ce que Sam avait publié, il ne quittait presque plus la soute, où il disait surveiller l'équipement de sécurité."
+  },
+  {
+   "type": "text",
+   "value": "— Le siège de Helion, dit Rask, et le comité gouvernemental qui supervise la mission, me donnent l'ordre de rompre tout contact avec les Lumes. Ils considèrent que la négociation a échoué. Que la situation est devenue, je cite, incontrôlable. Ils me demandent de préparer l'option de contingence."
+  },
+  {
+   "type": "text",
+   "value": "Sam ouvrit la bouche. Rask la fit taire d'un regard."
+  },
+  {
+   "type": "text",
+   "value": "— L'option de contingence, poursuivit la commandante, consiste à placer la charge du module scellé dans le Cœur et à détruire les Ancres restantes avant qu'elles ne s'effondrent d'elles-mêmes. Selon les ingénieurs de Helion, une destruction contrôlée provoquerait une fragmentation de la Lune moins dangereuse pour la Terre qu'une chute lente."
+  },
+  {
+   "type": "text",
+   "value": "— Moins dangereuse, répéta Nora."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le mot qu'ils emploient."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Sam regardait ses chaussures. Kenji regardait le plafond."
+  },
+  {
+   "type": "text",
+   "value": "Nora décroisa les bras."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante. Est-ce que je peux vous parler seule ?"
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La cabine de Rask était la plus petite du vaisseau. Nora ne s'en était jamais rendu compte. Une couchette, un casier, un écran plié contre la cloison. Et, coincée dans le cadre de l'écran, une photo papier, vraie, de celles qu'on n'imprimait presque plus : une jeune femme blonde en ciré jaune, sur le pont d'un voilier, qui riait vers l'objectif, les cheveux plaqués par le vent."
+  },
+  {
+   "type": "text",
+   "value": "Rask vit son regard."
+  },
+  {
+   "type": "text",
+   "value": "— Ingrid, dit-elle. Ma fille. Elle a vingt ans. Elle fait de la biologie marine à Tromsø."
+  },
+  {
+   "type": "text",
+   "value": "— Elle vous ressemble."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est beaucoup plus gentille que moi. Elle tient de son père."
+  },
+  {
+   "type": "text",
+   "value": "Rask s'assit sur la couchette et désigna l'unique tabouret. Nora s'y installa. Elle avait préparé un discours entier en traversant le couloir, des chiffres, des arguments, des courbes, et soudain elle n'en voulait plus aucun."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont tort, dit-elle simplement."
+  },
+  {
+   "type": "text",
+   "value": "— Expliquez-moi."
+  },
+  {
+   "type": "text",
+   "value": "— Une fragmentation contrôlée, ça n'existe pas. La Lune n'est pas un bâtiment qu'on fait tomber proprement. Elle est en partie creuse, j'ai les mesures, vous les avez vues. Si on détruit les Ancres de l'intérieur, la croûte de la face cachée cède. Des milliards de tonnes de débris, sur une orbite déjà instable, à trois cent cinquante mille kilomètres de nous. Une partie retombe sur la Lune. Une partie s'éparpille. Et une partie, commandante, une partie tombe sur la Terre pendant des années."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta, reprit son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Les pluies de météorites de 2041, c'étaient des éclats arrachés par une guerre. Là, on parle de montagnes."
+  },
+  {
+   "type": "text",
+   "value": "Rask ne disait rien. Elle regardait la photo."
+  },
+  {
+   "type": "text",
+   "value": "— Et il y a la marée, poursuivit Nora plus bas. Même en morceaux, la masse est là. Les ingénieurs de Helion ont fait le calcul qui les arrangeait. Je l'ai refait. Leur option ne sauve personne. Elle sauve seulement Victor Brandt de la honte d'avoir eu tort."
+  },
+  {
+   "type": "text",
+   "value": "— Ou de devoir partager, dit Rask."
+  },
+  {
+   "type": "text",
+   "value": "Nora leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Vous le saviez."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai compris quand il a accepté qu'Ilan Varga soit à bord, et la diffusion en direct. Un homme comme Brandt ne dit pas oui sans avoir un deuxième plan dans la poche. Le module scellé, c'était sa poche."
+  },
+  {
+   "type": "text",
+   "value": "Rask se leva. Elle était plus grande que Nora, plus large d'épaules, et la gravité lunaire n'enlevait rien à la raideur de son maintien d'ancienne officière de marine."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai servi vingt-deux ans dans la marine norvégienne, docteure Okafor. J'ai obéi à beaucoup d'ordres que je n'aimais pas. On m'a appris qu'un officier obéit, sauf dans un cas : quand l'ordre est manifestement illégal ou qu'il condamne ceux qu'on a juré de protéger."
+  },
+  {
+   "type": "text",
+   "value": "Elle décrocha la photo d'Ingrid, la regarda un instant, puis la glissa dans la poche intérieure de sa combinaison, contre sa poitrine."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-2.webp",
+   "caption": "La photo"
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille habite au bord de la mer, dit-elle. Je n'ai pas l'intention de laisser un PDG décider qu'elle fait partie des pertes acceptables."
+  },
+  {
+   "type": "text",
+   "value": "Nora sentit quelque chose se dénouer dans sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous allez faire ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je vais refuser l'ordre. Officiellement, et en direct, si votre amie Lynx veut bien rallumer sa caméra. Et avant ça, je vais reprendre le contrôle du module scellé. Tant que cette charge est à bord et que Dorsey en a la clé, personne ici n'est en sécurité."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Sam ralluma sa caméra avec une joie qu'elle ne chercha même pas à cacher. Kenji, sans un mot, décrocha la trousse à outils et la clé maîtresse du vaisseau, celle qui ouvrait toutes les trappes sauf une."
+  },
+  {
+   "type": "text",
+   "value": "— Sauf une, souligna-t-il en la soupesant. Le module scellé a sa propre serrure. Dorsey a la clé, et le code. On n'a ni l'un ni l'autre."
+  },
+  {
+   "type": "text",
+   "value": "— On a une découpeuse, dit Rask."
+  },
+  {
+   "type": "text",
+   "value": "— On a une découpeuse, répéta Kenji. Commandante, je vous adore."
+  },
+  {
+   "type": "text",
+   "value": "— Arata."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon. Je vous respecte profondément."
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent ensemble vers la soute, Rask devant, Kenji derrière elle, Nora ensuite, et Sam qui filmait en marchant à reculons, guidée par la main que Nora lui tenait par l'épaule. Le couloir était étroit, mal éclairé, encore encombré par ce que le séisme avait décroché. À chaque pas, la gravité lunaire les faisait rebondir légèrement, et Nora pensa, absurdement, qu'ils avaient l'air d'une procession de fantômes un peu ridicules."
+  },
+  {
+   "type": "text",
+   "value": "— Dorsey ? appela Rask en arrivant devant le sas de la soute. Ici la commandante. Ouvrez."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle frappa deux fois du plat de la main sur le panneau."
+  },
+  {
+   "type": "text",
+   "value": "— Owen. Je ne vous le demanderai pas trois fois."
+  },
+  {
+   "type": "text",
+   "value": "Le silence. Kenji vérifia le tableau de contrôle à côté du sas, fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Le sas n'est pas verrouillé de l'intérieur, dit-il. Il n'est pas verrouillé du tout."
+  },
+  {
+   "type": "text",
+   "value": "Rask poussa le panneau. Il glissa sans résistance."
+  },
+  {
+   "type": "text",
+   "value": "La soute était vide. Dorsey n'y était pas. Sa couchette de fortune, dépliée contre les caisses, n'avait pas été défaite. Sa tablette avait disparu. Sur le sol, des traces de pas dans la poussière lunaire qu'on ramenait toujours de dehors, malgré les brosses, et qui allaient vers le fond."
+  },
+  {
+   "type": "text",
+   "value": "Vers le module scellé."
+  },
+  {
+   "type": "text",
+   "value": "Le panneau du module était ouvert. Grand ouvert."
+  },
+  {
+   "type": "text",
+   "value": "Nora sentit son ventre se glacer avant même que son cerveau ait fini de comprendre ce qu'elle voyait. Elle s'avança derrière Rask. À l'intérieur du module, il y avait les fixations de la charge, ses sangles, son berceau de mousse grise moulé à sa forme exacte. Il y avait les câbles de surveillance, sectionnés net."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-3.webp",
+   "caption": "Le module vide"
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait plus de charge."
+  },
+  {
+   "type": "text",
+   "value": "Kenji jura, cette fois en anglais. Sam, derrière, ne filmait plus : sa caméra pendait au bout de son bras."
+  },
+  {
+   "type": "text",
+   "value": "— Le rover, dit Rask d'une voix blanche. Kenji. Le rover."
+  },
+  {
+   "type": "text",
+   "value": "Kenji était déjà au panneau. Il fit défiler le registre, et ses épaules s'affaissèrent."
+  },
+  {
+   "type": "text",
+   "value": "— Le petit rover de soute est sorti il y a trois heures et douze minutes. Pendant le séisme. Personne ne l'a vu, toutes les alarmes sonnaient en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Il afficha la trajectoire. Une ligne pointillée qui quittait l'Odyssée, traversait le fond du cratère, et plongeait vers l'ouverture des galeries."
+  },
+  {
+   "type": "text",
+   "value": "Vers le centre de la Lune."
+  },
+  {
+   "type": "text",
+   "value": "— Il est parti avec la bombe, dit Nora. Il est parti vers le Cœur."
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "number": 23,
+ "title": "La grande marée",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les sirènes commencèrent à vingt-trois heures quarante."
+  },
+  {
+   "type": "text",
+   "value": "Lou était encore au Ty Kanol, le bar du port où elle avait vu, une semaine plus tôt, les cités de lumière apparaître sur l'écran géant, puis son père emmené par des silhouettes rouges, puis l'image coupée. Elle n'en était presque pas ressortie depuis. Le patron, un ancien docker aux mains énormes qui s'appelait Gwen, la laissait dormir sur la banquette du fond. Il disait que c'était le seul endroit de Brest où le direct ne sautait jamais."
+  },
+  {
+   "type": "text",
+   "value": "Elle était en train de regarder Sam, sur l'écran, qui annonçait d'une voix rauque que la commandante Rask allait faire une déclaration, quand les téléphones se mirent à hurler tous en même temps. Le sien, celui de Gwen, ceux des six ou sept habitués accoudés au comptoir. Le même son strident, le même message en lettres rouges."
+  },
+  {
+   "type": "text",
+   "value": "ALERTE MARÉE EXTRÊME. ÉVACUATION IMMÉDIATE DES ZONES BASSES. REJOIGNEZ LES POINTS HAUTS."
+  },
+  {
+   "type": "text",
+   "value": "— Encore ? dit quelqu'un. Ils l'ont fait il y a trois semaines."
+  },
+  {
+   "type": "text",
+   "value": "— Pas celle-là, dit Gwen."
+  },
+  {
+   "type": "text",
+   "value": "Il montrait la fenêtre."
+  },
+  {
+   "type": "text",
+   "value": "Lou se retourna. Au-dessus de la rade, la Lune était pleine. Elle l'avait toujours été un peu trop, depuis cinq ans, énorme, posée sur l'horizon comme un couvercle. Mais cette nuit, elle était si basse, si large, qu'on distinguait à l'œil nu les mers sombres et les cratères, et sur le bord droit, là où on n'aurait rien dû voir, une tache plus claire, irrégulière. La face cachée qui commençait à déborder. Ou le cratère, peut-être. Lou n'en savait rien. Elle savait seulement que son père était là-haut, quelque part sous cette tache."
+  },
+  {
+   "type": "text",
+   "value": "Et sous la Lune, la mer n'était pas à sa place."
+  },
+  {
+   "type": "text",
+   "value": "Elle aurait dû être basse, à cette heure. Lou connaissait les horaires par cœur, comme tous ceux qui vivaient au port maintenant. À la place, l'eau léchait déjà le haut des quais. Elle ne montait pas en vagues. Elle montait comme on remplit une baignoire, lisse, noire, silencieuse, et c'était ce silence qui faisait peur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "La mer monte"
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde dehors, dit Gwen. Vers le Cours Dajot. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La rue de Siam était déjà pleine. Des gens en pyjama, en manteau sur des chemises de nuit, des enfants portés à bout de bras, des chiens qui aboyaient. Des pompiers qui criaient dans des mégaphones. Le flot humain montait vers les hauteurs, et Lou se laissa porter dans la pente avec lui, le souffle court."
+  },
+  {
+   "type": "text",
+   "value": "Elle aurait pu continuer. Le Cours Dajot était à trois cents mètres, en hauteur, sur les remparts. Elle aurait été à l'abri en cinq minutes."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta au coin de la rue de la Porte."
+  },
+  {
+   "type": "text",
+   "value": "Une vieille femme était assise sur le seuil d'un immeuble, un sac de courses serré contre elle, et elle regardait passer la foule avec des yeux perdus. Personne ne s'arrêtait. Lou hésita une seconde, puis se fraya un chemin vers elle à contre-courant."
+  },
+  {
+   "type": "text",
+   "value": "— Madame ? Il faut monter. La mer arrive."
+  },
+  {
+   "type": "text",
+   "value": "— Mon mari, dit la vieille femme. Il est en haut. Au troisième. Il ne peut plus descendre les marches."
+  },
+  {
+   "type": "text",
+   "value": "Lou leva la tête vers les fenêtres. Une lumière, au troisième."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa à son père. Pas au héros que le monde découvrait depuis une semaine, mais à celui qu'elle avait vu, à quinze ans, ivre, assis par terre dans sa cuisine, en train de répéter les noms de gens morts. Elle s'était juré, à l'époque, de ne jamais ressembler à quelqu'un qui reste par terre."
+  },
+  {
+   "type": "text",
+   "value": "— Restez là, dit-elle. Je vais le chercher."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il s'appelait Yvon. Il avait quatre-vingt-sept ans, une jambe raide, et une opinion très arrêtée sur le fait qu'on le dérange à minuit pour une marée."
+  },
+  {
+   "type": "text",
+   "value": "— J'en ai vu, des grandes marées, mademoiselle. En soixante-dix-huit, l'eau est montée jusqu'au marché."
+  },
+  {
+   "type": "text",
+   "value": "— Celle-ci va monter plus haut, monsieur."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous en savez ?"
+  },
+  {
+   "type": "text",
+   "value": "— Mon père est sur la Lune, dit Lou."
+  },
+  {
+   "type": "text",
+   "value": "Le vieil homme la regarda longuement. Puis il prit sa canne et posa son autre main sur l'épaule de Lou."
+  },
+  {
+   "type": "text",
+   "value": "— Varga, dit-il. La petite Varga. Je vous ai vue à la télé."
+  },
+  {
+   "type": "text",
+   "value": "Il pesait plus lourd qu'elle ne l'aurait cru. Les marches de l'escalier étaient étroites, usées au milieu, et ils mirent un temps infini à descendre, palier après palier, pendant que dehors les sirènes changeaient de ton. Au deuxième étage, Lou entendit l'eau. Pas un grondement : un chuintement, un ruissellement doux sous la porte de l'immeuble. Quand ils arrivèrent en bas, l'eau couvrait le carrelage du hall jusqu'aux chevilles. Elle était glacée."
+  },
+  {
+   "type": "text",
+   "value": "La vieille femme les attendait dehors, de l'eau jusqu'aux mollets, son sac toujours serré contre elle."
+  },
+  {
+   "type": "text",
+   "value": "— Allez, dit Lou. On monte. Doucement. Je vous tiens."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent. L'eau les suivait. À chaque fois que Lou se retournait, elle avait gagné un pas, puis deux. Elle recouvrait les voitures garées au bas de la rue, faisait flotter les poubelles, éteignait un à un les réverbères avec de petits craquements secs. Un pompier les vit, descendit vers eux en courant, prit Yvon sous l'autre bras sans un mot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Le sauvetage"
+  },
+  {
+   "type": "text",
+   "value": "Quand ils atteignirent les remparts du Cours Dajot, Lou avait de l'eau jusqu'aux genoux et ne sentait plus ses pieds."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il y avait des milliers de personnes là-haut. Peut-être dix mille. Des couvertures de survie dorées qui brillaient sous la Lune, des lampes de poche, des pleurs, mais aussi, étrangement, une sorte de calme. Les gens regardaient la rade en contrebas. Le port de commerce avait disparu. Le port de plaisance n'était plus qu'un champ de mâts qui dépassaient d'une eau noire et plate. Les grues des chantiers, au loin, semblaient plantées dans la mer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Les remparts"
+  },
+  {
+   "type": "text",
+   "value": "Et au-dessus de tout ça, la Lune, immense, blanche, indifférente."
+  },
+  {
+   "type": "text",
+   "value": "Lou s'assit sur le muret, les jambes tremblantes, entre Yvon et sa femme, qui s'appelait Maryvonne et qui lui avait déjà proposé trois fois un bonbon à la menthe. Elle sortit son téléphone, miraculeusement sec dans la poche de poitrine de son coupe-vent."
+  },
+  {
+   "type": "text",
+   "value": "Le direct de Sam tournait toujours. Sur l'écran, Hélène Rask, debout dans le module de l'Odyssée, la mâchoire serrée, finissait de parler : elle refusait les ordres de Helion, elle refusait de détruire les Ancres, elle en prenait seule la responsabilité. En bas de l'image, le compteur des spectateurs affichait un chiffre que Lou dut relire deux fois. Trois milliards et quelques."
+  },
+  {
+   "type": "text",
+   "value": "Puis Sam reprit l'antenne, et Lou vit sur son visage qu'il s'était passé autre chose."
+  },
+  {
+   "type": "text",
+   "value": "— Pour ceux qui viennent d'arriver, dit Sam. Owen Dorsey, le chef de la sécurité de Helion, a quitté le vaisseau avec la charge nucléaire du module scellé. On pense qu'il se dirige vers le Cœur. On ne sait pas sur ordre de qui. Enfin. On a une idée."
+  },
+  {
+   "type": "text",
+   "value": "Autour de Lou, sur les remparts, des centaines de téléphones montraient la même image. Elle entendit le murmure se propager, une rumeur qui courait de groupe en groupe, de couverture dorée en couverture dorée."
+  },
+  {
+   "type": "text",
+   "value": "Puis les fils d'information s'emballèrent. Lou les fit défiler avec des doigts gelés. Lisbonne évacuée pour la deuxième fois. Valparaíso. Dacca. Rotterdam, où les digues tenaient encore, de justesse. Et puis autre chose, qu'elle n'avait jamais vu en cinq ans : des déclarations communes. Le président du Brésil et le Premier ministre japonais, côte à côte. L'Union européenne, l'Union africaine, l'Inde, les États-Unis, la Chine, dans le même communiqué, avec les mêmes mots."
+  },
+  {
+   "type": "text",
+   "value": "Les stations solaires orbitales de Helion étaient la seule source d'énergie capable d'atteindre la Lune à temps. Les gouvernements du monde exigeaient que Helion oriente immédiatement leurs faisceaux vers la Lune, pour relancer les Ancres avec l'équipage de l'Odyssée et les deux peuples lunaires."
+  },
+  {
+   "type": "text",
+   "value": "— Ils vont le faire, dit Maryvonne, qui lisait par-dessus son épaule. Ils sont obligés, non ? Avec tout le monde qui regarde ?"
+  },
+  {
+   "type": "text",
+   "value": "Lou ne répondit pas. Elle avait vu Victor Brandt sourire à la télévision pendant cinq ans. Elle se méfiait des hommes qui souriaient comme lui."
+  },
+  {
+   "type": "text",
+   "value": "À une heure dix du matin, alors que la mer battait le pied des remparts et commençait tout juste, très lentement, à redescendre, une fenêtre s'ouvrit dans le direct de Sam. Le logo de Helion. Puis Brandt lui-même, dans un bureau clair, costume crème, cravate parfaite, comme s'il était midi."
+  },
+  {
+   "type": "text",
+   "value": "— Je comprends l'émotion du monde entier, dit-il de sa belle voix calme. Helion est prêt à orienter ses stations vers la Lune. À une condition, que je crois raisonnable au vu des investissements consentis. Helion devra obtenir, par traité international, les droits exclusifs d'étude et d'exploitation de la technologie des Ancres."
+  },
+  {
+   "type": "text",
+   "value": "Sur les remparts, dix mille personnes se turent en même temps."
+  },
+  {
+   "type": "text",
+   "value": "— Sans cet accord, ajouta Brandt avec un sourire navré, je ne peux pas, en conscience, mettre en danger les actifs de mes actionnaires. Les stations resteront où elles sont."
+  }
+ ]
+}

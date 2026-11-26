@@ -1,0 +1,397 @@
+{
+ "number": 15,
+ "title": "Atterrissage forcé",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Manœuvre d'évitement, dit Rask. Arata, vous avez le contrôle."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai le contrôle."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne plaisantait plus. Ses mains couraient sur les commandes avec une précision tranquille, presque douce. L'Odyssée pivota sur elle-même, les propulseurs latéraux crachèrent des jets blancs silencieux, et tout le monde fut plaqué contre ses sangles par une poussée de côté qui fit grincer la structure."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde attaché, ordonna Rask. Petit, la caméra au sol, vous vous attachez."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'attache et je filme, commandante. Je peux faire les deux, j'ai un bras de chaque côté."
+  },
+  {
+   "type": "text",
+   "value": "Rask ne répondit pas. Elle n'avait pas le temps."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran radar, les points rouges grossissaient. Ils étaient onze. Ilan les compta deux fois. Onze formes allongées qui avaient changé de cap en même temps que l'Odyssée, sans effort apparent, comme des poissons qui suivent un banc."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne tirent pas, dit Nora. Pourquoi ils ne tirent pas ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce qu'ils se rapprochent d'abord, répondit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Il le savait. Il l'avait vu. En 2041, dans la caverne, les éclairs n'étaient venus qu'après, quand les deux camps s'étaient trouvés assez près pour se voir."
+  },
+  {
+   "type": "text",
+   "value": "— Arata, distance ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quarante kilomètres. Trente-cinq. Ils accélèrent plus vite que nous, commandante. Beaucoup plus vite. Je ne sais pas ce qui les pousse, mais ce n'est pas de la chimie."
+  },
+  {
+   "type": "text",
+   "value": "— Remontez. Plein régime sur le réacteur. On sort de leur portée et on réfléchit."
+  },
+  {
+   "type": "text",
+   "value": "— La bouilloire n'aime pas les démarrages à froid."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vous demande pas son avis."
+  },
+  {
+   "type": "text",
+   "value": "Kenji poussa la manette. Derrière eux, très loin, le réacteur de fusion monta en puissance avec un grondement sourd qui traversa toute la coque. L'Odyssée bondit."
+  },
+  {
+   "type": "text",
+   "value": "Pendant dix secondes, les points rouges reculèrent sur l'écran. Sam poussa un cri de victoire."
+  },
+  {
+   "type": "text",
+   "value": "Puis le premier éclair arriva."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il n'y eut pas de bruit. Dans le vide, il n'y a jamais de bruit. Il y eut seulement une lumière, rouge et blanche, qui envahit la baie avant comme si le soleil s'était allumé à dix mètres d'eux. Et une secousse. Une gifle géante sur le flanc gauche du vaisseau."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "Le premier éclair"
+  },
+  {
+   "type": "text",
+   "value": "Les alarmes hurlèrent toutes en même temps."
+  },
+  {
+   "type": "text",
+   "value": "— Impact sur le module d'habitat, annonça la voix synthétique de l'ordinateur. Perte de pression secteur deux. Fermeture automatique des cloisons."
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'est dans l'habitat ? cria Rask."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ! répondit Dorsey."
+  },
+  {
+   "type": "text",
+   "value": "— Panneau solaire gauche détaché, continua l'ordinateur. Perte de puissance quarante pour cent."
+  },
+  {
+   "type": "text",
+   "value": "— Je perds la stabilité, dit Kenji, très calme. Je perds la stabilité, commandante."
+  },
+  {
+   "type": "text",
+   "value": "Un deuxième éclair. Plus loin, cette fois, sur l'arrière. La secousse fit claquer les dents d'Ilan. Par le hublot latéral, il vit des morceaux de quelque chose tourner dans le vide, scintiller au soleil, s'éloigner. Un bout de leur vaisseau. Un bout de leur retour."
+  },
+  {
+   "type": "text",
+   "value": "— Ils visent les moteurs, dit Nora. Ilan, ils visent les moteurs !"
+  },
+  {
+   "type": "text",
+   "value": "— Ils veulent nous faire descendre, dit Ilan. Pas nous tuer. Sinon ce serait fait."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas s'il y croyait. Il fallait le dire quand même, pour que la voix de Nora arrête de trembler, pour que Sam continue à tenir sa caméra, pour que le monde, en bas, ne voie pas un vaisseau rempli de gens paniqués."
+  },
+  {
+   "type": "text",
+   "value": "— Arata, dit Rask. Options."
+  },
+  {
+   "type": "text",
+   "value": "Kenji avala sa salive."
+  },
+  {
+   "type": "text",
+   "value": "— On ne remontera pas, commandante. Pas avec quarante pour cent et un réacteur qui tousse. On peut essayer de rester en orbite, mais à chaque passage, ils seront là. Ou alors..."
+  },
+  {
+   "type": "text",
+   "value": "— Ou alors ?"
+  },
+  {
+   "type": "text",
+   "value": "— On descend. On se pose. Le plus vite possible, là où ils ne nous attendent pas."
+  },
+  {
+   "type": "text",
+   "value": "— Où ils ne nous attendent pas, répéta Rask. Sur leur Lune."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas dit que c'était une bonne option. J'ai dit que c'était la seule."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut une seconde de silence. Une seconde très longue. Rask regarda Ilan. Ilan n'avait jamais vu ce regard chez elle : une question."
+  },
+  {
+   "type": "text",
+   "value": "— Le cratère, dit-il. Tsiolkovski. Le fond est plat, on y a posé le module en 2041. Et c'est là qu'ils sont. Ceux qui m'ont aidé."
+  },
+  {
+   "type": "text",
+   "value": "— Ou ceux qui nous tirent dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Ou eux. Oui."
+  },
+  {
+   "type": "text",
+   "value": "Rask ferma les yeux une demi-seconde. Puis elle les rouvrit."
+  },
+  {
+   "type": "text",
+   "value": "— Arata. Tsiolkovski. Posez-nous."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La descente dura sept minutes. Ilan s'en souviendrait toute sa vie comme des sept minutes les plus longues qu'il ait jamais vécues, plus longues encore que les quatre minutes et douze secondes de Hale."
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée tombait en tournant légèrement sur son axe, et Kenji corrigeait sans cesse, par petites touches, les mâchoires serrées, la sueur qui perlait sous la visière de son casque. La surface montait vers eux. Grise, puis blanche, puis éblouissante, avec les ombres noires des cratères qui grandissaient comme des bouches."
+  },
+  {
+   "type": "text",
+   "value": "Derrière eux, les vaisseaux rouges suivaient. Ils ne tiraient plus. Ils escortaient."
+  },
+  {
+   "type": "text",
+   "value": "— Altitude cinq kilomètres, dit Rask. Vitesse de descente trop élevée."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Trois kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, commandante."
+  },
+  {
+   "type": "text",
+   "value": "— Arata, si vous voulez dire une blague, c'est le moment."
+  },
+  {
+   "type": "text",
+   "value": "Kenji eut un rire bref, étranglé."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez pourquoi les pilotes japonais ne paniquent jamais à l'atterrissage ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que paniquer, c'est impoli envers le sol."
+  },
+  {
+   "type": "text",
+   "value": "Nora rit. Un vrai rire, nerveux, incontrôlable. Sam aussi. Même Dorsey, à l'arrière, lâcha un souffle par le nez. Et Ilan, en entendant ces rires dans le casque, au milieu des alarmes, se dit que s'ils mouraient, au moins ils mourraient comme ça. Ensemble. Pas seuls dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "— Un kilomètre."
+  },
+  {
+   "type": "text",
+   "value": "Le rebord du cratère Tsiolkovski défila sous eux, immense, déchiqueté. Puis le fond. Ilan le reconnut d'un coup, avec une violence qui lui coupa le souffle : la grande plaine grise, les blocs éboulés, et là-bas, à l'est, la gueule noire de l'effondrement par lequel ils étaient descendus, cinq ans plus tôt, Hale, Lenski, Sato et lui."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq cents mètres. Deux cents."
+  },
+  {
+   "type": "text",
+   "value": "— Train sorti, dit Kenji. Moteurs de freinage à fond. Accrochez-vous."
+  },
+  {
+   "type": "text",
+   "value": "Le choc fut terrible. Le vaisseau toucha sur un pied, rebondit, retomba de travers. Ilan sentit les sangles lui couper les épaules, il entendit Nora crier, il vit la caméra de Sam partir en l'air, retenue de justesse par son cordon. Un craquement immense traversa la coque. L'Odyssée glissa encore sur plusieurs dizaines de mètres, soulevant un nuage de poussière grise qui monta lentement, très lentement, dans la faible gravité, et qui retomba en pluie silencieuse sur le hublot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "Atterrissage forcé"
+  },
+  {
+   "type": "text",
+   "value": "Puis tout s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "— Appel, dit Rask d'une voix rauque. Appel de l'équipage."
+  },
+  {
+   "type": "text",
+   "value": "— Arata. Vivant. Désolé pour la moquette."
+  },
+  {
+   "type": "text",
+   "value": "— Okafor. Vivante."
+  },
+  {
+   "type": "text",
+   "value": "— Petit. Vivante. Caméra vivante aussi. Les Veilleurs sont vivants. Tout le monde est vivant."
+  },
+  {
+   "type": "text",
+   "value": "— Dorsey. Ça va."
+  },
+  {
+   "type": "text",
+   "value": "— Varga."
+  },
+  {
+   "type": "text",
+   "value": "Ilan desserra les mâchoires. Il avait mal partout, une douleur sourde dans l'épaule droite, du sang dans la bouche parce qu'il s'était mordu la langue. Rien de grave. Il était vivant."
+  },
+  {
+   "type": "text",
+   "value": "— Varga. Présent."
+  },
+  {
+   "type": "text",
+   "value": "Rask lâcha un long souffle. Elle passa une main gantée sur la visière de son casque, comme pour s'essuyer le front."
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'est mort, dit-elle. Personne. Arata, vous êtes un fou."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, commandante."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas un compliment. Si. Un peu."
+  },
+  {
+   "type": "text",
+   "value": "Kenji riait tout seul dans son casque, d'un rire qui ressemblait à des larmes."
+  },
+  {
+   "type": "text",
+   "value": "Nora se pencha vers le hublot, essuya la poussière du revers de la main. Dehors, la plaine grise. La lumière dure du soleil, sans air pour l'adoucir. Et tout autour du vaisseau, à moins de cent mètres, posés sur le sol comme des oiseaux immobiles, les onze vaisseaux rouges."
+  },
+  {
+   "type": "text",
+   "value": "Leurs flancs s'ouvraient."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan, souffla Nora."
+  },
+  {
+   "type": "text",
+   "value": "Il était déjà à côté d'elle."
+  },
+  {
+   "type": "text",
+   "value": "Des silhouettes descendaient des vaisseaux. Grandes, beaucoup plus grandes qu'un homme, trois mètres peut-être, minces, presque fragiles. Leur corps était translucide, et à l'intérieur brillait une lumière rouge-orangé qui pulsait lentement, comme une respiration en colère. Ils avançaient en ligne, sans hâte. Certains tenaient de longs objets effilés qui ressemblaient à des lances, ou à des armes."
+  },
+  {
+   "type": "text",
+   "value": "— Combinaisons, ordonna Rask. Tout le monde. Personne ne sort sans mon ordre."
+  },
+  {
+   "type": "text",
+   "value": "— Ils vont entrer, dit Sam. Si on ne sort pas, ils vont entrer."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent ensemble. Six silhouettes humaines, minuscules, dans leurs combinaisons blanches tachées de poussière, devant leur vaisseau cabossé, un panneau solaire arraché et la coque noircie sur le flanc gauche. Sam en dernier, la caméra sur l'épaule, parce que le monde devait voir."
+  },
+  {
+   "type": "text",
+   "value": "Les Vorr formèrent un cercle autour d'eux. Lentement. Le cercle se resserra. Ilan sentait le sol vibrer sous ses bottes, d'un rythme régulier, profond : les Lumes parlaient, il le comprit, ils parlaient par vibrations, et ce qu'ils se disaient ne semblait pas amical."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne bougeait. Rask, à côté de lui, avait la main posée sur l'épaule de Sam. Kenji s'était placé devant Nora sans même s'en rendre compte."
+  },
+  {
+   "type": "text",
+   "value": "Alors le cercle s'ouvrit, d'un côté, comme une porte."
+  },
+  {
+   "type": "text",
+   "value": "Une silhouette s'avança, seule, entre les Vorr. Plus grande qu'eux. Plus lente. Sa lumière intérieure n'était pas rouge. Elle était bleue, d'un bleu profond, tranquille, qu'Ilan avait vu dans le noir cinq ans plus tôt, penché sur le corps d'Aiko Sato."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Le retour de Seraë"
+  },
+  {
+   "type": "text",
+   "value": "Les Vorr reculèrent d'un pas. Pas par respect. Par méfiance."
+  },
+  {
+   "type": "text",
+   "value": "La silhouette bleue s'arrêta à deux mètres d'Ilan. Elle inclina son long visage sans bouche vers lui. Et dans le casque d'Ilan, sur la fréquence ouverte, une voix douce et étrange, un peu ancienne, comme sortie d'une vieille radio, prononça :"
+  },
+  {
+   "type": "text",
+   "value": "— Ilan Varga. Tu es revenu."
+  }
+ ]
+}

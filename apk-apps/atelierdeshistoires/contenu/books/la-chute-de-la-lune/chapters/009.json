@@ -1,0 +1,317 @@
+{
+ "number": 9,
+ "title": "Nora",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Nora Okafor avait préparé son texte dans l'avion. Elle l'avait réécrit dans la voiture de location, puis une troisième fois, à la main, sur le dos d'une carte d'embarquement, pendant les deux heures où elle avait attendu sous ce réverbère en regardant la Lune glisser derrière les toits de Brest."
+  },
+  {
+   "type": "text",
+   "value": "Il commençait par : *Monsieur Varga, je suis venue vous présenter des excuses.*"
+  },
+  {
+   "type": "text",
+   "value": "Ce qu'elle dit, en le voyant approcher dans la rue, les mains noires de cambouis et une lampe frontale encore accrochée au front, fut :"
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Varga. Il faut que je vous parle."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta à deux mètres. Il était plus maigre que sur les photos de 2041. Plus vieux de bien plus de cinq ans. Il la regardait avec une absence totale d'expression qui était, elle le comprit tout de suite, une forme très travaillée de colère."
+  },
+  {
+   "type": "text",
+   "value": "— Docteur Okafor, dit-il. Vous avez fait tout ce chemin pour vérifier que j'étais toujours incompatible avec les données ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle avait prévu cette phrase. Pas exactement celle-là, mais une phrase comme celle-là. Elle l'encaissa."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit-elle. Et vous ne l'êtes plus."
+  },
+  {
+   "type": "text",
+   "value": "Il ne bougea pas. Au bout de la rue, un chat renversa une poubelle."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux monter ? demanda-t-elle. J'ai des choses à vous montrer. Ça prendra une heure. Ensuite, vous pourrez me jeter dehors, et je l'aurai mérité."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda encore un long moment. Puis il sortit ses clés."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'appartement était petit, propre, couvert de papier. Nora reconnut des choses sur les murs : des courbes de marées qu'elle avait elle-même publiées, des tableaux d'éphémérides, des relevés de l'observatoire de Calern annotés au crayon d'une écriture serrée. Il ne suivait pas l'affaire de loin. Il la suivait mieux que la moitié de ses collègues."
+  },
+  {
+   "type": "text",
+   "value": "Sur une étagère, une photo de cinq astronautes souriants. Elle évita de la regarder."
+  },
+  {
+   "type": "text",
+   "value": "Il mit de l'eau à chauffer. Elle s'assit à la petite table, ouvrit son ordinateur, puis le referma."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais commencer par le plus difficile, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Ce serait original."
+  },
+  {
+   "type": "text",
+   "value": "— En novembre 2041, l'ASI m'a demandé d'évaluer votre récit au regard des données de la mission. On m'a donné vos déclarations, la télémétrie partielle, et des données gravimétriques de la sonde Kaguya-3. On ne m'a pas donné les enregistrements vidéo. On m'a dit qu'ils étaient corrompus. Je n'ai pas posé de questions."
+  },
+  {
+   "type": "text",
+   "value": "Elle garda les mains à plat sur la table. Elle les sentait vouloir trembler."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "Les excuses"
+  },
+  {
+   "type": "text",
+   "value": "— J'avais vingt-neuf ans. On me confiait le rapport le plus important de ma carrière. Votre récit parlait de cavernes de plusieurs kilomètres sous la face cachée. Les données de densité que j'avais ne montraient pas ça. J'ai écrit : incompatible. Et c'était vrai. Avec ces données-là, c'était vrai."
+  },
+  {
+   "type": "text",
+   "value": "Elle releva les yeux vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Mais je n'ai pas demandé d'autres données. Je n'ai pas demandé pourquoi un homme qui n'avait aucune raison de mentir aurait inventé ça. J'ai cru que la rigueur, c'était de dire non. Je me suis trompée. Vous avez perdu votre travail, votre fille, votre nom, en partie à cause de ma signature. Je suis désolée."
+  },
+  {
+   "type": "text",
+   "value": "La bouilloire se mit à siffler. Ilan ne la retira pas tout de suite. Il la laissa siffler, le dos tourné, et Nora comprit qu'il avait besoin de ce bruit pour ne pas avoir à répondre. Il finit par couper le gaz."
+  },
+  {
+   "type": "text",
+   "value": "— Thé ? dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— S'il vous plaît."
+  },
+  {
+   "type": "text",
+   "value": "C'était tout. Elle ne savait pas si c'était un pardon. Elle supposa que non. Elle supposa que c'était, plus simplement, une permission de continuer."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Elle rouvrit l'ordinateur."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis 2043, je dirige un petit groupe à Cambridge. On travaille sur la gravimétrie lunaire à partir de trois sources : les nouvelles sondes en orbite basse, les mesures laser depuis la Terre, et la façon dont l'orbite elle-même se déforme. Quand un corps se rapproche d'un autre, il est étiré. Un peu. Comme une balle de pâte qu'on tire. La manière dont il se déforme dépend de ce qu'il y a à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna l'écran vers lui. Une carte de la Lune en fausses couleurs, en coupe. Le bleu pour la roche dense, le jaune pour la roche moins dense."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "La Lune creuse"
+  },
+  {
+   "type": "text",
+   "value": "Et au milieu, sous la face cachée, du noir."
+  },
+  {
+   "type": "text",
+   "value": "— Là, dit-elle en posant le doigt. Et là. Et là. Des cavités. Pas des petites bulles de lave. Des volumes de plusieurs dizaines de kilomètres, reliées entre elles. Et plus profond, autour du noyau, un anneau de densité anormalement élevée, très régulier. Trop régulier. Sept points de concentration de masse, espacés de façon presque symétrique."
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'était penché. Il ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Sept, répéta-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Dont cinq ont changé de signature entre 2041 et aujourd'hui. Comme si… comme si quelque chose en eux s'était éteint."
+  },
+  {
+   "type": "text",
+   "value": "— Elle m'a parlé des Ancres, dit Ilan très bas. Seraë. Elle n'a pas eu le temps de dire combien."
+  },
+  {
+   "type": "text",
+   "value": "Nora le regarda. C'était la première fois qu'elle entendait ce nom prononcé par lui, en vrai, et pas cité dans un dossier. Il le disait comme on dit le nom d'une personne."
+  },
+  {
+   "type": "text",
+   "value": "— La Lune est en partie creuse, monsieur Varga. Je l'ai mesuré onze fois avec trois méthodes. Elle est creuse exactement là où vous avez dit qu'elle l'était. Je vous crois."
+  },
+  {
+   "type": "text",
+   "value": "Il se redressa. Elle s'attendait à de la colère, du triomphe, peut-être des larmes. Il éclata de rire. Un rire sans joie, fatigué, qui ressemblait à de la toux."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq ans, dit-il. Il vous a fallu cinq ans et trois méthodes."
+  },
+  {
+   "type": "text",
+   "value": "— Il m'en aurait fallu une seule si on m'avait montré les vidéos."
+  },
+  {
+   "type": "text",
+   "value": "Il cessa de rire."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a autre chose, enchaîna-t-elle avant de perdre courage. J'ai envoyé mes résultats à l'ASI il y a huit mois. Ils ne les ont pas publiés. Mais quelqu'un d'autre les a lus. Helion."
+  },
+  {
+   "type": "text",
+   "value": "— Le groupe de Brandt."
+  },
+  {
+   "type": "text",
+   "value": "— Victor Brandt finance depuis trois ans un vaisseau, à Kourou. Officiellement, c'est un démonstrateur de propulsion par fusion pour l'exploitation minière des astéroïdes. Officieusement, il est presque prêt, il peut atteindre la Lune en trois jours, et il emportera un équipage dans moins de six mois. Il s'appelle l'Odyssée. Ils m'ont recrutée comme responsable scientifique."
+  },
+  {
+   "type": "text",
+   "value": "Elle reprit son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Et Brandt vous veut à bord."
+  },
+  {
+   "type": "text",
+   "value": "Ilan la regarda comme si elle venait de lui proposer de se jeter du haut de la digue."
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes le seul être humain qui soit allé là-dessous et qui en soit revenu. Vous connaissez le chemin. Vous connaissez Seraë."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai dit non."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Varga…"
+  },
+  {
+   "type": "text",
+   "value": "— Ilan. Si vous venez me demander de remonter dans une boîte de conserve pour un milliardaire qui a laissé le monde me traiter de malade pendant cinq ans, appelez-moi au moins par mon prénom."
+  },
+  {
+   "type": "text",
+   "value": "Elle accusa le coup."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Vous savez ce qui se passe, la nuit, quand je ferme les yeux ? Je vois le casque de Hale. Je sens le poids d'Aiko. J'entends le canal de Mendes qui ne répond plus. Je suis revenu avec quatre sièges vides et un mensonge. Je ne remonterai pas là-haut pour que Brandt ramène autre chose qu'eux."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix ne monta pas. C'était pire. Nora baissa les yeux. Elle referma lentement l'ordinateur à moitié, puis s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait gardé ce fichier pour la fin. Elle avait espéré ne pas en avoir besoin."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas venue seulement pour Brandt, dit-elle. Je suis venue parce que je n'arrive plus à dormir. Laissez-moi vous montrer une dernière chose. Après, je m'en vais."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Elle prit ça pour un oui."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La simulation durait quarante secondes. Elle l'avait regardée des centaines de fois."
+  },
+  {
+   "type": "text",
+   "value": "Un point blanc, la Lune, sur une ellipse autour d'un point bleu. Une courbe en bas de l'écran, la distance, qui descendait lentement depuis 2041, puis de plus en plus vite. Sur la droite, une zone grisée."
+  },
+  {
+   "type": "text",
+   "value": "— Les sept concentrations de masse se comportent comme des stabilisateurs, expliqua-t-elle. Les deux qui restent fonctionnent encore. Elles freinent la chute. Mais à mesure que la Lune se rapproche, l'effort qu'elles doivent fournir augmente. Les forces de marée augmentent comme l'inverse du cube de la distance. Il y a un seuil. Au-delà, même si on rallumait les cinq autres, elles ne suffiraient plus. La chute deviendrait irréversible."
+  },
+  {
+   "type": "text",
+   "value": "Le point blanc entra dans la zone grise. L'ellipse se déforma, se resserra, devint une spirale."
+  },
+  {
+   "type": "text",
+   "value": "— Et après ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Après, la Lune continue de se rapprocher. Les marées deviennent… On ne parle plus de villes côtières. On parle de continents. Et à terme, elle est déchirée par la gravité terrestre avant même de nous toucher. Un anneau de débris. Et une pluie qui ne s'arrête plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle mit la simulation en pause. Le point blanc était figé à la lisière de la zone grise."
+  },
+  {
+   "type": "text",
+   "value": "— Quand ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Elle aurait voulu lui donner un chiffre flou. Elle était scientifique. Elle lui donna le chiffre le plus honnête qu'elle avait."
+  },
+  {
+   "type": "text",
+   "value": "— Au rythme actuel, le seuil sera franchi dans moins d'un an. Après ça, personne ne pourra plus rien. Ni nous, ni eux."
+  },
+  {
+   "type": "text",
+   "value": "Ilan regarda l'écran. Puis la fenêtre, où la Lune, énorme, blanche, éclairait les toits de Recouvrance comme en plein jour. Puis la photo sur l'étagère."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Le seuil"
+  },
+  {
+   "type": "text",
+   "value": "Il resta immobile si longtemps que Nora crut qu'il ne parlerait plus jamais. Et puis il tendit la main, la gauche, celle des cicatrices, et appuya lui-même sur la barre d'espace pour relancer la simulation."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda tomber jusqu'au bout."
+  }
+ ]
+}

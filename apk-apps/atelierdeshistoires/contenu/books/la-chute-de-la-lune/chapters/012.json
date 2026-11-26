@@ -1,0 +1,325 @@
+{
+ "number": 12,
+ "title": "Le décollage",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Trois millions deux cent mille, dit Sam. Non, attends. Trois millions quatre. Ilan, regarde, ça bouge plus vite que je peux lire."
+  },
+  {
+   "type": "text",
+   "value": "Elle tournait son écran vers lui, dans la salle d'habillage, pendant que deux techniciens de Helion vérifiaient les joints de sa combinaison. Ses cheveux décolorés dépassaient du col comme une touffe de coton. Sous la combinaison, Ilan était presque sûr qu'elle avait gardé son sweat."
+  },
+  {
+   "type": "text",
+   "value": "— Range ça, dit-il. Tu vas te faire disputer par Rask."
+  },
+  {
+   "type": "text",
+   "value": "— Rask m'a déjà disputée trois fois ce matin. Elle a un quota, je pense. Je l'aide à le remplir."
+  },
+  {
+   "type": "text",
+   "value": "Ilan sourit malgré lui. Le premier sourire de la journée. Il avait mal dormi, ou pas dormi, il ne savait plus. Il avait passé la nuit à revoir le visage de Lou dans le parking, la veille, sa main posée à plat sur la vitre de la voiture."
+  },
+  {
+   "type": "text",
+   "value": "— Les Veilleurs veulent un mot de toi, reprit Sam. Juste un. Pour le démarrage."
+  },
+  {
+   "type": "text",
+   "value": "— Quel mot ?"
+  },
+  {
+   "type": "text",
+   "value": "— N'importe lequel. Ils vont en faire des tee-shirts de toute façon."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda la petite caméra fixée sur l'épaule de la jeune femme. Le voyant rouge clignotait. Des millions de gens, quelque part, le regardaient en ce moment même enfiler des gants."
+  },
+  {
+   "type": "text",
+   "value": "Cinq ans plus tôt, ces mêmes gens, ou d'autres, avaient fait de son visage un mème. L'astronaute qui voit des extraterrestres. Le Français qui a pété les plombs dans l'espace."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, dit-il à la caméra."
+  },
+  {
+   "type": "text",
+   "value": "Sam ouvrit la bouche, la referma. Elle détourna les yeux vers son écran. Le flot de messages venait de s'emballer d'un coup, des cœurs, des lunes, des drapeaux de tous les pays."
+  },
+  {
+   "type": "text",
+   "value": "— Bon, dit-elle d'une voix un peu épaisse. Ça, ils vont l'imprimer."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le pas de tir Helion se trouvait sur la côte de Guyane, à une trentaine de kilomètres de l'ancien centre spatial. La marée y montait désormais jusqu'au pied des barrières de sécurité, deux fois par jour, avec une régularité de métronome. Les ingénieurs avaient dû surélever toute la zone de quatre mètres l'année précédente."
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée se dressait au centre, accrochée à son lanceur comme une aiguille à un tronc. Cent dix mètres de blanc, avec le logo orange de Helion qui brillait sous les projecteurs, et tout en haut, le module de commande, si petit vu d'en bas qu'on avait du mal à croire que six personnes allaient y vivre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "Le pas de tir"
+  },
+  {
+   "type": "text",
+   "value": "Derrière les barrières, la foule."
+  },
+  {
+   "type": "text",
+   "value": "Ilan l'avait vue depuis le bus. Des dizaines de milliers de personnes, peut-être plus, massées sur les dunes et les routes, avec des pancartes, des drapeaux, des lampes frontales qui faisaient comme un champ d'étoiles au ras du sol. Certains portaient des sweats avec un croissant de lune et un œil ouvert, le symbole des Veilleurs de Minuit. D'autres tenaient des pancartes qu'il ne pouvait pas lire à cette distance, mais il savait qu'il y en avait encore, des moqueries. Il y en aurait toujours."
+  },
+  {
+   "type": "text",
+   "value": "Lou était quelque part là-dedans. Elle avait refusé la tribune officielle."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux être avec eux, avait-elle dit. Ceux qui t'ont cru avant moi."
+  },
+  {
+   "type": "text",
+   "value": "Il avait trouvé ça juste. Il avait trouvé ça terriblement juste, et ça lui avait fait plus mal qu'il ne l'aurait cru."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Dans le module de commande, les sièges étaient disposés en deux rangées de trois. Rask au poste de commandement, à gauche. Kenji au pilotage, au centre. Dorsey à droite. Derrière, Sam et son matériel de diffusion, puis Ilan et Nora, épaule contre épaule, sanglés dans des coques moulées à leur forme."
+  },
+  {
+   "type": "text",
+   "value": "— T-moins vingt minutes, annonça la voix du contrôle."
+  },
+  {
+   "type": "text",
+   "value": "La commandante Hélène Rask vérifiait ses listes avec une concentration absolue, les lèvres légèrement pincées. Ses cheveux gris coupés court disparaissaient sous le casque. Elle n'avait pas dit un mot inutile depuis le réveil."
+  },
+  {
+   "type": "text",
+   "value": "Kenji, lui, en disait pour deux."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez quelle est la différence entre un vol d'essai et un vol habité ? demanda-t-il à personne en particulier."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit Rask."
+  },
+  {
+   "type": "text",
+   "value": "— Dans un vol d'essai, quand ça explose, on dit « données intéressantes »."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Je me tais, commandante. Je me tais comme un astronaute japonais traditionnel. Avec dignité."
+  },
+  {
+   "type": "text",
+   "value": "Sam pouffa dans son micro. Dorsey ne bougea pas. Il avait les yeux fermés, les mains croisées sur le ventre, et Ilan aurait pu croire qu'il dormait sans la façon dont ses pouces tapotaient l'un contre l'autre, un, deux, un, deux, sans jamais s'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Nora, à côté de lui, fixait le panneau devant elle sans le voir."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va ? demanda Ilan à voix basse."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis astrophysicienne, répondit-elle sans tourner la tête. J'ai passé ma vie à calculer des trajectoires. Je n'ai jamais été au bout d'une."
+  },
+  {
+   "type": "text",
+   "value": "— C'est surfait."
+  },
+  {
+   "type": "text",
+   "value": "— Tu dis ça pour me rassurer ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Le bout, c'est surtout de la poussière et du café lyophilisé. Le début, c'est mieux. Le début, tu as encore la Terre par la fenêtre."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna enfin la tête. Derrière ses lunettes fines, ses yeux étaient brillants."
+  },
+  {
+   "type": "text",
+   "value": "— En 2041, dit-elle, quand j'ai signé ce rapport..."
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Pas maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Si. Maintenant. Parce que si ça explose, je veux que tu l'aies entendu. J'avais tort. Je savais que j'avais tort, quelque part. Les chiffres ne collaient pas, mais c'était plus facile de croire que l'erreur venait de toi que de croire ce que tu racontais."
+  },
+  {
+   "type": "text",
+   "value": "Ilan la regarda longtemps. Le compte à rebours continuait dans leurs oreilles, monotone."
+  },
+  {
+   "type": "text",
+   "value": "— Ça n'explosera pas, dit-il. Kenji est trop bavard pour mourir aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai entendu, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— T-moins dix minutes."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Dans la foule, sur une dune, une jeune femme de dix-neuf ans aux cheveux châtains courts tenait le téléphone de quelqu'un d'autre parce que le sien n'avait plus de batterie. Sur l'écran, le stream de Sam montrait l'intérieur du module, les visages sous les casques, la main de son père posée sur l'accoudoir."
+  },
+  {
+   "type": "text",
+   "value": "Lou ne regardait pas l'écran. Elle regardait la fusée."
+  },
+  {
+   "type": "text",
+   "value": "Autour d'elle, les gens se taisaient peu à peu. Même les plus bruyants. Même ceux qui avaient chanté toute la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Dix, dit la voix géante des haut-parleurs."
+  },
+  {
+   "type": "text",
+   "value": "Elle pensa au message vidéo qu'elle avait envoyé trop tard, en 2041. Elle avait quatorze ans et elle était furieuse et elle avait attendu trois jours pour lui dire qu'elle l'aimait."
+  },
+  {
+   "type": "text",
+   "value": "— Sept. Six."
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, elle l'avait dit hier. Dans le parking. Deux fois."
+  },
+  {
+   "type": "text",
+   "value": "— Trois. Deux. Un."
+  },
+  {
+   "type": "text",
+   "value": "La lumière vint d'abord. Une lumière blanche et orange qui effaça les étoiles, la mer, les dunes, les visages. Puis le son arriva, une demi-seconde plus tard, un grondement qui n'était pas un bruit mais une pression, une main énorme posée sur la poitrine de cinquante mille personnes à la fois."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "Lou regarde partir"
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée monta."
+  },
+  {
+   "type": "text",
+   "value": "Lentement d'abord, puis de plus en plus vite, une flamme au bout d'une aiguille, puis un point, puis une étoile qui traversait le ciel vers la Lune. La Lune elle-même attendait, ronde et blanche, énorme au-dessus de l'océan, comme un œil qui regardait venir la seule chose capable de la sauver."
+  },
+  {
+   "type": "text",
+   "value": "Lou s'aperçut qu'elle pleurait seulement quand l'inconnu à côté d'elle lui tendit un mouchoir."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "— Séparation du deuxième étage confirmée, dit Kenji. Insertion en orbite basse nominale. Mesdames, messieurs, bienvenue dans l'espace. La température extérieure est de moins deux cent soixante-dix degrés et il est interdit de fumer."
+  },
+  {
+   "type": "text",
+   "value": "Le poids disparut. Les sangles se détendirent, les cheveux de Sam se soulevèrent comme une aigrette autour de son visage. Elle lâcha un cri de joie qui serait, Ilan en était certain, imprimé lui aussi sur des tee-shirts."
+  },
+  {
+   "type": "text",
+   "value": "Par le hublot, la Terre tournait. Bleue, immense, avec ses côtes redessinées par cinq années de marées. Ilan reconnut l'Afrique de l'Ouest, puis le golfe de Guinée où des villes entières avaient reculé vers l'intérieur. Il ne dit rien. Il n'y avait rien à dire."
+  },
+  {
+   "type": "text",
+   "value": "Rask défit ses sangles la première."
+  },
+  {
+   "type": "text",
+   "value": "— Contrôles post-insertion. Okafor, vous vérifiez la soute et les arrimages avec la liste trois. Varga, systèmes de survie. Arata, trajectoire de transfert. Petit, vous coupez le son pendant les procédures, je ne veux pas entendre votre public."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne disent rien, commandante. Ils écrivent."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne veux pas les entendre écrire."
+  },
+  {
+   "type": "text",
+   "value": "Nora se glissa vers l'écoutille arrière avec une maladresse de débutante, rebondit contre une paroi, se rattrapa à une poignée. Ilan la regarda disparaître dans le tunnel qui menait au module d'habitat, puis à la soute."
+  },
+  {
+   "type": "text",
+   "value": "Il avait vérifié la moitié des circuits d'oxygène quand la voix de Nora revint dans son oreillette. Pas sur le canal général. Sur le canal privé, celui qu'ils avaient configuré entre eux pendant l'entraînement, pour rire, pour se plaindre de Brandt."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan. Tu peux venir ?"
+  },
+  {
+   "type": "text",
+   "value": "Quelque chose dans sa voix le fit lâcher sa tablette, qui partit flotter vers le plafond."
+  },
+  {
+   "type": "text",
+   "value": "La soute était étroite, encombrée de caisses arrimées, de pièces de rechange, du rover replié comme un insecte endormi. Nora flottait tout au fond, devant une paroi qu'il n'avait jamais vue pendant l'entraînement. Un panneau d'accès gris, sans étiquette, sans numéro. Elle l'avait ouvert."
+  },
+  {
+   "type": "text",
+   "value": "Derrière, un module cylindrique, de la taille d'un réfrigérateur, scellé par des boulons de sécurité. Un symbole jaune et noir était gravé sur sa coque. Ilan le connaissait. Tous les ingénieurs du monde le connaissaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "Le module secret"
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est sur aucun plan, murmura Nora. J'ai vérifié trois fois la liste de chargement. Il n'existe pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna vers lui un visage gris dans la lumière blanche de la soute."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan. C'est une bombe nucléaire."
+  }
+ ]
+}

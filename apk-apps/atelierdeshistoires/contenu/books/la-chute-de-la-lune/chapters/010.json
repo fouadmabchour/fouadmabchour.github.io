@@ -1,0 +1,325 @@
+{
+ "number": 10,
+ "title": "Helion",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le campus Helion de Kourou ne ressemblait à aucune base spatiale qu'Ilan avait connue."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait pas de hangars kaki, pas de grillages rouillés, pas de baraquements préfabriqués qui sentaient la peinture et le café de distributeur. Il y avait du verre. Des kilomètres de verre et d'acier blanc posés au bord de la forêt guyanaise comme un vaisseau qui aurait atterri là par erreur. Des allées bordées de palmiers arrosés au goutte-à-goutte. Des voiturettes électriques silencieuses. Et, partout, sur chaque façade, le logo : un soleil stylisé dont un rayon se prolongeait en une ligne droite, jusqu'à l'infini."
+  },
+  {
+   "type": "text",
+   "value": "— On dirait un hôtel, dit Ilan en descendant de la navette."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un hôtel, dit Nora. Avec une fusée au fond du jardin."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait pas tort. Au-delà des bâtiments, sur le pas de tir rénové, il était là."
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée faisait cent dix mètres de haut sur son lanceur. Mais ce n'était pas la taille qui coupait le souffle : c'était la forme. Pas un cylindre, pas une capsule au sommet d'un tube. Une longue silhouette élancée, faite de modules emboîtés, avec, à la base, l'anneau massif du réacteur à fusion entouré de radiateurs repliés comme les ailes d'un insecte endormi."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "L'Odyssée"
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'arrêta au milieu de l'allée. Il avait pensé qu'il ne ressentirait rien. Il avait passé le vol de Paris à se le promettre. Il ressentit tout."
+  },
+  {
+   "type": "text",
+   "value": "— Trois jours jusqu'à la Lune, dit Nora à côté de lui, doucement. Pas une seconde de plus."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Victor Brandt les reçut lui-même, en haut de la tour principale, dans une salle dont trois murs étaient des baies vitrées ouvertes sur le pas de tir."
+  },
+  {
+   "type": "text",
+   "value": "Il avait cinquante-cinq ans et en paraissait quarante-cinq. Costume crème, sans cravate, chemise ouverte, bronzage de skipper. Il traversa la pièce à grandes enjambées, la main tendue, avec le sourire exact qu'Ilan lui avait vu dans une dizaine de conférences : large, chaleureux, éclairé de l'intérieur, comme s'il venait d'avoir l'idée la plus importante de sa vie et qu'il avait très envie de la partager avec vous."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan Varga. Enfin. Vous n'imaginez pas à quel point je suis heureux."
+  },
+  {
+   "type": "text",
+   "value": "Il lui serra la main à deux mains. Ilan sentit ses doigts effleurer les cicatrices sans s'y arrêter. Bien éduqué."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "Brandt"
+  },
+  {
+   "type": "text",
+   "value": "— Je vous dois des excuses, poursuivit Brandt. Le monde entier vous en doit. Mais moi, je ne suis pas homme à m'excuser avec des mots. Je m'excuse avec des actes. Et celui-là, dit-il en désignant la baie et l'Odyssée, c'est un acte de quatorze milliards."
+  },
+  {
+   "type": "text",
+   "value": "— Vous auriez pu commencer par un coup de téléphone en 2041, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Le sourire ne bougea pas d'un millimètre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez tout à fait raison. Je vous en prie, asseyez-vous."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait quelqu'un d'autre dans la pièce. Une femme assise au bout de la longue table, vêtue de gris, les cheveux blancs tirés en arrière, qui n'avait pas levé les yeux de sa tablette."
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'immobilisa."
+  },
+  {
+   "type": "text",
+   "value": "Margaret Kwan referma l'écran et le regarda enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Directrice."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là en tant que représentante de l'ASI. Le projet est un partenariat public-privé. L'Agence fournit la certification, une partie de l'équipage et le soutien au sol."
+  },
+  {
+   "type": "text",
+   "value": "— Et le mensonge, vous le fournissez toujours, ou Helion a pris le relais ?"
+  },
+  {
+   "type": "text",
+   "value": "Nora, à côté de lui, se raidit. Brandt eut un petit rire, comme devant un trait d'esprit. Kwan ne rit pas."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai pris des décisions en 2041 dans un contexte que vous ne connaissez pas, dit-elle d'une voix égale. Je les assume. Aujourd'hui, nous avons tous intérêt à ce que cette mission réussisse."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons tous intérêt, répéta Brandt en ouvrant les bras. Voilà. C'est ça, l'esprit Helion."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'esprit Helion, Ilan le découvrit les semaines suivantes, consistait surtout à le prendre en photo."
+  },
+  {
+   "type": "text",
+   "value": "On le photographia devant le réacteur. Devant le rover. En combinaison neuve, le casque sous le bras, à côté de Brandt. On lui fit enregistrer des messages pour les réseaux sociaux du groupe : *Je suis fier de retourner là-haut avec Helion.* Il refusa de dire « fier ». On coupa au montage. Une affiche géante apparut sur une façade du campus, son visage à côté de la Lune, avec le slogan : *Il avait raison. Nous l'écoutons.*"
+  },
+  {
+   "type": "text",
+   "value": "— Ils vous ont transformé en mascotte, dit Kenji Arata, le soir où il passa devant l'affiche avec lui."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ressemblez à un parfum pour homme. Un parfum triste. « Varga, l'odeur de la culpabilité. »"
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'arrêta et le regarda. Kenji avait quarante ans, un visage rond, un sourire permanent et une réputation, dans le milieu, de meilleur pilote vivant. Il avait posé un atterrisseur sur Phobos en mode manuel après une panne de calculateur. Il disait que c'était facile, qu'il avait beaucoup joué aux jeux vidéo."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes toujours comme ça ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis pire le matin. Vous verrez."
+  },
+  {
+   "type": "text",
+   "value": "Ilan rit malgré lui. Kenji parut satisfait."
+  },
+  {
+   "type": "text",
+   "value": "— Écoutez, dit-il en baissant la voix. Ici, la moitié des gens pensent que vous êtes un porte-bonheur, et l'autre moitié que vous êtes un fou que Brandt a acheté. Moi, je m'en fous. Moi, je veux savoir où on se pose. Vous avez vu le terrain. Vous me direz tout."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous dirai tout."
+  },
+  {
+   "type": "text",
+   "value": "— Parfait. Alors on est amis. C'est très rapide, chez moi."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La commandante Hélène Rask, elle, ne devint l'amie de personne."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait cinquante et un ans, les cheveux gris coupés très court, un uniforme repassé avec une précision militaire et la voix calme de quelqu'un qui n'a jamais eu besoin de crier pour être obéi. Elle avait commandé une frégate de la marine norvégienne pendant douze ans, puis la station orbitale européenne pendant deux. Elle dirigeait l'entraînement comme un navire de guerre."
+  },
+  {
+   "type": "text",
+   "value": "Le premier jour, au simulateur, Ilan mit onze secondes de trop à basculer sur le circuit de refroidissement secondaire."
+  },
+  {
+   "type": "text",
+   "value": "— Varga, dit-elle dans l'interphone. Vous avez quarante-trois ans. Vous avez été inapte au vol pendant cinq ans, et votre dernière mission s'est terminée avec quatre morts. Je ne vous ai pas choisi. On vous a imposé à moi."
+  },
+  {
+   "type": "text",
+   "value": "Silence dans la cabine. Kenji regarda ses chaussures."
+  },
+  {
+   "type": "text",
+   "value": "— Mais si vous êtes à bord, poursuivit Rask, vous êtes à moi. Et je ramène tout mon équipage. Recommencez."
+  },
+  {
+   "type": "text",
+   "value": "Il recommença. Il recommença quatorze fois. À la quinzième, il bascula en deux secondes. Rask nota quelque chose sur sa tablette et ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "Le soir, il la croisa par hasard sur la terrasse des quartiers d'équipage. Elle regardait son téléphone. Sur l'écran, une jeune femme blonde aux joues rouges, en bonnet de laine, riait devant un fjord gris."
+  },
+  {
+   "type": "text",
+   "value": "— Votre fille ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Rask hésita, puis tourna légèrement l'écran."
+  },
+  {
+   "type": "text",
+   "value": "— Ingrid. Vingt ans. Elle étudie la biologie marine à Tromsø. Elle compte les poissons qui changent de route à cause des marées."
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille fait de la physique. Elle calcule les marées."
+  },
+  {
+   "type": "text",
+   "value": "Rask le regarda vraiment, pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "— Alors elles ont des choses à se dire, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle rangea le téléphone et partit sans un mot de plus. Mais le lendemain, au simulateur, elle l'appela Ilan."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Avec Nora, ce fut plus lent et plus étrange."
+  },
+  {
+   "type": "text",
+   "value": "Ils travaillaient côte à côte dix heures par jour : elle préparait les instruments de mesure, lui les procédures de descente dans le cratère Tsiolkovski. Ils se disputaient sur tout. Sur la trajectoire d'approche, sur la quantité d'oxygène de réserve, sur l'endroit exact où se trouvait la galerie. Elle exigeait des preuves. Il répondait par des souvenirs. Ça finissait souvent avec Nora qui retirait ses lunettes pour se masser l'arête du nez et Ilan qui quittait la pièce."
+  },
+  {
+   "type": "text",
+   "value": "Et puis, un soir, il revint avec deux cafés et un croquis fait de mémoire, d'une précision qui la laissa muette : la forme de l'effondrement, la pente, le premier coude de la galerie. Elle le superposa à ses cartes de densité. Ça collait. Au mètre près."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes un très mauvais témoin, dit-elle, et un excellent cartographe."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un compliment ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est le plus beau que je fasse."
+  },
+  {
+   "type": "text",
+   "value": "Il sourit. Elle remit ses lunettes un peu trop vite."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ce fut cette nuit-là qu'il chercha ses anciens dossiers."
+  },
+  {
+   "type": "text",
+   "value": "Helion avait intégré une partie des archives de l'ASI à son réseau, pour la préparation de la mission. Ilan avait un accès d'équipage. Il voulait seulement retrouver ses notes de 2041 sur la descente : les angles, les distances, les durées. Il tapa *Artemis Nova* dans le moteur de recherche interne, s'attendant à trois PDF et une fiche technique."
+  },
+  {
+   "type": "text",
+   "value": "Il obtint une arborescence."
+  },
+  {
+   "type": "text",
+   "value": "Un dossier marqué *Restreint — Direction*. À l'intérieur, des sous-dossiers par date. Octobre 2041. Novembre 2041. Décembre 2041. Puis tous les mois, jusqu'à la semaine dernière. Chaque dossier contenait des notes, des analyses, des courriels, et un journal de consultation."
+  },
+  {
+   "type": "text",
+   "value": "Et, tout en haut, un fichier vidéo. *AN_CAM_HALE_EVA1_brut.mp4*. Quatre heures et douze minutes. Taille : intacte. Date de création : 14 octobre 2041."
+  },
+  {
+   "type": "text",
+   "value": "Juste en dessous, d'autres. *AN_CAM_SATO*. *AN_CAM_LENSKI*. *AN_CAM_MODULE*."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ouvrit le journal de consultation. Deux noms revenaient, ligne après ligne, mois après mois, pendant cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "*M. Kwan.*"
+  },
+  {
+   "type": "text",
+   "value": "*V. Brandt.*"
+  },
+  {
+   "type": "text",
+   "value": "Corrompus par la radiation, lui avaient-ils dit. Il fixa l'écran, la main gauche crispée sur le bord du bureau, pendant que sur la vignette du premier fichier, figée, floue, une tour de lumière bleue s'élevait dans le noir, exactement comme dans ses cauchemars."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Les vidéos cachées"
+  },
+  {
+   "type": "text",
+   "value": "Ils avaient tout vu. Depuis le premier jour."
+  }
+ ]
+}

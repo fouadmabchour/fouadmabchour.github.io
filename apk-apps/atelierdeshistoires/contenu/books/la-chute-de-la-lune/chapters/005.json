@@ -1,0 +1,285 @@
+{
+ "number": 5,
+ "title": "Le retour",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "L'amarrage se fit en mode automatique. Ilan ne l'aurait pas réussi autrement."
+  },
+  {
+   "type": "text",
+   "value": "Le module de remontée rejoignit en orbite lunaire le vaisseau de transfert qui les avait amenés, celui qui devait les ramener tous les cinq. Les crochets se refermèrent avec un choc sourd. Ilan passa le sas en flottant, ouvrit la trappe, et se retrouva dans la cabine où, trois jours plus tôt, Yara Mendes notait le bœuf aux carottes sur dix."
+  },
+  {
+   "type": "text",
+   "value": "Les sacs de couchage étaient toujours attachés au mur. Celui de Lenski, avec son carnet glissé dans la poche. Celui de Hale, impeccablement roulé. Le chignon d'Aiko avait laissé un élastique noir accroché à une poignée, qui flottait doucement au bout de sa boucle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Les sacs vides"
+  },
+  {
+   "type": "text",
+   "value": "Ilan arracha son casque et vomit dans un sac."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le contact radio revint quand le vaisseau sortit de derrière la Lune. Il entendit la voix du contrôle, hachée, puis claire, qui répétait son indicatif avec une inquiétude croissante."
+  },
+  {
+   "type": "text",
+   "value": "— Artemis Nova, ici Toulouse. Artemis Nova, nous avons perdu la télémétrie des combinaisons depuis sept heures. Répondez."
+  },
+  {
+   "type": "text",
+   "value": "Il appuya sur le bouton. Il lui fallut trois essais pour parler."
+  },
+  {
+   "type": "text",
+   "value": "— Toulouse, ici Varga. Je suis seul à bord."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura si longtemps qu'il crut avoir perdu le signal."
+  },
+  {
+   "type": "text",
+   "value": "— Répétez, Varga."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis seul. Hale, Lenski, Sato, Mendes. Ils sont morts. Ils sont tous morts."
+  },
+  {
+   "type": "text",
+   "value": "Puis il raconta. Tout. Les lumières. La galerie. La ville. Les Lumes. La guerre. Seraë. Les Ancres. Il parla pendant quarante minutes, sans s'arrêter, dans le désordre, revenant en arrière, se répétant, et quand il eut fini il entendit, à l'autre bout, des voix qui chuchotaient hors micro, puis la voix de Margaret Kwan."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan. Je veux que vous m'écoutiez attentivement. Vous avez subi un choc important. Votre dosimètre indique une exposition sérieuse. Vous allez suivre la procédure de retour, et nous parlerons de tout ça à votre arrivée. D'accord ?"
+  },
+  {
+   "type": "text",
+   "value": "— Les images, dit-il. Aiko a tout filmé. Les caméras des casques. Tout est enregistré dans la mémoire du module. Récupérez-les."
+  },
+  {
+   "type": "text",
+   "value": "— Nous les récupérerons. Reposez-vous."
+  },
+  {
+   "type": "text",
+   "value": "Il ne se reposa pas."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le voyage dura trois jours. Il ne se rappellerait jamais leur ordre exact."
+  },
+  {
+   "type": "text",
+   "value": "La fièvre arriva le premier soir. Puis les nausées, qui ne le quittèrent plus. Sa peau, dans le cou et sur le dos de la main gauche, devint rouge, puis violacée, puis se couvrit de cloques. Il connaissait les symptômes. Tout astronaute les connaissait. Syndrome d'irradiation aiguë. Il compta les jours sur ses doigts, refit les calculs de dose dans sa tête, et décida qu'il survivrait probablement. Probablement. Il s'accrocha au mot."
+  },
+  {
+   "type": "text",
+   "value": "Il dormait par tranches de vingt minutes. Il se réveillait en criant, persuadé d'être encore dans la galerie, le plafond qui tombait au ralenti. Il appelait Lenski. Il appelait Hale. Une fois, il se réveilla en serrant l'élastique d'Aiko dans son poing, et il ne savait pas quand il l'avait pris."
+  },
+  {
+   "type": "text",
+   "value": "Par le hublot, la Terre grossissait. Bleue, blanche, magnifique et indifférente. Quelque part sur cette boule, il y avait Lou. Il pensait à son message. « Reviens, d'accord ? » Il revenait. Il revenait seul, et il ne savait pas comment il allait la regarder."
+  },
+  {
+   "type": "text",
+   "value": "Il parlait à la cabine vide. Il racontait aux sièges ce qu'il allait dire à la Terre. Il répétait les mots de Seraë pour ne pas les oublier. Si nos Ancres tombent, ton monde tombe avec le nôtre. Il les écrivit au feutre sur le mur, au-dessus du siège du commandant, en grosses lettres tremblées."
+  },
+  {
+   "type": "text",
+   "value": "Le troisième jour, il regarda la Lune une dernière fois par le hublot arrière. Elle s'éloignait, petite, blanche, paisible. Personne en la regardant n'aurait pu deviner ce qu'il y avait dessous."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La rentrée atmosphérique fut un enfer de feu et de vibrations. La capsule se détacha du vaisseau, plongea dans l'air, et pendant quatre minutes Ilan fut écrasé contre son siège, entouré d'un plasma orange qui léchait les hublots. Puis les parachutes s'ouvrirent avec une secousse qui lui coupa le souffle. Puis l'eau."
+  },
+  {
+   "type": "text",
+   "value": "L'océan Pacifique, à six cents kilomètres au large de la Californie. Un choc, un balancement. Le silence."
+  },
+  {
+   "type": "text",
+   "value": "Quand les plongeurs de la marine ouvrirent la trappe, une lumière blanche inonda la capsule, et l'air de la Terre entra. Iodé, humide, lourd. Un homme en combinaison noire passa la tête, regarda les cinq sièges, et son visage changea."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Amerrissage"
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur ? Monsieur, vous m'entendez ?"
+  },
+  {
+   "type": "text",
+   "value": "Ilan voulut répondre. Il s'évanouit."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il se réveilla dans une chambre aux murs vert pâle, avec des tubes dans les bras et un bip régulier quelque part à sa gauche. Hôpital militaire de San Diego, lui dirait-on plus tard. Isolement. Combinaison de protection pour tous ceux qui entraient."
+  },
+  {
+   "type": "text",
+   "value": "Margaret Kwan entra le troisième jour. Elle ne portait pas de combinaison, seulement une blouse et un masque. Elle tira une chaise et s'assit au pied du lit, les mains croisées sur un dossier fermé."
+  },
+  {
+   "type": "text",
+   "value": "— Comment vous sentez-vous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Les images, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Elle soupira."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons extrait la mémoire du module. Les données sont corrompues. Les fichiers vidéo, les enregistrements audio, la télémétrie des combinaisons. Tout. La dose de radiation que vous avez reçue, le module l'a reçue aussi. Les techniciens ont essayé pendant quarante-huit heures. Il n'y a rien d'exploitable."
+  },
+  {
+   "type": "text",
+   "value": "— C'est impossible. Les mémoires sont blindées. Elles sont faites pour…"
+  },
+  {
+   "type": "text",
+   "value": "— Pour des conditions normales. Ce que vous avez traversé n'était pas normal."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda. Elle soutint son regard. Rien ne bougea sur son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais tout vous raconter, dit Ilan. Encore une fois. Depuis le début. Et vous allez l'écrire."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit son dossier, sortit un stylo."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous écoute."
+  },
+  {
+   "type": "text",
+   "value": "Il raconta. Pendant deux heures. Elle écrivit, posa quelques questions précises, techniques. La taille des créatures. Les couleurs. Le nombre d'Ancres. À la fin, elle referma le dossier, se leva et remit la chaise exactement à sa place."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Ilan. Reposez-vous. Votre fille est arrivée ce matin. Elle attend dans le couloir."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Lou entra avec une blouse trop grande et un masque qui lui mangeait la moitié du visage. Ses yeux, au-dessus, étaient rouges. Elle s'arrêta à deux mètres du lit, comme si on lui avait interdit d'avancer plus."
+  },
+  {
+   "type": "text",
+   "value": "Ilan vit son regard tomber sur son cou. Sur sa main. Sur les pansements."
+  },
+  {
+   "type": "text",
+   "value": "— Salut, Lou."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit rien. Elle traversa les deux mètres d'un coup, se jeta contre lui sans se soucier des tubes, des fils, de l'infirmière qui protestait derrière la vitre, et elle pleura. Elle pleura comme elle n'avait jamais pleuré devant lui, avec des sanglots qui la secouaient tout entière, le visage enfoui contre son épaule."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Retrouvailles"
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'avais dit que tu reviendrais, répétait-elle. Tu m'avais dit."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis revenu."
+  },
+  {
+   "type": "text",
+   "value": "— T'es tout brûlé. T'es tout brûlé, papa."
+  },
+  {
+   "type": "text",
+   "value": "Il posa sa main valide sur ses cheveux. Il n'avait pas pleuré depuis la galerie. Il ne pleura pas non plus. Il la tint simplement contre lui, aussi longtemps que l'infirmière le laissa faire."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le soir, l'infirmière alluma la télévision accrochée au mur pour lui. « Il y a une annonce, dit-elle. Ils disent que c'est important. »"
+  },
+  {
+   "type": "text",
+   "value": "L'écran montrait une salle de conférence à Genève. Des drapeaux. Des dizaines de journalistes, des flashs qui crépitaient. Sur l'estrade, Margaret Kwan, en tailleur noir, devant un pupitre portant le logo de l'ASI. Derrière elle, les photos officielles de l'équipage : Hale, Mendes, Lenski, Sato. Et Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Elle attendit que la salle se taise."
+  },
+  {
+   "type": "text",
+   "value": "— C'est avec une immense tristesse, commença-t-elle, que je dois vous annoncer la perte de quatre membres de l'équipage d'Artemis Nova."
+  },
+  {
+   "type": "text",
+   "value": "Ilan se redressa dans son lit. Les tubes tirèrent sur ses bras."
+  },
+  {
+   "type": "text",
+   "value": "— Lors de la phase d'exploration de surface, un accident technique grave s'est produit : un effondrement de terrain dans la zone du cratère Tsiolkovski, aggravé par une défaillance des systèmes de communication. Le commandant Marcus Hale, la docteure Yara Mendes, le docteur Piotr Lenski et l'ingénieure Aiko Sato ont perdu la vie. Nos pensées vont à leurs familles."
+  },
+  {
+   "type": "text",
+   "value": "Elle marqua une pause. Les flashs redoublèrent."
+  },
+  {
+   "type": "text",
+   "value": "— Le seul survivant, l'ingénieur de vol Ilan Varga, a été exposé à une dose de radiation très élevée. Il est actuellement soigné et ses jours ne sont plus en danger. Toutefois, nos équipes médicales ont constaté qu'il souffre d'un délire post-traumatique sévère. Les déclarations qu'il a pu faire pendant son retour ne reflètent pas la réalité de la mission. Nous demandons à chacun de respecter sa souffrance."
+  },
+  {
+   "type": "text",
+   "value": "Dans la chambre vert pâle, le bip du moniteur s'accéléra."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, Margaret Kwan referma son dossier, celui-là même qu'elle avait posé sur ses genoux le matin, au pied de son lit. Elle leva les yeux vers les caméras, vers le monde entier, vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a rien sur la Lune, dit-elle. Rien d'autre que de la roche."
+  }
+ ]
+}

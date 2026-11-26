@@ -1,0 +1,333 @@
+{
+ "number": 17,
+ "title": "Le Cœur",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les lettres rouges mirent longtemps à s'éteindre sur la paroi. Quand la dernière ligne s'effaça, le refuge resta plongé dans un silence épais."
+  },
+  {
+   "type": "text",
+   "value": "— Le cœur brûlant de votre vaisseau, répéta Kenji. Il parle du réacteur."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment qu'il parle du réacteur, dit Dorsey. Il veut notre fusion pour chauffer ses cavernes. C'est du chantage, rien d'autre."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un peuple qui meurt de froid, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Dorsey le regarda avec ce demi-sourire qu'Ilan avait appris à détester pendant l'entraînement, le sourire d'un homme qui pense que les autres sont des enfants."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas dit que ce n'était pas triste, Varga. J'ai dit que c'était du chantage."
+  },
+  {
+   "type": "text",
+   "value": "Rask leva une main. Les deux hommes se turent."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne donne rien à personne tant qu'on ne sait pas de quoi on parle. Seraë. Il a dit la dernière Ancre. Okafor, vous disiez qu'il en restait deux."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne parle que de celle qu'il peut atteindre, dit Seraë. L'autre est trop profonde, même pour eux. Mais une seule ne suffirait pas. Si la première tombe, la seconde ne tiendra pas longtemps seule."
+  },
+  {
+   "type": "text",
+   "value": "Elle tourna son long visage vers Ilan, puis vers Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Vous devez voir. Les mots ne suffisent pas. Venez avec moi au Cœur. Vous deux."
+  },
+  {
+   "type": "text",
+   "value": "Rask hésita une seconde, puis hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Une heure. Contact radio permanent. Petit, vous restez ici avec la caméra principale. Ilan emporte la petite."
+  },
+  {
+   "type": "text",
+   "value": "Sam lui fixa la caméra-bouton sur le casque avec des gestes rapides. Ses doigts tremblaient un peu."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me ramènes des belles images, dit-elle. Et tu reviens. Je n'ai pas fondé une communauté de onze millions de personnes pour te perdre au premier épisode."
+  },
+  {
+   "type": "text",
+   "value": "— On est loin du premier épisode, Lynx."
+  },
+  {
+   "type": "text",
+   "value": "— Justement."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La descente dura quarante minutes."
+  },
+  {
+   "type": "text",
+   "value": "Seraë les fit monter sur un disque de lumière qui se mit à glisser le long d'un puits en spirale, si large qu'un immeuble aurait pu y tenir, à une vitesse que les instruments de Nora refusaient d'afficher. Au départ, la gravité lunaire, un sixième de celle de la Terre, rendait chaque geste étrange. Puis, à mesure qu'ils s'enfonçaient, elle diminua encore : Ilan avait l'impression de flotter vers le bas, de tomber au ralenti dans le ventre de la Lune. Les parois étaient lisses, polies, couvertes de ces mêmes lignes géométriques que Sam avait trouvées gravées sur le fragment tombé près de Lyon, cinq ans plus tôt."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-1.webp",
+   "caption": "La descente"
+  },
+  {
+   "type": "text",
+   "value": "— Elle aurait adoré voir ça, dit Nora dans la radio."
+  },
+  {
+   "type": "text",
+   "value": "— Elle voit ça. Les Veilleurs voient ça."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne répondit pas. Elle regardait ses instruments. La température montait doucement, quelques degrés à peine. Le champ gravitationnel, lui, faisait n'importe quoi."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan, mon gravimètre devient fou. Les valeurs varient de presque un pour cent en quelques mètres. C'est impossible, à cette échelle, sauf si..."
+  },
+  {
+   "type": "text",
+   "value": "— Sauf si quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Sauf si quelque chose fabrique de la gravité."
+  },
+  {
+   "type": "text",
+   "value": "Le puits s'ouvrit d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "Ilan crut d'abord qu'ils étaient sortis à l'air libre, sous un ciel noir. Puis il comprit que c'était une salle. Une salle si grande que les lampes de leurs casques n'atteignaient ni le plafond ni le fond. Une sphère creuse, au centre de la Lune, et au milieu de cette sphère, une masse sombre qui rougeoyait faiblement, comme la braise d'un feu presque mort : le noyau."
+  },
+  {
+   "type": "text",
+   "value": "Autour du noyau, à des centaines de mètres, flottaient les Ancres."
+  },
+  {
+   "type": "text",
+   "value": "Il y en avait sept. Sept anneaux colossaux, chacun aussi large que la tour Eiffel était haute, disposés comme les pétales d'une fleur immense autour du cœur rouge. Chacun était fait de cette matière translucide qu'Ilan connaissait déjà, gravée de lignes infinies."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-2.webp",
+   "caption": "Les Ancres"
+  },
+  {
+   "type": "text",
+   "value": "Cinq étaient mortes."
+  },
+  {
+   "type": "text",
+   "value": "Ilan n'avait pas d'autre mot. Elles pendaient de travers dans le vide, fendues, éteintes, avec des morceaux entiers arrachés. L'une d'elles s'était brisée en deux, et ses deux moitiés tournaient lentement l'une autour de l'autre, comme des cadavres dans un courant. Autour d'elles flottait une poussière de débris, des milliers d'éclats qui renvoyaient la lumière des casques."
+  },
+  {
+   "type": "text",
+   "value": "Mais deux tournaient encore."
+  },
+  {
+   "type": "text",
+   "value": "Elles brillaient d'un bleu profond, et elles chantaient. Ilan l'entendait à travers sa combinaison, à travers ses os : une note grave, continue, si basse qu'elle ressemblait à une respiration. Elles tournaient sur elles-mêmes avec une lenteur majestueuse, et l'espace autour d'elles se tordait légèrement, comme l'air au-dessus d'une route en été."
+  },
+  {
+   "type": "text",
+   "value": "— Oh, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Juste ça. Oh. Ilan se tourna vers elle. Derrière sa visière, elle pleurait sans s'en rendre compte, les yeux grands ouverts."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la plus belle chose que j'aie jamais vue, dit-elle. Et la plus horrible."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Seraë. C'est ce que je me dis chaque jour depuis la mort de la cinquième."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ilan resta longtemps immobile au bord de la plate-forme. Il filmait. Il savait que des milliards de personnes regardaient cette image à travers ses yeux, que Lou, quelque part à Brest, la voyait aussi. Il ne savait pas quoi leur dire. Alors il ne dit rien et laissa la chose parler pour lui."
+  },
+  {
+   "type": "text",
+   "value": "Nora, elle, s'était mise au travail."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa sa tablette sur une console de pierre et commença à poser des questions, par rafales. Comment les Ancres puisaient-elles la chaleur du noyau ? Par des canaux, répondit Seraë, des veines de matière qui reliaient chaque anneau au cœur. Pouvait-on les nourrir autrement ? Seraë hésita. Peut-être. Il faudrait une source de chaleur, ou de lumière, très puissante et très stable. Les Lumes n'en avaient pas."
+  },
+  {
+   "type": "text",
+   "value": "— Mais nous, si, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna vers Ilan, et il vit son visage s'allumer, littéralement, comme si elle était devenue Lume elle-même."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan. Le réacteur de l'Odyssée. La fusion. C'est exactement ce qu'il leur faut. Une source compacte, stable, des centaines de mégawatts. Et ça ne suffira pas seul, mais Helion a ses stations solaires en orbite, celles qui renvoient l'énergie vers la Terre par faisceau. Si on réoriente le faisceau vers ici, vers le cratère..."
+  },
+  {
+   "type": "text",
+   "value": "— Les Ancres mortes ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non, elles sont trop abîmées. Mais les deux qui restent, on peut les gaver d'énergie. Et peut-être en réparer une ou deux autres avec les débris. Trois, quatre Ancres à pleine puissance, et la Lune s'arrête. Elle remonte. Lentement, mais elle remonte."
+  },
+  {
+   "type": "text",
+   "value": "Seraë s'était approchée. Sa lumière avait changé, Ilan n'avait jamais vu cette couleur sur elle : un bleu traversé d'or."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a une difficulté, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Laquelle ?"
+  },
+  {
+   "type": "text",
+   "value": "— Les Ancres ne s'éveillent pas sous une seule main. Nos ancêtres l'ont voulu ainsi, pour qu'aucun clan ne puisse s'en servir contre les autres. Il faut deux lumières pour les rallumer. Deux clans. Les Aster seuls ne le peuvent pas. Les Vorr seuls non plus."
+  },
+  {
+   "type": "text",
+   "value": "Le silence retomba sur la plate-forme. Ilan regarda les anneaux brisés, puis le noyau rouge, puis Seraë."
+  },
+  {
+   "type": "text",
+   "value": "— Donc il faut que vous et Vael rallumiez ces machines ensemble. Vous qui vous entretuez depuis combien de temps ?"
+  },
+  {
+   "type": "text",
+   "value": "— Deux de vos siècles."
+  },
+  {
+   "type": "text",
+   "value": "— Super, dit Ilan. Rien de plus facile."
+  },
+  {
+   "type": "text",
+   "value": "Nora éclata d'un rire bref, un rire de nerfs, et dans la radio, très loin là-haut, relayée de paroi en paroi, la voix de Kenji grésilla."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai entendu ça, Varga. C'est mon rôle, l'humour. Rends-le-moi."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ne riait pas vraiment. Il s'était approché du bord de la plate-forme, assez près pour sentir la vibration des deux Ancres vivantes lui remonter dans les jambes."
+  },
+  {
+   "type": "text",
+   "value": "— Seraë. Si Vael obtient notre réacteur, qu'est-ce qu'il en fera ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il réchauffera ses cités. Pour une saison, peut-être deux. Ses enfants vivront un peu plus longtemps. Et la Lune tombera un peu plus vite."
+  },
+  {
+   "type": "text",
+   "value": "— Et s'il détruit l'Ancre qu'il menace ?"
+  },
+  {
+   "type": "text",
+   "value": "— Alors la Lune tombera beaucoup plus vite."
+  },
+  {
+   "type": "text",
+   "value": "Nora fit défiler ses courbes, effaça une ligne, en traça une autre."
+  },
+  {
+   "type": "text",
+   "value": "— Dans les deux cas, on perd. La seule solution qui marche, c'est la troisième. Le réacteur pour les Ancres, pas pour les cités. Et les cités des Vorr chauffées ensuite par l'excédent, quand les Ancres tourneront de nouveau. Il y aura assez pour tout le monde, Ilan. Si on fait ça bien, il y aura assez."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut juste convaincre un chef de guerre qui vient de nous menacer en lettres de feu."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as passé cinq ans à essayer de convaincre la Terre entière. Un seul Lume, à côté, c'est presque reposant."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda. Elle ne souriait pas, mais ses yeux, si. Pour la première fois depuis Brest, il eut envie de la croire sans réserve."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, dit-il. On remonte. On en parle à Rask."
+  },
+  {
+   "type": "text",
+   "value": "Seraë posa un instant sa longue main sur l'épaule de sa combinaison. Il sentit à peine le contact, juste une chaleur légère, à travers les couches de tissu."
+  },
+  {
+   "type": "text",
+   "value": "— Merci d'être revenu, Ilan Varga. Je n'y croyais plus."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Pendant ce temps, dans le refuge, la commandante Rask réunissait les autres autour de l'écran de Sam pour suivre les images du Cœur. Les Aster s'étaient rapprochés, leurs lumières plus vives depuis qu'on parlait d'espoir."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne remarqua qu'Owen Dorsey n'était plus là."
+  },
+  {
+   "type": "text",
+   "value": "Il s'était glissé dans la galerie d'entrée, là où la roche coupait la vue. Il avait sorti de sa combinaison un petit boîtier noir qui n'appartenait pas à l'équipement de l'Odyssée, un émetteur Helion à canal crypté. Sur l'écran de son bracelet, il avait récupéré les données de positionnement que le casque d'Ilan renvoyait à chaque pas, la profondeur, l'azimut, la distance exacte depuis le fond du cratère."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-3.webp",
+   "caption": "Le traître"
+  },
+  {
+   "type": "text",
+   "value": "Il les compila en silence. Il ne tremblait pas."
+  },
+  {
+   "type": "text",
+   "value": "Il tapa un seul mot avant d'envoyer : Brandt."
+  },
+  {
+   "type": "text",
+   "value": "Puis, en dessous, une ligne de chiffres : les coordonnées exactes du Cœur."
+  },
+  {
+   "type": "text",
+   "value": "Il appuya sur Envoyer, rangea le boîtier, et revint dans le refuge avec son demi-sourire, comme s'il était seulement allé vérifier la porte."
+  }
+ ]
+}

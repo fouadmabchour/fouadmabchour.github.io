@@ -1,0 +1,285 @@
+{
+ "number": 3,
+ "title": "La face cachée",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ils se disputèrent pendant deux orbites entières."
+  },
+  {
+   "type": "text",
+   "value": "Hale voulait attendre le retour du contact radio, transmettre les images, demander des ordres. Lenski voulait descendre tout de suite. Mendes voulait comprendre ce qu'ils avaient vu avant de poser un pied où que ce soit. Sato ne disait rien ; elle repassait les images en boucle sur sa tablette, zoomait, ralentissait, comparait."
+  },
+  {
+   "type": "text",
+   "value": "— Ce ne sont pas des reflets, finit-elle par dire. Ni du soleil, ni de la Terre. Il fait nuit à cet endroit, et la Terre n'est pas visible d'ici. Cette lumière est produite là-dessous."
+  },
+  {
+   "type": "text",
+   "value": "— Du volcanisme ? proposa Ilan sans y croire."
+  },
+  {
+   "type": "text",
+   "value": "— La Lune est géologiquement morte depuis plus d'un milliard d'années, dit Lenski. Et la lave n'est pas bleue. Et elle ne se déplace pas en ligne droite."
+  },
+  {
+   "type": "text",
+   "value": "Quand le contact revint, Hale transmit tout. Il y eut un long silence à Houston, puis à Toulouse, puis une voix que tous reconnurent : Margaret Kwan."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes autorisés à vous poser. Reconnaissance seulement. Pas de prise de risque. Vous prenez des images, des échantillons, et vous remontez."
+  },
+  {
+   "type": "text",
+   "value": "— Bien reçu, dit Hale."
+  },
+  {
+   "type": "text",
+   "value": "Il coupa le micro et regarda son équipage."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez entendu la dame. Pas de prise de risque."
+  },
+  {
+   "type": "text",
+   "value": "— Sur la face cachée de la Lune, devant un trou plein de lumières qui bougent, dit Ilan. Évidemment."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'alunissage fut d'une douceur presque insultante. Hale posa le module à huit cents mètres du bord de l'effondrement, sur une plaine de régolithe grise, dans un nuage de poussière qui retomba aussitôt, sans air pour la porter. Les quatre pieds touchèrent le sol. Le moteur se tut."
+  },
+  {
+   "type": "text",
+   "value": "— Artemis Nova est posé, dit Hale, et pour la première fois depuis le départ sa voix tremblait."
+  },
+  {
+   "type": "text",
+   "value": "Il fut décidé que Mendes resterait au module. Quelqu'un devait surveiller les systèmes, relayer les communications vers l'orbiteur relais, et être prêt à décoller en urgence. Elle accepta en faisant la grimace."
+  },
+  {
+   "type": "text",
+   "value": "— Rapportez-moi un souvenir, dit-elle. Et pas un caillou, Piotr. J'en ai assez vu."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent à quatre. Le premier pas d'Ilan sur la Lune fut un pas lent, maladroit, lourd de toute une vie d'attente, et il ne trouva rien d'historique à dire. Il resta juste là, à regarder ses bottes s'enfoncer de deux centimètres dans la poussière fine comme de la farine, et le ciel noir sans une étoile, parce que le sol renvoyait trop de lumière de leurs projecteurs."
+  },
+  {
+   "type": "text",
+   "value": "— Alors ? demanda Hale."
+  },
+  {
+   "type": "text",
+   "value": "— C'est gris, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Superbe. On le mettra dans les manuels."
+  },
+  {
+   "type": "text",
+   "value": "Ils avancèrent par bonds, comme on le leur avait appris, à un sixième de leur poids. Le bord de l'effondrement apparut : une falaise irrégulière, des blocs de roche gros comme des maisons, empilés en désordre, et entre eux des fissures qui plongeaient dans le noir. Lenski trouva un passage, une pente de débris qui descendait en diagonale."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Au bord du gouffre"
+  },
+  {
+   "type": "text",
+   "value": "— Ça descend sur au moins cent mètres, dit-il. Les blocs ont l'air stables."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as l'air sûr de toi, dit Hale."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis sûr de rien. Mais regardez."
+  },
+  {
+   "type": "text",
+   "value": "Il éteignit sa lampe. Tous l'imitèrent. Au fond de la pente, une lueur bleue montait, faible, comme l'éclairage d'une piscine la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La pente déboucha sur une galerie. Pas une fissure naturelle : un tunnel aux parois trop lisses, trop régulières, un ovale parfait de dix mètres de haut. La roche avait un aspect vitrifié, comme si on l'avait fondue puis polie. Des lignes géométriques y étaient gravées, très fines, qui se croisaient et se recroisaient en motifs qu'Ilan ne savait pas lire mais qui, il en était certain, voulaient dire quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "— C'est artificiel, murmura Sato. Commandant. C'est construit."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Les respirations s'entendaient dans les radios, plus fortes, plus rapides."
+  },
+  {
+   "type": "text",
+   "value": "Ilan regarda son compteur de radiation, fixé à son poignet. Les valeurs montaient légèrement. Rien d'inquiétant. Pas encore."
+  },
+  {
+   "type": "text",
+   "value": "La galerie tourna, s'élargit, et s'ouvrit d'un coup sur le vide."
+  },
+  {
+   "type": "text",
+   "value": "Ilan dut s'agripper au bras de Lenski."
+  },
+  {
+   "type": "text",
+   "value": "Devant eux s'étendait une caverne si grande qu'il n'en voyait pas le fond. Le plafond, à des centaines de mètres au-dessus, disparaissait dans l'obscurité, percé par endroits de crevasses par lesquelles passait la nuit lunaire. Et dans cette caverne, il y avait une ville."
+  },
+  {
+   "type": "text",
+   "value": "Des tours. Des dizaines de tours translucides, fines comme des aiguilles, certaines hautes de deux cents mètres, qui brillaient de l'intérieur d'une lumière bleue et douce. Des ponts reliaient les tours, des courbes parfaites qui semblaient tenir par miracle. Des terrasses, des escaliers, des places circulaires. Tout était fait d'une matière semblable à du verre, ou à de la glace, et tout palpitait faiblement, comme une respiration."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "La ville cachée"
+  },
+  {
+   "type": "text",
+   "value": "Et la moitié de la ville était en ruines."
+  },
+  {
+   "type": "text",
+   "value": "Les tours brisées gisaient en travers des places. Les ponts pendaient dans le vide, sectionnés. Des pans entiers du plafond s'étaient effondrés, écrasant des quartiers sous des montagnes de roche grise. Là où la lumière s'était éteinte, il ne restait que des silhouettes de verre sombre, mortes."
+  },
+  {
+   "type": "text",
+   "value": "— Mon Dieu, dit Hale."
+  },
+  {
+   "type": "text",
+   "value": "Il n'était pas croyant. Ilan le savait."
+  },
+  {
+   "type": "text",
+   "value": "Sato filmait. Ses mains tremblaient dans ses gants épais. Lenski s'était assis sur un bloc, simplement assis, incapable de bouger."
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent un escalier taillé pour des jambes bien plus longues que les leurs. Chaque marche leur arrivait à mi-cuisse. Au pied de l'escalier, sur une place couverte de débris translucides, Ilan vit la première."
+  },
+  {
+   "type": "text",
+   "value": "Elle était allongée sur le flanc, à moitié recouverte de gravats. Grande, très grande, peut-être trois mètres. Mince. Un corps translucide comme les tours, à travers lequel on devinait des formes intérieures, des filaments, des nœuds. Un visage allongé, sans bouche visible. Des mains aux doigts interminables, ouvertes vers le ciel. Aucune lumière ne brillait en elle. Elle était grise, éteinte, comme une lampe débranchée."
+  },
+  {
+   "type": "text",
+   "value": "Il y en avait d'autres. Une dizaine sur la place. Plus loin, d'autres encore."
+  },
+  {
+   "type": "text",
+   "value": "— Ils sont morts, dit Sato. Tous."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas un accident, dit Lenski en se relevant. Regardez les impacts sur les murs. Les traces de brûlure. Les tours n'ont pas été écrasées par le plafond. Elles ont été coupées."
+  },
+  {
+   "type": "text",
+   "value": "Hale avait levé la main pour demander le silence."
+  },
+  {
+   "type": "text",
+   "value": "— Écoutez."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait pas d'air pour porter le son. Mais le sol, lui, vibrait. Ilan le sentit dans ses bottes, dans ses genoux. Une vibration sourde, rythmée, qui allait et venait. Puis une autre, plus aiguë. Puis la caverne s'illumina."
+  },
+  {
+   "type": "text",
+   "value": "Au loin, à l'autre bout de la ville, un éclair rouge traversa l'obscurité, frappa une tour, et la tour se fendit en deux dans un éclat silencieux de lumière. Un éclair bleu répondit. Puis dix. Puis cent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "La guerre"
+  },
+  {
+   "type": "text",
+   "value": "Ils les virent alors. Des silhouettes, grandes, minces, qui couraient entre les ruines, bondissaient de terrasse en terrasse avec une agilité impossible. Certaines brillaient de rouge et d'orange, comme des braises. D'autres de bleu, comme les tours. Elles s'affrontaient. Les éclairs partaient de leurs mains, ou d'objets qu'elles tenaient, et là où ils frappaient la roche explosait en gerbes de poussière."
+  },
+  {
+   "type": "text",
+   "value": "Une guerre. Ils étaient tombés au milieu d'une guerre."
+  },
+  {
+   "type": "text",
+   "value": "— On remonte, dit Hale. Tout de suite. Sato, tu as les images ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai tout."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on remonte. Lenski, devant. Varga, tu fermes la marche. On ne court pas, on ne…"
+  },
+  {
+   "type": "text",
+   "value": "Le combat se rapprochait. Les éclairs rouges balayaient maintenant la place voisine. Un pont s'effondra au-dessus d'eux, et ses morceaux tombèrent au ralenti, comme tout tombe sur la Lune, si lentement qu'on avait le temps de les regarder venir."
+  },
+  {
+   "type": "text",
+   "value": "— Courez ! cria Hale."
+  },
+  {
+   "type": "text",
+   "value": "Ils coururent vers l'escalier. Ilan avait pris Sato par le bras. Derrière eux, Hale s'était arrêté une seconde, pour vérifier que Lenski suivait, pour faire ce que font les commandants."
+  },
+  {
+   "type": "text",
+   "value": "Ilan se retourna. Il vit le commandant, sa silhouette blanche découpée sur les ruines bleues. Il vit Hale lever le bras, pour leur faire signe de continuer."
+  },
+  {
+   "type": "text",
+   "value": "Puis le monde devint blanc."
+  },
+  {
+   "type": "text",
+   "value": "Une explosion de lumière, sans aucun bruit, si violente qu'elle traversa la visière teintée de son casque. Le souffle n'existait pas, mais le sol, lui, se souleva. Ilan fut projeté contre les marches. Il perdit Sato. Il perdit le haut et le bas. Pendant de longues secondes, il n'y eut que la poussière, une poussière grise et dense qui retombait lentement, si lentement, et dans laquelle on ne voyait rien."
+  },
+  {
+   "type": "text",
+   "value": "Son compteur de radiation sonnait, une alarme stridente qui vrillait dans son casque."
+  },
+  {
+   "type": "text",
+   "value": "Il se releva. Sato était là, à quatre pattes, vivante, qui toussait dans sa radio. Lenski aussi, plus haut sur l'escalier, accroché à une marche."
+  },
+  {
+   "type": "text",
+   "value": "— Commandant ? appela Ilan."
+  },
+  {
+   "type": "text",
+   "value": "La poussière retombait toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Marcus. Réponds."
+  },
+  {
+   "type": "text",
+   "value": "Dans la radio, il n'y avait plus qu'un souffle. Le canal du commandant restait ouvert. Il n'en sortait aucune voix."
+  }
+ ]
+}

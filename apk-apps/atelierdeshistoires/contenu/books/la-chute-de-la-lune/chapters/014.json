@@ -1,0 +1,305 @@
+{
+ "number": 14,
+ "title": "Ce que le monde voit",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Au Ty Kanol, un petit bar du port de Brest, la télévision était accrochée au-dessus du comptoir depuis toujours, et depuis toujours personne ne la regardait."
+  },
+  {
+   "type": "text",
+   "value": "Ce matin-là, il y avait quarante personnes devant."
+  },
+  {
+   "type": "text",
+   "value": "Lou était arrivée la veille au soir, après onze heures de vol et deux correspondances, les yeux brûlants, avec dans son sac un tee-shirt des Veilleurs encore plié dans son emballage. Elle n'avait pas voulu rester seule dans sa chambre d'étudiante. Elle était descendue au port, là où son père avait réparé des grues pendant trois ans, la nuit, quand plus personne ne voulait l'embaucher ailleurs."
+  },
+  {
+   "type": "text",
+   "value": "Le patron, un vieux docker qu'on appelait Gwen, avait poussé le volume au maximum."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, la face cachée de la Lune."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne parlait. Les mugs de café refroidissaient sur les tables. Un marin en ciré jaune s'était arrêté à mi-chemin de la porte et ne bougeait plus, la main encore sur la poignée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "Le bar du port"
+  },
+  {
+   "type": "text",
+   "value": "Les failles. Les lumières au fond des failles. Les tours."
+  },
+  {
+   "type": "text",
+   "value": "— Putain, dit quelqu'un tout doucement, et ce n'était pas une insulte, c'était une prière."
+  },
+  {
+   "type": "text",
+   "value": "Lou sentit une main se poser sur son épaule. C'était Gwen. Il ne la regardait pas, il regardait l'écran, et ses yeux de vieux docker étaient humides."
+  },
+  {
+   "type": "text",
+   "value": "— Il nous l'avait dit, murmura-t-il. Ton père. Ici, à ce comptoir. Il nous l'avait dit cent fois, et on rigolait."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— On rigolait, petite."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Gwen. Moi aussi, j'ai rigolé."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "À Genève, au trentième étage du siège de l'ASI, Margaret Kwan était seule dans son bureau."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait renvoyé son assistant, coupé son téléphone, verrouillé la porte. Sur le grand écran mural, le stream de Sam Petit. Sur sa tablette, posée devant elle, une autre fenêtre : la séquence de la caméra de Piotr Lenski, minute seize, les tours."
+  },
+  {
+   "type": "text",
+   "value": "Les mêmes tours."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait regardé cette séquence peut-être deux cents fois en cinq ans. Elle la connaissait mieux que les visages de ses propres petits-enfants. Et maintenant, le monde entier la regardait avec elle, en direct, en couleurs, et il n'y avait plus aucun moyen de dire « corrompu », « délire », « accident technique »."
+  },
+  {
+   "type": "text",
+   "value": "Son téléphone fixe sonna. Elle ne décrocha pas. Il sonna encore. Elle débrancha le câble."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, la caméra de Sam pivota vers l'intérieur du module. On voyait les visages de l'équipage, figés. Rask, droite comme un mât. Kenji, la bouche entrouverte. Nora Okafor, une main plaquée sur ses lèvres. Et Ilan, un peu en retrait, qui ne regardait pas la Lune."
+  },
+  {
+   "type": "text",
+   "value": "Il regardait le hublot latéral, celui qui donnait vers la Terre. Kwan comprit qu'il ne voulait pas voir. Qu'il avait déjà vu, cinq ans plus tôt, et que pour lui ce n'était pas une découverte, c'était une tombe."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit le tiroir de son bureau. Dedans, une feuille manuscrite, pliée en quatre, qu'elle avait écrite trois ans plus tôt et jamais envoyée. Une lettre de démission."
+  },
+  {
+   "type": "text",
+   "value": "Elle la déplia. La relut. La replia."
+  },
+  {
+   "type": "text",
+   "value": "Pas encore. Pas tant qu'ils étaient là-haut."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, sous l'image, le bandeau des chaînes d'information avait changé de couleur. Les journalistes ne savaient plus quoi dire. Un présentateur de la BBC, en direct, resta silencieux pendant presque une minute entière, ce qui ne s'était jamais vu. Puis il prononça simplement le nom d'Ilan Varga, et ajouta, d'une voix qui n'était plus du tout professionnelle, que l'Agence Spatiale Internationale devait au monde une explication. Kwan éteignit le son. Elle savait déjà que cette explication, ce serait elle qui la donnerait."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "À São Paulo, sur la place de la Sé, des milliers de personnes s'étaient rassemblées devant un écran géant installé à la hâte par la mairie. Il était quatre heures du matin. Personne ne rentrait."
+  },
+  {
+   "type": "text",
+   "value": "À Lagos, dans le quartier de Yaba, une famille entière regardait le stream sur un téléphone posé contre une théière, et la grand-mère répétait le nom de Nora Okafor en tapant dans ses mains, parce qu'elle était sûre, absolument sûre, que cette fille-là avait une tante à Ibadan."
+  },
+  {
+   "type": "text",
+   "value": "À Tokyo, devant la gare de Shibuya, la foule était si dense que la police avait fermé le carrefour. Sur les écrans des tours, Kenji Arata, en gros plan, essuyait discrètement une larme avec le dos de son gant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Le monde regarde"
+  },
+  {
+   "type": "text",
+   "value": "À Lisbonne, sur les nouveaux quais construits trois kilomètres plus à l'intérieur des terres que les anciens, une vieille femme regardait la Lune. La vraie, celle du ciel, pâle dans l'aube, énorme. Elle avait perdu sa maison dans la première marée, en 2041. Elle avait toujours cru que c'était la colère de Dieu. Maintenant, elle savait que c'était une guerre."
+  },
+  {
+   "type": "text",
+   "value": "Et partout, sur tous les réseaux, dans toutes les langues, le même mouvement. Les comptes qui avaient fait d'Ilan Varga une blague pendant cinq ans se taisaient. Les vidéos parodiques disparaissaient, supprimées par leurs propres auteurs. Un animateur de télévision américain, célèbre pour avoir imité Ilan en combinaison de papier aluminium, publia un message de trois mots : « J'avais tort. Pardon. »"
+  },
+  {
+   "type": "text",
+   "value": "Les Veilleurs de Minuit, eux, ne triomphaient pas. Sam leur avait demandé, la veille, de ne pas le faire. Ils écrivaient seulement les noms. Marcus Hale. Yara Mendes. Piotr Lenski. Aiko Sato. Encore et encore, en boucle, dans le chat, en lettres blanches sur fond noir."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "À bord de l'Odyssée, Sam lisait ces noms défiler sur son écran et n'arrivait plus à parler."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan, dit-elle enfin, la voix cassée. Tu devrais voir ça."
+  },
+  {
+   "type": "text",
+   "value": "Il ne se retourna pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais ce qu'ils écrivent."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as gagné. Tu comprends ? Tout le monde te croit. Le monde entier. Ils te demandent pardon, ils..."
+  },
+  {
+   "type": "text",
+   "value": "— Sam."
+  },
+  {
+   "type": "text",
+   "value": "Il se tourna. Il avait le visage calme, presque vide."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien gagné. Ils sont toujours morts. Ils sont morts là-dessous, dans le noir, et personne n'est jamais venu les chercher. Et le monde va me demander pardon pendant une semaine, et après il va me demander ce qu'il y a de rentable dans ces tours."
+  },
+  {
+   "type": "text",
+   "value": "Sam baissa sa caméra. Pour la première fois depuis le décollage, elle la baissa vraiment, objectif vers le sol."
+  },
+  {
+   "type": "text",
+   "value": "Nora s'approcha d'Ilan. Elle ne le toucha pas, cette fois. Elle se plaça juste à côté de lui, à le frôler, et regarda la Terre avec lui."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne sont pas seuls, dit-elle doucement. Plus maintenant. Il y a un milliard de personnes qui connaissent leurs noms."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ferma les yeux. Quand il les rouvrit, ils brillaient."
+  },
+  {
+   "type": "text",
+   "value": "— Aiko aurait détesté ça, dit-il. Être célèbre. Elle était tellement timide qu'elle s'excusait auprès des machines quand elle les réparait."
+  },
+  {
+   "type": "text",
+   "value": "— Et Hale ?"
+  },
+  {
+   "type": "text",
+   "value": "Un petit sourire, très bref, passa sur le visage d'Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Hale aurait adoré. Il aurait demandé à Sam de filmer son meilleur profil."
+  },
+  {
+   "type": "text",
+   "value": "Kenji émit un son qui était à moitié un rire, à moitié un sanglot."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'aurais aimé, votre commandant."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde l'aimait. C'était insupportable."
+  },
+  {
+   "type": "text",
+   "value": "Rask, au poste de commande, n'avait pas quitté la vue des yeux. Elle parla sans se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Arata. Orbite de descente. On ne va pas rester ici éternellement à se faire des confidences."
+  },
+  {
+   "type": "text",
+   "value": "Mais sa voix n'était pas aussi froide que d'habitude. Ilan le remarqua. Il remarqua aussi qu'elle avait, glissée dans la poche de poitrine de sa combinaison, une petite photo plastifiée dont un coin dépassait : une jeune femme blonde aux cheveux longs, vingt ans peut-être, qui riait sur un bateau."
+  },
+  {
+   "type": "text",
+   "value": "— Votre fille ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Ingrid, répondit Rask après une seconde. Elle étudie la biologie marine à Tromsø. Elle trouve que les marées géantes sont scientifiquement passionnantes."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je trouve que j'aimerais qu'elle ait une mer à étudier dans dix ans."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée amorça sa descente vers l'orbite basse. La face cachée se rapprochait, ses failles s'élargissaient, ses lumières devenaient plus nettes. On distinguait maintenant des structures au bord des effondrements, des arches, des ponts qui enjambaient des gouffres, des formes qui auraient pu être des fenêtres."
+  },
+  {
+   "type": "text",
+   "value": "Dorsey, à l'arrière, n'avait pas dit un mot depuis le passage derrière la Lune. Il observait l'écran de navigation avec une attention étrange, comme s'il prenait des notes dans sa tête."
+  },
+  {
+   "type": "text",
+   "value": "Nora était revenue à sa console. Elle mesurait, calculait, marmonnait des chiffres. Soudain, elle se figea."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji. Tu as des échos radar sur le secteur quatre ?"
+  },
+  {
+   "type": "text",
+   "value": "— Secteur quatre… Attends."
+  },
+  {
+   "type": "text",
+   "value": "Il zooma. Sur l'écran, une dizaine de points venaient d'apparaître, juste au-dessus du bord du grand effondrement. Petits. Rapides. Qui montaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "Vaisseaux rouges"
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas de la roche, dit Kenji. La roche ne monte pas."
+  },
+  {
+   "type": "text",
+   "value": "Ilan se colla à la baie avant. Là-bas, très loin sous eux, au fond d'une faille, des lumières venaient de se détacher de la paroi. Des formes allongées, lisses, d'une couleur qu'il connaissait. Une couleur qu'il avait vue, en 2041, juste avant l'éclair qui avait tué Marcus Hale."
+  },
+  {
+   "type": "text",
+   "value": "Rouge. Un rouge profond, orangé, qui pulsait comme une braise."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante, dit-il d'une voix très calme. Il faut changer d'orbite. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran de Sam, des milliards de gens virent les vaisseaux lumineux rouges monter de la surface, droit vers l'Odyssée."
+  }
+ ]
+}

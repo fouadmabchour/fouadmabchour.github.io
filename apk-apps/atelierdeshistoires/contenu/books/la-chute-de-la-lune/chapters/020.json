@@ -1,0 +1,241 @@
+{
+ "number": 20,
+ "title": "Lynx",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le compteur tomba à zéro."
+  },
+  {
+   "type": "text",
+   "value": "Sam le regarda tomber sans comprendre. Trois milliards quatre cents millions. Puis deux. Puis quelques millions, ceux qui rafraîchissaient leur page en boucle. Puis zéro. Sur son écran de contrôle, à la place de l'image du casque d'Ilan, un rectangle noir, un logo, une phrase polie."
+  },
+  {
+   "type": "text",
+   "value": "Pour des raisons de sécurité, la diffusion est temporairement suspendue."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit-elle. Non, non, non. Vous n'avez pas le droit."
+  },
+  {
+   "type": "text",
+   "value": "Elle était seule dans le module de commande de l'Odyssée. Rask l'avait renvoyée au vaisseau avec deux Aster pour escorte, dès les premiers tirs : « Le relais est là-bas, protège le relais. » La commandante et Kenji fouillaient les galeries à la recherche de Dorsey. Nora était restée au refuge, au chevet de Seraë, dont la lumière s'éteignait et se rallumait comme un phare dans le brouillard."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "Seule à bord"
+  },
+  {
+   "type": "text",
+   "value": "Et Ilan était quelque part chez les Vorr. Vivant, peut-être. Sam ne le voyait plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa ses mains à plat sur la console. Elles tremblaient. Elle les regarda trembler, comme si elles appartenaient à quelqu'un d'autre."
+  },
+  {
+   "type": "text",
+   "value": "Respire, Lynx. Tu as déjà fait ça. Tu as déjà fait pire."
+  },
+  {
+   "type": "text",
+   "value": "C'était faux. Elle n'avait jamais rien fait de pire. Mais elle avait passé cinq ans à se battre contre des coupures. Sa première chaîne supprimée en une heure, en février 2042, le matin de la saisie du fragment. Puis la deuxième, la troisième, la septième. Les comptes bannis, les serveurs saisis, les hébergeurs qui la lâchaient. À chaque fois, elle avait trouvé une autre porte. Les Veilleurs l'appelaient Lynx parce qu'elle voyait dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit un terminal."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le système de diffusion de l'Odyssée appartenait à Helion, de bout en bout. Le relais au fond du cratère, les satellites, les serveurs sur Terre. Sam l'avait étudié pendant les six mois d'entraînement, la nuit, quand les autres dormaient. Elle n'avait jamais eu d'intention précise. Juste une vieille habitude de streameuse : toujours savoir où sont les câbles."
+  },
+  {
+   "type": "text",
+   "value": "La coupure ne venait pas du relais. Le relais émettait toujours, elle voyait le signal partir. Elle venait d'en bas, de la Terre, d'un serveur de Helion à Rotterdam qui filtrait le flux avant de le distribuer. Quelqu'un avait appuyé sur un bouton là-bas."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord, murmura-t-elle. Alors on ne passe plus par chez vous."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait d'autres oreilles tournées vers la Lune. Des radiotélescopes. Des antennes universitaires. Des amateurs. Les Veilleurs de Minuit, depuis cinq ans, en avaient construit des centaines, dans des jardins, sur des toits, pour écouter la Lune comme d'autres écoutent les étoiles. Elle connaissait les fréquences. Elle connaissait les gens. Il y avait Kofi, à Accra, avec sa parabole de six mètres. Il y avait le club d'astronomie de Valparaíso, qui avait tout perdu sous la grande marée et avait reconstruit son antenne sur une colline. Il y avait un vieux professeur à Hokkaido, une lycéenne à Tromsø."
+  },
+  {
+   "type": "text",
+   "value": "Le cratère ne voyait pas la Terre : entre les deux, il y avait toute l'épaisseur de la Lune. Il restait le satellite relais de Helion, en orbite haute, le seul point qui voyait à la fois la face cachée et la Terre. Elle réorienta l'antenne de secours de l'Odyssée vers lui. Elle en prit le contrôle avec les codes de maintenance, désactiva le chiffrement Helion, et lui fit renvoyer le flux du casque d'Ilan en clair, directement vers la Terre, sur une fréquence ouverte, la fréquence des Veilleurs, celle qu'ils écoutaient depuis le premier jour."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle envoya un seul message sur le forum, le vieux forum, celui de 2041 qui tenait encore sur un serveur islandais."
+  },
+  {
+   "type": "text",
+   "value": "Lynx : Antennes. Maintenant. Fréquence 7."
+  },
+  {
+   "type": "text",
+   "value": "Elle attendit. Dix secondes. Trente. Une minute."
+  },
+  {
+   "type": "text",
+   "value": "Le premier relais s'alluma à Accra. Puis Valparaíso. Puis vingt, puis cent, puis des milliers de points sur la carte du monde, chaque antenne amateur qui captait le signal et le renvoyait sur Internet, de proche en proche, comme un feu qui se propage d'une colline à l'autre. Helion pouvait couper un serveur. Il ne pouvait pas couper dix mille jardins."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "Dix mille jardins"
+  },
+  {
+   "type": "text",
+   "value": "Le compteur repartit. Un million. Cent millions. Un milliard."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir la Terre, dit Sam, la voix cassée, en rallumant sa propre caméra. Désolée pour la coupure. C'est Lynx. On reprend."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'image du casque d'Ilan revint sur un coin de l'écran. Elle tremblait, elle était sombre, mais elle était là. On voyait des lumières rouges, des parois de givre. On entendait Ilan respirer. Vivant. Il était vivant."
+  },
+  {
+   "type": "text",
+   "value": "Sam ferma les yeux une seconde. Puis elle les rouvrit, parce qu'elle n'avait pas fini."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait autre chose. Une chose qu'elle gardait depuis l'entraînement, depuis le jour où Ilan était sorti blanc comme un linge d'une salle d'archives de Helion avec une clé de données dans la main. Les vidéos d'Artemis Nova. Les vraies. Celles que Kwan avait déclarées corrompues. Celles où l'on voyait le commandant Hale, Lenski, Mendes, Aiko Sato, les tours de lumière, les premiers Lumes. Ilan les lui avait confiées avant le décollage."
+  },
+  {
+   "type": "text",
+   "value": "— Si un jour ils coupent, avait-il dit, tu sais ce que tu as à faire."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait aussi, depuis une heure, autre chose encore."
+  },
+  {
+   "type": "text",
+   "value": "Quand Ilan avait hurlé le nom de Dorsey dans la radio, elle avait fouillé les journaux de communication du vaisseau. Tout ce qui sortait du cratère passait par le relais, même ce qui était chiffré. Et Dorsey avait été prudent, mais pas assez. Son petit émetteur personnel s'appuyait sur l'antenne de l'Odyssée. Le relais avait gardé une copie de chaque paquet."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait mis quarante minutes à casser le chiffrement. Un chiffrement Helion, standard, celui qu'elle avait étudié la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait des dizaines de messages. Tous adressés à la même personne : V. Brandt."
+  },
+  {
+   "type": "text",
+   "value": "Le premier, retrouvé dans les journaux du réseau de bord, datait de la veille du décollage. Module scellé chargé. Clé en ma possession. Rask informée du minimum."
+  },
+  {
+   "type": "text",
+   "value": "Un autre, envoyé deux heures plus tôt, depuis le refuge : Coordonnées exactes du Cœur ci-jointes. Accès confirmé. Technologie intacte sur deux unités."
+  },
+  {
+   "type": "text",
+   "value": "Et le dernier, envoyé quelques minutes avant le tir."
+  },
+  {
+   "type": "text",
+   "value": "Négociation en cours, risque d'accord entre les deux clans. Un accord rend votre objectif impossible. Je m'en occupe."
+  },
+  {
+   "type": "text",
+   "value": "Sam relut la phrase trois fois. Je m'en occupe. Un garde Vorr était mort à cause de ces trois mots. Seraë agonisait peut-être. Ilan était prisonnier."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne réfléchit plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle mit tout en ligne. Les vidéos de 2041, sans coupe, sans montage. La mort de l'équipage d'Artemis Nova, que le monde n'avait jamais vue. Les métadonnées qui prouvaient qu'elles étaient intactes depuis cinq ans, stockées sur les serveurs de Helion, consultées par Brandt et par Kwan. Et les messages de Dorsey, un par un, avec les dates, les heures, les signatures cryptographiques."
+  },
+  {
+   "type": "text",
+   "value": "Elle les lut à voix haute, face caméra, pour que personne ne puisse dire qu'il ne les avait pas entendus."
+  },
+  {
+   "type": "text",
+   "value": "Quand elle eut fini, le chat s'était arrêté. Pour la première fois depuis cinq ans, des milliards de personnes se taisaient en même temps."
+  },
+  {
+   "type": "text",
+   "value": "Puis il repartit, si vite que les messages devinrent illisibles, une cascade de couleurs et de langues. Sam ne lisait plus. Elle regardait juste la courbe monter."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Dans le refuge, Nora vit tout sur sa tablette, Seraë immobile à côté d'elle, sa lumière toujours vacillante. Dans les galeries, Rask l'entendit dans sa radio et s'arrêta net, la main contre la roche. Kenji, derrière elle, dit doucement :"
+  },
+  {
+   "type": "text",
+   "value": "— Il a mis une bombe dans notre soute, commandante. Et il vous a menti, à vous aussi."
+  },
+  {
+   "type": "text",
+   "value": "Rask ne répondit pas. Elle reprit sa marche, plus vite."
+  },
+  {
+   "type": "text",
+   "value": "Sur Terre, les places se remplissaient. Paris, Lagos, São Paulo, Tokyo. On allumait des lampes de poche vers le ciel, vers cette Lune énorme qui semblait plus proche que jamais. Le cours de Helion s'effondrait à Wall Street. Les chaînes d'information, qui avaient suivi la coupure sans protester, reprenaient maintenant le flux de Lynx, une à une, en citant les Veilleurs de Minuit sans plus jamais employer le mot complotistes."
+  },
+  {
+   "type": "text",
+   "value": "Et à Genève, au siège de l'Agence Spatiale Internationale, une conférence de presse s'ouvrit sans prévenir."
+  },
+  {
+   "type": "text",
+   "value": "Sam la vit apparaître sur un des écrans de contrôle, retransmise par une chaîne suisse. Une salle à moitié vide, des journalistes qui couraient encore pour s'installer. Et au pupitre, seule, sans conseiller, sans badge, une femme de soixante ans en tailleur gris, les cheveux blancs tirés en arrière, les yeux rouges."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Les aveux"
+  },
+  {
+   "type": "text",
+   "value": "Margaret Kwan."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa une feuille sur le pupitre. Elle ne la lut pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je démissionne de mes fonctions de directrice de l'ASI, dit-elle. À compter de cette minute. Et avant de partir, je dois quelque chose à un homme."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva les yeux vers les caméras. Sa voix ne tremblait pas."
+  },
+  {
+   "type": "text",
+   "value": "— En 2041, j'ai fait déclarer corrompus des enregistrements qui ne l'étaient pas. J'ai dit au monde que l'équipage d'Artemis Nova était mort dans un accident. J'ai laissé dire que le seul survivant délirait. J'ai menti pour éviter la panique. J'ai menti pendant cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "Elle marqua une pause. Dans le module de l'Odyssée, Sam ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan Varga a dit la vérité depuis le premier jour."
+  }
+ ]
+}

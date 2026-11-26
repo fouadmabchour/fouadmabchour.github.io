@@ -8,7 +8,188 @@
   "science-fiction"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-26T09:32:02Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-26T11:28:46Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "La marée de minuit",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 2,
+   "title": "Artemis Nova",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 3,
+   "title": "La face cachée",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 4,
+   "title": "Seraë",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 5,
+   "title": "Le retour",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 6,
+   "title": "Le fou de la Lune",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 7,
+   "title": "Les Veilleurs de Minuit",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 8,
+   "title": "Cinq ans",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 9,
+   "title": "Nora",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 10,
+   "title": "Helion",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 11,
+   "title": "Les enregistrements",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 12,
+   "title": "Le décollage",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 13,
+   "title": "Trois jours",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 14,
+   "title": "Ce que le monde voit",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 15,
+   "title": "Atterrissage forcé",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 16,
+   "title": "Les Aster",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 17,
+   "title": "Le Cœur",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 18,
+   "title": "Vael",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 19,
+   "title": "Pris",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 20,
+   "title": "Lynx",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 21,
+   "title": "Prisonnier",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 22,
+   "title": "Désobéir",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 23,
+   "title": "La grande marée",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 24,
+   "title": "Le prix",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 25,
+   "title": "Rask",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 26,
+   "title": "Le silence",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 27,
+   "title": "L'allumage",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 28,
+   "title": "Le premier mètre",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 29,
+   "title": "Les Lumes",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  },
+  {
+   "number": 30,
+   "title": "La Lune à sa place",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-26T11:28:46Z"
+  }
+ ]
 }

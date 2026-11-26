@@ -1,0 +1,269 @@
+{
+ "number": 18,
+ "title": "Vael",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Rask avait dit non trois fois avant de dire oui."
+  },
+  {
+   "type": "text",
+   "value": "— Vous voulez aller voir un chef de guerre qui menace de détruire la Lune, avait-elle résumé, les bras croisés, dans le halo bleu du refuge. Sans arme, avec une caméra et une Lume usée par deux siècles de guerre. C'est bien ça, Varga ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est bien ça."
+  },
+  {
+   "type": "text",
+   "value": "— Et pourquoi vous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que je suis le seul humain qu'il connaisse de nom. Seraë dit qu'ils captent nos émissions depuis un siècle. Depuis cinq ans, ils savent qui je suis. Le fou de la Lune. Le type que personne ne croyait. Je pense que ça peut lui parler."
+  },
+  {
+   "type": "text",
+   "value": "Rask l'avait regardé longtemps. Puis elle avait sorti sa montre, une vieille montre de plongée à cadran orange, et l'avait réglée."
+  },
+  {
+   "type": "text",
+   "value": "— Trois heures. Pas une minute de plus. Si vous ne revenez pas, je considère que vous êtes prisonnier et j'improvise. Et Varga ? Je n'aime pas improviser."
+  },
+  {
+   "type": "text",
+   "value": "Dorsey avait protesté, évidemment. Il voulait les accompagner, « pour la sécurité ». Rask avait refusé net : une arme dans une négociation, c'était une négociation ratée. Dorsey avait haussé les épaules, souri, et il était allé s'asseoir dans un coin du refuge avec un air de patience infinie."
+  },
+  {
+   "type": "text",
+   "value": "Ilan aurait dû se méfier de ce sourire-là."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le territoire Vorr commençait au bout d'un pont de pierre suspendu au-dessus d'un gouffre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "Le pont"
+  },
+  {
+   "type": "text",
+   "value": "Seraë s'arrêta au milieu. Sa lumière s'était faite très pâle, presque blanche."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas traversé ce pont depuis la mort de la troisième Ancre, dit-elle. La dernière fois, je venais pour me battre."
+  },
+  {
+   "type": "text",
+   "value": "— Et cette fois ?"
+  },
+  {
+   "type": "text",
+   "value": "— Cette fois, je viens avec un humain qui parle trop. Je ne sais pas si c'est mieux."
+  },
+  {
+   "type": "text",
+   "value": "Ilan sourit malgré lui. Dans son casque, la voix de Sam murmura :"
+  },
+  {
+   "type": "text",
+   "value": "— Les Veilleurs l'adorent. Le chat explose. Il y a un hashtag « Seraë présidente »."
+  },
+  {
+   "type": "text",
+   "value": "De l'autre côté, la cité des Vorr se déployait dans une caverne plus vaste encore que celle des Aster. Mais elle était froide. Ilan le vit tout de suite, sur l'écran thermique de sa visière : des tours de lumière éteintes, des places désertes couvertes d'un givre fin, des centaines de Lumes regroupés autour de quelques foyers rougeâtres, des espèces de colonnes de chaleur qui faiblissaient. Leurs lumières à eux étaient rouges et orangées, mais ternes, comme des braises sous la cendre."
+  },
+  {
+   "type": "text",
+   "value": "Des gardes vinrent à leur rencontre. Grands, plus massifs que les Aster, ils portaient des armes longues et fines qui ressemblaient à des aiguilles de verre. Ils encerclèrent Seraë et Ilan sans un geste brusque, puis les conduisirent au centre de la cité."
+  },
+  {
+   "type": "text",
+   "value": "Vael les attendait sous une voûte immense."
+  },
+  {
+   "type": "text",
+   "value": "Il était plus grand que Seraë, plus large aussi, et sa lumière rouge-orangé battait lentement, comme un cœur. Son visage allongé portait des marques, des fissures sombres dans la matière translucide, des cicatrices peut-être. Il regarda Seraë d'abord, longtemps. Puis il tourna la tête vers Ilan."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "Vael"
+  },
+  {
+   "type": "text",
+   "value": "— Ilan Varga, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était plus profonde que celle de Seraë. Il parlait un français plus heurté, appris sur des chaînes d'information en continu, avec des intonations de présentateur de journal."
+  },
+  {
+   "type": "text",
+   "value": "— L'homme qui a vu. L'homme que son peuple a appelé fou. Nous avons regardé ta vie à travers vos écrans. Tes moqueries. Ton chagrin. Ta bouteille."
+  },
+  {
+   "type": "text",
+   "value": "Ilan encaissa. Il n'avait pas pensé que la Lune entière l'avait regardé boire."
+  },
+  {
+   "type": "text",
+   "value": "— Alors tu sais que je ne suis pas venu te mentir."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais que tu es venu avec elle."
+  },
+  {
+   "type": "text",
+   "value": "La lumière de Vael vira au pourpre, une couleur qu'Ilan n'avait jamais vue chez aucun Lume. Seraë ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Les Aster ont gardé la chaleur des Ancres pendant que nos enfants gelaient, dit Vael. Regarde autour de toi, Ilan Varga. Regarde mes cités. Les foyers s'éteignent un par un. Cette saison, nous avons perdu un Vorr sur dix. Tu appelles ça une guerre ? C'est une famine. Et eux, ils gardent les machines."
+  },
+  {
+   "type": "text",
+   "value": "— Si on prend la chaleur des Ancres, la Lune tombe, dit Seraë. Tu le sais."
+  },
+  {
+   "type": "text",
+   "value": "— Elle tombe déjà !"
+  },
+  {
+   "type": "text",
+   "value": "La voûte vibra. Des éclats de givre se détachèrent du plafond et tombèrent au ralenti, scintillant dans la lumière rouge."
+  },
+  {
+   "type": "text",
+   "value": "Ilan leva les deux mains, paumes ouvertes. Un geste humain. Il espérait qu'ils le connaissaient."
+  },
+  {
+   "type": "text",
+   "value": "— Vael. Écoute-moi. Je ne suis pas là pour dire qui a raison. Moi aussi, j'ai perdu des gens ici. Quatre. Mon commandant, mes amis. Une femme qui s'appelait Aiko, qui est morte en me tenant la main, dans vos galeries. Pendant cinq ans j'ai haï votre guerre. Et je vous ai haïs, tous. Les rouges et les bleus."
+  },
+  {
+   "type": "text",
+   "value": "Il prit une inspiration."
+  },
+  {
+   "type": "text",
+   "value": "— Et puis je suis revenu, et je vois des gens qui ont froid. Des deux côtés. Des enfants qui ont faim. Je ne vois pas de monstres. Je vois des gens qui vont mourir parce qu'ils sont trop fatigués pour s'écouter."
+  },
+  {
+   "type": "text",
+   "value": "Vael ne répondit pas tout de suite. Sa lumière revint à son rouge-orangé, plus calme."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles comme lui, dit-il enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Comme qui ?"
+  },
+  {
+   "type": "text",
+   "value": "— Mon fils. Iru. Il disait que les Aster n'étaient pas nos ennemis. Que le vrai ennemi, c'était le froid. Il est allé parler aux gardiens, seul, il y a trois saisons. Il n'est jamais revenu."
+  },
+  {
+   "type": "text",
+   "value": "Seraë baissa la tête. Sa lumière se voila."
+  },
+  {
+   "type": "text",
+   "value": "— Il est mort dans l'effondrement de la quatrième Ancre, dit-elle doucement. Il essayait d'arrêter les combats. Je l'ai vu. Je n'ai pas pu l'atteindre."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura longtemps. Ilan n'osait plus bouger. Il sentait, sans les voir, des milliards de gens retenir leur souffle avec lui."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi me dis-tu cela maintenant ? demanda Vael."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que l'humain parle trop, répondit Seraë. Et parce qu'il a raison."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ilan expliqua tout. Le réacteur de l'Odyssée, les stations solaires de Helion, les calculs de Nora. Il montra les courbes sur sa tablette, et Vael se pencha au-dessus de l'écran, ses longs doigts effleurant les chiffres comme pour les sentir."
+  },
+  {
+   "type": "text",
+   "value": "— Si on rallume les Ancres ensemble, dit Ilan, la Lune remonte. Et quand elle sera stabilisée, il y aura un surplus d'énergie. Assez pour chauffer vos cités. Les vôtres et les leurs. Vous n'aurez plus à choisir."
+  },
+  {
+   "type": "text",
+   "value": "— Ensemble, répéta Vael. Rallumer avec elle. Avec les gardiens."
+  },
+  {
+   "type": "text",
+   "value": "— Il le faut. Vos ancêtres l'ont voulu ainsi. Deux lumières."
+  },
+  {
+   "type": "text",
+   "value": "Vael se redressa. Il regarda Seraë, et Ilan vit les deux lumières, la bleue et la rouge, vibrer à quelques mètres l'une de l'autre sans s'éteindre ni s'emporter. Il pensa à deux musiciens qui s'accordent avant un concert."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne promets rien, dit Vael. Mais je ne détruirai pas l'Ancre. Pas encore. Je donne trois de vos jours. Trois jours de trêve. Si vous me prouvez que votre machine peut nourrir les Ancres, nous parlerons du reste."
+  },
+  {
+   "type": "text",
+   "value": "— Trois jours, dit Ilan. C'est plus que ce que j'espérais."
+  },
+  {
+   "type": "text",
+   "value": "Il sentit ses jambes trembler dans sa combinaison. Dans sa radio, Sam pleurait sans bruit. Kenji, quelque part, dit seulement :"
+  },
+  {
+   "type": "text",
+   "value": "— Bon travail, le fou."
+  },
+  {
+   "type": "text",
+   "value": "Vael fit un geste. Les gardes abaissèrent leurs aiguilles de verre. Un jeune Vorr, debout près de la voûte, s'approcha d'un pas, comme pour mieux voir l'humain qui avait fait plier son chef. Sa lumière était d'un orange clair, presque doré, curieuse."
+  },
+  {
+   "type": "text",
+   "value": "C'est à cet instant qu'Ilan sentit le coup."
+  },
+  {
+   "type": "text",
+   "value": "Il ne l'entendit pas : il n'y avait presque pas d'air dans la caverne pour porter un son. Il le sentit, une secousse sèche transmise par la roche jusque dans ses bottes, et vit sur sa visière thermique un éclair bref venu des galeries derrière eux. Il connaissait cette signature, de ses stages de sécurité : une arme humaine."
+  },
+  {
+   "type": "text",
+   "value": "Le jeune garde Vorr s'immobilisa. Sa lumière dorée vacilla, une fois, deux fois. Puis il s'affaissa lentement, au ralenti, dans la faible gravité, et sa lueur s'éteignit avant même qu'il touche le sol."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "La trêve brisée"
+  },
+  {
+   "type": "text",
+   "value": "Ilan se retourna. Dans l'ombre de la galerie, à demi caché derrière un pilier, une silhouette humaine en combinaison grise abaissait son arme."
+  },
+  {
+   "type": "text",
+   "value": "Owen Dorsey."
+  },
+  {
+   "type": "text",
+   "value": "Autour d'Ilan, toutes les lumières des Vorr devinrent rouges d'un coup, et la trêve explosa."
+  }
+ ]
+}

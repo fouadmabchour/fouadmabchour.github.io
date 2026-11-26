@@ -1,0 +1,277 @@
+{
+ "number": 16,
+ "title": "Les Aster",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les Vorr n'avaient pas tiré. Devant la silhouette bleue, leurs lumières rouges avaient vacillé, puis ils avaient reculé dans les galeries, un par un, comme s'ils n'osaient pas l'affronter à découvert. Suivez-moi, vite, avait seulement dit Seraë. Ils marchèrent longtemps dans le noir, derrière la lumière bleue."
+  },
+  {
+   "type": "text",
+   "value": "Seraë ouvrait la route. Elle se déplaçait sans bruit, trois mètres de silhouette mince penchée sous les plafonds trop bas de la galerie, et la lueur qui battait sous sa peau translucide suffisait à éclairer les parois. Derrière elle venaient une vingtaine d'Aster, plus pâles encore, puis l'équipage de l'Odyssée en file indienne, casques allumés, bottes lourdes dans la poussière grise."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "La marche dans le noir"
+  },
+  {
+   "type": "text",
+   "value": "Ilan marchait juste derrière Seraë. Il n'arrivait pas à détacher les yeux de son dos. Cinq ans. Cinq ans à se demander s'il l'avait rêvée, à se réveiller la nuit avec sa voix dans le crâne, et elle était là, réelle, à portée de main."
+  },
+  {
+   "type": "text",
+   "value": "— Elle t'a reconnu tout de suite, murmura Kenji dans la radio. Moi, mon ex-femme a mis dix minutes à me reconnaître au supermarché. Et je n'avais même pas changé de coupe."
+  },
+  {
+   "type": "text",
+   "value": "— Silence radio, Arata, dit la commandante Rask."
+  },
+  {
+   "type": "text",
+   "value": "— Je détendais l'atmosphère, commandante. Enfin, ce qu'il en reste."
+  },
+  {
+   "type": "text",
+   "value": "Sam, quelque part derrière, étouffa un rire nerveux. La petite caméra fixée sur son épaule clignotait en rouge. Depuis l'atterrissage forcé, elle n'avait pas coupé le direct une seule seconde. Le relais de l'Odyssée, posé de travers au fond du cratère, renvoyait le signal vers les satellites de Helion, puis vers la Terre. Des milliards de gens marchaient avec eux."
+  },
+  {
+   "type": "text",
+   "value": "La galerie déboucha sur une caverne."
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'arrêta net. Nora faillit lui rentrer dedans."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas la cité qu'il avait vue en 2041, ces tours de lumière qui montaient jusqu'au plafond. C'était un refuge. Une salle immense mais basse, creusée à la hâte, où des centaines de Lumes se tenaient assis contre les parois, serrés les uns contre les autres. Leurs lumières étaient faibles. Pas éteintes : faibles, comme des veilleuses au bout de leurs piles. Un bleu presque gris, qui palpitait lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Mon Dieu, souffla Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont faim, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Il ne savait pas comment il le savait. Peut-être à la façon dont les plus petits, à peine deux mètres, se collaient contre les plus grands. Peut-être parce qu'il avait déjà vu des gens comme ça, dans les centres d'évacuation de la côte, après les grandes marées de 2044."
+  },
+  {
+   "type": "text",
+   "value": "Seraë se retourna vers eux. Sa lumière s'assombrit d'un ton."
+  },
+  {
+   "type": "text",
+   "value": "— Vous voyez juste, Ilan Varga. Nous ne mangeons pas comme vous. Nous buvons la chaleur. Et la chaleur s'en va."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix sortait de partout et de nulle part, une vibration qui faisait trembler l'air du casque. Le français qu'elle parlait avait un parfum de vieux poste de radio, de feuilleton des années soixante."
+  },
+  {
+   "type": "text",
+   "value": "— Asseyez-vous, je vous prie. Il est temps que je vous raconte ce que je n'ai pas eu le temps de dire, la première fois."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ils s'assirent sur la roche, en cercle, au milieu des Aster. Les Lumes les regardaient avec une curiosité silencieuse ; des reflets verts, puis jaunes, passaient sur leurs visages allongés sans bouche. Un petit s'approcha de Sam, tendit un long doigt vers la caméra rouge. Sam, très doucement, la tourna vers lui."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "Dis bonjour à la Terre"
+  },
+  {
+   "type": "text",
+   "value": "— Salut, toi, chuchota-t-elle. Dis bonjour à la Terre."
+  },
+  {
+   "type": "text",
+   "value": "La lumière du petit vira au rose. Sur l'écran de contrôle de Sam, le compteur affichait trois milliards deux cents millions de spectateurs."
+  },
+  {
+   "type": "text",
+   "value": "Seraë parla."
+  },
+  {
+   "type": "text",
+   "value": "Elle raconta un monde qu'aucun d'eux ne verrait jamais, très loin, autour d'une étoile morte. La fuite. Les vaisseaux. La Lune trouvée vide, froide, déjà creusée par le temps, et choisie parce qu'elle était cachée. Douze mille ans plus tôt, quand les humains taillaient encore des pointes de silex."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons construit les Ancres, dit-elle. Sept grandes machines autour du noyau. Elles tiennent la Lune à sa place. Elles l'ont tenue pour vous aussi, même si vous ne le saviez pas."
+  },
+  {
+   "type": "text",
+   "value": "— Elles tirent leur énergie de quoi ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix tremblait à peine. Elle avait sorti sa tablette, ses gants épais pianotaient déjà dessus."
+  },
+  {
+   "type": "text",
+   "value": "— De la chaleur du cœur de la Lune. Mais ce cœur refroidit. Depuis trois de vos siècles, il refroidit plus vite. Il n'y a plus assez de chaleur pour les Ancres et pour nos cités à la fois."
+  },
+  {
+   "type": "text",
+   "value": "— Et c'est là que la guerre commence, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Le clan Vorr veut prendre la chaleur des Ancres pour réchauffer ses cités. Sinon, ses enfants meurent. Nous, les Aster, gardiens des Ancres, nous refusons. Si on leur prend leur chaleur, la Lune glisse vers vous. Alors ils ont attaqué. Et nous nous sommes défendus."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tut un instant. Sa lumière se troubla, se fragmenta en éclats sombres."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq Ancres sont mortes dans les combats. Il en reste deux. Elles ne suffisent plus à vous tenir à distance."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne parla. Kenji, pour une fois, ne trouva rien à dire. Rask regardait le sol, les mâchoires serrées. Dorsey, un peu à l'écart près de l'entrée, avait les bras croisés sur sa combinaison grise de Helion."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi vous ne vous arrêtez pas ? demanda Sam. Si vous savez que tout le monde va mourir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que chaque clan croit que l'autre ment, petite. Et parce que nous avons beaucoup de morts à pleurer, des deux côtés. Les morts rendent sourds."
+  },
+  {
+   "type": "text",
+   "value": "Ilan baissa les yeux. Il pensa à Hale, à Lenski, à Mendes, à Aiko qui s'était éteinte contre lui. Il pensa à cinq ans de colère. Oui. Les morts rendaient sourds."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Nora ne parlait plus. Elle calculait."
+  },
+  {
+   "type": "text",
+   "value": "Ilan la regarda faire pendant de longues minutes. Elle demandait à Seraë des chiffres, et Seraë répondait avec une précision étrange, en unités humaines apprises à la radio : la puissance des deux Ancres restantes, la vitesse à laquelle le noyau perdait sa chaleur, la courbe de rapprochement. Nora croisait tout avec ses propres mesures, celles qu'elle accumulait depuis Cambridge, puis sur le campus Helion. Ses lèvres bougeaient en silence."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ? dit enfin Rask."
+  },
+  {
+   "type": "text",
+   "value": "Nora releva la tête. Derrière la visière, ses yeux brillaient, mais pas de joie."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a un point de non-retour, dit-elle. Un moment où même si on rallumait des Ancres, la Lune serait déjà trop près. Trop engagée dans sa chute. Les forces de marée entre elle et la Terre deviendraient trop fortes pour que deux ou trois machines puissent la retenir."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Soixante-douze jours."
+  },
+  {
+   "type": "text",
+   "value": "Le chiffre tomba dans le refuge comme une pierre dans un puits."
+  },
+  {
+   "type": "text",
+   "value": "— Soixante-douze jours, répéta Kenji. C'est moins que ma garantie de lave-vaisselle."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne rit. Mais Sam eut un petit hoquet qui ressemblait à un sanglot, et Ilan sentit quelque chose se desserrer dans sa poitrine. Kenji avait ce don : dire une bêtise juste au moment où on allait se noyer."
+  },
+  {
+   "type": "text",
+   "value": "— Et après ces soixante-douze jours ? demanda Sam, la voix basse. Pour la caméra. Ils ont le droit de savoir."
+  },
+  {
+   "type": "text",
+   "value": "Nora regarda l'objectif rouge. Elle respira."
+  },
+  {
+   "type": "text",
+   "value": "— Après, la Lune continue de se rapprocher. Les marées deviennent des murs d'eau. Les séismes se multiplient. Les débris pleuvent. Et dans quelques années, elle se brise, ou elle tombe. Personne ne survit à ça. Ni ici, ni là-bas."
+  },
+  {
+   "type": "text",
+   "value": "Rask se leva. Elle avait retrouvé sa voix de passerelle."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on a soixante-douze jours. C'est soixante-douze jours de plus que rien."
+  },
+  {
+   "type": "text",
+   "value": "Ilan vit qu'elle avait sorti de sa poche de poitrine une photo plastifiée, pliée en deux. Une jeune femme blonde riait sur un ponton, cheveux mouillés. Rask la regarda une seconde, la rangea, et ne dit rien. Il savait qui c'était : Ingrid, sa fille, vingt ans, étudiante à Tromsø. La commandante n'en parlait jamais. Elle avait juste dit, le premier jour de l'entraînement, que sa fille habitait à deux cents mètres de la mer."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ce fut le petit Lume qui le vit le premier."
+  },
+  {
+   "type": "text",
+   "value": "Il poussa un cri, si on pouvait appeler cri cette vibration aiguë qui fit grésiller les radios, et sa lumière rose vira au blanc. Tout autour, les Aster se relevèrent d'un seul mouvement. Les veilleuses grises s'allumèrent d'un coup, bleu vif, presque aveuglantes."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ? demanda Dorsey, la main déjà sur sa hanche."
+  },
+  {
+   "type": "text",
+   "value": "Seraë ne répondit pas. Elle regardait le mur du fond."
+  },
+  {
+   "type": "text",
+   "value": "La roche s'éclairait."
+  },
+  {
+   "type": "text",
+   "value": "D'abord une tache rouge, comme une braise au cœur de la pierre. Puis la tache s'étira, se ramifia, des veines de lumière rouge-orangé coururent sur toute la paroi, du sol jusqu'au plafond, traversant la roche comme si elle était du verre. Ilan sentit la vibration dans ses os avant de l'entendre. Une voix. Profonde, lente, qui n'était pas celle de Seraë."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "Le message de feu"
+  },
+  {
+   "type": "text",
+   "value": "Les lignes rouges se tordirent, formèrent des signes, puis des lettres. Des lettres humaines, maladroites, apprises sur des écrans de télévision qui n'existaient plus depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Sam braqua sa caméra sur le mur. Trois milliards de personnes lurent en même temps qu'eux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est Vael, dit Seraë très bas. Le chef des Vorr. Il sait que vous êtes là."
+  },
+  {
+   "type": "text",
+   "value": "La voix gronda dans la roche, et les lettres de feu brûlèrent sur la paroi :"
+  },
+  {
+   "type": "text",
+   "value": "« Donnez-nous le cœur brûlant de votre vaisseau, ou je détruis la dernière Ancre. »"
+  }
+ ]
+}

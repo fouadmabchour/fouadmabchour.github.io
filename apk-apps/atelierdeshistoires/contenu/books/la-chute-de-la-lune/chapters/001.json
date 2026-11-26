@@ -1,0 +1,289 @@
+{
+ "number": 1,
+ "title": "La marée de minuit",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La Lune était trop grosse."
+  },
+  {
+   "type": "text",
+   "value": "Ilan Varga le pensa en sortant du hangar, à vingt-trois heures passées, les mains encore grasses de lubrifiant, et il se moqua aussitôt de lui-même. Illusion d'optique. Une pleine lune basse sur l'horizon paraît toujours énorme, c'est le cerveau qui compare avec les arbres, les toits, les antennes. N'importe quel gamin de primaire le savait. Lui, ingénieur de vol à l'Agence Spatiale Internationale, trente-huit ans, quatre mille heures de simulateur, il le savait mieux que personne."
+  },
+  {
+   "type": "text",
+   "value": "Et pourtant."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est bizarre, dit Lou."
+  },
+  {
+   "type": "text",
+   "value": "Sa fille était assise sur le capot de la vieille voiture de service, les genoux repliés, la capuche de son sweat tirée sur ses cheveux châtains coupés court. Quatorze ans, l'âge où tout ce que disait son père méritait un soupir. Elle était arrivée la veille par le train de Rennes, pour une semaine de visite au centre d'entraînement de Toulouse. Claire avait accepté du bout des lèvres. Une semaine, pas un jour de plus."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Sous la Lune"
+  },
+  {
+   "type": "text",
+   "value": "— Bizarre comment ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pas. Grosse. Jaune. On dirait qu'elle nous regarde."
+  },
+  {
+   "type": "text",
+   "value": "— C'est l'illusion lunaire. Ton cerveau compare avec l'horizon et…"
+  },
+  {
+   "type": "text",
+   "value": "— Papa. Je t'ai pas demandé un cours."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les mains, vaincu, et vint s'asseoir à côté d'elle. Le capot était tiède. Au loin, les grands bâtiments blancs du centre dormaient sous les projecteurs, et au-dessus d'eux la Lune montait, ronde, pleine, avec ses mers sombres qu'il connaissait par cœur. Mer de la Tranquillité. Mer des Pluies. Océan des Tempêtes. Il les avait apprises à sept ans dans un atlas offert par sa grand-mère, et il s'était juré qu'un jour il marcherait dessus."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait jamais marché. Pas encore."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas y aller, un jour ? demanda Lou, comme si elle lisait dans sa tête."
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être. Il y a une mission l'an prochain. Je suis sur la liste."
+  },
+  {
+   "type": "text",
+   "value": "— Sur la liste, répéta-t-elle. Comme pour les vacances au ski. Comme pour mon anniversaire l'an dernier."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il n'y avait rien à répondre. L'anniversaire de ses treize ans, il l'avait passé dans une centrifugeuse à Cologne. Il avait appelé à vingt-deux heures. Elle dormait, ou faisait semblant."
+  },
+  {
+   "type": "text",
+   "value": "Son téléphone vibra. Puis celui de Lou. Puis, quelque part dans le hangar derrière eux, une radio que quelqu'un avait laissée allumée monta d'un coup, comme si une main invisible avait tourné le bouton."
+  },
+  {
+   "type": "text",
+   "value": "Lou regardait déjà son écran."
+  },
+  {
+   "type": "text",
+   "value": "— Papa. Regarde."
+  },
+  {
+   "type": "text",
+   "value": "Une vidéo tournait en boucle sur tous les réseaux. Filmée depuis une colline, de nuit, sous cette même pleine lune. Lisbonne. Les quais du Tage, les grandes places illuminées, les tramways jaunes. Et l'eau qui montait. Pas une vague, pas un tsunami avec son mur d'écume : une montée lente, lisse, silencieuse, comme une baignoire qu'on remplit. L'eau passait par-dessus les quais, envahissait la place du Commerce, soulevait des voitures qui se mettaient à flotter doucement, phares encore allumés, comme des jouets."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Lisbonne inondée"
+  },
+  {
+   "type": "text",
+   "value": "Des gens couraient. On entendait des sirènes, des cris, des klaxons. Un homme, quelque part près du micro, répétait en portugais une phrase qu'Ilan ne comprenait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de tempête, murmura Lou. Regarde le ciel. Il n'y a même pas de vent."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait raison. Le ciel au-dessus de Lisbonne était parfaitement dégagé. Et la Lune, là-haut, éclairait la scène comme un projecteur de théâtre."
+  },
+  {
+   "type": "text",
+   "value": "Ils rentrèrent dans le hangar. Une dizaine de techniciens de l'équipe de nuit s'étaient regroupés autour de l'écran mural, où une chaîne d'information continue avait coupé son programme. Une présentatrice aux yeux trop maquillés parlait d'une « marée exceptionnelle », d'un « coefficient jamais enregistré », de « plusieurs dizaines de disparus ». Puis un océanographe, interrogé en duplex, tirant sur sa cravate."
+  },
+  {
+   "type": "text",
+   "value": "— Honnêtement, nous ne comprenons pas, dit-il. Les marées sont prévisibles à la minute près. Elles dépendent de la position de la Lune et du Soleil, c'est de la mécanique céleste, c'est calculé des années à l'avance. Ce que nous voyons ce soir dépasse les prévisions de presque deux mètres. Ça n'a aucun sens."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a forcément une explication, insista la présentatrice."
+  },
+  {
+   "type": "text",
+   "value": "— Il y en a forcément une, répéta l'homme. Mais je ne la connais pas."
+  },
+  {
+   "type": "text",
+   "value": "Dans le hangar, personne ne parlait. Bertrand, le chef d'équipe, un colosse moustachu qui avait vu décoller trois générations de fusées, finit par lâcher :"
+  },
+  {
+   "type": "text",
+   "value": "— Deux mètres. Bon sang."
+  },
+  {
+   "type": "text",
+   "value": "Lou s'était collée contre le bras de son père. Elle ne s'en était sûrement pas rendu compte. Ilan n'osait pas bouger, de peur qu'elle s'en aperçoive et s'écarte."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le message arriva à six heures du matin."
+  },
+  {
+   "type": "text",
+   "value": "Ilan l'entendit vibrer sur la table de nuit de sa chambre de fonction, une pièce beige avec un lit étroit et une fenêtre sur les pistes. Lou dormait dans la chambre voisine. Il avait passé la nuit à suivre les informations, à regarder les images de Lisbonne, puis celles de Valparaíso au Chili, où la même chose s'était produite quelques heures plus tard. Il avait dormi deux heures, peut-être moins."
+  },
+  {
+   "type": "text",
+   "value": "« Réunion d'équipage, 7 h, salle Gagarine. Présence impérative. — M. Kwan. »"
+  },
+  {
+   "type": "text",
+   "value": "Margaret Kwan. La directrice de l'ASI en personne. Ilan l'avait croisée trois fois en six ans, toujours de loin, toujours entourée de gens en costume."
+  },
+  {
+   "type": "text",
+   "value": "La salle Gagarine sentait le café réchauffé. Ils étaient cinq autour de la table : le commandant Marcus Hale, cinquante-cinq ans, Américain, carrure de joueur de football à la retraite et voix de pasteur ; Yara Mendes, la médecin brésilienne, qui riait toujours un peu trop fort ; Piotr Lenski, le géologue polonais, maigre et silencieux, qui griffonnait déjà sur un carnet ; Aiko Sato, l'ingénieure japonaise, la plus jeune, qui avait battu Ilan à chaque épreuve de simulateur de l'année ; et Ilan lui-même. L'équipage d'Artemis Nova. Cinq astronautes pour une mission de reconnaissance prévue dans un an."
+  },
+  {
+   "type": "text",
+   "value": "Margaret Kwan entra sans saluer. Soixante ans, tailleur gris, cheveux noirs tirés, un regard qui pesait les gens comme des cargaisons."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez vu Lisbonne, dit-elle. Et Valparaíso."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une question."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons des anomalies, poursuivit-elle. Des données orbitales qui ne collent pas. Les sismographes du Japon et du Pérou enregistrent des secousses que personne ne sait relier à quoi que ce soit. Et nos sondes en orbite ont photographié quelque chose sur la face cachée, près du cratère Tsiolkovski. Un effondrement. Une zone de plusieurs kilomètres où le sol s'est affaissé."
+  },
+  {
+   "type": "text",
+   "value": "— Un impact de météorite ? demanda Lenski."
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être. Nous voulons des yeux sur place."
+  },
+  {
+   "type": "text",
+   "value": "Elle posa une tablette au centre de la table."
+  },
+  {
+   "type": "text",
+   "value": "— Artemis Nova est avancée. Décollage dans vingt et un jours."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Yara Mendes éclata de rire, puis s'arrêta net en voyant que personne ne riait avec elle."
+  },
+  {
+   "type": "text",
+   "value": "— Vingt et un jours, répéta Hale. Madame, avec tout le respect que je vous dois, nous ne sommes pas prêts. Les procédures d'alunissage ne sont pas validées, le module n'a pas fini ses essais…"
+  },
+  {
+   "type": "text",
+   "value": "— Le module est prêt à quatre-vingt-dix pour cent. Les dix pour cent restants, vous les ferez en route. Vous êtes les meilleurs, commandant. C'est pour ça que vous êtes dans cette salle."
+  },
+  {
+   "type": "text",
+   "value": "Aiko Sato croisa le regard d'Ilan. Elle haussa à peine les sourcils. Ilan connaissait ce regard. Il voulait dire : on y va. Enfin."
+  },
+  {
+   "type": "text",
+   "value": "Et il sentit, malgré tout, malgré Lisbonne et les voitures qui flottaient, une joie absurde lui monter dans la poitrine. La Lune. Dans vingt et un jours."
+  },
+  {
+   "type": "text",
+   "value": "Puis il pensa à Lou."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Elle le prit mal. Évidemment."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient sur le parking de la gare, le soir même, parce que Claire avait exigé que Lou rentre plus tôt « vu les circonstances ». Le train pour Rennes partait dans dix minutes."
+  },
+  {
+   "type": "text",
+   "value": "— Trois semaines, dit Lou. Tu m'avais dit l'an prochain."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas moi qui décide, Lou."
+  },
+  {
+   "type": "text",
+   "value": "— Si. Tu décides. Tu pourrais dire non."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas dire non à ça. C'est… c'est la Lune. C'est toute ma vie."
+  },
+  {
+   "type": "text",
+   "value": "Il regretta la phrase à l'instant où elle sortit. Lou le fixa. Ses yeux brillaient, mais elle ne pleurait pas. Elle ne pleurait jamais devant lui. C'était sa manière de gagner."
+  },
+  {
+   "type": "text",
+   "value": "— Toute ta vie, répéta-t-elle. D'accord. Ben va la voir, ta vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle prit son sac, tourna les talons et monta dans le train sans se retourner. Ilan resta sur le quai jusqu'à ce que le dernier wagon disparaisse. Au-dessus des voies, la Lune se levait, énorme, jaune, et il eut l'impression stupide qu'elle était encore plus grosse que la veille."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "À neuf cents kilomètres de là, dans un laboratoire de Cambridge où la seule lumière venait de trois écrans, Nora Okafor retira ses lunettes fines, se frotta les yeux et les remit."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait vingt-neuf ans, un doctorat en gravimétrie, et une règle simple : quand un résultat est absurde, c'est qu'on s'est trompé. Elle avait donc tout recommencé. Les mesures des réflecteurs laser posés sur la Lune par les missions Apollo, soixante-dix ans plus tôt. Les données des satellites. Les corrections atmosphériques, les erreurs d'horloge, les dérives instrumentales. Une première fois à dix-neuf heures. Une deuxième à vingt-trois heures. Une troisième, à l'instant, en changeant de logiciel, au cas où le premier aurait un défaut."
+  },
+  {
+   "type": "text",
+   "value": "Normalement, la Lune s'éloigne de la Terre. Trois virgule huit centimètres par an. Un fait aussi solide que la gravité elle-même."
+  },
+  {
+   "type": "text",
+   "value": "Sur son écran, le chiffre ne bougeait pas."
+  },
+  {
+   "type": "text",
+   "value": "Ce mois-ci, la Lune s'était rapprochée de quatre cent douze mètres."
+  },
+  {
+   "type": "text",
+   "value": "Nora fit défiler la courbe des six derniers mois. Le mois précédent : cent quatre-vingts mètres. Celui d'avant : soixante. Elle resta longtemps immobile, la main sur la bouche, à regarder la ligne qui se courbait vers le haut."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "La courbe"
+  },
+  {
+   "type": "text",
+   "value": "Ça accélérait."
+  }
+ ]
+}

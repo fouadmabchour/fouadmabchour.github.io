@@ -1,0 +1,277 @@
+{
+ "number": 8,
+ "title": "Cinq ans",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "En 2042, la Lune se rapprocha de six kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "Les astronomes amateurs le mesurèrent avant les agences. Les agences confirmèrent en juin, avec des mots prudents : « variation orbitale anormale », « phénomène en cours d'étude ». Il n'y eut pas de panique. Six kilomètres sur trois cent quatre-vingt-quatre mille, c'était un chiffre qu'on pouvait écrire en bas d'un article, entre la météo et les résultats sportifs."
+  },
+  {
+   "type": "text",
+   "value": "En 2043, elle se rapprocha de quatre cents kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut l'année où les marées cessèrent d'être une curiosité. Les marégraphes de la Manche enregistrèrent des coefficients que personne n'avait jamais vus. Le Mont-Saint-Michel fut coupé du continent dix-neuf jours sur trente. À Venise, on renonça. Les gouvernements parlèrent d'« adaptation », puis de « relocalisation progressive », puis, à la fin de l'année, simplement d'évacuation."
+  },
+  {
+   "type": "text",
+   "value": "En 2044, elle se rapprocha de quatre mille kilomètres, et le monde comprit qu'il ne s'agissait plus d'une ligne droite, mais d'une courbe."
+  },
+  {
+   "type": "text",
+   "value": "Les séismes arrivèrent avec les grandes marées, réglés comme des horloges. La croûte terrestre, tirée deux fois par jour un peu plus fort qu'avant, cédait là où elle était déjà fragile. Le Japon, le Chili, la Turquie, la Californie. Les sismologues apprirent à publier des calendriers. On savait désormais à quelle heure la terre allait trembler, et c'était, d'une certaine manière, pire que de ne pas savoir."
+  },
+  {
+   "type": "text",
+   "value": "En 2045, elle se rapprocha de dix-huit mille kilomètres, et les journées raccourcirent de quatre secondes. Personne ne les sentit. Les horloges atomiques, si. Les réseaux de satellites durent être recalibrés deux fois, et pendant trois heures, un mardi d'avril, aucun GPS de l'hémisphère Nord ne fonctionna correctement."
+  },
+  {
+   "type": "text",
+   "value": "Et en 2046, quand on levait les yeux, on la voyait."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'était pas énorme comme dans les films. Elle était juste trop grosse. Un peu trop, assez pour que l'œil le sache avant le cerveau. Une pleine lune de 2046 faisait arrêter les voitures sur le bord de la route. Les gens sortaient sur leur balcon, en silence. Les enfants nés après 2041 n'avaient jamais connu de Lune normale. Ils la dessinaient comme ça, immense, mangeant la moitié de la feuille."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'était rapprochée de huit pour cent."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le port de Brest, à trois heures du matin, sentait le gasoil, le sel et l'algue pourrie que la marée de la veille avait jetée jusque sur le parking."
+  },
+  {
+   "type": "text",
+   "value": "Ilan était couché sous le moteur d'un remorqueur, une lampe frontale vissée sur le crâne, les mains noires jusqu'aux poignets."
+  },
+  {
+   "type": "text",
+   "value": "— Varga ! cria Le Goff depuis le quai. Tu as fini, ou tu fais ta sieste là-dessous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je médite, Yann. C'est très mauvais de déranger un homme qui médite."
+  },
+  {
+   "type": "text",
+   "value": "— Ta méditation, elle doit être prête pour cinq heures. Le *Kreiz-Mor* sort à la renverse."
+  },
+  {
+   "type": "text",
+   "value": "— Elle sera prête."
+  },
+  {
+   "type": "text",
+   "value": "Elle fut prête à quatre heures vingt. Il remonta sur le quai, s'étira, sentit dans le dos la vieille brûlure tirer comme tous les matins. Le Goff lui tendit un thermos de café sans un mot. Il avait soixante ans, une moustache grise et une loyauté de granit, et il ne lui avait jamais posé une seule question sur la Lune. C'était pour ça qu'Ilan travaillait pour lui depuis trois ans."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'autre rive, les quais de commerce étaient déserts, protégés par une digue de béton neuve, haute de quatre mètres. Elle avait coûté une fortune. Les ingénieurs disaient déjà qu'elle ne suffirait pas en 2047."
+  },
+  {
+   "type": "text",
+   "value": "Ilan but son café en regardant la Lune descendre sur la rade. Elle était orange, ce matin-là, posée sur l'horizon comme un fruit trop mûr."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Le port de Brest"
+  },
+  {
+   "type": "text",
+   "value": "— Elle est belle, dit Le Goff."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est en train de nous tuer, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Ça empêche pas."
+  },
+  {
+   "type": "text",
+   "value": "Ilan sourit dans sa tasse."
+  },
+  {
+   "type": "text",
+   "value": "Il n'avait pas bu une goutte d'alcool depuis le 2 mars 2045. Quatorze mois. Il comptait encore les jours, parfois, la nuit, quand le moteur d'un bateau ne voulait pas démarrer et qu'il sentait la vieille colère remonter. Il avait arrêté un matin, sans cérémonie, après s'être réveillé sur le carrelage de la salle de bains avec la lèvre fendue et aucun souvenir de la soirée. Il s'était regardé dans le miroir. Il avait pensé à Aiko. Il avait pensé qu'elle n'était pas morte dans ses bras pour qu'il finisse comme ça."
+  },
+  {
+   "type": "text",
+   "value": "Les réunions, ensuite. Les cafés tièdes dans les salles paroissiales. Ça avait marché. À peu près."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il rentra chez lui à pied, à l'aube, par les rues en pente de Recouvrance. Il habitait un deux-pièces au troisième étage, au-dessus d'une ancienne mercerie. Devant sa porte, assise sur la marche, il y avait quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "Cheveux châtains, courts, un sac de toile sur les genoux, un livre de physique ouvert dessus."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Lou revient"
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta au milieu de la rue."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as une tête de mort-vivant, dit Lou."
+  },
+  {
+   "type": "text",
+   "value": "— Je travaille la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Je suis passée hier soir. Ton patron m'a dit que tu finissais vers cinq heures."
+  },
+  {
+   "type": "text",
+   "value": "Elle referma le livre. Elle avait dix-neuf ans. Elle avait le menton de sa mère et ses yeux à lui, et elle le regardait comme on regarde un chien qui a mordu autrefois et dont on n'est pas sûr qu'il ait changé."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'étaient revus quatre fois en cinq ans. Une fois à un anniversaire, gênés. Une fois dans un tribunal, quand Claire avait demandé la garde exclusive. Deux fois par hasard. Elle était à Brest depuis septembre, en licence de physique à l'université. Il l'avait appris par Claire, au téléphone, en une phrase. Il n'avait pas osé l'appeler. Huit mois qu'il vivait à deux kilomètres de sa fille, et il n'avait pas osé."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux entrer ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la porte. Ses mains n'arrivaient pas à trouver la bonne clé."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit le tour de l'appartement en silence. Les cartes de marées punaisées au mur. Les relevés orbitaux imprimés, couverts de notes au crayon. Une photo de l'équipage d'Artemis Nova, tous les cinq, en combinaison, souriants, Hale au milieu avec son bras sur les épaules de Lenski. Sur l'étagère, un bocal vide qui avait autrefois contenu des pièces de monnaie et qui contenait maintenant un jeton en métal : *1 an*."
+  },
+  {
+   "type": "text",
+   "value": "Lou le prit. Le tourna entre ses doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Maman m'a dit, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— C'est vrai."
+  },
+  {
+   "type": "text",
+   "value": "Elle reposa le jeton avec beaucoup de précaution, comme un objet fragile."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai fait un calcul, dit-elle sans se retourner. Pour un TD. On devait modéliser l'effet de la distance de la Lune sur les marées. Le prof voulait qu'on montre que c'est en un sur la distance au cube. Moi, j'ai pris les vraies données. Celles de cette année. Et j'ai remonté la courbe. Jusqu'en 2041."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna vers lui. Ses yeux brillaient."
+  },
+  {
+   "type": "text",
+   "value": "— Ça commence en août 2041, papa. Pas avant. Il y a un point de rupture. Quelque chose s'est cassé là-haut, juste avant ta mission. Comme si un truc qui retenait la Lune avait lâché. Mon prof dit que c'est une coïncidence. Ça n'en est pas une."
+  },
+  {
+   "type": "text",
+   "value": "Il ne trouva rien à dire. Il avait la gorge fermée."
+  },
+  {
+   "type": "text",
+   "value": "— Je te crois, dit Lou. Je crois que je t'ai toujours cru. Mais c'était plus facile de t'en vouloir. Tu étais parti, tu étais revenu tout seul, tu étais devenu ce mec dont on rigolait à la télé, et tu buvais. C'était plus facile de me dire que tu étais fou que de me dire que tu avais raison et que personne ne voulait t'écouter."
+  },
+  {
+   "type": "text",
+   "value": "— Lou…"
+  },
+  {
+   "type": "text",
+   "value": "— Laisse-moi finir. J'ai répété dans le bus."
+  },
+  {
+   "type": "text",
+   "value": "Il se tut. Elle prit une inspiration."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne te pardonne pas tout. Pas encore. Mais je suis là. Et je voudrais qu'on prenne un petit déjeuner. Tu as des œufs ?"
+  },
+  {
+   "type": "text",
+   "value": "Il avait des œufs. Il fit une omelette trop cuite. Elle la mangea en entier."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Les Veilleurs de Minuit avaient survécu à la suppression de la chaîne de Sam, puis à la suivante, puis à la troisième. Ils vivaient maintenant sur des serveurs décentralisés, des forums miroirs, des messageries chiffrées. Ils étaient onze millions, dans cent quarante pays. Les médias disaient « la mouvance complotiste lunaire ». Les gouvernements disaient « désinformation ». Un ministre français, en 2045, avait parlé d'« une secte autour d'un homme malade »."
+  },
+  {
+   "type": "text",
+   "value": "Sam streamait toujours, depuis Lyon, sous des noms différents. Elle appelait Ilan tous les dimanches. Elle n'avait jamais revu l'éclat."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir-là, Ilan raconta Lou au téléphone. Sam cria si fort qu'il dut écarter l'appareil de son oreille."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il retourna au port la nuit suivante, le cœur plus léger qu'il ne l'avait été depuis cinq ans. Il termina tôt, vers trois heures. Il remonta la rue de la Porte en sifflant un air que Lou fredonnait petite."
+  },
+  {
+   "type": "text",
+   "value": "Il y avait une voiture garée devant chez lui. Une voiture de location, propre, avec un autocollant d'aéroport sur le pare-brise."
+  },
+  {
+   "type": "text",
+   "value": "Une femme se tenait debout à côté, sous le réverbère. Grande, mince, un long manteau sombre. Des tresses relevées en chignon. Des lunettes fines dans lesquelles se reflétait, énorme, la Lune."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Sous le réverbère"
+  },
+  {
+   "type": "text",
+   "value": "Il la reconnut avant d'arriver à sa hauteur. Il aurait reconnu ce visage n'importe où. Il l'avait vu sur la première page du rapport, pendant des nuits entières, au-dessus d'une signature nette, appliquée."
+  },
+  {
+   "type": "text",
+   "value": "*Dr Nora Okafor. Récit du témoin incompatible avec les données.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle avait attendu dans le froid. Elle ne souriait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Varga, dit-elle. Il faut que je vous parle."
+  }
+ ]
+}

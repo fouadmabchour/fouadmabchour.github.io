@@ -1,0 +1,277 @@
+{
+ "number": 29,
+ "title": "Les Lumes",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ce fut Vael qui trouva la solution, et il la trouva en riant."
+  },
+  {
+   "type": "text",
+   "value": "Du moins, Nora supposa que c'était un rire : une série de pulsations orange très rapides, qui couraient sur son corps translucide de la poitrine jusqu'au bout des doigts. Il s'était remis en deux jours, grâce à la lumière prêtée par Seraë, et il se tenait maintenant dans la soute de l'Odyssée, plié pour ne pas toucher le plafond, devant le berceau vide où le réacteur avait dormi."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes venus de si loin avec un si petit feu, dit-il. Et vous l'avez donné. Mon peuple a cru, pendant des années, que vous étiez des voleurs qui viendraient prendre les Ancres. Vous êtes venus les rallumer, et vous avez brûlé votre seule maison volante pour le faire."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une manière de voir les choses, dit Kenji. Moi, je la vois surtout comme un très gros problème de mécanique."
+  },
+  {
+   "type": "text",
+   "value": "— Alors laisse les mécaniciens de mon peuple le regarder."
+  },
+  {
+   "type": "text",
+   "value": "Ils arrivèrent le lendemain. Une trentaine de Lumes, Vorr et Aster mêlés, qui portaient des objets que Kenji, pendant les premières heures, refusa d'appeler des outils : des tiges de verre qui chantaient quand on les approchait du métal, des plaques souples qui changeaient de forme sous les doigts, des sphères de lumière qu'ils posaient à l'intérieur des parois du vaisseau comme on pose une lampe dans une pièce sombre."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne réparent pas le réacteur, dit Nora au bout de la deuxième journée, les yeux sur ses capteurs. Ils le remplacent. Ils font pousser un cristal dans le berceau. Il prend la chaleur du noyau, il la stocke, et il la rend à la demande. Il n'y a rien de radioactif là-dedans. Rien du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Ça marche comment ? demanda Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Aucune idée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es astrophysicienne."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis astrophysicienne humaine. Ils ont douze mille ans d'avance sur nous dans ce domaine précis. Je pourrais passer le reste de ma vie à étudier ce cristal et mourir en ayant compris le premier chapitre."
+  },
+  {
+   "type": "text",
+   "value": "— Donc tu me demandes de décoller avec un moteur que personne ne comprend."
+  },
+  {
+   "type": "text",
+   "value": "— Je te demande de décoller avec un moteur que personne sur Terre ne comprend, corrigea Nora. Eux, ils le comprennent très bien."
+  },
+  {
+   "type": "text",
+   "value": "Kenji regarda le cristal qui grandissait doucement dans la soute, avec des reflets dorés."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-1.webp",
+   "caption": "Le cristal"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai connu pire, dit-il. Mon premier avion avait été entretenu par mon oncle."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Pendant ces journées-là, le Cœur ne se vida jamais."
+  },
+  {
+   "type": "text",
+   "value": "Les Ancres tournaient, et les chiffres de La Silla montaient, lentement : une centaine de mètres par jour, puis un peu plus. Les Lumes venaient les regarder. Ils restaient assis des heures au bord de la grande salle, Aster et Vorr, sans parler, leurs lumières baignées dans l'or des anneaux. Nora les observait parfois depuis l'entrée. Elle pensait à ces gens, sur Terre, qui montaient sur les toits pendant les éclipses."
+  },
+  {
+   "type": "text",
+   "value": "Le troisième jour, Seraë et Vael réunirent les deux clans au pied de la septième Ancre. Sam filma, avec leur accord, pour la Terre entière."
+  },
+  {
+   "type": "text",
+   "value": "Ce qu'ils décidèrent ce jour-là tenait en peu de mots. L'énergie des Ancres serait partagée. Une part irait aux cités Vorr, où les enfants avaient froid depuis trop longtemps, une part resterait aux Ancres, et les gardiens Aster ne seraient plus seulement des Aster. Les stations solaires de la Terre, si les humains l'acceptaient, enverraient un faisceau chaque mois pour compenser ce que le noyau ne donnait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas la paix, dit Seraë à Sam, quand la caméra se fut éteinte. Une paix, cela ne se décide pas en un jour. C'est la fin de la guerre. Pour commencer, c'est assez."
+  },
+  {
+   "type": "text",
+   "value": "Vael s'avança ensuite, seul, vers la caméra de Sam. Il fit signe qu'il voulait parler."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux aller voir votre monde, dit-il dans son français haché, appris sur les chaînes d'information. Votre monde a regardé le nôtre pendant que nous nous tuions. Il est juste qu'un de nous aille regarder le vôtre. Et il faut quelqu'un, là-bas, pour parler à vos chefs quand ils oublieront ce qu'ils ont vu ici. Les chefs oublient. Les miens aussi oubliaient."
+  },
+  {
+   "type": "text",
+   "value": "— Tu veux être ambassadeur, dit Sam."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne connais pas ce mot. Mais si c'est quelqu'un qui part loin de chez lui pour que les autres ne recommencent pas la guerre, oui. Je veux être ce mot."
+  },
+  {
+   "type": "text",
+   "value": "Sur Terre, les Veilleurs créèrent en une heure un compte au nom de Vael. Il eut quatre cents millions d'abonnés avant le soir. Il n'avait jamais vu de téléphone."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ilan se réveilla le cinquième jour, au milieu de la nuit de bord."
+  },
+  {
+   "type": "text",
+   "value": "Il mit longtemps à comprendre où il était. Il y avait un plafond blanc, une odeur de désinfectant, un bip régulier quelque part à sa droite. Sa bouche était sèche comme du sable. Sa main gauche brûlait, une brûlure sourde, familière, et quand il voulut la lever, il s'aperçut qu'elle était bandée jusqu'au poignet."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna la tête. Nora dormait sur une chaise pliante, à côté de la couchette, la tête contre la paroi, les lunettes de travers. Elle avait sur les genoux une tablette encore allumée qui affichait une courbe. Une courbe qui montait."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda dormir un long moment. Puis il essaya de parler et ne sortit qu'un bruit rauque."
+  },
+  {
+   "type": "text",
+   "value": "Nora ouvrit les yeux d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Elle se pencha, posa la main sur son front, sur sa joue, comme pour vérifier qu'il était bien réel. Elle avait l'air épuisée. Il ne l'avait jamais trouvée aussi belle."
+  },
+  {
+   "type": "text",
+   "value": "— Les Ancres, articula-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Toutes les sept. Elles tiennent. La Lune s'éloigne depuis cinq jours. Plus de cinq cents mètres, ce matin. Tu as réussi."
+  },
+  {
+   "type": "text",
+   "value": "— On a réussi."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as fait la partie stupide, dit-elle. Celle où on descend dans un puits radioactif alors que quelqu'un vous a dit non."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as dit non, se souvint-il."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai dit non trois fois."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas entendu la troisième."
+  },
+  {
+   "type": "text",
+   "value": "— C'était dans le puits. Tu étais inconscient. Ça compte quand même."
+  },
+  {
+   "type": "text",
+   "value": "Il voulut rire. Ça lui fit mal partout. Elle l'aida à boire quelques gorgées d'eau, une main derrière sa nuque, et il remarqua que ses doigts tremblaient."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis désolé, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— De quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— De t'avoir fait peur."
+  },
+  {
+   "type": "text",
+   "value": "Nora reposa la gourde. Elle resta un instant sans rien dire. Puis elle enleva ses lunettes, et Ilan comprit qu'elle faisait toujours ça avant de dire quelque chose de vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a cinq ans, dit-elle, j'ai signé un rapport qui disait que tu délirais. Je l'ai signé parce que les données ne collaient pas. Je n'ai jamais pensé que les données pouvaient être fausses, ou cachées. J'ai cru que c'était toi qui avais tort. Et pendant ces cinq jours, assise ici, à regarder si tu respirais, j'ai pensé que si tu mourais, tu mourrais sans que je t'aie jamais dit que j'étais désolée, moi aussi. Vraiment désolée. Pas comme devant ta porte à Brest, raide comme un piquet."
+  },
+  {
+   "type": "text",
+   "value": "— Tu étais très raide, confirma-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Tu t'es excusée deux fois. Je n'ai rien dit, parce que j'étais trop fier."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais aussi."
+  },
+  {
+   "type": "text",
+   "value": "Il leva sa main droite, la valide, et la posa contre sa joue. Elle ne bougea pas. Puis elle se pencha, lentement, comme si elle vérifiait un calcul une dernière fois avant de l'accepter, et elle l'embrassa."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-2.webp",
+   "caption": "Le baiser"
+  },
+  {
+   "type": "text",
+   "value": "Ce fut un baiser court, prudent, à cause du tuyau de perfusion et des bandages, et parce qu'ils étaient tous les deux trop vieux et trop fatigués pour faire semblant que c'était simple. Quand elle se redressa, elle avait les yeux brillants et un petit sourire sec, exactement le même que celui qu'elle avait quand elle gagnait une dispute."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji va être insupportable, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji a parié avec Sam il y a deux semaines, dit Nora. Il a gagné."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée décolla le neuvième jour."
+  },
+  {
+   "type": "text",
+   "value": "Le cristal des Lumes s'alluma à la seconde où Kenji le lui demanda. Le vaisseau trembla, se décolla du fond du cratère Tsiolkovski sans un bruit, comme une plume qu'on souffle, et Kenji poussa un cri de joie dans la radio qui fit sursauter tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Vael était à bord, replié dans le module d'habitat qu'on avait vidé pour lui, sa lumière orange tournée vers le hublot."
+  },
+  {
+   "type": "text",
+   "value": "Ilan, attaché sur une couchette, avait demandé qu'on lui tourne la tête vers l'écran de la caméra extérieure."
+  },
+  {
+   "type": "text",
+   "value": "Au bord du cratère, une seule silhouette était restée debout. Grande, mince, presque transparente. Elle ne faisait pas de signe. Elle regardait le vaisseau monter."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-3.webp",
+   "caption": "L'adieu"
+  },
+  {
+   "type": "text",
+   "value": "Seraë."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta au bord du cratère, immobile, pendant que l'Odyssée s'élevait, et sa lumière bleue rétrécit sur l'écran, de plus en plus petite, de plus en plus pâle, jusqu'à disparaître dans le gris de la face cachée."
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "number": 21,
+ "title": "Prisonnier",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La cellule n'avait pas de porte."
+  },
+  {
+   "type": "text",
+   "value": "C'est la première chose qu'Ilan comprit en reprenant ses esprits : il n'y avait ni barreaux, ni serrure, ni mur fermé. Seulement une alcôve creusée dans la roche noire, ouverte sur une galerie, et en travers de l'ouverture un rideau de lumière rouge qui bourdonnait doucement. Il avait essayé de le toucher, une fois, du bout de son gant. La décharge lui avait remonté le bras jusqu'à l'épaule et l'avait laissé assis par terre pendant dix minutes, à compter ses doigts."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "La cellule"
+  },
+  {
+   "type": "text",
+   "value": "— Bon, dit-il à voix haute. Pas de porte. Mais pas de sortie non plus. C'est de l'architecture d'avant-garde."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne lui répondit. Sa voix résonna dans le casque, puis mourut."
+  },
+  {
+   "type": "text",
+   "value": "Il vérifia son affichage. Oxygène : onze heures. En l'enfermant dans la cellule, les Vorr avaient fini par arracher son antenne dorsale, et le petit voyant de liaison avec l'Odyssée restait éteint, obstinément. Il n'y avait plus ni Nora, ni Kenji, ni Sam dans son oreille. Il n'y avait plus le monde entier qui regardait. Il n'y avait que lui, la roche, et ce bourdonnement rouge."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à Lou. Il se demanda si elle avait vu. Puis il se força à penser à autre chose, parce que cette pensée-là ne menait nulle part où il avait le droit d'aller."
+  },
+  {
+   "type": "text",
+   "value": "La gravité lunaire rendait l'attente étrange. Chaque fois qu'il bougeait, son corps flottait une demi-seconde de trop, comme s'il hésitait. Il s'allongea sur le dos, les mains croisées sur la poitrine, et regarda le plafond de la galerie, où couraient des veines de cristal éteint. Autrefois, elles avaient dû briller. Aujourd'hui, elles étaient grises comme de la cendre."
+  },
+  {
+   "type": "text",
+   "value": "Il compta. Il somnola. Il se réveilla en sursaut avec le nom d'Aiko dans la bouche."
+  },
+  {
+   "type": "text",
+   "value": "Quand il rouvrit les yeux, Vael était là."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le chef des Vorr se tenait de l'autre côté du rideau, immobile, si grand qu'il devait courber la tête sous la voûte. Trois mètres de corps mince et translucide, et à l'intérieur cette lumière rouge-orangé qui battait lentement, comme une braise sur laquelle on souffle. Ses longs doigts étaient repliés contre son torse. Son visage allongé, sans bouche, ne laissait rien deviner. Mais Ilan avait appris, en quelques jours, à lire autre chose que des visages."
+  },
+  {
+   "type": "text",
+   "value": "La lumière de Vael était sourde. Fatiguée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu dors, dit Vael."
+  },
+  {
+   "type": "text",
+   "value": "La voix ne venait pas de lui, pas vraiment. Elle naissait dans la roche, dans l'air ténu de la galerie, dans le casque d'Ilan même, une vibration grave qui prenait la forme de mots. Un français heurté, appris sur des chaînes d'information en continu, avec des intonations de présentateur de journal."
+  },
+  {
+   "type": "text",
+   "value": "— J'essayais, répondit Ilan en se redressant. Le service d'étage laisse à désirer."
+  },
+  {
+   "type": "text",
+   "value": "Un silence. La lumière de Vael frémit."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne comprends pas."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une blague. Les humains font ça quand ils ont peur."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur ?"
+  },
+  {
+   "type": "text",
+   "value": "Ilan réfléchit à la question plus sérieusement qu'il ne l'aurait voulu."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit-il. Pas de toi. De ce qui se passe là-haut."
+  },
+  {
+   "type": "text",
+   "value": "Vael fit un geste de la main, et le rideau rouge s'abaissa, s'éteignit, laissa l'ouverture nue. Ilan ne bougea pas. Il savait qu'il ne ferait pas trois pas dans ces galeries avant qu'on le rattrape. Et il savait aussi, sans pouvoir l'expliquer, que ce geste n'était pas une ruse. C'était une invitation."
+  },
+  {
+   "type": "text",
+   "value": "Le Vorr se plia, lentement, articulation après articulation, jusqu'à s'asseoir sur la roche en face de lui. Assis, il restait plus haut qu'Ilan debout."
+  },
+  {
+   "type": "text",
+   "value": "— L'homme de ton vaisseau, dit Vael. Celui qui a tiré. Il a tué Orsk. Orsk gardait ma porte depuis trois cents de vos années."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Je suis désolé."
+  },
+  {
+   "type": "text",
+   "value": "— Tu étais venu pour la paix. Et ton peuple a tiré."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas mon peuple, dit Ilan. Enfin, si. Mais pas lui. Lui, il travaille pour un homme qui veut vos Ancres. Pas pour les sauver. Pour les posséder."
+  },
+  {
+   "type": "text",
+   "value": "La lumière de Vael vira au rouge plus sombre."
+  },
+  {
+   "type": "text",
+   "value": "— Alors vous êtes comme nous, dit-il. Divisés."
+  },
+  {
+   "type": "text",
+   "value": "Ilan eut un rire bref, sans joie."
+  },
+  {
+   "type": "text",
+   "value": "— Bienvenue sur Terre."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ils parlèrent longtemps. Ilan n'aurait pas su dire combien. L'oxygène descendit à neuf heures, puis à huit."
+  },
+  {
+   "type": "text",
+   "value": "Vael parla des cités Vorr, au bord du grand gouffre, là où la chaleur du noyau arrivait autrefois par des conduits creusés avant même sa naissance. Il parla du froid qui s'installait, une galerie après l'autre. Des jardins de cristal qui s'éteignaient. Des anciens qui se couchaient contre les parois tièdes et qui ne se relevaient plus."
+  },
+  {
+   "type": "text",
+   "value": "— Les Aster gardent la chaleur pour les Ancres, dit-il. Ils disent : les Ancres d'abord. Toujours les Ancres. Mais les Ancres ne pleurent pas leurs enfants."
+  },
+  {
+   "type": "text",
+   "value": "Il se tut. Sa lumière se contracta, se réduisit à un point serré au centre de sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "— Tu avais un enfant, dit Ilan doucement."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une question. Vael le lui avait dit lui-même, pendant la trêve, et Seraë lui avait raconté le reste. Le fils de Vael."
+  },
+  {
+   "type": "text",
+   "value": "— Iru, dit Vael. Il s'appelait Iru. Il était jeune. Pour nous, jeune. Il est allé parler aux gardiens, près de la cinquième Ancre. Je l'ai laissé partir. Pendant qu'il était là-bas, mes guerriers ont attaqué l'Ancre, et le plafond est tombé."
+  },
+  {
+   "type": "text",
+   "value": "La lumière ne bougeait plus du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien retrouvé, ajouta Vael. Rien. Chez nous, quand l'un de nous s'éteint, on garde sa dernière lumière dans un cristal. Je n'ai pas de cristal pour Iru."
+  },
+  {
+   "type": "text",
+   "value": "Ilan regarda ses propres mains. Le gant gauche cachait les cicatrices, mais il les sentait quand même, comme toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Et il raconta. Il ne l'avait jamais raconté comme ça, pas même aux psychiatres de l'ASI, pas même à Nora. Marcus Hale qui chantait faux du Johnny Cash dans le module. Yara Mendes qui interdisait le café après dix-huit heures, heure de Houston. Piotr Lenski qui donnait des prénoms aux cailloux. Et Aiko. Aiko Sato, qui avait vu les lumières la première, qui avait ri, émerveillée, en disant regardez, regardez, il y a quelqu'un en bas. Aiko qui était morte contre lui, dans la poussière, en serrant sa main si fort qu'il avait gardé les marques pendant trois jours."
+  },
+  {
+   "type": "text",
+   "value": "— Ils sont restés ici, dit-il. Quelque part. Je n'ai rien rapporté, moi non plus. Pas de cristal. Juste un rapport qui disait que j'étais fou."
+  },
+  {
+   "type": "text",
+   "value": "Vael le regardait. Sa lumière s'était élargie à nouveau, lente, un orangé plus doux."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq ans, dit-il. Seraë m'a dit. Cinq ans, personne ne t'a cru."
+  },
+  {
+   "type": "text",
+   "value": "— À peu près."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu es revenu quand même."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis têtu. Ma fille dit que c'est mon seul talent."
+  },
+  {
+   "type": "text",
+   "value": "Quelque chose passa dans la lumière de Vael, une vibration brève, presque un éclat. Ilan mit un moment à comprendre que c'était peut-être, chez un Lume, l'équivalent d'un sourire."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "— Je peux te montrer quelque chose ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la poche de cuisse de sa combinaison. Les Vorr avaient pris l'antenne, le couteau, la balise, mais pas la tablette souple que Nora lui avait glissée avant la trêve, avec ses calculs dedans. Il la déroula sur ses genoux. L'écran s'alluma, bleuté dans la pénombre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "Les calculs"
+  },
+  {
+   "type": "text",
+   "value": "— Ce sont les calculs de Nora. Mon amie. Elle mesure la gravité. Elle a trouvé les cavités de la Lune depuis la Terre, avant même que je revienne."
+  },
+  {
+   "type": "text",
+   "value": "Il fit défiler les courbes. L'orbite, en blanc. La trajectoire actuelle, en rouge, qui se resserrait en spirale."
+  },
+  {
+   "type": "text",
+   "value": "— Ça, c'est la Lune. Ça, c'est la Terre. Chaque fois qu'une Ancre tombe, la courbe se resserre plus vite. Plus la Lune approche, plus les marées frappent fort, chez nous, mais aussi chez vous. La Terre tire sur votre croûte. Vos plafonds vont tomber, Vael. Pas seulement ceux des Aster. Les vôtres aussi."
+  },
+  {
+   "type": "text",
+   "value": "Il pointa un endroit, au bout de la spirale."
+  },
+  {
+   "type": "text",
+   "value": "— Et là, à un moment, la Lune se casse. Les Aster meurent. Les Vorr meurent. Nous, on meurt. Il n'y a pas de camp gagnant à la fin de cette courbe."
+  },
+  {
+   "type": "text",
+   "value": "Vael tendit un long doigt vers l'écran, sans le toucher. La lumière de la tablette se refléta dans son corps translucide."
+  },
+  {
+   "type": "text",
+   "value": "— Les Aster disent la même chose, dit-il. Depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Les Aster ont raison sur ça. Et tu as raison sur le froid. Vous avez raison tous les deux, et vous êtes en train de vous tuer à cause de ça."
+  },
+  {
+   "type": "text",
+   "value": "— Et ton vaisseau ? Son cœur brûlant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le réacteur de l'Odyssée, dit Ilan. Nora pense qu'il peut relancer les Ancres. Pas seul. Avec l'énergie de nos stations solaires. Et avec vous. Les deux clans. Ensemble. Les Ancres relancées, il y aurait assez de chaleur pour les cités. Pour tout le monde. Pas pour toujours, peut-être. Mais assez longtemps pour trouver autre chose."
+  },
+  {
+   "type": "text",
+   "value": "Vael resta silencieux. Sa lumière oscillait, rouge, orange, rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me demandes de faire confiance aux Aster."
+  },
+  {
+   "type": "text",
+   "value": "— Je te demande de faire confiance aux chiffres. Les Aster, c'est un bonus."
+  },
+  {
+   "type": "text",
+   "value": "La vibration brève revint dans la lumière de Vael. Plus nette cette fois."
+  },
+  {
+   "type": "text",
+   "value": "— Tu fais encore une blague."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai encore peur."
+  },
+  {
+   "type": "text",
+   "value": "Vael se leva, articulation après articulation. Il regarda longuement la galerie, vers le fond, vers l'obscurité où se trouvaient les cités froides de son peuple."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais réunir les anciens, dit-il. Je ne promets rien."
+  },
+  {
+   "type": "text",
+   "value": "— C'est déjà plus que ce que mon gouvernement m'a promis en cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le sol bougea."
+  },
+  {
+   "type": "text",
+   "value": "Ce ne fut pas une secousse. Ce fut une vague, lente et profonde, qui monta de très loin sous leurs pieds et souleva la roche comme une respiration. Ilan sentit son corps décoller, flotter, retomber. De la poussière tomba du plafond en longs voiles qui descendaient au ralenti. Les veines de cristal éteint crépitèrent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "Le séisme"
+  },
+  {
+   "type": "text",
+   "value": "Puis vint le son. Un grondement si grave qu'Ilan le perçut moins avec les oreilles qu'avec la poitrine, et qui dura, dura, bien plus longtemps qu'aucun séisme terrestre."
+  },
+  {
+   "type": "text",
+   "value": "Vael s'était figé. Sa lumière avait viré au blanc, d'un coup, un blanc cru, terrifié."
+  },
+  {
+   "type": "text",
+   "value": "— Le Cœur, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Un Vorr surgit dans la galerie, puis un deuxième, leurs lumières en désordre, et ils échangèrent avec Vael un torrent de vibrations qu'Ilan ne comprit pas. Puis l'un d'eux tendit quelque chose à Vael : l'antenne dorsale d'Ilan, tordue, ses câbles pendants."
+  },
+  {
+   "type": "text",
+   "value": "Vael la lui donna."
+  },
+  {
+   "type": "text",
+   "value": "— Parle à ton vaisseau, dit-il. Vite."
+  },
+  {
+   "type": "text",
+   "value": "Les mains d'Ilan tremblaient en reconnectant les câbles. Le voyant de liaison clignota, orange, orange, puis vert. Des parasites. Puis une voix, déformée, essoufflée, la voix qu'il avait le plus envie d'entendre au monde."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan ? Ilan, c'est toi ? Tu m'entends ?"
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Je t'entends. Je vais bien. Qu'est-ce qui s'est passé ?"
+  },
+  {
+   "type": "text",
+   "value": "Un silence. Il entendit sa respiration, et derrière elle, des alarmes."
+  },
+  {
+   "type": "text",
+   "value": "— Une des deux dernières Ancres s'est arrêtée, dit-elle. Il n'en tourne plus qu'une. Les capteurs de Kenji l'ont vue s'éteindre. Le séisme vient de là. Le noyau a… la charge s'est reportée d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "— Et la courbe ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je viens de la recalculer. Deux fois."
+  },
+  {
+   "type": "text",
+   "value": "Il entendit qu'elle avalait sa salive."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne reste plus soixante-douze jours, Ilan. Il en reste dix-neuf."
+  }
+ ]
+}

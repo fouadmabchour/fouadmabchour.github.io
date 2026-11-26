@@ -1,0 +1,365 @@
+{
+ "number": 25,
+ "title": "Rask",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Trente-neuf minutes."
+  },
+  {
+   "type": "text",
+   "value": "Ilan courait. Courir, sur la Lune, n'était pas vraiment courir : c'était une suite de bonds longs et lents, de chutes contrôlées, où chaque appui le projetait trop loin et où il fallait déjà penser au suivant avant d'avoir touché le sol. Il avait appris ça en 2041, dans la poussière, en traînant Aiko. Son corps s'en souvenait mieux que lui."
+  },
+  {
+   "type": "text",
+   "value": "Devant lui, Vael ouvrait la route, et les Lumes s'écartaient sur son passage comme une mer rouge et bleue. Derrière lui, deux gardes Vorr. Et dans son oreille, la voix de Rask, posée, méthodique, qui comptait."
+  },
+  {
+   "type": "text",
+   "value": "— Trente-huit minutes. Je suis dans le grand rover avec Arata. On descend par la galerie principale, celle que les Aster ont ouverte pour nous. Nora, tu descends au Cœur avec les Aster et tu gardes la liaison. Lynx, tu filmes, mais tu ne parles pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne parle pas, dit Sam."
+  },
+  {
+   "type": "text",
+   "value": "— Tu viens de parler."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon. Je me tais."
+  },
+  {
+   "type": "text",
+   "value": "Ilan aurait ri, une autre fois."
+  },
+  {
+   "type": "text",
+   "value": "La galerie s'élargit d'un coup, et le Cœur apparut."
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait vu une fois déjà, avec Seraë et Nora, et il avait cru qu'il ne serait plus jamais aussi écrasé par quelque chose. Il s'était trompé. La salle était si vaste que son plafond se perdait dans l'ombre, et en son centre, comme suspendues au-dessus d'un gouffre de lumière ambrée, les sept Ancres. Six étaient mortes, colosses de cristal et de métal sombre figés dans leur rotation, fendus, effondrés sur eux-mêmes. La septième tournait encore. Lentement. Avec un son grave et profond qui faisait vibrer les dents."
+  },
+  {
+   "type": "text",
+   "value": "À sa base, minuscule, posée contre la paroi courbe comme un jouet oublié, il y avait une caisse grise."
+  },
+  {
+   "type": "text",
+   "value": "Et à côté de la caisse, à genoux, les bras maintenus dans le dos par trois Vorr, Owen Dorsey."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-1.webp",
+   "caption": "La charge"
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "— On l'a trouvé il y a deux minutes, dit Vael. Il essayait de repartir."
+  },
+  {
+   "type": "text",
+   "value": "Dorsey leva la tête quand Ilan approcha. Derrière la visière de son casque, son visage était gris, trempé de sueur, et il avait le regard de quelqu'un qui vient de comprendre qu'il ne rentrerait pas chez lui. Il eut quand même un rictus."
+  },
+  {
+   "type": "text",
+   "value": "— Varga. Le fou de la Lune. Ça doit te faire plaisir."
+  },
+  {
+   "type": "text",
+   "value": "— Le code, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de code."
+  },
+  {
+   "type": "text",
+   "value": "— Dorsey. Le code."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de code ! cria Dorsey, et sa voix se brisa dans la liaison. Brandt me l'avait dit. Une fois lancée, elle ne s'arrête pas. Il ne voulait pas qu'on puisse changer d'avis en route. Il ne voulait pas que moi je puisse changer d'avis."
+  },
+  {
+   "type": "text",
+   "value": "Il se mit à rire, un rire affreux, qui se transforma en quelque chose d'autre."
+  },
+  {
+   "type": "text",
+   "value": "— Il m'avait promis que je serais loin, dit-il plus bas. Que j'aurais le temps. Le rover est tombé en panne dans la troisième galerie. J'ai marché. J'ai marché trois heures avec ce truc sur un chariot."
+  },
+  {
+   "type": "text",
+   "value": "Ilan se détourna. Il ne savait pas quoi ressentir, et il n'avait pas le temps de le savoir."
+  },
+  {
+   "type": "text",
+   "value": "Le grand rover de l'Odyssée surgit à l'entrée du Cœur dans un nuage de poussière, ses phares blancs balayant la salle. Rask sauta à terre avant même qu'il soit arrêté, Kenji sur ses talons avec la trousse d'outils. Elle ne jeta pas un regard à Dorsey. Elle alla droit à la caisse."
+  },
+  {
+   "type": "text",
+   "value": "— Trente-cinq minutes, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Kenji ouvrit le panneau d'accès en quatre-vingts secondes. Il passa ensuite huit minutes, penché sur les entrailles de la charge, à parler doucement en japonais à un écran qui ne lui répondait pas. Ilan tenait la lampe. Nora, à la radio, lisait à voix haute les schémas techniques que Sam avait arrachés aux serveurs de Helion une semaine plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "— Le boîtier de mise à feu est isolé, dit Nora. Il y a un capteur d'intrusion. Si on coupe l'alimentation principale…"
+  },
+  {
+   "type": "text",
+   "value": "— Elle part, dit Kenji. Oui. Je le vois."
+  },
+  {
+   "type": "text",
+   "value": "— Et si on…"
+  },
+  {
+   "type": "text",
+   "value": "— Elle part aussi, Nora. Tout ce qu'on touche la fait partir. Ils l'ont construite pour ça."
+  },
+  {
+   "type": "text",
+   "value": "Il se redressa. Il avait les yeux humides derrière sa visière, et pour une fois, il ne fit pas semblant que c'était la transpiration."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas, commandante. Je suis désolé. Je ne peux pas."
+  },
+  {
+   "type": "text",
+   "value": "— Vingt-six minutes, dit Rask."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna vers Vael."
+  },
+  {
+   "type": "text",
+   "value": "— Quel est le rayon de destruction d'une charge de ce type, ici, sous la roche ? demanda-t-elle, puis, se reprenant, elle s'adressa à Nora. Docteure Okafor. Si elle explose ici ?"
+  },
+  {
+   "type": "text",
+   "value": "— La dernière Ancre est détruite, dit Nora d'une voix blanche. Le Cœur s'effondre. Et la Lune n'a plus rien qui la retient."
+  },
+  {
+   "type": "text",
+   "value": "— Et si elle explose en surface ? Loin d'ici ?"
+  },
+  {
+   "type": "text",
+   "value": "Un silence. Ilan entendit Nora taper, très vite."
+  },
+  {
+   "type": "text",
+   "value": "— Au fond d'un cratère, à au moins vingt kilomètres du Cœur, dit-elle enfin, la roche absorbe l'onde. Il y aura un séisme. Les Ancres le supporteront. Probablement."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps pour atteindre la surface par la galerie principale, en rover ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quinze minutes, dit Kenji tout bas. Plus, si vous allez loin. Mais il faut quelqu'un pour conduire."
+  },
+  {
+   "type": "text",
+   "value": "Il comprit en même temps qu'il le disait. Ilan le vit comprendre."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Kenji. Non. Moi. Je suis pilote, c'est moi qui conduis, vous…"
+  },
+  {
+   "type": "text",
+   "value": "— Arata, dit Rask. Qui va piloter l'Odyssée pour ramener ces gens à la maison ?"
+  },
+  {
+   "type": "text",
+   "value": "Kenji ouvrit la bouche, et ne trouva rien."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous, Varga, poursuivit Rask sans regarder Ilan, vous êtes le seul que les deux clans écoutent. Si vous n'êtes pas là quand ils allumeront les Ancres, ils s'entretueront avant la fin de la journée."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante…"
+  },
+  {
+   "type": "text",
+   "value": "— C'est mon vaisseau. C'est mon équipage. C'est ma décision."
+  },
+  {
+   "type": "text",
+   "value": "Elle se pencha vers la caisse et passa les bras sous les poignées. En gravité terrestre, elle n'aurait jamais pu la soulever. Ici, elle grimaça, et la caisse monta."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-2.webp",
+   "caption": "Sa décision"
+  },
+  {
+   "type": "text",
+   "value": "— Aidez-moi, dit-elle. On n'a pas le temps de se disputer."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ils la chargèrent à trois sur le plateau arrière du rover, Ilan, Kenji et Rask, sous le regard immobile de centaines de Lumes. Personne ne parlait. On n'entendait que la rotation lente de la dernière Ancre et le souffle des respirations dans les casques."
+  },
+  {
+   "type": "text",
+   "value": "Rask monta au poste de conduite. Elle sangla son harnais avec des gestes précis, les mêmes, Ilan en était sûr, qu'elle avait faits mille fois sur le pont d'une frégate."
+  },
+  {
+   "type": "text",
+   "value": "— Vingt et une minutes, dit-elle. C'est large."
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'approcha du rover. Il voulut dire quelque chose. Il n'avait jamais su trouver les mots, ni en 2041, ni après."
+  },
+  {
+   "type": "text",
+   "value": "Rask le regarda à travers sa visière. Pour la première fois depuis qu'il la connaissait, quelque chose s'adoucit dans son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Vous aviez raison, Varga, dit-elle. Depuis le début. Je suis désolée d'avoir mis aussi longtemps à vous écouter."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle démarra."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ils la suivirent à la radio. Il n'y avait rien d'autre à faire."
+  },
+  {
+   "type": "text",
+   "value": "Ilan resta au bord du Cœur, Vael à sa droite, Seraë à sa gauche, sa lumière bleue vacillante. Kenji s'était assis par terre, le casque entre les genoux. Dans la liaison, Nora ne disait rien. Sam non plus. Trois milliards de personnes, sur Terre, ne disaient rien."
+  },
+  {
+   "type": "text",
+   "value": "Seule Rask parlait."
+  },
+  {
+   "type": "text",
+   "value": "— Galerie principale, deuxième embranchement. Le terrain est bon. Dix-huit minutes."
+  },
+  {
+   "type": "text",
+   "value": "Plus tard :"
+  },
+  {
+   "type": "text",
+   "value": "— Je vois la lumière de la surface. Le cratère Tsiolkovski. Je vais prendre vers l'est, il y a une dépression à vingt-cinq kilomètres, sur la carte d'Arata. Douze minutes."
+  },
+  {
+   "type": "text",
+   "value": "Plus tard encore, et sa voix arrivait maintenant avec un léger décalage, des grésillements, l'écho de la distance :"
+  },
+  {
+   "type": "text",
+   "value": "— Le soleil se lève sur le cratère. Le ciel est très noir d'ici, plein d'étoiles. Vous devriez voir ça."
+  },
+  {
+   "type": "text",
+   "value": "Un silence."
+  },
+  {
+   "type": "text",
+   "value": "— Arata. Dans mon casier, il y a une carte mémoire, avec une étiquette. Vous la donnerez à qui de droit. Vous saurez."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, commandante, dit Kenji d'une voix étranglée."
+  },
+  {
+   "type": "text",
+   "value": "— Okafor. Vos calculs étaient bons. Ils sont toujours bons. Faites-les tourner jusqu'au bout."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Varga."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là."
+  },
+  {
+   "type": "text",
+   "value": "— Ramenez tout le monde à la maison."
+  },
+  {
+   "type": "text",
+   "value": "— Promis."
+  },
+  {
+   "type": "text",
+   "value": "Un long grésillement. Puis, très bas, presque pour elle-même :"
+  },
+  {
+   "type": "text",
+   "value": "— Quatre minutes. J'arrête le rover ici. Il y a de la place. C'est calme."
+  },
+  {
+   "type": "text",
+   "value": "Et puis, plus rien, sauf sa respiration, lente, régulière, une respiration de marin qui regarde la mer."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ouvrit les yeux. Au-dessus du Cœur, très loin, au bout de la galerie principale qui montait vers la surface, il y avait un minuscule point de jour gris."
+  },
+  {
+   "type": "text",
+   "value": "Le point de jour devint blanc."
+  },
+  {
+   "type": "text",
+   "value": "Un éclair blanc, pur, silencieux, qui emplit la galerie entière et se refléta sur la dernière Ancre, sur les corps translucides des Lumes, sur la visière d'Ilan. Il dura moins d'une seconde."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-3.webp",
+   "caption": "L'éclair"
+  },
+  {
+   "type": "text",
+   "value": "Puis la liaison se tut. Plus de respiration. Plus de grésillement."
+  },
+  {
+   "type": "text",
+   "value": "Le silence radio."
+  }
+ ]
+}

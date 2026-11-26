@@ -1,0 +1,297 @@
+{
+ "number": 2,
+ "title": "Artemis Nova",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le matin du décollage, Ilan chercha Lou dans la foule."
+  },
+  {
+   "type": "text",
+   "value": "Il savait qu'elle ne serait pas là. Claire avait envoyé un message sec la veille : « Elle ne veut pas venir. Je ne vais pas la forcer. » Il savait aussi que, depuis la tour de lancement de Kourou, à cent mètres au-dessus de la forêt guyanaise, il ne pouvait voir que des points de couleur derrière les barrières, à plusieurs kilomètres. Il chercha quand même. Un sweat gris, une capuche. N'importe quoi."
+  },
+  {
+   "type": "text",
+   "value": "— Varga, dit Hale dans son casque. Si tu as fini de faire tes adieux à la jungle, on a une fusée à faire décoller."
+  },
+  {
+   "type": "text",
+   "value": "— Je compte les perroquets, commandant."
+  },
+  {
+   "type": "text",
+   "value": "— Compte plus vite."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient sanglés dans la capsule, épaule contre épaule, les genoux relevés, dans le petit espace blanc qui sentait le plastique neuf et la sueur nerveuse. Hale à gauche, Ilan à droite, Sato et Lenski derrière, Mendes au centre. Au-dessus de leurs têtes, des écrans, des interrupteurs, des check-lists plastifiées attachées par des velcros. Dessous, quatre-vingts mètres de fusée remplie d'assez de carburant pour raser une ville."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Avant le décollage"
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde respire, dit Mendes. Je surveille vos fréquences cardiaques. Piotr, tu es à cent dix. C'est mignon."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis géologue, grommela Lenski. Normalement, je travaille avec des cailloux qui ne bougent pas."
+  },
+  {
+   "type": "text",
+   "value": "— T minus soixante, annonça le contrôle."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ferma les yeux une seconde. Il pensa à l'atlas de sa grand-mère. À la Mer de la Tranquillité. À la dernière phrase de Lou sur le quai de la gare."
+  },
+  {
+   "type": "text",
+   "value": "— Dix. Neuf. Huit."
+  },
+  {
+   "type": "text",
+   "value": "La fusée se mit à trembler, d'abord doucement, comme un animal qui se réveille, puis de plus en plus fort."
+  },
+  {
+   "type": "text",
+   "value": "— Trois. Deux. Un. Décollage."
+  },
+  {
+   "type": "text",
+   "value": "Le monde explosa sous eux."
+  },
+  {
+   "type": "text",
+   "value": "Ilan avait fait des centaines de simulations, des dizaines de vols en centrifugeuse. Rien ne l'avait préparé à ça. La poussée l'écrasa contre son siège, trois fois son poids, puis quatre, sa poitrine compressée, ses joues tirées vers l'arrière, les écrans qui vibraient si fort qu'il ne pouvait plus lire les chiffres. Le bruit était partout, dans les os, dans les dents. Quelqu'un criait. C'était peut-être lui. C'était peut-être un cri de joie."
+  },
+  {
+   "type": "text",
+   "value": "Puis, en huit minutes et demie, tout s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "Le silence. Et le stylo d'Aiko Sato qui se mit à flotter devant le visage d'Ilan, tournant lentement sur lui-même, comme une petite fusée bleue."
+  },
+  {
+   "type": "text",
+   "value": "— Bienvenue en orbite, dit Hale, la voix un peu cassée. Tout le monde est vivant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vivant, dit Sato."
+  },
+  {
+   "type": "text",
+   "value": "— Vivant, dit Mendes. Et Piotr est à cent quarante. Record de l'équipage."
+  },
+  {
+   "type": "text",
+   "value": "— Je te déteste, dit Lenski."
+  },
+  {
+   "type": "text",
+   "value": "Ilan regardait par le hublot. En dessous, la Terre. Immense, bleue, avec ses tourbillons de nuages blancs et la courbe fine de l'atmosphère, une pellicule à peine plus épaisse qu'une peau de pomme. L'Atlantique scintillait. Quelque part sur la côte, il y avait le Portugal, et Lisbonne avec ses quais encore couverts de boue."
+  },
+  {
+   "type": "text",
+   "value": "Il ne trouva rien de drôle à dire. Pour une fois."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'injection translunaire eut lieu deux heures plus tard. Un deuxième étage s'alluma, les poussa hors de l'orbite terrestre, sur la longue trajectoire en courbe qui devait les amener à la Lune en trois jours. Puis l'étage se sépara, et ils restèrent seuls, cinq humains dans une boîte de conserve lancée à quarante mille kilomètres à l'heure dans le vide."
+  },
+  {
+   "type": "text",
+   "value": "La routine s'installa vite. C'était ce qu'on leur avait appris : la routine sauve des vies. Vérifications des systèmes toutes les quatre heures. Repas lyophilisés, que Mendes notait sur dix avec une sévérité de critique gastronomique. Exercices de musculation sur un élastique tendu entre deux poignées. Le sommeil, attaché dans un sac au mur, avec la sensation étrange de tomber sans fin."
+  },
+  {
+   "type": "text",
+   "value": "— Le bœuf aux carottes, annonça Mendes le deuxième jour en brandissant un sachet. Trois sur dix. Je retire un point parce qu'il ressemble à du bœuf aux carottes."
+  },
+  {
+   "type": "text",
+   "value": "— Tu voulais qu'il ressemble à quoi ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— À autre chose. N'importe quoi. Un rêve."
+  },
+  {
+   "type": "text",
+   "value": "Aiko Sato riait en silence, la main devant la bouche. Elle avait vingt-huit ans, un visage rond, des cheveux noirs attachés en chignon serré pour qu'ils ne flottent pas devant ses yeux. Elle parlait peu mais voyait tout. C'était elle qui avait repéré, pendant la première nuit, une micro-fuite sur une vanne d'oxygène que les capteurs n'avaient pas détectée. Elle l'avait réparée en dix minutes avec un ruban adhésif et un air ennuyé."
+  },
+  {
+   "type": "text",
+   "value": "Le soir, quand les autres dormaient, Ilan et elle restaient parfois devant le hublot. La Terre rapetissait. Elle avait maintenant la taille d'une balle de tennis tenue à bout de bras. La Lune, devant eux, grossissait à vue d'œil."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "Devant le hublot"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur ? demanda-t-elle un soir."
+  },
+  {
+   "type": "text",
+   "value": "— De quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— De ce qu'on va trouver."
+  },
+  {
+   "type": "text",
+   "value": "Ilan réfléchit."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai peur qu'on ne trouve rien. Qu'on fasse tout ce chemin pour photographier un trou dans un cratère, et que Lisbonne reste inexpliquée."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, j'ai peur du contraire, dit Sato doucement."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne s'expliqua pas. Il ne lui demanda pas."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le message de Lou arriva le troisième jour, avec onze heures de retard sur le reste du courrier familial. Le contrôle s'excusa : un problème de serveur, un fichier mal étiqueté."
+  },
+  {
+   "type": "text",
+   "value": "Ilan l'ouvrit dans son sac de couchage, le casque sur les oreilles, la tablette collée contre son visage pour que personne ne voie."
+  },
+  {
+   "type": "text",
+   "value": "Lou était dans sa chambre à Rennes. Il reconnut l'affiche du groupe de rock coréen derrière elle, la guirlande lumineuse, le désordre. Elle ne regardait pas la caméra. Elle regardait à côté, ses doigts tirant sur la manche de son sweat."
+  },
+  {
+   "type": "text",
+   "value": "— Bon. Maman dit que je devrais t'envoyer un message. Alors voilà."
+  },
+  {
+   "type": "text",
+   "value": "Long silence. Elle se mordit la lèvre."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai regardé le décollage. À la télé. Pas en vrai. Je sais que tu m'as cherchée. Enfin, je sais pas. Peut-être pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva enfin les yeux vers l'objectif."
+  },
+  {
+   "type": "text",
+   "value": "— C'était beau. Voilà. C'était vraiment beau. Et j'ai eu peur, quand ça tremblait. Alors… reviens, d'accord ? Parce que je t'en veux encore et que tu dois être là pour que je continue à t'en vouloir."
+  },
+  {
+   "type": "text",
+   "value": "L'image se figea sur son visage. Ilan la regarda longtemps. Puis il la regarda encore. Quand il releva la tête, Mendes flottait près de lui, un sachet de café à la main, et faisait semblant de n'avoir rien vu."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq sur dix, dit-elle en lui tendant le café. Exceptionnellement."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le troisième jour au soir, la Lune remplit tous les hublots."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'était plus une boule blanche dans le ciel. C'était un monde. Un désert gris, crevé de cratères à l'infini, des montagnes aux ombres tranchantes comme des lames, des plaines lisses où le soleil frappait si fort qu'Ilan devait plisser les yeux. Il avait vu des milliers de photos. Les photos mentaient. Elles ne montraient pas l'échelle, le silence, la sensation d'être une poussière au-dessus d'un géant endormi."
+  },
+  {
+   "type": "text",
+   "value": "— Insertion en orbite lunaire dans vingt minutes, annonça Hale. Ensuite nous passons derrière. Rappel : perte de contact radio prévue pendant quarante-sept minutes. C'est normal. La Lune bloque le signal. Personne ne panique."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne panique, répéta Lenski, la voix blanche."
+  },
+  {
+   "type": "text",
+   "value": "Le moteur principal s'alluma, freina le vaisseau, le laissa tomber dans l'étreinte lente de la gravité lunaire. Puis la Terre, ce petit point bleu, glissa derrière l'horizon gris et disparut."
+  },
+  {
+   "type": "text",
+   "value": "Dans les haut-parleurs, la voix du contrôle se brouilla, se hacha, devint un souffle, puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "— Contact perdu, dit Sato. Comme prévu."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient seuls. Plus seuls que n'importe quel être humain sur Terre. La face cachée défilait sous eux, plus accidentée que l'autre, sans grandes mers sombres, un chaos de cratères empilés les uns sur les autres. Aucun humain ne l'avait jamais vue de ses propres yeux avant la génération Apollo. Elle restait l'endroit le plus solitaire du système solaire proche."
+  },
+  {
+   "type": "text",
+   "value": "— Tsiolkovski dans trois minutes, annonça Lenski, penché sur ses cartes, soudain réveillé. Regardez au sud. Vous allez voir le pic central, c'est spectaculaire."
+  },
+  {
+   "type": "text",
+   "value": "Le cratère apparut. Immense, cent quatre-vingts kilomètres de diamètre, son fond rempli de lave sombre et lisse, un pic central dressé comme une île. Et, sur le bord nord, l'effondrement que les sondes avaient photographié : une zone noire, irrégulière, comme si le sol avait été aspiré par en dessous."
+  },
+  {
+   "type": "text",
+   "value": "— C'est énorme, souffla Lenski. Ce n'est pas un impact. Il n'y a pas d'éjecta. Le terrain s'est… affaissé. Comme une cave dont le plafond aurait cédé."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Aiko Sato s'était collée au hublot, le front contre la vitre."
+  },
+  {
+   "type": "text",
+   "value": "— Commandant, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix avait changé. Ilan ne l'avait jamais entendue comme ça."
+  },
+  {
+   "type": "text",
+   "value": "— Commandant, éteignez les lumières de la cabine. Toutes."
+  },
+  {
+   "type": "text",
+   "value": "Hale hésita une seconde, puis obéit. La cabine plongea dans le noir. Leurs yeux s'habituèrent lentement. Dehors, la zone effondrée était dans l'ombre de la nuit lunaire, plus noire que le noir."
+  },
+  {
+   "type": "text",
+   "value": "Sauf qu'elle ne l'était pas."
+  },
+  {
+   "type": "text",
+   "value": "Là, au fond des fissures, entre les blocs écroulés, à des centaines de mètres sous la surface, quelque chose brillait. Des points de lumière. Bleus, pâles, réguliers. Des dizaines. Des centaines."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "Lumières sous la surface"
+  },
+  {
+   "type": "text",
+   "value": "Et ils bougeaient."
+  }
+ ]
+}

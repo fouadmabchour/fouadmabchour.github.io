@@ -1,0 +1,229 @@
+{
+ "number": 30,
+ "title": "La Lune à sa place",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le voyage de retour dura trois jours, comme l'aller. Ilan n'en vit presque rien."
+  },
+  {
+   "type": "text",
+   "value": "Il dormait, se réveillait, buvait l'eau que Nora lui tendait, se rendormait. Les médecins de l'ASI le suivaient par vidéo depuis Toulouse, avec des visages de plus en plus détendus à chaque bilan : sa moelle avait souffert, ses globules étaient bas, il perdrait peut-être des cheveux qu'il n'avait déjà plus vraiment, mais il vivrait. Il avait pris moins que ce que Nora avait craint. Les Lumes, avant le départ, avaient posé sur lui pendant une nuit entière une de leurs sphères de lumière, et personne sur Terre ne savait expliquer ce qu'elle avait fait."
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième jour, Kenji vint s'asseoir au bord de sa couchette."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai une blague, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Enfin."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un astronaute, un pilote et un ambassadeur extraterrestre qui rentrent sur Terre dans un vaisseau qui marche avec un cristal."
+  },
+  {
+   "type": "text",
+   "value": "— Et ?"
+  },
+  {
+   "type": "text",
+   "value": "— Et c'est tout. C'est pas une blague, en fait. C'est juste notre vie. Je trouvais ça drôle quand même."
+  },
+  {
+   "type": "text",
+   "value": "Ilan rit, et cette fois ça ne lui fit presque pas mal."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "L'Odyssée amerrit au large des Açores, par une mer d'huile."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-1.webp",
+   "caption": "L'amerrissage"
+  },
+  {
+   "type": "text",
+   "value": "Il y avait des bateaux à perte de vue. Des navires de la marine, des chalutiers, des voiliers, des canots pneumatiques, des paquebots détournés de leur route, des milliers de coques blanches et grises sur une eau bleue. Quand la capsule de commande se posa sur la mer, une clameur monta de partout à la fois, une immense rumeur que les micros extérieurs eurent du mal à capter."
+  },
+  {
+   "type": "text",
+   "value": "Ilan sortit le troisième, sur une civière, après Sam et Nora, avant Kenji. Vael viendrait plus tard, par une autre navette, dans une enceinte que les ingénieurs avaient construite en hâte pour le protéger de la gravité terrestre, six fois plus forte que celle qu'il avait connue toute sa vie."
+  },
+  {
+   "type": "text",
+   "value": "Sur le pont du navire de récupération, une jeune femme aux cheveux châtains courts se tenait derrière le cordon de sécurité. Elle ne criait pas. Elle attendait, les bras croisés, comme elle avait attendu toute sa vie."
+  },
+  {
+   "type": "text",
+   "value": "— Lou, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "Elle passa sous le cordon. Personne n'osa l'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit rien, au début. Elle s'agenouilla à côté de la civière et le serra contre elle, maladroitement, en faisant attention à la main bandée, et Ilan sentit qu'elle tremblait de la tête aux pieds. Il passa son bras valide autour de ses épaules."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-2.webp",
+   "caption": "Les retrouvailles"
+  },
+  {
+   "type": "text",
+   "value": "— Tu avais promis de revenir, dit-elle dans son cou."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'avais rien promis du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Tu l'avais promis dans ma tête. C'est pareil."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à une autre jeune femme, de l'autre côté de la Terre, à Tromsø, qui avait écouté un message de sa mère dans une chambre silencieuse. Il serra Lou un peu plus fort."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Les mois qui suivirent, la Lune s'éloigna."
+  },
+  {
+   "type": "text",
+   "value": "Lentement, d'abord. Quelques centaines de mètres par jour, puis, à mesure que les Ancres retrouvaient leur pleine puissance, des dizaines de kilomètres. Les faisceaux mensuels des stations solaires, désormais gérés par une agence internationale et non plus par Helion, montaient vers la face cachée à chaque nouvelle lune, et les Ancres les buvaient. Nora publia tous ses calculs, ligne par ligne, en accès libre, avec une préface de trois phrases : *J'ai eu tort en 2041. Voici mes erreurs. Vérifiez tout.*"
+  },
+  {
+   "type": "text",
+   "value": "À l'automne, pour la première fois depuis six ans, la grande marée d'équinoxe n'inonda aucune ville. Les habitants de Lisbonne revinrent sur les quais de la Baixa et regardèrent l'eau s'arrêter là où elle devait s'arrêter. À Valparaíso, on commença à reconstruire. Les séismes se firent plus rares, puis cessèrent. Les journées reprirent, à quelques secondes près, la longueur qu'elles avaient toujours eue. Personne ne s'en rendit compte, à part quelques horlogers et Nora, qui en fit une fête."
+  },
+  {
+   "type": "text",
+   "value": "Le procès de Victor Brandt s'ouvrit à La Haye en mars. Il avait toujours ses costumes clairs, mais plus le sourire. On le jugea pour la charge nucléaire, pour Dorsey, pour la dissimulation des enregistrements d'Artemis Nova, et pour une liste de chefs d'accusation que Sam résuma en direct par une seule phrase : « En gros, pour avoir essayé de vendre la Lune. » Owen Dorsey, rapatrié par un vol ultérieur, témoigna contre lui. Margaret Kwan aussi. Elle ne demanda aucune clémence pour elle-même. Elle avait déjà tout dit, des mois plus tôt, à Genève."
+  },
+  {
+   "type": "text",
+   "value": "En mai, à Paris, on inaugura un mémorial sur la pointe de l'île de la Cité, face à la Seine. Six noms gravés dans une pierre claire, sous une sphère de verre offerte par les Lumes qui s'allumait chaque nuit d'une lueur bleue très douce. Marcus Hale. Yara Mendes. Piotr Lenski. Aiko Sato. Et, un peu à l'écart, parce qu'elle appartenait à une autre mission mais au même combat, Hélène Rask."
+  },
+  {
+   "type": "text",
+   "value": "Le sixième nom, c'était celui de l'Ancre. Les Lumes avaient demandé qu'on l'écrive aussi : *Pour ceux qui l'ont gardée pendant douze mille ans.*"
+  },
+  {
+   "type": "text",
+   "value": "Ilan prononça un discours de quatre minutes. Il avait prévu vingt pages. Arrivé à Aiko Sato, il ne put plus parler, et Nora, à côté de lui, prit simplement sa main. Le monde entier attendit qu'il reprenne. Il reprit."
+  },
+  {
+   "type": "text",
+   "value": "Dans la foule, une jeune femme blonde de vingt ans, au regard très clair, s'approcha de lui à la fin de la cérémonie. Elle avait les mêmes yeux gris que sa mère."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Ingrid, dit-elle en anglais. Je voulais vous dire qu'elle parlait de vous dans ses messages. Elle disait que vous étiez têtu."
+  },
+  {
+   "type": "text",
+   "value": "— Elle avait raison."
+  },
+  {
+   "type": "text",
+   "value": "— Elle disait aussi qu'elle aimait bien les gens têtus."
+  },
+  {
+   "type": "text",
+   "value": "Vael parla à l'Assemblée générale des Nations unies en juin, depuis son enceinte à gravité réduite installée au milieu de la salle. Il parla quatorze minutes. Il dit que son peuple et le nôtre avaient la même maladie, qui consiste à croire que l'autre est toujours plus coupable. Il dit qu'il ne connaissait pas de remède, mais qu'il avait vu un homme descendre dans un puits pour des gens qu'il ne connaissait pas, et qu'il avait trouvé ça plus fort que toutes les armes qu'il avait possédées. Toute la salle se leva à la fin. Même les délégations qui ne se levaient jamais."
+  },
+  {
+   "type": "text",
+   "value": "Sam, elle, ne retourna jamais vraiment à une vie normale. Les Veilleurs de Minuit, qui étaient des millions, devinrent une fondation. Ils ouvrirent des centres d'accueil pour les familles chassées par les marées, financèrent des bourses pour des étudiants en gravimétrie, et continuèrent, chaque nuit de pleine lune, de se retrouver en ligne pour regarder le ciel ensemble. Sam animait le direct elle-même, toujours dans un sweat trop grand. La première phrase était toujours la même :"
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, les Veilleurs. Elle est à sa place ?"
+  },
+  {
+   "type": "text",
+   "value": "Et des milliers de voix répondaient :"
+  },
+  {
+   "type": "text",
+   "value": "— Elle est à sa place."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Un an après l'amerrissage, par une nuit de septembre, Ilan, Lou et Nora descendirent sur la plage du Moulin Blanc, à Brest."
+  },
+  {
+   "type": "text",
+   "value": "Il faisait doux. La mer était basse, normalement basse, et l'estran luisait sous la lumière. Lou avait apporté une couverture et un thermos de chocolat chaud, parce qu'elle trouvait que regarder la Lune sans chocolat chaud n'avait aucun sens. Nora avait apporté une tablette, parce qu'elle ne pouvait pas faire autrement, et elle la rangea au fond de son sac sans l'allumer, ce que Lou applaudit."
+  },
+  {
+   "type": "text",
+   "value": "Ilan s'assit sur le sable, entre les deux. Ses cheveux avaient repoussé, plus gris qu'avant. La cicatrice de sa main gauche avait pâli. Il ne buvait toujours pas. Il dormait mieux."
+  },
+  {
+   "type": "text",
+   "value": "La pleine lune se leva au-dessus de la rade."
+  },
+  {
+   "type": "text",
+   "value": "Elle était ronde, blanche, un peu jaune au ras de l'horizon. Elle n'était ni énorme, ni menaçante. Elle avait exactement la taille qu'elle avait quand Ilan était enfant, et qu'il la regardait par la fenêtre de sa chambre en se demandant ce qu'il y avait derrière."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est normale, dit Lou."
+  },
+  {
+   "type": "text",
+   "value": "— Trois cent quatre-vingt-trois mille neuf cents kilomètres, dit Nora. À peu près. Je ne vérifie pas. C'est ma soirée de repos."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as vérifié avant de venir, dit Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment que j'ai vérifié avant de venir."
+  },
+  {
+   "type": "text",
+   "value": "Lou éclata de rire. Elle versa le chocolat dans trois gobelets, en tendit un à chacun, et ils restèrent là, tous les trois, sans parler, à regarder la Lune."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-3.webp",
+   "caption": "À sa place"
+  },
+  {
+   "type": "text",
+   "value": "Quelque part sous sa face cachée, très loin, sept anneaux de lumière tournaient autour d'un noyau qui refroidissait, et une gardienne à la lumière bleue veillait sur eux."
+  },
+  {
+   "type": "text",
+   "value": "Ilan leva son gobelet vers le ciel, juste un peu, pour que personne ne le remarque."
+  },
+  {
+   "type": "text",
+   "value": "La Lune était à sa place."
+  }
+ ]
+}

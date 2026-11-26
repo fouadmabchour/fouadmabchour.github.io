@@ -1,0 +1,273 @@
+{
+ "number": 27,
+ "title": "L'allumage",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le puits ne ressemblait à rien de ce qu'Ilan avait imaginé."
+  },
+  {
+   "type": "text",
+   "value": "Il s'attendait à une gaine de métal, à des échelles, à de la poussière. Il trouva une colonne de verre lisse, presque vivante, où des anneaux de lumière montaient et descendaient lentement le long des parois comme des bulles dans l'eau. Les barreaux n'étaient pas des barreaux : c'étaient des saillies de lumière dure, tièdes sous les gants, qui apparaissaient sous ses pieds à mesure qu'il descendait, et s'éteignaient derrière lui."
+  },
+  {
+   "type": "text",
+   "value": "Avec un sixième de la gravité terrestre, il aurait presque pu se laisser tomber. Presque. Il compta les barreaux pour ne pas penser au compteur de dose qui cliquetait dans un coin de sa visière."
+  },
+  {
+   "type": "text",
+   "value": "— Varga, ici Okafor, dit la voix de Nora. Profondeur ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quatre-vingt-dix mètres, dit-il. Dose cumulée : zéro virgule quatre. C'est pas si mal. J'ai pris pire en faisant des radios des dents."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as jamais fait de radio des dents."
+  },
+  {
+   "type": "text",
+   "value": "— Justement. Je me rattrape."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne rit pas. Mais il l'entendit souffler, et il se dit que c'était déjà quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus de lui, la silhouette de Seraë suivait, pliée en deux dans le conduit, ses longs doigts collés au verre. À cent vingt mètres, elle s'arrêta. Sa lumière bleue clignotait de plus en plus vite."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-1.webp",
+   "caption": "Le puits"
+  },
+  {
+   "type": "text",
+   "value": "— Ici, je dois rester, dit-elle. Plus bas, le feu de ton vaisseau me prendrait."
+  },
+  {
+   "type": "text",
+   "value": "— Merci de m'avoir accompagné jusque-là."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai déjà ramené une fois à ta maison, Ilan Varga. J'ai l'intention de recommencer."
+  },
+  {
+   "type": "text",
+   "value": "Il leva la main, elle leva la sienne. Puis il continua seul."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "En haut, dans le Cœur, le spectacle avait changé."
+  },
+  {
+   "type": "text",
+   "value": "Les Aster étaient venus. Les Vorr aussi. Des centaines de Lumes avaient rempli la grande salle circulaire, et pour la première fois depuis des siècles, ils ne se tenaient pas en deux blocs séparés. Ils s'étaient mélangés autour des sept socles, bleus et rouges, rouges et bleus, chacun posté devant les longues tables de cristal qui servaient de commandes aux Ancres. Nora les regardait, sa tablette à la main, et pensait à une salle de contrôle de lancement, avec des ingénieurs en chemise qui ne se seraient jamais adressé la parole en temps normal et qui, ce jour-là, n'avaient plus le choix."
+  },
+  {
+   "type": "text",
+   "value": "Au centre, devant la seule Ancre qui tournait encore, Vael et Seraë occupaient le grand pupitre. Seraë était remontée, épuisée, sa lumière tremblante. Vael ne lui avait pas proposé d'aide. Il s'était simplement décalé pour lui laisser la meilleure place, et Nora avait trouvé ce geste plus parlant qu'une poignée de main."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit-elle. Où en sont les stations ?"
+  },
+  {
+   "type": "text",
+   "value": "— Helion me donne la main sur trois stations solaires orbitales sur cinq, répondit Kenji depuis la cabine de l'Odyssée. Les deux autres sont de l'autre côté de la Terre, elles arrivent dans quarante minutes. Je vais faire passer le faisceau par le relais de l'antenne principale et le rabattre dans la brèche du cratère. J'ai calculé trois fois. Si je me trompe d'un demi-degré, je fais fondre un morceau de la Lune qui n'a rien demandé."
+  },
+  {
+   "type": "text",
+   "value": "— Ne te trompe pas d'un demi-degré."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Nora. C'est le conseil le plus utile qu'on m'ait jamais donné."
+  },
+  {
+   "type": "text",
+   "value": "Sam, dans la cabine à côté de lui, avait mis le direct sur quatre écrans à la fois : la caméra du casque d'Ilan, la vue d'ensemble du Cœur, les courbes de Nora et la fenêtre de Kenji. Elle ne commentait presque plus. Elle avait compris, depuis la minute de silence, que les gens sur Terre n'avaient pas besoin qu'on leur explique tout. Ils avaient besoin de voir."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Au fond du puits, il faisait chaud."
+  },
+  {
+   "type": "text",
+   "value": "Pas une chaleur de four. Une chaleur sourde, enveloppante, qui montait du sol et traversait les couches de la combinaison. Le puits s'ouvrait sur une petite chambre ronde, au plancher de verre sombre. Sous ce verre, très loin, il y avait une lueur rouge, à peine visible : le noyau de la Lune, ce qui restait de sa chaleur."
+  },
+  {
+   "type": "text",
+   "value": "Au centre de la chambre, posé sur un socle par les Lumes deux heures plus tôt, il y avait le réacteur de l'Odyssée."
+  },
+  {
+   "type": "text",
+   "value": "Ou plutôt son cœur : le module de fusion, un cylindre de deux mètres de long arraché à son berceau dans la soute du vaisseau, descendu le long du puits par vingt Vorr qui avaient dû le guider à distance, avec des faisceaux de lumière, sans jamais le toucher. Il ronronnait encore. Des câbles épais en sortaient, et à côté, dans le socle de l'Ancre, quatre logements creux attendaient. Les Lumes avaient adapté leurs propres prises la veille, d'après les plans de Nora, au millimètre près."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis au fond, dit Ilan. Dose : un virgule un. Je vois le réacteur. Il a l'air content de me voir."
+  },
+  {
+   "type": "text",
+   "value": "— Branchement un, dit Nora. Le gros connecteur gris. Tu le verrouilles en trois quarts de tour vers la droite."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais que tu sais. Je le dis quand même."
+  },
+  {
+   "type": "text",
+   "value": "Il s'agenouilla. Le premier connecteur pesait presque rien dans cette gravité, mais il était raide, et ses gants épais rendaient chaque geste maladroit. Il l'enfonça. Trois quarts de tour. Un déclic, qu'il sentit plus qu'il ne l'entendit."
+  },
+  {
+   "type": "text",
+   "value": "Dans le Cœur, une des tables de cristal s'alluma, blanche."
+  },
+  {
+   "type": "text",
+   "value": "— Branchement un validé, dit Nora. Deux, maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Le deuxième résista. Ilan jura entre ses dents, en français, puis en anglais pour être sûr, puis il se rappela que quatre milliards de personnes l'écoutaient et ajouta :"
+  },
+  {
+   "type": "text",
+   "value": "— Pardon. C'était un juron technique."
+  },
+  {
+   "type": "text",
+   "value": "Le connecteur passa. Déclic. Dans le Cœur, deuxième lumière."
+  },
+  {
+   "type": "text",
+   "value": "Le compteur de dose, dans sa visière, était passé à l'orange. Deux virgule trois. Ses mains commençaient à trembler, pas de peur, ou pas seulement : une fatigue étrange qui montait dans ses bras, une nausée légère, un goût de métal dans la bouche. Il connaissait ce goût. Il l'avait eu dans le module, en 2041, en regardant la Terre grossir par le hublot, seul avec quatre places vides."
+  },
+  {
+   "type": "text",
+   "value": "— Trois, dit-il avant qu'on le lui demande."
+  },
+  {
+   "type": "text",
+   "value": "Il le verrouilla. Puis le quatrième. Il resta un instant à genoux, la main posée sur le socle, à reprendre son souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit-il. À toi."
+  },
+  {
+   "type": "text",
+   "value": "— Faisceau en route, répondit Kenji. Accrochez-vous."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Ce que le monde vit, à cet instant, Sam le regarderait des centaines de fois par la suite sans parvenir à le décrire correctement."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus du cratère Tsiolkovski, une colonne de lumière dorée descendit du ciel noir. Elle venait de l'espace, de très loin, rabattue par l'antenne de l'Odyssée, et elle plongea droit dans la brèche de la face cachée comme une aiguille dans une plaie. Dans le Cœur, la voûte s'illumina. Le faisceau toucha le grand conduit d'énergie, et l'Ancre qui tournait encore se mit à chanter, son grave à vibrer plus fort, assez pour que Nora sente ses dents s'entrechoquer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-2.webp",
+   "caption": "Le faisceau"
+  },
+  {
+   "type": "text",
+   "value": "— Pupitre principal ! cria-t-elle. Seraë, Vael, maintenant !"
+  },
+  {
+   "type": "text",
+   "value": "Les deux Lumes posèrent leurs mains sur le cristal en même temps. Leurs lumières, la bleue et la rouge, coulèrent dans la table, se mêlèrent, devinrent un violet profond qui courut le long du sol vers les socles éteints."
+  },
+  {
+   "type": "image",
+   "src": "images/ch27-3.webp",
+   "caption": "Les Ancres"
+  },
+  {
+   "type": "text",
+   "value": "La deuxième Ancre trembla. Le grand anneau fendu frémit sur son socle, comme un animal qui se réveille, et des filaments de lumière vinrent combler la fissure, lentement, en la recousant de l'intérieur. Puis elle se souleva de quelques centimètres et se mit à tourner."
+  },
+  {
+   "type": "text",
+   "value": "Autour, les Lumes poussèrent ensemble une vibration que les micros captèrent comme une note longue, pure, presque humaine."
+  },
+  {
+   "type": "text",
+   "value": "— Deux sur sept ! dit Nora. La courbe monte. Kenji, garde le faisceau stable, c'est parfait."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne respire plus, dit Kenji. C'est pour ça que c'est stable."
+  },
+  {
+   "type": "text",
+   "value": "La troisième s'alluma. Puis la quatrième, plus difficile, qui hoqueta trois fois avant de prendre son rythme. Les deux dernières stations solaires arrivèrent au-dessus de l'horizon et Kenji les ajouta au faisceau d'un geste sec. La cinquième Ancre se leva. Puis la sixième."
+  },
+  {
+   "type": "text",
+   "value": "Il n'en restait plus qu'une."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan, dit Nora. Le réacteur doit tenir encore deux minutes à pleine puissance. Tu m'entends ? Deux minutes et c'est fini."
+  },
+  {
+   "type": "text",
+   "value": "Au fond du puits, la petite chambre était devenue blanche. Le verre du sol brillait, le réacteur hurlait doucement, et Ilan ne savait plus très bien s'il était à genoux ou couché. Le compteur de sa visière clignotait en rouge, il ne parvenait plus à lire les chiffres."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'entends, dit-il. Elle est belle, Nora ? La septième ?"
+  },
+  {
+   "type": "text",
+   "value": "En haut, la dernière Ancre, la plus abîmée, celle que les Vorr avaient frappée en premier il y a des années, frémit sur son socle. Elle se souleva."
+  },
+  {
+   "type": "text",
+   "value": "— Elle se lève, dit Nora. Ilan, elle se lève. Toutes les sept. On a réussi. Remonte. Remonte maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Dans la radio, il y eut un grésillement."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan ?"
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran de Sam, la caméra du casque montrait le plafond de la chambre, fixe, inclinée. Elle ne bougeait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Ilan, réponds-moi."
+  },
+  {
+   "type": "text",
+   "value": "Le grésillement continua, régulier, vide, et plus personne ne répondit."
+  }
+ ]
+}

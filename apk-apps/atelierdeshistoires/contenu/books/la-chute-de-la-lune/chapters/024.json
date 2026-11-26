@@ -1,0 +1,281 @@
+{
+ "number": 24,
+ "title": "Le prix",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les anciens des Vorr se réunirent dans une salle qu'Ilan n'aurait jamais pu imaginer."
+  },
+  {
+   "type": "text",
+   "value": "C'était une sphère creusée dans la roche, si parfaite qu'elle semblait avoir été soufflée plutôt que taillée, et ses parois étaient couvertes de milliers de petits cristaux, alignés en spirales du sol jusqu'au sommet. La plupart étaient éteints. Quelques-uns brillaient encore, faiblement, rouges, orangés, d'une lueur si ténue qu'elle tremblait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-1.webp",
+   "caption": "La sphère des morts"
+  },
+  {
+   "type": "text",
+   "value": "— Nos morts, dit Vael à côté de lui. Leur dernière lumière. Les plus anciens sont là depuis avant l'arrivée de ton espèce sur ton continent."
+  },
+  {
+   "type": "text",
+   "value": "Ilan leva les yeux vers les spirales. Des milliers. Des dizaines de milliers."
+  },
+  {
+   "type": "text",
+   "value": "— Ils s'éteignent, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Le froid. Même les morts ont besoin de chaleur pour briller."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient une vingtaine, les anciens, assis en cercle sur des gradins de pierre, immenses et maigres, leurs lumières si pâles qu'on les distinguait à peine de la roche. Au centre, Vael. Et à côté de Vael, petit, humain, absurde dans sa combinaison blanche couverte de poussière grise, Ilan Varga, qui avait à peine dormi depuis deux jours et dont l'oxygène avait été rechargé à la hâte par une cartouche que Kenji avait fait parvenir par un messager Vorr, sous trêve."
+  },
+  {
+   "type": "text",
+   "value": "Il avait demandé qu'on laisse sa liaison ouverte. Vael avait accepté. Dans son oreille, il entendait la respiration de Nora, et parfois le chuchotement de Sam qui traduisait pour trois milliards de personnes ce qu'elle-même ne comprenait qu'à moitié."
+  },
+  {
+   "type": "text",
+   "value": "Les anciens parlèrent longtemps entre eux, en vibrations et en lumière. Ilan ne saisissait rien, sinon des variations de couleur qui couraient d'un gradin à l'autre comme des vagues. Parfois le rouge se durcissait. Parfois il s'adoucissait. À un moment, un ancien se leva et sa lumière éclata en un orange si vif qu'Ilan crut qu'il criait."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit que les Aster nous ont laissés mourir, murmura Vael. Il dit qu'on ne peut pas leur faire confiance."
+  },
+  {
+   "type": "text",
+   "value": "— Il a raison sur la première partie, dit Ilan. Peut-être sur la deuxième aussi. Mais il ne lui reste pas le temps d'avoir raison."
+  },
+  {
+   "type": "text",
+   "value": "Vael traduisit. Le vieux Vorr se tourna vers Ilan, et sa lumière baissa, lentement, jusqu'à un rouge sombre."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-leur pour Iru, souffla Ilan. Si tu veux. Pas pour moi. Pour eux."
+  },
+  {
+   "type": "text",
+   "value": "Vael resta un long moment immobile. Puis il se leva, et parla."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ne comprit pas les mots. Mais il vit la lumière de Vael se réduire à ce point serré qu'il connaissait maintenant, au centre de sa poitrine. Il vit les anciens, l'un après l'autre, faire la même chose. Vingt points rouges, minuscules, dans une sphère de cristaux éteints. C'était, comprit-il, une façon de se souvenir ensemble."
+  },
+  {
+   "type": "text",
+   "value": "Quand Vael se rassit, sa lumière s'était rallumée, plus large, plus calme."
+  },
+  {
+   "type": "text",
+   "value": "— Nous irons au Cœur, dit-il. Avec les Aster. Ensemble. Si Seraë vient elle-même."
+  },
+  {
+   "type": "text",
+   "value": "— Elle viendra, dit Ilan. Elle est blessée, mais elle viendra. Je la connais."
+  },
+  {
+   "type": "text",
+   "value": "— Tu la connais depuis deux rencontres."
+  },
+  {
+   "type": "text",
+   "value": "— Ça m'a suffi pour qu'elle me sauve la vie. Je trouve que c'est un bon début."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Seraë arriva trois heures plus tard, portée sur une sorte de civière de lumière par quatre Aster aux corps bleus et maigres. Sa propre lumière vacillait toujours, depuis la blessure, comme une flamme qui cherche l'air. Mais quand elle franchit le seuil de la sphère des morts, elle se redressa seule et marcha jusqu'au centre."
+  },
+  {
+   "type": "text",
+   "value": "Les anciens Vorr se levèrent. Pas tous. Mais la plupart."
+  },
+  {
+   "type": "text",
+   "value": "Seraë et Vael se firent face. Bleu contre rouge. Ilan retint sa respiration."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a longtemps, dit Seraë en français, ce français un peu ancien qui lui venait des radios d'autrefois, nous avons fui un monde mort ensemble. Nous étions un seul peuple. Nous avons bâti les Ancres ensemble."
+  },
+  {
+   "type": "text",
+   "value": "— Et vous nous les avez prises, dit Vael."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Le mot tomba dans la salle comme une pierre. Vael ne s'y attendait pas. Ilan non plus."
+  },
+  {
+   "type": "text",
+   "value": "— Nous avons eu peur, dit Seraë. Peur que vous les épuisiez. Alors nous les avons gardées, et vos enfants ont eu froid. C'était une faute. Je la porte."
+  },
+  {
+   "type": "text",
+   "value": "Elle tendit la main. Ses longs doigts bleus restèrent suspendus dans l'air, entre eux deux."
+  },
+  {
+   "type": "text",
+   "value": "Vael regarda cette main pendant très longtemps. Puis il leva la sienne, et leurs doigts se touchèrent, à peine. À l'endroit du contact, les deux lumières se mêlèrent, et pendant une seconde, Ilan vit naître entre eux une couleur qu'il n'avait jamais vue sur la Lune."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "Bleu contre rouge"
+  },
+  {
+   "type": "text",
+   "value": "Un violet profond."
+  },
+  {
+   "type": "text",
+   "value": "Dans son oreille, il entendit Sam renifler très fort, puis murmurer :"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vais pas pleurer en direct. Je ne vais pas pleurer en direct."
+  },
+  {
+   "type": "text",
+   "value": "— Tu pleures en direct, Lynx, dit la voix de Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Toi aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Moi je suis pilote. J'ai les yeux qui transpirent."
+  },
+  {
+   "type": "text",
+   "value": "Ilan sourit pour la première fois depuis des jours."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Sur Terre, ce fut plus long, plus laid, et beaucoup moins beau à regarder."
+  },
+  {
+   "type": "text",
+   "value": "Nora lui raconta tout par radio pendant qu'il rejoignait, escorté par les Vorr, la galerie où les deux clans devaient se rassembler. Sam lui faisait passer les images en vignette dans un coin de son affichage, et Ilan regardait en marchant, à moitié incrédule."
+  },
+  {
+   "type": "text",
+   "value": "Les marchés financiers avaient chuté pendant la nuit de la grande marée. Les actions de Helion avaient perdu un tiers de leur valeur en six heures. Des foules, à Paris, à Lagos, à São Paulo, à Séoul, s'étaient rassemblées devant les sièges et les filiales de Helion avec des pancartes improvisées, et sur la moitié d'entre elles, il y avait un dessin maladroit de Lune et deux mots que le monde entier avait appris en une semaine : Ilan avait raison."
+  },
+  {
+   "type": "text",
+   "value": "À Brest, une vidéo tournait en boucle : une jeune femme aux cheveux châtains courts, trempée jusqu'aux genoux, qui aidait un vieil homme à monter les marches du Cours Dajot. Ilan dut s'arrêter dans la galerie en la voyant."
+  },
+  {
+   "type": "text",
+   "value": "— Elle va bien, dit Nora doucement. Elle a envoyé un message à Sam. Elle dit de te dire qu'elle a été têtue. Que c'est de famille."
+  },
+  {
+   "type": "text",
+   "value": "Ilan ne répondit pas tout de suite. Les Vorr qui l'escortaient l'attendirent sans un mot."
+  },
+  {
+   "type": "text",
+   "value": "Puis, à quatorze heures, heure de Genève, le conseil d'administration de Helion se réunit en urgence. À quinze heures dix, un communiqué de trois lignes annonça que Victor Brandt était démis de ses fonctions de président-directeur général, avec effet immédiat, et que la direction intérimaire ordonnait la réorientation de l'ensemble des stations solaires orbitales du groupe vers la Lune, en coordination avec l'équipage de l'Odyssée."
+  },
+  {
+   "type": "text",
+   "value": "Ilan n'eut pas le temps de savourer. Nora poursuivait déjà."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji a la main sur les paramètres de faisceau. Les premières stations auront basculé dans neuf heures. Il faudra que le réacteur de l'Odyssée soit branché à ce moment-là. Et les deux clans au Cœur. Ilan, c'est jouable. Pour la première fois, c'est vraiment jouable."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta au bord de la grande galerie. En contrebas, des centaines de Lumes descendaient vers le Cœur, rouges et bleus mêlés, par vagues, lentement, comme deux rivières de lumière qui confluent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "Vers le Cœur"
+  },
+  {
+   "type": "text",
+   "value": "— Et Dorsey ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Un silence dans la liaison."
+  },
+  {
+   "type": "text",
+   "value": "— Toujours rien. Le rover de soute a cessé d'émettre il y a six heures. Rask a envoyé deux équipes Aster dans les galeries. Rien."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne peut pas aller loin avec une charge pareille."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'a pas besoin d'aller loin. Il a juste besoin d'aller au bon endroit."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Le signal arriva alors que les premiers Lumes atteignaient les portes du Cœur."
+  },
+  {
+   "type": "text",
+   "value": "Ilan l'entendit d'abord dans la voix de Rask, sur le canal de commandement, une voix qu'il ne lui connaissait pas. Plus lente. Plus basse. Comme quelqu'un qui pèse chaque mot avant de le poser."
+  },
+  {
+   "type": "text",
+   "value": "— À tout l'équipage. Ici Rask. Je viens de capter la balise de télémétrie de la charge. Elle s'est activée il y a quatre-vingt-dix secondes."
+  },
+  {
+   "type": "text",
+   "value": "Nora, dans son oreille, cessa de respirer."
+  },
+  {
+   "type": "text",
+   "value": "— Position ? demanda Ilan."
+  },
+  {
+   "type": "text",
+   "value": "— À l'intérieur du Cœur. À la base de la dernière Ancre en fonctionnement."
+  },
+  {
+   "type": "text",
+   "value": "Un temps. Ilan entendit, derrière la commandante, Kenji qui jurait à voix basse, sans fin, en japonais."
+  },
+  {
+   "type": "text",
+   "value": "— Dorsey a posé la charge, reprit Rask. Et il a lancé la minuterie."
+  },
+  {
+   "type": "text",
+   "value": "— Combien ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Quarante minutes."
+  }
+ ]
+}

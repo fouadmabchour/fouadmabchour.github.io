@@ -1,0 +1,281 @@
+{
+ "number": 28,
+ "title": "Le premier mètre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Nora ne réfléchit pas. C'était peut-être la première fois de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "Elle lâcha la tablette, qui tomba au ralenti sur le cristal, et courut vers le puits avec ces grands bonds absurdes qu'impose la gravité lunaire. Derrière elle, quelqu'un cria son nom, Kenji peut-être, dans la radio. Elle ne l'écouta pas."
+  },
+  {
+   "type": "text",
+   "value": "Au bord du trou, une main immense la retint par l'épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Le feu de votre vaisseau brûle encore, dit Vael. Tu descendras dans la mort."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji ! cria Nora. Coupe le réacteur. Les Ancres tournent toutes seules, maintenant, elles prennent le faisceau directement. Coupe-le !"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas si elles tiennent sans lui..."
+  },
+  {
+   "type": "text",
+   "value": "— Elles tiennent. J'ai les courbes. Je te le jure sur tout ce que je sais. Coupe."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut deux secondes de silence. Puis la voix de Kenji, très basse :"
+  },
+  {
+   "type": "text",
+   "value": "— Réacteur en arrêt d'urgence. Plasma purgé, confinement coupé. Nora, ça va prendre quelques minutes avant que le rayonnement retombe."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'a pas quelques minutes."
+  },
+  {
+   "type": "text",
+   "value": "Vael la regardait. Sa lumière rouge-orangé avait des reflets plus sombres, presque bruns, et Nora avait appris à lire cette couleur : c'était celle qu'il prenait quand il parlait de son fils."
+  },
+  {
+   "type": "text",
+   "value": "— Mon peuple a tiré sur votre vaisseau, dit-il. Mon peuple a exigé votre feu, et votre commandante est morte pour que nous ayons encore un monde. Je n'ai rien payé, moi. Je descends avec toi."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lui laissa pas le temps de répondre. Il entra dans le puits, et Nora le suivit."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "La descente fut la chose la plus longue qu'elle ait jamais vécue."
+  },
+  {
+   "type": "text",
+   "value": "Le compteur de sa propre combinaison grimpait, plus lentement que celui d'Ilan parce que le réacteur s'éteignait, mais il grimpait. Devant elle, Vael descendait vite, plié, ses longs membres coincés dans la colonne de verre. Sa lumière faiblissait à mesure qu'ils s'enfonçaient. À cent cinquante mètres, elle n'était plus qu'une braise."
+  },
+  {
+   "type": "text",
+   "value": "— Vael, ça va ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je vis encore, dit-il. C'est suffisant pour aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "La chambre du fond était silencieuse. Le réacteur s'était tu, ses voyants passés au jaune. Ilan était allongé sur le côté contre le socle, une main encore posée sur le quatrième connecteur, comme s'il avait voulu vérifier une dernière fois qu'il tenait bien."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "Il est vivant"
+  },
+  {
+   "type": "text",
+   "value": "Nora s'agenouilla près de lui. Elle brancha son câble de diagnostic sur la prise de sa combinaison, les doigts si raides qu'elle s'y reprit à deux fois."
+  },
+  {
+   "type": "text",
+   "value": "Pouls : quarante-huit. Faible, irrégulier. Mais là."
+  },
+  {
+   "type": "text",
+   "value": "— Il est vivant, dit-elle. Kenji, Sam, il est vivant."
+  },
+  {
+   "type": "text",
+   "value": "Dans la radio, elle entendit Sam pleurer, et Kenji dire quelque chose en japonais qui ressemblait à une prière, ou à un juron, ou aux deux."
+  },
+  {
+   "type": "text",
+   "value": "Vael passa ses bras sous le corps d'Ilan. Avec un sixième de la gravité, un homme en combinaison pesait à peine plus qu'un enfant, mais le puits était étroit et la lumière de Vael tremblait de plus en plus. Ils remontèrent ensemble, lui portant, elle poussant, en comptant les barreaux à voix haute pour ne pas s'arrêter. À cent vingt mètres, des mains bleues descendirent vers eux. Seraë et quatre autres Aster attendaient. Puis d'autres mains, rouges, derrière. Les Lumes avaient formé une chaîne dans le puits, et ils remontèrent Ilan de main en main, Aster, Vorr, Aster, Vorr, jusqu'au bord."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "La chaîne"
+  },
+  {
+   "type": "text",
+   "value": "Quand Nora émergea dans le Cœur, la première chose qu'elle vit fut Vael, assis contre un socle, sa lumière si faible qu'on distinguait à peine sa forme. Seraë s'était agenouillée près de lui et posait les deux mains sur sa poitrine. Une lueur bleue passait de l'une à l'autre, lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Il va s'éteindre ? demanda Nora."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Seraë. Pas aujourd'hui. Je lui prête un peu de moi. C'est une chose que nos clans ne faisaient plus depuis longtemps."
+  },
+  {
+   "type": "text",
+   "value": "La deuxième chose que vit Nora, ce furent les sept Ancres."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait jamais vu le Cœur ainsi. Personne ne l'avait vu ainsi depuis des siècles. Les sept anneaux tournaient autour du puits, à des vitesses différentes, chacun penché selon son propre angle, et leur rotation produisait un accord de sept notes graves qui remplissait la caverne. La lumière qu'ils dégageaient avait une couleur qu'elle n'aurait pas su nommer, quelque part entre l'or et le blanc."
+  },
+  {
+   "type": "text",
+   "value": "Elle aurait pu rester là une heure. Au lieu de ça, elle ramassa sa tablette."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Il fallut vingt-deux minutes pour transporter Ilan jusqu'à l'Odyssée, sur une civière improvisée par les Aster, et pour l'installer dans la couchette médicale. Sam lui découpa la combinaison avec des ciseaux, les mains tremblantes. Kenji brancha la perfusion en suivant le protocole à voix haute, lentement, une étape après l'autre, en lisant le manuel."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis pilote, répétait-il. Je suis pilote, pas infirmier. Je suis pilote."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te débrouilles très bien, dit Sam."
+  },
+  {
+   "type": "text",
+   "value": "— Je me débrouille très bien parce que j'ai peur de mal faire. C'est différent."
+  },
+  {
+   "type": "text",
+   "value": "Ilan avait la peau grise, les lèvres sèches. Le dos de sa main gauche, déjà marqué par 2041, avait pris une teinte rouge vif. Il respirait. Il ne se réveillait pas."
+  },
+  {
+   "type": "text",
+   "value": "Nora, assise à la console scientifique, ne le quittait pas des yeux. Puis elle se força à regarder l'écran."
+  },
+  {
+   "type": "text",
+   "value": "Depuis l'arrivée, l'observatoire de La Silla, au Chili, visait toutes les dix minutes les vieux réflecteurs laser laissés sur la face visible, et lui transmettait chaque mesure par le relais. Le principe était vieux comme les missions Apollo : on envoie un faisceau depuis la Terre, il rebondit sur le réflecteur, on chronomètre son retour, on obtient la distance au millimètre. Elle avait regardé ces chiffres baisser depuis cinq ans. Chaque mois. Chaque semaine. Chaque jour."
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit le fichier de La Silla. Dernière mesure : il y a quatre minutes."
+  },
+  {
+   "type": "text",
+   "value": "Elle compara avec la précédente. Puis avec celle d'avant. Elle refit le calcul à la main, sur le dos d'un emballage de ration, parce qu'elle ne faisait plus confiance à rien."
+  },
+  {
+   "type": "text",
+   "value": "— Nora ? dit Sam."
+  },
+  {
+   "type": "text",
+   "value": "— Attends."
+  },
+  {
+   "type": "text",
+   "value": "Elle refit le calcul une troisième fois. Exactement comme elle l'avait fait à Cambridge, cinq ans plus tôt, un soir de septembre, en découvrant que la Lune s'était rapprochée de quatre cent douze mètres."
+  },
+  {
+   "type": "text",
+   "value": "— Nora, qu'est-ce qu'il y a ?"
+  },
+  {
+   "type": "text",
+   "value": "Nora enleva ses lunettes. Elle les essuya sur sa manche, lentement, puis les remit."
+  },
+  {
+   "type": "text",
+   "value": "— Sam, dit-elle. Mets-moi en direct."
+  },
+  {
+   "type": "text",
+   "value": "Sam la regarda une seconde, puis bascula le micro."
+  },
+  {
+   "type": "text",
+   "value": "— La Lune s'éloigne, dit Nora."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était parfaitement calme. Elle ne savait pas comment."
+  },
+  {
+   "type": "text",
+   "value": "— Sur les douze dernières minutes, la distance Terre-Lune a augmenté de quatre-vingt-sept centimètres. C'est minuscule. À ce rythme, il faudra des années pour qu'elle retrouve son orbite. Mais c'est la première fois en cinq ans que ce chiffre est positif. Les Ancres tiennent. Elle repart. Je répète : la Lune repart."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence dans la cabine. Puis Kenji se mit à rire, d'un rire qui partait tout seul, incontrôlable, et Sam se jeta dans les bras de Nora en renversant la tablette."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "La Lune repart"
+  },
+  {
+   "type": "text",
+   "value": "Sur les écrans du direct, la Terre explosa."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait pas d'autre mot. Les fenêtres de messages se transformèrent en murs de couleurs. Les images des Veilleurs arrivaient de partout : des gens qui hurlaient dans les rues de Tokyo, un mariage à Dakar interrompu pour danser autour d'un téléphone, des klaxons en continu sur le périphérique de Paris, des pompiers en larmes sur une digue des Pays-Bas. À Valparaíso, une ville dont la moitié avait été rendue à la mer, quelqu'un avait allumé des feux d'artifice sur les ruines du port. Dans un amphithéâtre de Brest, une salle entière d'étudiants scandait un prénom, et Sam mit un moment à comprendre lequel : *Ilan. Ilan. Ilan.*"
+  },
+  {
+   "type": "text",
+   "value": "— Ils doivent avoir arrêté le tram, dit Sam en riant à travers ses larmes. Toute la ville doit être dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Le premier mètre, dit Nora. Il n'y est même pas encore. Quatre-vingt-sept centimètres. Dans dix minutes, on aura le premier mètre."
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna vers la couchette. Ilan ne bougeait pas. Mais sa poitrine se soulevait, régulière, et elle décida que c'était une réponse suffisante pour l'instant."
+  },
+  {
+   "type": "text",
+   "value": "***"
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne riait plus."
+  },
+  {
+   "type": "text",
+   "value": "Nora ne s'en rendit compte qu'au bout d'un moment. Pendant que Sam répondait aux messages et que les chiffres de La Silla continuaient de grimper, il s'était assis à la console de propulsion, et il regardait un écran qui n'avait rien à voir avec la Lune."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne se retourna pas tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Le réacteur, dit-il. Je l'ai coupé en urgence, au fond du puits, à pleine puissance. Le plasma est purgé, il est stable, personne n'est en danger. Mais le noyau de fusion est fichu. Le confinement a fondu. Il ne redémarrera jamais."
+  },
+  {
+   "type": "text",
+   "value": "— On peut le réparer ? On a des pièces ?"
+  },
+  {
+   "type": "text",
+   "value": "Kenji pivota enfin vers elle. Pour la première fois depuis le départ, il n'avait pas l'ombre d'un sourire."
+  },
+  {
+   "type": "text",
+   "value": "— Nora. Sans le réacteur, l'Odyssée ne pourra jamais redécoller. On est coincés sur la Lune."
+  }
+ ]
+}
