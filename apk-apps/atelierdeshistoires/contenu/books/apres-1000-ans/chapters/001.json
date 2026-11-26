@@ -1,0 +1,313 @@
+{
+ "number": 1,
+ "title": "La dernière aube",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le ciel de Kourou était orange depuis onze ans."
+  },
+  {
+   "type": "text",
+   "value": "Amara Diallo ne se souvenait plus très bien du bleu. Elle se souvenait d'un bleu d'enfance, au-dessus de Saint-Louis, chez sa grand-mère, un bleu si dur qu'il faisait mal aux yeux. Mais ce matin-là, le 3 mars 2189, l'aube se levait sur la Guyane comme toutes les aubes depuis la décennie des incendies : épaisse, cuivrée, chargée de poussière. Le soleil n'était qu'une pièce de monnaie pâle derrière un voile. Il faisait déjà quarante et un degrés à six heures du matin."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'esplanade du centre spatial, tout le monde portait un masque filtrant. Les techniciens, les militaires, les quelques familles autorisées derrière la barrière. Et Noé."
+  },
+  {
+   "type": "text",
+   "value": "Noé avait six ans. Son masque était trop grand pour lui, un modèle adulte que sa tante avait resserré avec un élastique, et au-dessus de la bordure grise on ne voyait que ses yeux. Immenses, sérieux, incapables de mentir."
+  },
+  {
+   "type": "text",
+   "value": "— Tu pars combien de temps ? demanda-t-il pour la dixième fois."
+  },
+  {
+   "type": "text",
+   "value": "Amara s'accroupit devant lui. Sa combinaison, blanche et grise, crissa sur le béton chaud."
+  },
+  {
+   "type": "text",
+   "value": "— Longtemps, dit-elle. Je t'ai expliqué. Neuf ans pour aller, un peu de temps là-bas, et le voyage du retour."
+  },
+  {
+   "type": "text",
+   "value": "— Ça fait combien, quand je reviens ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quand moi, je reviens, corrigea-t-elle doucement. Tu auras vingt-quatre ou vingt-cinq ans. Tu seras plus grand que moi."
+  },
+  {
+   "type": "text",
+   "value": "Il réfléchit. Elle voyait le calcul se faire derrière ses yeux, les petites lèvres qui bougeaient sous le masque."
+  },
+  {
+   "type": "text",
+   "value": "— Alors tu me reconnaîtras pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je te reconnaîtrai toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Comment ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait pas de réponse. Elle avait piloté des avions au-dessus du Sahel en feu, elle avait été choisie parmi quatre mille candidats pour commander la mission la plus importante de l'histoire humaine, et elle n'avait pas de réponse à la question d'un enfant de six ans."
+  },
+  {
+   "type": "text",
+   "value": "Alors Noé sortit quelque chose de sa poche. Un bracelet. Des perles de bois et de plastique enfilées sur un fil élastique, rouges, jaunes, une bleue au milieu, un peu de travers."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai fait avec tata Awa, dit-il. La bleue, c'est la Terre. Les autres, c'est rien, c'est joli."
+  },
+  {
+   "type": "text",
+   "value": "Amara tendit le poignet. Il le lui passa lui-même, avec une concentration de chirurgien, en tirant la langue derrière son masque. L'élastique lui serra un peu la peau."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Le bracelet"
+  },
+  {
+   "type": "text",
+   "value": "— Comme ça, tu me reconnaîtras, dit-il. Parce que j'aurai le même dans ma tête."
+  },
+  {
+   "type": "text",
+   "value": "Derrière lui, Awa, sa sœur, détourna les yeux et regarda très fort le ciel orange."
+  },
+  {
+   "type": "text",
+   "value": "Amara serra son fils contre elle. Elle chercha l'odeur de ses cheveux à travers le filtre de son propre masque, et l'odeur ne passait pas, évidemment. Elle la reconstitua de mémoire. Lait, sel, sommeil. Elle la rangea quelque part, dans un endroit où rien ne pourrait l'atteindre."
+  },
+  {
+   "type": "text",
+   "value": "— Sois sage avec Awa."
+  },
+  {
+   "type": "text",
+   "value": "— Toi aussi, sois sage."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit. C'était la dernière fois qu'elle riait sur Terre."
+  },
+  {
+   "type": "text",
+   "value": "La salle d'habillage sentait le caoutchouc neuf et le café trop fort."
+  },
+  {
+   "type": "text",
+   "value": "Quand Amara entra, Mathis Corre était debout sur un banc, les bras écartés, en train d'imiter le directeur de l'Agence."
+  },
+  {
+   "type": "text",
+   "value": "— Mesdames et messieurs, vous êtes l'espoir de l'humanité tout entière, déclama-t-il d'une voix grave et nasillarde, la main sur le cœur. Pas de pression. Mais si vous ratez, on meurt tous. Bon voyage, et pensez à ramener des cartes postales."
+  },
+  {
+   "type": "text",
+   "value": "Freya Lindqvist éclata de rire, ce rire énorme qu'elle avait, qui ne correspondait pas du tout à sa silhouette fine. Ses longs cheveux presque blancs étaient tressés serré pour tenir sous le casque."
+  },
+  {
+   "type": "text",
+   "value": "— Descends de là, dit Amara. Si tu te casses une cheville maintenant, je décolle sans toi."
+  },
+  {
+   "type": "text",
+   "value": "Mathis sauta du banc avec une souplesse étonnante pour un garçon aussi costaud. Il avait vingt-neuf ans, des cheveux roux qui refusaient toute discipline, une barbe de trois jours et, sur l'avant-bras, un petit phare tatoué. Le phare de la jetée de Douarnenez, disait-il, le plus beau de Bretagne, et il défiait quiconque de le contredire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Salle d'habillage"
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne feriez jamais ça, commandante, dit-il. Qui réparerait la machine à café ?"
+  },
+  {
+   "type": "text",
+   "value": "— Hélia sait réparer la machine à café."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia sait la réparer, mais elle ne sait pas la réparer avec amour."
+  },
+  {
+   "type": "text",
+   "value": "Freya riait encore. Amara la regarda remonter la fermeture de sa combinaison. Ses doigts glissèrent deux fois sur la languette. La troisième fois, Freya posa vivement sa main gauche à plat contre sa cuisse, comme pour la calmer, et termina de la droite. Elle surprit le regard d'Amara et sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Le trac, dit-elle. Je suis médecin, je sais reconnaître le trac."
+  },
+  {
+   "type": "text",
+   "value": "Amara hocha la tête. Elle n'y pensa plus. Elle y repenserait, des années plus tard."
+  },
+  {
+   "type": "text",
+   "value": "Dans un coin, assis seul devant une tablette, Kenji Arata ne riait pas. Il ne riait presque jamais, non par tristesse, mais parce que le rire l'aurait distrait. Ses cheveux noirs étaient attachés sur la nuque, ses fines lunettes rondes glissaient sur son nez et il les remontait d'un doigt, toujours le même geste, sans quitter l'écran des yeux. Il relisait la trajectoire. Les vingt-huit mille lignes de la trajectoire. Il l'avait écrite, il la connaissait par cœur, et il la relisait quand même."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit Amara. Ça va tenir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ça tient depuis quatre ans, répondit-il sans lever la tête. Je vérifie juste qu'elle n'a pas changé pendant la nuit."
+  },
+  {
+   "type": "text",
+   "value": "— Elle peut changer pendant la nuit ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non, murmura Kenji. Mais moi, si."
+  },
+  {
+   "type": "text",
+   "value": "Et puis il y avait Elias Varga."
+  },
+  {
+   "type": "text",
+   "value": "Le physicien était le plus âgé, quarante ans, grand, un peu voûté comme quelqu'un qui passe trop de temps à se pencher sur des choses minuscules. Sa barbe courte était poivre et sel, ses yeux sombres très fatigués. Il s'habillait en silence, méthodiquement, et quand le haut-parleur annonça que les familles pouvaient monter dire un dernier mot dans le sas d'accès, il ne se leva pas."
+  },
+  {
+   "type": "text",
+   "value": "— Personne pour vous, Varga ? demanda Mathis, avec une gentillesse qui n'avait rien de moqueur."
+  },
+  {
+   "type": "text",
+   "value": "— Personne, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma son col. Il n'ajouta rien. Mathis n'insista pas, et Amara lui en fut reconnaissante."
+  },
+  {
+   "type": "text",
+   "value": "À T moins quarante minutes, ils étaient sanglés dans leurs couchettes, au sommet de cent vingt mètres d'acier et de carburant."
+  },
+  {
+   "type": "text",
+   "value": "L'Aurore n'était pas là. L'Aurore les attendait en orbite, longue, blanche, assemblée pendant neuf ans par des milliers de mains. Ce qui allait les arracher à la Terre, c'était un lanceur lourd, une capsule étroite où cinq personnes tenaient épaule contre épaule, et l'odeur de plastique chaud des sièges."
+  },
+  {
+   "type": "text",
+   "value": "La voix d'Hélia emplit le casque d'Amara. Une voix féminine, douce, un peu trop calme."
+  },
+  {
+   "type": "text",
+   "value": "*Toutes les vérifications sont nominales, commandante. Vents en altitude dans les limites. Je vous souhaite un excellent voyage.*"
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Hélia."
+  },
+  {
+   "type": "text",
+   "value": "*Je serai avec vous tout du long.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda son poignet. Le bracelet de perles dépassait de son gant, coincé sous la manchette. La perle bleue au milieu. La Terre."
+  },
+  {
+   "type": "text",
+   "value": "À sa droite, Kenji avait encore la tablette sur ses genoux. C'était interdit à ce stade, et elle aurait dû la lui reprendre. Elle ne dit rien. Chacun se rassurait comme il pouvait."
+  },
+  {
+   "type": "text",
+   "value": "Kenji faisait défiler les derniers relevés de l'observatoire de Mauna Kea, transmis la veille. Rien d'important : des corrections de routine, les positions affinées de quelques objets lointains le long de leur route. Des étoiles, des nuages de gaz, et une poignée de cadavres d'étoiles, ces astres éteints et sombres qu'on ne voit presque pas et qu'on contourne de loin."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta sur une ligne."
+  },
+  {
+   "type": "text",
+   "value": "Une étoile morte, cataloguée depuis un siècle sous le nom de RX-4419. Elle se trouvait à une distance confortable de leur route, une marge immense. Mais la nouvelle mesure indiquait qu'elle courbait la lumière des étoiles situées derrière elle un tout petit peu plus que prévu. Car c'est ainsi qu'on pèse les choses invisibles : à la façon dont elles plient la lumière qui passe près d'elles, comme une bille lourde creuse un drap tendu. Plus le creux est profond, plus l'objet est lourd."
+  },
+  {
+   "type": "text",
+   "value": "L'écart était minuscule. Le genre d'écart qui vient d'un capteur mal refroidi, d'une nuit de turbulences, d'un technicien fatigué."
+  },
+  {
+   "type": "text",
+   "value": "Ou d'un objet qui pèse plus lourd qu'on ne le croit."
+  },
+  {
+   "type": "text",
+   "value": "*T moins dix minutes*, dit Hélia."
+  },
+  {
+   "type": "text",
+   "value": "Kenji fronça les sourcils. Il remonta ses lunettes. Il ouvrit le relevé précédent, compara. L'écart était là, dans les deux. Infime. Si infime que personne, à l'Agence, ne l'avait signalé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le doute"
+  },
+  {
+   "type": "text",
+   "value": "Il pensa à demander un arrêt du compte à rebours. Il imagina la phrase : *Je voudrais vérifier une étoile morte.* Il imagina les milliards de gens sous le ciel orange, les quatorze ans d'efforts du monde entier, la fenêtre de tir qui ne se rouvrirait pas avant deux ans, et deux ans, c'était peut-être plus que ce que la Terre avait encore."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit un fichier de notes. Ses doigts tapèrent, très vite."
+  },
+  {
+   "type": "text",
+   "value": "*RX-4419. Déviation légèrement supérieure au modèle. À vérifier en route.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ferma la tablette."
+  },
+  {
+   "type": "text",
+   "value": "*T moins une minute.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara ferma les yeux. Elle pensa à Noé, aux yeux immenses au-dessus du masque trop grand."
+  },
+  {
+   "type": "text",
+   "value": "*Trente secondes.*"
+  },
+  {
+   "type": "text",
+   "value": "Mathis, à l'autre bout de la rangée, se mit à fredonner quelque chose en breton, faux et joyeux. Freya, sans ouvrir les yeux, le rejoignit sur le refrain, encore plus faux. Même Elias eut un demi-sourire."
+  },
+  {
+   "type": "text",
+   "value": "*Dix. Neuf. Huit.*"
+  },
+  {
+   "type": "text",
+   "value": "Kenji regarda la tablette fermée sur ses genoux. Une partie de lui, une toute petite partie, voulait lever la main."
+  },
+  {
+   "type": "text",
+   "value": "*Trois. Deux.*"
+  },
+  {
+   "type": "text",
+   "value": "Il ne la leva pas."
+  },
+  {
+   "type": "text",
+   "value": "Le compte à rebours ne s'arrêta pas."
+  }
+ ]
+}

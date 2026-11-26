@@ -1,0 +1,353 @@
+{
+ "number": 6,
+ "title": "Trop près",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Personne ne répondit à Elias."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent tous les cinq devant la grande vitre de la baie d'observation, et la chose les regardait sans les voir. Un rond de nuit plus noir que la nuit, si parfait qu'il ressemblait à un trou découpé aux ciseaux dans le ciel. Autour, l'anneau d'or tournait, mince et brûlant, et derrière lui les étoiles se tordaient comme des reflets au fond d'une piscine. Une galaxie entière, très loin derrière, apparaissait deux fois : une fois au-dessus du disque, une fois en dessous, étirée en arc."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la lumière, dit Elias d'une voix blanche. Elle fait le tour. On voit l'arrière du ciel par-dessus son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— C'est beau, murmura Freya."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la chose la plus belle et la plus dangereuse que des humains aient jamais vue, dit Elias. Et on fonce dessus."
+  },
+  {
+   "type": "text",
+   "value": "Amara fut la première à se retourner."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji. Je veux une trajectoire. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne bougea pas. Ses lunettes rondes renvoyaient l'éclat de l'anneau, deux petits soleils d'or à la place des yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "Deux soleils d'or"
+  },
+  {
+   "type": "text",
+   "value": "— Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit-il. Oui. Pardon."
+  },
+  {
+   "type": "text",
+   "value": "Il partit vers le poste de navigation presque en courant, et Amara sentit, dans sa propre poitrine, combien il aurait voulu disparaître."
+  },
+  {
+   "type": "text",
+   "value": "Le plan prit forme en trois heures, sur la grande table du module de commande, au milieu des tasses froides et des tablettes couvertes de courbes."
+  },
+  {
+   "type": "text",
+   "value": "— On ne peut pas freiner, expliqua Kenji. On n'a pas assez de carburant pour s'arrêter, et même si on en avait, il nous tirerait quand même. Alors on fait l'inverse. On continue de tomber. On le frôle. Et au point le plus proche, le périgée, on allume le moteur principal à pleine puissance et on brûle tout."
+  },
+  {
+   "type": "text",
+   "value": "— Tout ? demanda Mathis."
+  },
+  {
+   "type": "text",
+   "value": "— Tout. Jusqu'à la dernière goutte."
+  },
+  {
+   "type": "text",
+   "value": "Mathis siffla entre ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— Et après, on fait du stop ?"
+  },
+  {
+   "type": "text",
+   "value": "— Après, on est lancés, dit Kenji sans sourire. C'est une fronde. Comme une pierre qu'on fait tourner au bout d'une corde. Le trou noir nous attire, il nous fait accélérer en tombant, et si on pousse au bon moment, au plus bas, on ressort de l'autre côté beaucoup plus vite qu'on n'est entrés. On vole son élan."
+  },
+  {
+   "type": "text",
+   "value": "— Et la direction ? demanda Amara."
+  },
+  {
+   "type": "text",
+   "value": "Kenji posa le doigt sur l'écran. Une longue courbe contournait le disque noir, puis repartait dans le vide."
+  },
+  {
+   "type": "text",
+   "value": "— Thalassa. Si tout se passe bien, la fronde nous remet presque exactement sur la route. On arrive même plus tôt que prévu. D'un an, peut-être."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Freya fut celle qui le rompit, et elle le fit doucement, comme on pose une main sur une épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on a une chance."
+  },
+  {
+   "type": "text",
+   "value": "— On a une chance, répéta Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Il ne leva pas les yeux vers elle. Il les gardait sur la courbe, comme si elle pouvait encore changer s'il cessait de la surveiller."
+  },
+  {
+   "type": "text",
+   "value": "— Elias, dit Amara. Tu vérifies ses chiffres. Je veux deux têtes là-dessus."
+  },
+  {
+   "type": "text",
+   "value": "Elias hocha la tête et prit la tablette."
+  },
+  {
+   "type": "text",
+   "value": "Il s'enferma dans sa cabine pour calculer. Il n'aimait pas qu'on le voie penser, il disait que ça lui donnait l'air bête. Sur la petite table, l'échiquier de voyage était resté ouvert sur la partie de la veille, celle qu'il avait abandonnée contre Amara au trente-deuxième coup. Il poussa les pièces sur le côté."
+  },
+  {
+   "type": "text",
+   "value": "La trajectoire de Kenji était juste. Elle était même élégante. Elias le vit en vingt minutes et en éprouva une forme de fierté triste : ce garçon était un génie, et c'était bien ce qui rendait son erreur si cruelle."
+  },
+  {
+   "type": "text",
+   "value": "Puis il fit l'autre calcul. Celui que personne ne lui avait demandé."
+  },
+  {
+   "type": "text",
+   "value": "Il le fit une fois, crut s'être trompé, le refit. Il demanda à Hélia de le refaire à sa place."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia. Au périgée, à cette distance de l'horizon, quel est le rapport entre notre temps à bord et le temps sur Terre ?"
+  },
+  {
+   "type": "text",
+   "value": "*Environ un pour cent vingt mille, Elias. Une heure à bord correspondra à un peu moins de quatorze ans terrestres.*"
+  },
+  {
+   "type": "text",
+   "value": "La voix était douce, posée, exactement la même que lorsqu'elle annonçait la température de la serre. Elias resta un long moment sans rien dire. Il entendait, de l'autre côté de la cloison, Mathis qui chantonnait en démontant quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Il connaissait la théorie depuis ses vingt ans. Il l'avait enseignée à des amphithéâtres d'étudiants qui prenaient des notes en bâillant. Plus on s'approche d'une masse énorme, plus le temps ralentit. Pas les montres : le temps lui-même. Une horloge posée au pied d'une montagne bat un tout petit peu moins vite qu'une horloge posée au sommet. Sur Terre, la différence se compte en milliardièmes de seconde. Au bord d'un trou noir qui tourne sur lui-même à une vitesse folle, elle ne se compte plus. Elle avale des vies."
+  },
+  {
+   "type": "text",
+   "value": "Ils avaient besoin de rester des heures au fond du puits. La plongée, le passage, la poussée, la remontée. Kenji avait prévu une manœuvre de près de huit heures dans la zone la plus profonde."
+  },
+  {
+   "type": "text",
+   "value": "Huit heures. Plus d'un siècle."
+  },
+  {
+   "type": "text",
+   "value": "Elias pensa à Noé. Il pensa au bracelet de perles qu'Amara faisait tourner autour de son poignet quand elle croyait que personne ne la voyait. Il pensa à la tête qu'elle ferait."
+  },
+  {
+   "type": "text",
+   "value": "Puis il pensa qu'il n'y avait aucune autre trajectoire. Qu'on ne choisit pas entre un siècle et la mort. Que si elle savait, elle hésiterait peut-être une seconde, et qu'une seconde d'hésitation, au périgée, suffisait à les tuer tous."
+  },
+  {
+   "type": "text",
+   "value": "Il effaça la ligne de l'écran."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit-il. Ce calcul reste entre nous. Pour l'instant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Le secret"
+  },
+  {
+   "type": "text",
+   "value": "*Je ne mentirai pas à la commandante si elle me pose la question, Elias.*"
+  },
+  {
+   "type": "text",
+   "value": "— Elle ne te la posera pas, dit-il. Elle a trop de choses à penser."
+  },
+  {
+   "type": "text",
+   "value": "*C'est ce que je crains.*"
+  },
+  {
+   "type": "text",
+   "value": "Il revint au module de commande avec la tablette sous le bras et le visage aussi calme qu'il put."
+  },
+  {
+   "type": "text",
+   "value": "— Ses chiffres sont bons, dit-il. On peut y aller."
+  },
+  {
+   "type": "text",
+   "value": "Amara le regarda une seconde de trop. Elias soutint son regard. Il avait toujours été mauvais aux échecs quand il fallait bluffer, et il se demanda si elle le savait."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on y va, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "La chute dura deux jours."
+  },
+  {
+   "type": "text",
+   "value": "Ils les passèrent à tout attacher, tout vérifier, tout revérifier. Mathis rampa dans chaque conduit du moteur principal avec une lampe frontale et une clé dans la bouche. Freya prépara des injections contre les nausées et cacha sa main gauche dans la poche de sa combinaison. Kenji ne dormit pas. Amara l'entendit, la deuxième nuit, dans le poste de navigation : le petit frottement régulier d'un pinceau sur du papier. Il traçait des caractères à l'encre, toujours les mêmes, pour se calmer."
+  },
+  {
+   "type": "text",
+   "value": "Dehors, le ciel changeait. Les étoiles glissaient vers l'anneau d'or comme de l'eau vers une bonde. Le disque noir grossissait d'heure en heure, et il n'y avait plus de mots pour sa taille : il mangeait déjà le quart de la vitre."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau commença à gémir. Des craquements dans la coque, longs et sourds, comme une vieille maison en hiver."
+  },
+  {
+   "type": "text",
+   "value": "— C'est normal, dit Mathis en tapotant une paroi. C'est la marée. Il tire plus fort sur le nez que sur la queue. L'Aurore s'étire un peu. Elle fait sa gym."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es sûr ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Mathis avec un grand sourire. Mais c'est ce que dirait un ingénieur rassurant."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit malgré elle. C'était son métier, à Mathis, plus encore que les moteurs : faire rire les gens au bon moment."
+  },
+  {
+   "type": "text",
+   "value": "Le troisième jour, Hélia annonça le début de la phase profonde. Ils s'attachèrent tous les cinq dans le module de commande. Amara au centre, les mains sur les commandes manuelles. Kenji à sa droite, les yeux sur la trajectoire. Elias derrière, sur les chiffres. Freya au poste médical. Mathis au poste moteur, les doigts posés sur ses écrans comme sur un piano."
+  },
+  {
+   "type": "text",
+   "value": "Le temps devint étrange. Pas pour eux : pour eux, une minute restait une minute. Mais les signaux de balise qu'ils recevaient de la Terre, ces petits bips automatiques envoyés depuis toujours, se mirent à arriver de plus en plus vite. D'abord un par heure, puis un par minute, puis une rafale serrée, un sifflement continu."
+  },
+  {
+   "type": "text",
+   "value": "Elias regardait ce sifflement et savait ce qu'il voulait dire. Là-bas, les jours tombaient comme des feuilles."
+  },
+  {
+   "type": "text",
+   "value": "— Périgée dans quatre minutes, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Amara serra les commandes. Son bracelet de perles avait glissé jusqu'au bas de son poignet."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis ?"
+  },
+  {
+   "type": "text",
+   "value": "— Moteur prêt, Commandante. Les turbopompes ronronnent. Le refroidissement est au vert. Elle n'attend que toi."
+  },
+  {
+   "type": "text",
+   "value": "— Trois minutes."
+  },
+  {
+   "type": "text",
+   "value": "Freya ferma les yeux. Elias, derrière Amara, posa une main sur le dossier de son siège, sans la toucher. Elle ne le vit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Deux minutes."
+  },
+  {
+   "type": "text",
+   "value": "Le disque noir remplissait toute la vitre maintenant. Il n'y avait plus de ciel. Seulement cette nuit absolue au-dessus d'eux, et l'anneau d'or qui passait en dessous comme une route de feu."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "Périgée"
+  },
+  {
+   "type": "text",
+   "value": "— Une minute."
+  },
+  {
+   "type": "text",
+   "value": "— Allumage à mon signal, dit Amara. Trente secondes."
+  },
+  {
+   "type": "text",
+   "value": "Elle compta. Sa voix ne trembla pas."
+  },
+  {
+   "type": "text",
+   "value": "— Trois. Deux. Un. Allumage."
+  },
+  {
+   "type": "text",
+   "value": "Le moteur principal rugit. Tout le vaisseau trembla, une poussée énorme les écrasa dans leurs sièges, et pendant quatre secondes, quatre secondes merveilleuses, l'aiguille de la vitesse monta."
+  },
+  {
+   "type": "text",
+   "value": "Puis le rugissement se brisa net."
+  },
+  {
+   "type": "text",
+   "value": "Le silence qui suivit fut le plus terrible qu'ils aient jamais entendu."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis ! cria Amara."
+  },
+  {
+   "type": "text",
+   "value": "Mathis tapait déjà sur ses écrans, le visage soudain très pâle sous ses taches de rousseur."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais pas, je sais pas… Pression qui chute… Le moteur s'est coupé tout seul, sécurité thermique, il croit qu'il va fondre…"
+  },
+  {
+   "type": "text",
+   "value": "*Défaut détecté*, dit Hélia. *Vanne de refroidissement principale bloquée en position fermée. Cause probable : gel du fluide dans le corps de la vanne.*"
+  },
+  {
+   "type": "text",
+   "value": "— Relance-la ! dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "*Impossible depuis l'intérieur. La commande ne répond pas.*"
+  },
+  {
+   "type": "text",
+   "value": "— Où est-elle ? demanda Kenji, d'une voix qui n'était déjà plus la sienne."
+  },
+  {
+   "type": "text",
+   "value": "Mathis leva les yeux vers le plafond, vers la coque, vers le dehors, et pour la première fois depuis six ans il ne sourit pas."
+  },
+  {
+   "type": "text",
+   "value": "— À l'extérieur, dit-il. Elle est dehors."
+  }
+ ]
+}

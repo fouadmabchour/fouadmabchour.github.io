@@ -1,0 +1,285 @@
+{
+ "number": 9,
+ "title": "Deux cents ans",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ce fut Freya qui parla la première, parce que quelqu'un devait dire quelque chose et que les deux autres ne le pouvaient pas."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas possible."
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Tu t'es trompé. Tu as mal arrondi, tu as…"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai refait le calcul onze fois. Hélia l'a refait. La balise le confirme. Les codages qu'elle utilise maintenant n'existaient pas quand nous sommes partis. Il a fallu des générations d'ingénieurs pour les inventer."
+  },
+  {
+   "type": "text",
+   "value": "Amara n'avait pas bougé. Elle regardait la seconde colonne, le petit nombre, le mot *ans* après lui. Son visage n'exprimait rien. Elias l'avait vu une fois, ce visage, sur une vieille vidéo d'entraînement : une pilote qui perd un moteur à basse altitude et qui ne montre rien, parce que montrer quelque chose coûterait une seconde."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis quand tu le sais ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis avant la chute."
+  },
+  {
+   "type": "text",
+   "value": "— Avant."
+  },
+  {
+   "type": "text",
+   "value": "— Avant. J'ai fait le calcul quand tu m'as demandé de vérifier celui de Kenji. Il n'y avait pas d'autre trajectoire, Amara. Si je te l'avais dit, tu aurais cherché quand même. Et pendant que tu cherchais…"
+  },
+  {
+   "type": "text",
+   "value": "— Pendant que je cherchais, j'aurais su."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva. Elle posa les deux mains à plat sur la table, à côté de la tablette, et pendant un instant Elias crut qu'elle allait la jeter contre le mur. Elle ne le fit pas. Elle dit seulement, très bas :"
+  },
+  {
+   "type": "text",
+   "value": "— Noé aurait deux cent douze ans. Non. Noé est mort."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Il n'y avait rien à répondre. Elle avait fait le calcul plus vite que tous les autres, comme toujours. Un garçon de six ans en 2189. Deux cents ans. Il avait grandi, vieilli, il était mort, et les enfants de ses enfants aussi, peut-être, et elle était là, avec la même cicatrice au sourcil, les mêmes trente-six ans, le même bracelet de perles au poignet."
+  },
+  {
+   "type": "text",
+   "value": "Elle retira le bracelet. Elle le regarda dans sa paume. Puis elle le remit, sortit du module, et la porte coulissa derrière elle avec son petit soupir ordinaire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "Deux cents ans"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'enferma pendant trois jours."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne manqua aucune garde. Elle se présentait au poste de commande aux heures prévues, vérifiait les systèmes, signait les rapports, repartait. Elle répondait aux questions par oui ou par non. Elle ne mangeait pas avec les autres. Elias frappa deux fois à sa porte. La deuxième fois, elle dit : *Pas toi. Pas maintenant.* Il n'insista plus."
+  },
+  {
+   "type": "text",
+   "value": "Freya, elle, tint le vaisseau debout."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne l'avait pas décidé. C'était venu tout seul, la première nuit, quand elle s'était rendu compte que plus personne ne dormait. Elle fit le tour des cabines avec des tisanes de la serre, de la camomille et une menthe un peu amère qu'elle cultivait depuis l'année deux. Elle obligea Kenji à manger, assise en face de lui, la cuillère à la main, jusqu'à ce qu'il finisse son bol par lassitude. Elle obligea Elias à dormir avec un léger somnifère. Elle déposa chaque soir un plateau devant la porte d'Amara, et chaque matin le plateau était vide, et elle ne savait pas si Amara mangeait ou si elle jetait tout."
+  },
+  {
+   "type": "text",
+   "value": "Elle-même pleurait dans la serre, entre les rangées de tomates naines, là où personne ne venait. Elle pensait à sa grand-mère à Uppsala, à son petit frère, à l'odeur de la neige mouillée. Tout cela était fini depuis si longtemps que même les tombes avaient dû disparaître. Elle pensait aussi, sans pouvoir s'en empêcher, à sa main gauche, qui tremblait davantage depuis la chute. Le stress, se disait-elle. Seulement le stress."
+  },
+  {
+   "type": "text",
+   "value": "Le troisième soir, elle trouva Kenji dans la baie d'observation, assis face à l'endroit du ciel où le trou noir avait été. On ne voyait plus rien. Seulement des étoiles, parfaitement droites, parfaitement innocentes."
+  },
+  {
+   "type": "text",
+   "value": "— Tu devrais dormir, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais lui dire, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Dire quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ce qu'elle sait déjà. Ce que tout le monde sait. Mais personne ne l'a dit à voix haute, et il faut que quelqu'un le dise, et c'est moi qui dois le dire."
+  },
+  {
+   "type": "text",
+   "value": "Freya s'assit à côté de lui. Elle prit sa main sans réfléchir. Il la laissa faire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "Deux secrets"
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, ce n'est pas…"
+  },
+  {
+   "type": "text",
+   "value": "— Ne dis pas que ce n'est pas ma faute. Mathis l'a dit. Il avait tort. Il était gentil, et il avait tort."
+  },
+  {
+   "type": "text",
+   "value": "Freya ne lâcha pas sa main. Elle regarda les étoiles avec lui, un long moment, avant de répondre."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais ce que je fais, moi, depuis un an ? dit-elle enfin. Je mens. À tout le monde. À Amara, à Hélia, aux rapports médicaux que j'envoie à une Terre qui n'existe plus. Je sais que ma main empire. Je sais que si quelqu'un avait su, à Kourou, je ne serais jamais montée dans ce vaisseau. Je l'ai caché parce que je voulais partir. Parce que je voulais voir Thalassa. Si demain je ne peux plus opérer quelqu'un, ce sera ma faute aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas pareil."
+  },
+  {
+   "type": "text",
+   "value": "— Si. C'est exactement pareil. On s'est tous raconté une petite histoire pour pouvoir continuer. La tienne a mal tourné. Ça ne fait pas de toi un monstre, Kenji. Ça fait de toi un homme qui va devoir vivre avec."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas comment on fait."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, dit Freya. On apprendra. Mais tu ne le feras pas tout seul dans ton coin avec ton pinceau. Je te l'interdis."
+  },
+  {
+   "type": "text",
+   "value": "Il eut quelque chose qui ressemblait presque à un sourire, le premier depuis la chute. Il disparut aussitôt."
+  },
+  {
+   "type": "text",
+   "value": "— Demain, dit-il. Je lui dirai demain."
+  },
+  {
+   "type": "text",
+   "value": "Freya hocha la tête. Elle resta avec lui jusqu'à ce que l'éclairage passe en mode nuit, et encore après."
+  },
+  {
+   "type": "text",
+   "value": "Le quatrième matin, Amara reparut au petit-déjeuner."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit à sa place habituelle, au bout de la table. Elle avait les traits creusés, les yeux cernés, mais elle était droite. Elle se servit du café. Elle dit bonjour."
+  },
+  {
+   "type": "text",
+   "value": "Kenji se leva."
+  },
+  {
+   "type": "text",
+   "value": "Il resta debout, les bras le long du corps, comme un élève appelé au tableau. Ses lunettes rondes avaient glissé sur son nez. Il ne les remonta pas."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante, dit-il. Je dois vous dire une chose."
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi, Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Avant le décollage, à Kourou, j'ai vu une anomalie dans les relevés. Une étoile morte qui pesait trop lourd. J'ai écrit *à vérifier en route*. Pendant le voyage, je l'ai vérifiée. J'ai trouvé un écart. Hélia m'a dit qu'il était dans la marge d'erreur. Je l'ai crue, parce que ça m'arrangeait de la croire. Parce que je ne voulais pas être celui qui fait tout arrêter pour une décimale."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix ne tremblait pas. Elle était plate, sans relief, comme s'il récitait un texte appris par cœur pendant trois nuits."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'était pas une étoile. C'était un trou noir. J'avais sous-estimé sa masse. Si j'avais refait le calcul autrement, avec d'autres hypothèses, nous l'aurions vu deux ans plus tôt. Nous aurions corrigé la route de quelques degrés, sans danger. Mathis serait vivant. Et votre fils…"
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta. Il prit une inspiration."
+  },
+  {
+   "type": "text",
+   "value": "— Votre fils aurait eu sa mère quand il avait quinze ans. C'est mon erreur. Pas celle d'Hélia. Pas celle d'Elias. La mienne."
+  },
+  {
+   "type": "text",
+   "value": "Amara posa sa tasse."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva, fit le tour de la table, et s'arrêta devant lui. Elle était plus grande que lui d'une demi-tête. Freya, sans s'en rendre compte, avait reculé sa chaise."
+  },
+  {
+   "type": "text",
+   "value": "La gifle claqua dans le silence du module, sèche, terrible. La tête de Kenji partit sur le côté. Ses lunettes tombèrent et glissèrent sur le sol jusque sous la table."
+  },
+  {
+   "type": "text",
+   "value": "Il ne porta pas la main à sa joue. Il redressa la tête et attendit la suivante."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y en eut pas."
+  },
+  {
+   "type": "text",
+   "value": "Amara le regardait, et son visage, pour la première fois depuis quatre jours, se défaisait. Les lèvres d'abord, puis le menton, puis les yeux. Elle leva la main de nouveau, et Kenji ne broncha pas, et la main se posa sur sa nuque, et elle l'attira contre elle."
+  },
+  {
+   "type": "text",
+   "value": "Elle le tint serré, très fort, comme on tient quelqu'un au bord d'un quai. Kenji resta raide une seconde, deux secondes. Puis il se cassa d'un coup, comme une branche, et il se mit à pleurer contre son épaule, avec de grands sanglots d'enfant qui lui secouaient tout le corps."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Je sais"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, disait Amara. Je sais. Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne disait pas : *je te pardonne*. Ce n'était pas encore possible. Elle disait seulement *je sais*, et ses propres larmes coulaient enfin, et elles tombaient dans les cheveux noirs de Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Elias s'était levé. Il ne s'approcha pas. Freya ramassa les lunettes sous la table, les essuya au bas de sa manche, et attendit, les yeux brillants, de pouvoir les rendre."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent longtemps ainsi. Le café refroidit. L'anneau tournait, la serre ronronnait, Hélia ne disait rien."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut elle, pourtant, qui rompit le silence."
+  },
+  {
+   "type": "text",
+   "value": "Un petit carillon, d'abord. Celui qu'ils n'avaient plus entendu depuis la coupure de l'année cinq, le message de la sœur d'Amara interrompu au milieu d'une phrase. Le carillon des messages personnels."
+  },
+  {
+   "type": "text",
+   "value": "Ils levèrent la tête tous les quatre."
+  },
+  {
+   "type": "text",
+   "value": "*Signal entrant*, dit Hélia. *Pendant notre passage près de l'horizon, l'antenne a capté un flux continu de transmissions, si compressé que je n'ai pas pu le lire. J'ai mis onze jours à le décompresser. Ce n'est pas une balise automatique. Ce sont des voix humaines, et elles vous sont adressées. La première séquence est reconstituée.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara lâcha Kenji. Elle regardait le haut-parleur comme si une personne allait en sortir."
+  },
+  {
+   "type": "text",
+   "value": "*Origine : Terre.*"
+  }
+ ]
+}

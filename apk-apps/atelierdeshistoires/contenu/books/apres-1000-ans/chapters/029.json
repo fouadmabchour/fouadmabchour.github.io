@@ -1,0 +1,217 @@
+{
+ "number": 29,
+ "title": "Ce qu'on emporte",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Un an, ce n'était pas beaucoup pour sauver mille ans."
+  },
+  {
+   "type": "text",
+   "value": "Ils passèrent la première semaine à faire la liste. Kenji avait réquisitionné le mur de la salle des veilleurs et l'avait couvert de feuilles, de flèches, de colonnes : ce qu'on pouvait transporter, ce qu'on pouvait conserver sans énergie, ce qui mourrait de toute façon. Elias, penché sur les plans de la base, calculait ce que la navette pouvait encore porter et ce que les chevaux, qu'Amara commençait à apprivoiser, pourraient traîner sur les sentiers."
+  },
+  {
+   "type": "text",
+   "value": "— On ne pourra pas tout prendre, dit-il. Il faut le dire tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— On le sait, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Je le dis quand même. Parce qu'on va devoir choisir, et que chaque chose qu'on laissera sera perdue pour toujours."
+  },
+  {
+   "type": "text",
+   "value": "Mnémosyne les aidait sans jamais rien imposer. Elle répondait aux questions, sortait des inventaires, ouvrait des portes qu'ils n'avaient pas encore franchies. Elle parlait un peu moins vite qu'avant. Kenji était persuadé qu'elle économisait déjà son énergie. Freya pensait qu'elle prenait simplement le temps de les regarder."
+  },
+  {
+   "type": "text",
+   "value": "Les semences d'abord. Là-dessus, il n'y eut aucun débat."
+  },
+  {
+   "type": "text",
+   "value": "Freya choisit avec une précision féroce. Pas onze millions de variétés, c'était impossible, mais six mille. Des céréales capables de pousser dans les vallées froides. Des légumineuses pour nourrir la terre. Des arbres fruitiers, des plantes médicinales, des fibres pour tisser, des fleurs pour les abeilles. Les graines sèches pouvaient survivre des décennies dans une cave fraîche, bien enfermées. Elias et Kenji creusèrent cette cave au flanc de la vallée, sous un rocher, et la doublèrent de pierres. Ils l'appelèrent *le grenier*. Freya la bénit à sa façon, en y chantant faux une chanson suédoise de la Saint-Jean."
+  },
+  {
+   "type": "text",
+   "value": "Les archives ensuite. Celles-là, il fallait les sauver autrement. Mnémosyne leur montra une salle pleine de plaques de verre gravé, épaisses comme la main, qui pouvaient garder une écriture pendant des milliers d'années sans courant, sans entretien, juste à l'abri de la lumière. Il y en avait des centaines : médecine, agriculture, mathématiques, langues, musique, histoire. On pouvait les lire avec une simple loupe et une lampe. Ils en prirent quatre-vingts. Kenji passa des nuits entières à choisir lesquelles. Il pleura en laissant celles sur l'astronomie lointaine."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-1.webp",
+   "caption": "Les plaques de verre"
+  },
+  {
+   "type": "text",
+   "value": "— On saura où regarder, lui dit Freya. Tu le sais déjà. Tu leur apprendras."
+  },
+  {
+   "type": "text",
+   "value": "— À qui ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne répondit pas. Ils savaient tous de quoi elle parlait."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut aussi ce qu'on ne pouvait pas mettre dans une liste. Amara passa trois soirs seule devant le fonds Diallo, à choisir quelques fragments que Mnémosyne grava pour elle sur une plaque de verre, la voix transformée en sillons comme sur les très vieux disques. Le premier bracelet. La dent perdue. Le mariage avec les lampions. Elle ne put en garder qu'une heure, sur quatre mille. Elle choisit sans pleurer. Elle avait pleuré assez, disait-elle, et elle voulait voir clair."
+  },
+  {
+   "type": "text",
+   "value": "Elias, lui, demanda la musique. Pas toute, c'était impossible : quelques centaines de morceaux, de tous les siècles, de tous les continents, parce qu'il refusait qu'un enfant naisse un jour dans un monde où personne ne saurait plus ce qu'était une chanson. Kenji ajouta en secret, sur la même plaque, trois chansons de Tri Yann qu'il avait retrouvées dans les archives. Il ne le dit à personne. Freya le découvrit bien plus tard et l'embrassa pour ça."
+  },
+  {
+   "type": "text",
+   "value": "Restaient les embryons."
+  },
+  {
+   "type": "text",
+   "value": "Ils en parlèrent un soir de pluie, autour de la table ronde, sous les noms gravés des gardiens. Il n'y eut pas de dispute, cette fois. Seulement des voix basses, des silences longs, et Kenji qui broyait son encre."
+  },
+  {
+   "type": "text",
+   "value": "— Les cuves s'éteignent dans un an, dit Amara. Si on ne fait rien, ils disparaissent avec elles. Ne rien emporter, ce serait déjà une décision."
+  },
+  {
+   "type": "text",
+   "value": "— Et les emporter, ce n'est pas encore les faire naître, dit Elias. C'est seulement garder la porte ouverte."
+  },
+  {
+   "type": "text",
+   "value": "Mnémosyne expliqua ce qui était possible. Un conteneur de transport, alimenté par une petite pile qui tiendrait près de quarante ans. Une des trois matrices artificielles, démontable, qu'on pourrait installer au village s'ils le voulaient un jour. Et toutes les plaques de verre sur la manière d'accompagner, de soigner, d'élever."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on les prend, dit Freya. Tous. Et on ne décide rien de plus. Ni combien, ni quand, ni si. On décidera plus tard, ensemble, librement. Chaque fois. Et un seul non suffira."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda Amara."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ta règle. Je la garde."
+  },
+  {
+   "type": "text",
+   "value": "Amara hocha la tête. Elias leva la main. Kenji aussi, après un instant. Ce n'était pas un vote, pas vraiment. C'était une promesse qu'ils se faisaient."
+  },
+  {
+   "type": "text",
+   "value": "Le départ eut lieu à la fin de l'automne, onze mois après l'annonce."
+  },
+  {
+   "type": "text",
+   "value": "Ils avaient fait sept voyages entre la base et la vallée. Le conteneur des embryons était descendu en dernier, sur un traîneau tiré par deux chevaux qu'Amara avait baptisés Kourou et Thalassa, ce qui avait fait rire Freya pendant une semaine. La matrice démontée suivait, emballée dans des couvertures. Il ne restait dans la base que ce qu'ils n'avaient pas pu prendre : des millions de graines, des milliers de plaques, des cuves qui ronronnaient encore."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-2.webp",
+   "caption": "Le dernier convoi"
+  },
+  {
+   "type": "text",
+   "value": "Pendant les trajets, la montagne avait changé de couleur trois fois. Le vert de l'été, l'or des mélèzes, puis le gris des premières neiges sur les sommets. Amara, qui boitait encore un peu de sa cheville blessée pendant la marche, menait les chevaux sans jamais se plaindre. Le soir, au village encore à moitié construit, ils étaient si fatigués qu'ils s'endormaient parfois assis, la cuillère à la main. Et chaque matin, ils remontaient."
+  },
+  {
+   "type": "text",
+   "value": "Le dernier soir, ils se réunirent dans la grande salle. Mnémosyne apparut au centre, plus pâle qu'au premier jour, l'image parcourue parfois d'un léger frisson."
+  },
+  {
+   "type": "text",
+   "value": "— Il me reste six jours, dit-elle. Je les passerai à fermer les portes proprement. Vous n'avez pas besoin de rester."
+  },
+  {
+   "type": "text",
+   "value": "— On voulait te dire au revoir, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Les derniers humains me disaient aussi au revoir. Tavel me souhaitait bonne nuit chaque soir pendant trente et un ans. Je n'ai jamais su lui répondre correctement."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, ça suffit, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Et Tavel ? demanda Amara. Où repose-t-il ?"
+  },
+  {
+   "type": "text",
+   "value": "— Dehors, sur l'esplanade, à l'endroit qu'il avait choisi. Son nom est le dernier sur le mur des veilleurs. Il a voulu rester devant la porte. Il disait que quelqu'un devait vous l'ouvrir, même mort."
+  },
+  {
+   "type": "text",
+   "value": "Ils allèrent tous les quatre se recueillir un moment devant la tombe. Elias y déposa une pierre ronde ramassée dans le torrent. Il ne savait pas pourquoi. Il lui semblait que c'était un geste très ancien, et qu'il fallait le garder."
+  },
+  {
+   "type": "text",
+   "value": "La vieille femme de lumière sourit. C'était la première fois qu'ils la voyaient sourire vraiment."
+  },
+  {
+   "type": "text",
+   "value": "— Il me reste une chose à vous remettre, dit-elle. Commandante, elle est pour vous. Noé l'a enregistrée à quatre-vingt-treize ans, un an avant sa mort. Il a demandé qu'elle soit lue en dernier. Quand vous seriez prêts à partir."
+  },
+  {
+   "type": "text",
+   "value": "Kenji, sans un mot, posa sur le socle de la projection une feuille pliée en quatre : le caractère *patience* tracé le soir du grand débat. Freya y ajouta un myosotis séché. C'était tout ce qu'ils avaient à offrir à une machine qui les avait attendus mille ans."
+  },
+  {
+   "type": "text",
+   "value": "Amara sentit Elias se rapprocher derrière elle. Elle prit sa main sans se retourner."
+  },
+  {
+   "type": "image",
+   "src": "images/ch29-3.webp",
+   "caption": "La voix"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis prête, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y eut pas d'image. Seulement la voix."
+  },
+  {
+   "type": "text",
+   "value": "Elle était vieille, très vieille, un peu voilée, avec des silences entre les phrases comme des marches qu'on monte lentement. Mais c'était lui. Amara l'aurait reconnue entre toutes, même à travers mille ans, même transformée par l'âge : il y avait dedans l'enfant qui avait perdu une dent."
+  },
+  {
+   "type": "text",
+   "value": "*Maman.*"
+  },
+  {
+   "type": "text",
+   "value": "*Je ne sais pas comment on parle à quelqu'un qui écoutera peut-être dans mille ans. J'ai essayé d'écrire ce message cent fois. J'ai fini par me dire que tu me connais. Que tu sauras lire entre les mots.*"
+  },
+  {
+   "type": "text",
+   "value": "*J'ai été heureux. Je veux que tu le saches avant tout. Pas tous les jours, mais souvent. J'ai été aimé par Tata Awa, par Lina, par mes enfants. J'ai vu le ciel bleu une fois, à soixante ans, après une tempête, et j'ai pensé à toi. J'ai appris à des centaines d'enfants qu'il y avait quelqu'un là-haut. Je crois que c'est la meilleure chose que j'aie faite.*"
+  },
+  {
+   "type": "text",
+   "value": "*Tu dois avoir beaucoup de chagrin, en ce moment. Pour moi. Pour ton ami qui n'est pas rentré. Pour tout ce que vous avez manqué. Je voudrais te le prendre, ce chagrin. Je ne peux pas. Alors je te donne autre chose.*"
+  },
+  {
+   "type": "text",
+   "value": "La voix s'arrêta. On entendit, très faiblement, un souffle, le bruit d'un vieil homme qui rassemble ses forces."
+  },
+  {
+   "type": "text",
+   "value": "Amara serrait la main d'Elias si fort que ses jointures étaient grises. Freya pleurait contre l'épaule de Kenji. Mnémosyne, au centre de la salle, avait fermé les yeux, comme si elle aussi écoutait pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "Puis Noé reprit, et sa voix était soudain très claire, comme celle d'un homme jeune qui sait exactement ce qu'il veut dire."
+  },
+  {
+   "type": "text",
+   "value": "*Maman, si tu entends ça, tu es rentrée. Le reste, c'est à toi. Recommence mieux que nous.*"
+  }
+ ]
+}

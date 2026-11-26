@@ -1,0 +1,281 @@
+{
+ "number": 13,
+ "title": "Rentrer",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La plaque de verre resta trois jours posée sur la table de la salle commune, et personne ne la rangea."
+  },
+  {
+   "type": "text",
+   "value": "Elle brillait faiblement quand on passait devant, comme un animal qui reconnaît les pas de ses maîtres. La date. La carte. Le point sous les Alpes qui battait sans fin. Kenji l'avait photographiée sous tous les angles, Elias avait essayé d'en comprendre la matière, Freya en avait fait un croquis dans son carnet de bord. Amara, elle, ne la touchait pas. Elle la regardait de loin, en buvant son thé, et elle ne disait rien."
+  },
+  {
+   "type": "text",
+   "value": "Le soir du troisième jour, elle les réunit."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai pris ma décision, dit-elle. Mais je ne la prendrai pas seule. Pas cette fois."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient assis autour de la table, la plaque au milieu, comme une bougie."
+  },
+  {
+   "type": "text",
+   "value": "— Je veux rentrer, dit Amara. Sur Terre. Je sais ce qu'on risque d'y trouver. Des ruines. Rien du tout, peut-être. Mais quelqu'un nous a demandé de revenir à la maison, et c'est la seule chose qu'on nous ait demandée depuis deux cents ans. Je ne veux pas mourir ici, en orbite autour d'un océan empoisonné, à regarder un morceau de verre."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tut. Elle avait parlé plus longtemps qu'elle ne le faisait d'habitude, et ses mains, posées à plat sur la table, étaient parfaitement immobiles."
+  },
+  {
+   "type": "text",
+   "value": "— On vote, dit-elle. À main levée. Qui veut rentrer ?"
+  },
+  {
+   "type": "text",
+   "value": "Freya leva la main aussitôt. Kenji une seconde après elle."
+  },
+  {
+   "type": "text",
+   "value": "Elias ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Elias ? dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis contre, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Il le soutint sans baisser les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vous dis pas qu'il faut rester ici, reprit-il. Je dis qu'il faut regarder les choses en face. On ne rentre pas *à la maison*. La maison n'existe plus. Ilse Marant est morte depuis des siècles. Ceux qui ont lancé cette sonde, leurs enfants, les enfants de leurs enfants, tous morts. On va faire sept ans de voyage pour aller pleurer sur une tombe dont on ne connaît même pas le nom."
+  },
+  {
+   "type": "text",
+   "value": "— Et ici ? demanda Freya doucement. Qu'est-ce qu'on fait, ici ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ici, on a le vaisseau. La serre. On peut vivre encore des années."
+  },
+  {
+   "type": "text",
+   "value": "— À quoi bon ? dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Elias ouvrit la bouche, la referma. Il regarda la plaque. Le point lumineux battait toujours, patient, obstiné."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas, avoua-t-il. Je ne sais vraiment pas."
+  },
+  {
+   "type": "text",
+   "value": "Il resta silencieux un long moment. Amara ne le pressa pas. Elle avait appris, pendant les années de voyage, qu'Elias pensait comme on joue aux échecs : il fallait le laisser voir tous les coups, même ceux qu'il ne jouerait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Elle disait qu'on raconte notre histoire aux enfants, dit-il enfin. Si c'est vrai, il y a peut-être quelque chose, là-bas, qui nous attend. Une archive. Une base. Quelque chose qui sait. Et je suis physicien. Je n'ai jamais supporté de ne pas savoir."
+  },
+  {
+   "type": "text",
+   "value": "Il leva la main, lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Pour, dit-il. Mais je garde le droit d'avoir eu raison."
+  },
+  {
+   "type": "text",
+   "value": "Freya éclata de rire, un rire qui sonnait faux et qui fit du bien quand même. Kenji sourit. Amara regarda Elias, et dans ses yeux, il y eut quelque chose qu'il ne lui avait jamais vu."
+  },
+  {
+   "type": "text",
+   "value": "— Accordé, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Le problème, c'était le carburant."
+  },
+  {
+   "type": "text",
+   "value": "L'Aurore avait tout brûlé près du trou noir, pour la fronde. Il ne restait dans les réservoirs que de quoi corriger une orbite, pas de quoi traverser des années-lumière. Sans hydrogène, le vaisseau ne rentrerait jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Mais l'hydrogène, on est assis dessus, dit Elias en montrant le hublot. Un océan, c'est de l'eau. Et l'eau, c'est de l'hydrogène et de l'oxygène collés ensemble. On n'a qu'à les décoller."
+  },
+  {
+   "type": "text",
+   "value": "— Avec quoi ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Avec de l'électricité. On fait passer un courant dans l'eau, et elle se sépare en deux gaz. C'est une expérience de lycée. Simplement, il faut la faire avec des milliers de tonnes."
+  },
+  {
+   "type": "text",
+   "value": "Ils mirent cinq semaines à tout préparer. Le cyanure de l'océan ne gênait pas l'électrolyse, mais il rongeait les filtres, et il fallait les changer tous les deux jours. Mathis aurait adoré ça : il aurait chanté, juré un peu, inventé une pièce avec trois bouts de tuyau. Sans lui, c'était plus lent. Kenji refaisait ses schémas à l'encre, la nuit, pour se calmer. Amara faisait les allers-retours en navette, quatre par semaine, la *Libellule* chargée de réservoirs pleins. Freya surveillait tout le monde, les mains, les yeux, les heures de sommeil, sauf les siennes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-1.webp",
+   "caption": "Le carburant"
+  },
+  {
+   "type": "text",
+   "value": "Un jour, une pompe d'électrolyse lâcha. Elias passa quatorze heures à la démonter, à plat ventre dans la soute de la *Libellule*, et quand il en ressortit, couvert de graisse, il trouva sur le joint principal une petite étiquette écrite au feutre par Mathis, des années plus tôt : *Si tu lis ça, c'est que tu as tout cassé. Serre à droite, pas à gauche.* Elias resta assis par terre un long moment, l'étiquette entre les doigts. Puis il serra à droite. La pompe repartit."
+  },
+  {
+   "type": "text",
+   "value": "Il ne raconta l'histoire à personne. Mais le soir, au dîner, il rit deux fois, et les autres ne comprirent pas pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "Un soir, au retour d'un vol, Amara la trouva assise par terre dans le sas, appuyée contre la paroi."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ma jambe gauche s'est endormie, dit Freya. Ça arrive."
+  },
+  {
+   "type": "text",
+   "value": "— Ça arrive souvent ?"
+  },
+  {
+   "type": "text",
+   "value": "Freya sourit, de son grand sourire lumineux qui ne répondait jamais aux questions."
+  },
+  {
+   "type": "text",
+   "value": "— Va dormir, commandante. Tu as une tête à faire peur."
+  },
+  {
+   "type": "text",
+   "value": "Amara la regarda longtemps. Puis elle l'aida à se relever, et Freya s'appuya sur son épaule plus lourdement qu'elle ne l'aurait voulu."
+  },
+  {
+   "type": "text",
+   "value": "La nuit où le dernier réservoir fut rempli, Amara ne trouva pas le sommeil."
+  },
+  {
+   "type": "text",
+   "value": "Elle monta dans la baie d'observation. Les lumières étaient éteintes. Thalassa tournait sous eux, plongée dans son propre crépuscule, et une mince ligne rouge marquait l'endroit où son étoile se couchait sur l'océan."
+  },
+  {
+   "type": "text",
+   "value": "Elias était déjà là. Assis sur le banc, les coudes sur les genoux, il regardait la planète."
+  },
+  {
+   "type": "text",
+   "value": "— Toi non plus ? dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit à côté de lui. Pas trop près. Pas trop loin. Ils restèrent ainsi un moment, sans parler. L'anneau du vaisseau tournait avec son ronronnement très doux, qu'on n'entendait plus depuis longtemps, sauf dans des nuits comme celle-là."
+  },
+  {
+   "type": "text",
+   "value": "— Je pense à Mathis, dit Elias. Il aurait trouvé un nom pour l'île quarante-sept. Un nom idiot."
+  },
+  {
+   "type": "text",
+   "value": "— L'Île au Trésor, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Pire. Quelque chose en breton."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit, doucement. Puis elle se tut."
+  },
+  {
+   "type": "text",
+   "value": "Sa main était posée sur le banc, entre eux. Elle ne sut jamais très bien lequel des deux avait bougé le premier. Peut-être aucun. Peut-être les deux. Mais à un moment, la main d'Elias se trouva sur la sienne, et elle ne la retira pas."
+  },
+  {
+   "type": "text",
+   "value": "Ils ne se regardèrent pas. Ils ne dirent rien. Ils regardèrent Thalassa, et la ligne rouge du crépuscule qui avançait lentement sur l'océan, et leurs doigts se serrèrent un peu plus, comme on se tient au bord d'un précipice."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-2.webp",
+   "caption": "Main dans la main"
+  },
+  {
+   "type": "text",
+   "value": "Le bracelet de Noé était entre leurs deux poignets. Elias sentit les petites perles contre sa peau. Il ne demanda rien."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent là jusqu'à l'aube de bord, quand les lumières se rallumèrent toutes seules, et alors, sans un mot, ils se lâchèrent la main et redescendirent chacun de leur côté."
+  },
+  {
+   "type": "text",
+   "value": "Kenji, lui, n'avait pas dormi non plus."
+  },
+  {
+   "type": "text",
+   "value": "Il était devant son écran depuis minuit. Les réservoirs étaient pleins, la date de départ fixée, et il ne restait qu'une chose à faire : calculer la route du retour. Il l'avait déjà fait dix fois, dans sa tête, pendant les semaines de travail. Mais il voulait le faire proprement. Lentement. À la main d'abord, puis avec Hélia, puis encore à la main."
+  },
+  {
+   "type": "text",
+   "value": "Il ne ferait plus jamais confiance à un seul calcul."
+  },
+  {
+   "type": "text",
+   "value": "Il entra les positions : Thalassa, son étoile, le Soleil lointain, les vents de particules, les masses des étoiles voisines. Et cette fois, il ajouta la masse réelle de l'objet sombre, celle qu'il avait sous-estimée huit ans plus tôt, celle qui avait coûté la vie de Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Hélia calcula. Les chiffres défilèrent."
+  },
+  {
+   "type": "text",
+   "value": "Kenji les regarda arriver, et il sentit son sang se retirer de son visage."
+  },
+  {
+   "type": "text",
+   "value": "Il recommença. À la main, cette fois, sur une grande feuille de papier, l'encre noire courant vite entre ses doigts. Il mit deux heures. Il arriva au même résultat."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-3.webp",
+   "caption": "La route du retour"
+  },
+  {
+   "type": "text",
+   "value": "La route la plus rapide vers la Terre, la seule qui leur permettait d'arriver avant que les réserves de la serre ne s'épuisent, ne traversait pas l'espace en ligne droite. Elle s'enroulait. Elle faisait un détour pour prendre de la vitesse, comme une pierre lancée par une fronde."
+  },
+  {
+   "type": "text",
+   "value": "Et le seul objet assez lourd, sur ce trajet, pour servir de fronde, c'était lui."
+  },
+  {
+   "type": "text",
+   "value": "Kenji posa son pinceau. Une goutte d'encre tomba sur la feuille et s'élargit lentement, ronde, noire, parfaite."
+  },
+  {
+   "type": "text",
+   "value": "La trajectoire la plus courte repassait près du trou noir."
+  }
+ ]
+}

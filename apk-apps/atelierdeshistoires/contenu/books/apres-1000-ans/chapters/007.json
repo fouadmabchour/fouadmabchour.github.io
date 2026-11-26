@@ -1,0 +1,393 @@
+{
+ "number": 7,
+ "title": "Mathis",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Il y a un bras robotique, dit Amara. On l'envoie."
+  },
+  {
+   "type": "text",
+   "value": "*Le bras ne peut pas atteindre la vanne*, répondit Hélia. *Elle se trouve sous le carénage arrière, derrière deux panneaux vissés. Il faut retirer les panneaux, chauffer le corps de la vanne et forcer la manette à la main.*"
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Kenji."
+  },
+  {
+   "type": "text",
+   "value": "*Si personne n'intervient, nous dépasserons le périgée sans poussée dans onze minutes. Ensuite, la trajectoire s'enfonce. Nous ne remonterons pas.*"
+  },
+  {
+   "type": "text",
+   "value": "Le module de commande resta muet. Dehors, le disque noir n'avait pas bougé. Il n'avait pas besoin de bouger. Il attendait."
+  },
+  {
+   "type": "text",
+   "value": "Mathis détachait déjà ses sangles."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante…"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai dit non. Personne ne sort. On trouve autre chose."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a rien d'autre, dit Mathis doucement. Tu le sais. C'est ma vanne. C'est mon moteur. Je connais chaque vis de ce carénage, je les ai serrées moi-même à Kourou. Si quelqu'un doit y aller, c'est moi. Si quelqu'un d'autre y va, il perdra dix minutes à chercher le bon tournevis."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis, c'est un ordre."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta, à moitié sorti de son siège, et la regarda. Il avait vingt-neuf ans. Il avait l'air, à ce moment-là, beaucoup plus vieux qu'elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, dit-il. Je suis désolé. Je vais désobéir."
+  },
+  {
+   "type": "text",
+   "value": "Il se tourna vers Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Tu me prépares un truc pour le froid ?"
+  },
+  {
+   "type": "text",
+   "value": "Freya avait déjà ouvert le tiroir médical. Ses mains bougeaient très vite, la droite plus sûre que la gauche. Elle prépara une injection contre le froid, une autre contre le mal de l'espace, et vérifia deux fois les doses parce qu'elle ne faisait plus confiance à ses doigts."
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda Mathis, puis Elias, puis Kenji, comme si l'un d'eux allait trouver la phrase qui arrêterait tout. Personne ne la trouva. Il n'y en avait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Dix minutes, dit-elle enfin. Pas une de plus. Tu restes attaché, tu parles tout le temps, et si je te dis de rentrer, tu rentres."
+  },
+  {
+   "type": "text",
+   "value": "— Promis, dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Tout le monde savait qu'il mentait."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens avec toi jusqu'au sas, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il mit huit minutes à enfiler la combinaison. Un record, dit-il ; d'habitude il lui en fallait vingt et il râlait pendant dix. Elias l'aida à fermer les joints du casque. Kenji vérifia trois fois l'attache du câble de sécurité au point d'ancrage du sas, et ses doigts tremblaient tellement qu'il dut s'y reprendre."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Regarde-moi."
+  },
+  {
+   "type": "text",
+   "value": "Kenji leva les yeux. Derrière ses lunettes rondes, ils étaient rouges."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas ta faute, dit Mathis. Tu m'entends ? Les étoiles mortes, ça ment. Elles ont pas d'étiquette. Toi, tu nous as trouvé la sortie. Moi, je vais juste ouvrir la porte."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne répondit pas. Il serra le gant de Mathis entre ses deux mains, très fort."
+  },
+  {
+   "type": "text",
+   "value": "Dans le sas, avant de baisser la visière, Mathis sortit de sa poche de poitrine un petit couteau pliant au manche de bois, la lame usée par les années. Il le tendit à Freya."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "Le couteau"
+  },
+  {
+   "type": "text",
+   "value": "— Garde-le. Je veux pas le perdre dehors, c'était celui de mon grand-père. Il coupait le cordage des casiers avec, à Douarnenez."
+  },
+  {
+   "type": "text",
+   "value": "— Tu le reprendras en rentrant, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment, dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Il lui fit un clin d'œil. Puis la porte intérieure se referma entre eux."
+  },
+  {
+   "type": "text",
+   "value": "La radio grésillait dès qu'il fut dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Bon, dit sa voix dans les haut-parleurs. Alors, pour ceux qui suivent la visite guidée, à votre gauche, un trou noir. À votre droite, un autre bout de trou noir. Au fond, encore du trou noir. Je déconseille les photos."
+  },
+  {
+   "type": "text",
+   "value": "Freya, revenue au poste médical, eut un rire qui ressemblait à un sanglot. Sur l'écran, la caméra de casque montrait la coque blanche de l'Aurore, éclairée en or par l'anneau, et les gants de Mathis qui avançaient de prise en prise."
+  },
+  {
+   "type": "text",
+   "value": "— Sept minutes, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— J'y suis presque. Elle est jolie, notre Aurore, vue d'ici. Faudra la repeindre, par contre."
+  },
+  {
+   "type": "text",
+   "value": "— Concentre-toi, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Je me concentre, Commandante. Je me concentre en parlant. Si je parle pas, je regarde en bas, et en bas, c'est pas une bonne idée."
+  },
+  {
+   "type": "text",
+   "value": "Il avança encore. Ses gants glissaient sur la coque lisse, cherchaient les poignées une à une. Sur l'écran, l'or de l'anneau se reflétait dans sa visière à chaque mouvement de tête."
+  },
+  {
+   "type": "text",
+   "value": "— Vous savez, dit-il, chez moi, à Douarnenez, il y a un phare au bout de la jetée. Quand j'étais petit, mon grand-père m'emmenait le regarder s'allumer, le soir. Il disait qu'un phare, ça sert pas à éclairer la mer. Ça sert à dire aux bateaux : *ici, c'est la maison, fais attention aux rochers.* C'est pour ça que je l'ai tatoué. Pour pas oublier où c'est, la maison."
+  },
+  {
+   "type": "text",
+   "value": "— Tu rentreras, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Bien sûr. Mais là, faut que je trouve le rocher qui nous bloque. Kenji, tu me guides ?"
+  },
+  {
+   "type": "text",
+   "value": "Kenji se pencha sur le plan du carénage, la voix enrouée."
+  },
+  {
+   "type": "text",
+   "value": "— Encore deux mètres vers l'arrière. Ta main droite. La poignée jaune."
+  },
+  {
+   "type": "text",
+   "value": "— Vu. Merci, capitaine."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas capitaine."
+  },
+  {
+   "type": "text",
+   "value": "— Aujourd'hui, si. Tout le monde est promu, c'est la fête."
+  },
+  {
+   "type": "text",
+   "value": "Il atteignit le carénage arrière. La caméra montra les deux panneaux, les vis, la visseuse électrique qu'il sortit de sa ceinture."
+  },
+  {
+   "type": "text",
+   "value": "— Première vis. Deuxième vis. C'est comme un meuble en kit, sauf que la notice est en physique quantique."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un drôle de moment. La voix de Mathis, d'un coup, sembla ralentir. Les mots s'étirèrent, devinrent graves, traînants, puis reprirent leur vitesse normale."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que c'était ? demanda Amara."
+  },
+  {
+   "type": "text",
+   "value": "— La marée, dit Elias très bas. Ses pieds et sa tête ne sont pas exactement à la même distance de lui. Et nous, nous ne sommes pas exactement à la même distance que Mathis. Le temps ne coule pas tout à fait pareil pour lui et pour nous. La radio corrige. Pas toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous entends parler de moi, dit Mathis. J'ai l'impression d'être au fond d'une piscine. C'est pas désagréable, en fait."
+  },
+  {
+   "type": "text",
+   "value": "— Cinq minutes, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Les panneaux s'écartèrent. Derrière, la vanne : un gros cylindre métallique couvert d'une fine couche blanche, comme un congélateur oublié. Mathis plaqua dessus le réchauffeur de secours, attendit, compta à voix haute. Puis il saisit la manette à deux mains."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Allez, ma belle, dit-il. Allez."
+  },
+  {
+   "type": "text",
+   "value": "Il tira. On l'entendit souffler dans la radio. La manette ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Trois minutes, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis, rentre, dit Amara. Rentre, on va trouver…"
+  },
+  {
+   "type": "text",
+   "value": "— Chut, Commandante. Je discute avec elle."
+  },
+  {
+   "type": "text",
+   "value": "Il cala ses bottes contre la coque, une de chaque côté. Il tira de tout son corps. Sur l'écran, on vit son avant-bras droit se tendre sous le tissu de la combinaison, là où, dessous, il y avait son phare tatoué."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "La vanne"
+  },
+  {
+   "type": "text",
+   "value": "Et dans les haut-parleurs, très faux, à bout de souffle, il se mit à chanter. Une vieille chanson bretonne de Tri Yann, celle qu'il chantait en réparant les toilettes, en réparant la serre, en réparant tout, depuis six ans."
+  },
+  {
+   "type": "text",
+   "value": "La manette bougea d'un centimètre. Puis de deux. Puis elle bascula d'un coup."
+  },
+  {
+   "type": "text",
+   "value": "*Vanne ouverte*, dit Hélia. *Circuit de refroidissement rétabli. Moteur principal prêt.*"
+  },
+  {
+   "type": "text",
+   "value": "— Allumez ! cria Mathis. Allumez, allumez, allez-y !"
+  },
+  {
+   "type": "text",
+   "value": "— Pas avant que tu sois rentré, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Amara. Il reste combien ?"
+  },
+  {
+   "type": "text",
+   "value": "Kenji regarda l'écran. Sa voix ne sortit presque pas."
+  },
+  {
+   "type": "text",
+   "value": "— Quatre-vingt-dix secondes."
+  },
+  {
+   "type": "text",
+   "value": "— Il me faut quatre minutes pour revenir au sas, dit Mathis. Tu as fait le calcul avant moi. Allume."
+  },
+  {
+   "type": "text",
+   "value": "Amara avait les mains posées sur les commandes. Elle ne bougeait pas. Elias vit ses épaules, droites comme toujours, et vit aussi qu'elles tremblaient."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne peux pas, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit Mathis. Tu peux. C'est pour ça que c'est toi la commandante. Je suis attaché. Le câble tiendra. On s'en fout. Allume."
+  },
+  {
+   "type": "text",
+   "value": "Elle ferma les yeux. Elle appuya."
+  },
+  {
+   "type": "text",
+   "value": "Le moteur rugit. Le vaisseau entier bondit en avant, ils furent écrasés dans leurs sièges, et sur l'écran la caméra de Mathis se mit à tourner : la coque, l'or, le noir, la coque, l'or."
+  },
+  {
+   "type": "text",
+   "value": "— Ça tient ! cria-t-il. Ça tient, je suis contre la coque, je…"
+  },
+  {
+   "type": "text",
+   "value": "Le câble se rompit."
+  },
+  {
+   "type": "text",
+   "value": "Ce ne fut même pas spectaculaire. Hélia dit seulement, de sa voix douce : *Rupture du câble de sécurité.* Et sur l'écran de la caméra arrière, ils virent une petite silhouette blanche se détacher de l'Aurore et s'éloigner, lentement, très lentement, vers l'anneau d'or."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "Câble rompu"
+  },
+  {
+   "type": "text",
+   "value": "Freya cria son nom. Kenji arracha ses sangles, se jeta vers l'écran comme s'il pouvait passer au travers. Elias ne bougea pas du tout."
+  },
+  {
+   "type": "text",
+   "value": "Amara ne lâcha pas les commandes. Le moteur poussait. Il fallait qu'il pousse. Si elle coupait maintenant, ils mouraient tous, et Mathis serait parti pour rien."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis, dit-elle. Mathis, tu m'entends ?"
+  },
+  {
+   "type": "text",
+   "value": "La radio grésilla. Puis la voix revint. Elle était lente, un peu déformée, comme venue de très loin et de très longtemps. Mais elle était calme. Plus calme qu'ils ne l'avaient jamais entendue."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous entends. C'est drôle. Je vois tout le ciel d'ici. Toutes les étoiles en même temps, en cercle, comme une couronne. C'est le plus beau truc que j'ai jamais vu de ma vie. Vous auriez dû voir ça."
+  },
+  {
+   "type": "text",
+   "value": "— On va revenir, dit Amara. On va faire le tour, on va…"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Tu vas pas faire le tour. Tu vas les ramener. C'est ton boulot. Le mien est fini, et je l'ai bien fait, la vanne est ouverte, dis pas le contraire."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix ralentissait, encore. Chaque mot semblait mettre plus longtemps à arriver."
+  },
+  {
+   "type": "text",
+   "value": "— Freya, garde le couteau. Kenji, arrête de faire cette tête-là. Elias, laisse-la gagner aux échecs de temps en temps. Amara…"
+  },
+  {
+   "type": "text",
+   "value": "Un long grésillement."
+  },
+  {
+   "type": "text",
+   "value": "— Allez-y. Je vais voir ce qu'il y a de l'autre côté. Dites à ma mère que…"
+  },
+  {
+   "type": "text",
+   "value": "La radio s'éteignit."
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "number": 3,
+ "title": "Les années",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La première année, ils comptaient les jours."
+  },
+  {
+   "type": "text",
+   "value": "Mathis avait tracé un calendrier au marqueur sur la porte de la cuisine, et chaque matin, celui qui se levait le premier barrait une case. Trois cent soixante-cinq cases. Au bout de la première rangée de cent, ils avaient ouvert une bouteille de cidre breton que Mathis avait passée en fraude dans son paquetage personnel, à la place de deux kilos de vêtements de rechange."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vas porter le même tee-shirt pendant neuf ans pour une bouteille de cidre ? avait demandé Freya."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un excellent cidre, avait répondu Mathis, très digne."
+  },
+  {
+   "type": "text",
+   "value": "La deuxième année, ils ne comptaient plus."
+  },
+  {
+   "type": "text",
+   "value": "C'était l'année des sommeils. Pour économiser la nourriture, l'oxygène et surtout leur santé mentale, le plan de mission prévoyait des périodes de sommeil cryogénique, à tour de rôle. On ne gelait pas les corps : on les refroidissait, on ralentissait le cœur, la respiration, le temps intérieur. On s'allongeait dans une capsule de verre, on sentait le froid monter dans les bras, on entendait la voix d'Hélia compter à rebours, et on se réveillait quatre mois plus tard avec l'impression d'avoir dormi une nuit trop courte, la bouche pâteuse, et une faim de loup."
+  },
+  {
+   "type": "text",
+   "value": "Mais il fallait toujours deux personnes éveillées. Toujours. C'était la règle."
+  },
+  {
+   "type": "text",
+   "value": "Alors les équipes tournaient. Amara et Mathis. Freya et Elias. Kenji et Amara. Mathis et Freya. Pendant quatre mois, on ne voyait que deux visages, toujours les mêmes, et les trois autres dormaient derrière leur vitre, les traits immobiles, comme des gisants dans une église."
+  },
+  {
+   "type": "text",
+   "value": "C'était là que la solitude commençait vraiment."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut des crises."
+  },
+  {
+   "type": "text",
+   "value": "Freya en fit une, au milieu de la deuxième année, une nuit où elle se réveilla persuadée que les murs de sa cabine se rapprochaient. Elias la trouva recroquevillée dans le couloir, la respiration hachée. Il ne dit rien. Il s'assit à côté d'elle, par terre, et lui raconta, d'une voix monotone, les règles d'une variante hongroise des échecs que personne ne jouait plus depuis deux siècles. Au bout d'une heure, elle s'était endormie contre son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, lui dit-elle le lendemain."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais rien faire d'autre qu'ennuyer les gens, dit Elias. Parfois, ça sert."
+  },
+  {
+   "type": "text",
+   "value": "Mathis en fit une aussi, ce qui étonna tout le monde. Une seule fois. Un soir, il s'enferma dans l'atelier mécanique pendant neuf heures et ne répondit à personne. Quand il ressortit, il avait construit, avec des chutes de métal et des fils électriques, une petite maquette de phare d'une trentaine de centimètres, dont la lanterne tournait vraiment et projetait un faisceau sur les murs."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "Le petit phare"
+  },
+  {
+   "type": "text",
+   "value": "— Pour la serre, dit-il simplement. Les plantes ont besoin de savoir où est la côte."
+  },
+  {
+   "type": "text",
+   "value": "Freya l'installa entre les tomates. Il resta allumé tout le voyage."
+  },
+  {
+   "type": "text",
+   "value": "Et il y eut la dispute."
+  },
+  {
+   "type": "text",
+   "value": "C'était au début de la troisième année. Une micrométéorite, à peine un grain de sable, avait frappé l'un des panneaux solaires à une vitesse folle et l'avait endommagé. Pas gravement. Mais la réparation demandait une sortie à l'extérieur, et Amara avait décidé qu'on la ferait tout de suite, pendant que les conditions étaient bonnes."
+  },
+  {
+   "type": "text",
+   "value": "Elias n'était pas d'accord."
+  },
+  {
+   "type": "text",
+   "value": "— On peut attendre trois semaines, dit-il. Le vent solaire va baisser. Tu exposes quelqu'un à des radiations pour un panneau qui produit quatre pour cent de notre énergie."
+  },
+  {
+   "type": "text",
+   "value": "— Quatre pour cent aujourd'hui, dit Amara. Et si un autre impact arrive la semaine prochaine ?"
+  },
+  {
+   "type": "text",
+   "value": "— Et si Mathis prend une dose qui lui donne un cancer dans dix ans ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est ma décision."
+  },
+  {
+   "type": "text",
+   "value": "— C'est toujours ta décision, dit Elias. C'est bien le problème. Tu décides seule, et après tu portes tout seule. Ça te donne l'air courageuse. Ce n'est pas du courage, c'est de l'orgueil."
+  },
+  {
+   "type": "text",
+   "value": "Le silence qui suivit fut terrible. Freya, qui était dans la cuisine, posa lentement sa tasse. Mathis, en combinaison à moitié enfilée, ne savait plus où regarder."
+  },
+  {
+   "type": "text",
+   "value": "— Sors de mon poste de commandement, dit Amara, très bas."
+  },
+  {
+   "type": "text",
+   "value": "Elias sortit."
+  },
+  {
+   "type": "text",
+   "value": "Mathis fit la réparation. Elle se passa parfaitement. La dose reçue fut minime. Amara avait eu raison, techniquement. Mais pendant six semaines, elle et Elias ne s'adressèrent la parole que par l'intermédiaire d'Hélia, et Hélia, avec une neutralité parfaite, transmettait les messages comme s'il était parfaitement normal que deux adultes, à trois mètres l'un de l'autre, ne puissent pas se parler."
+  },
+  {
+   "type": "text",
+   "value": "*Le docteur Varga vous informe que les relevés de radiation sont disponibles, commandante.*"
+  },
+  {
+   "type": "text",
+   "value": "— Remercie le docteur Varga."
+  },
+  {
+   "type": "text",
+   "value": "*Il vous entend, commandante. Il est juste derrière vous.*"
+  },
+  {
+   "type": "text",
+   "value": "Les messages de la Terre arrivaient chaque mois."
+  },
+  {
+   "type": "text",
+   "value": "Au début, ils mettaient quelques jours à leur parvenir. Puis des semaines. Puis, vers la quatrième année, plusieurs mois : la lumière elle-même, malgré sa vitesse fabuleuse, avait du mal à rattraper le vaisseau. Chaque message était donc une lettre du passé. Une Terre qui n'existait déjà plus tout à fait."
+  },
+  {
+   "type": "text",
+   "value": "Ils y apprenaient que le monde allait mal. Les récoltes ratées en Inde. Les grandes migrations vers le nord, vers la Scandinavie et le Canada devenus habitables. Les restrictions d'eau en Europe du Sud. Les présentateurs souriaient de moins en moins."
+  },
+  {
+   "type": "text",
+   "value": "Et ils voyaient Noé grandir."
+  },
+  {
+   "type": "text",
+   "value": "À sept ans, il avait perdu deux dents de devant et sifflait en parlant. À huit ans, il savait lire et lut à sa mère, d'une traite, une page entière d'un livre sur les étoiles, en butant sur le mot *constellation*. À neuf ans, il avait les cheveux plus longs, une écharpe de football, et il raconta, en levant les yeux au ciel, qu'il avait un ami appelé Ibou qui ne croyait pas que sa mère était dans l'espace."
+  },
+  {
+   "type": "text",
+   "value": "— Je lui ai montré la photo, dit Noé. Il a dit que c'était un montage. Alors je l'ai tapé. Tata Awa m'a puni. Mais c'était pour toi."
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda ce message sept fois."
+  },
+  {
+   "type": "text",
+   "value": "La nuit suivante, Mathis la trouva dans la cuisine, devant l'écran éteint. Il ne posa pas de question. Il fit chauffer deux tasses de ce qu'on appelait du café à bord, s'assit en face d'elle et attendit."
+  },
+  {
+   "type": "text",
+   "value": "— Il a tapé un garçon pour moi, dit-elle enfin."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un bon fils, dit Mathis. Un peu bagarreur. Ça vient de qui ?"
+  },
+  {
+   "type": "text",
+   "value": "Elle eut un demi-sourire, le premier depuis des jours. Ils burent leur café en silence, et le silence, cette fois, n'était pas lourd."
+  },
+  {
+   "type": "text",
+   "value": "Freya et Kenji, eux, se rapprochèrent pendant les gardes de nuit."
+  },
+  {
+   "type": "text",
+   "value": "Cela se fit sans qu'ils le décident. La quatrième année, le hasard des rotations les laissa éveillés ensemble pendant deux longues périodes de quatre mois. La nuit, à bord, n'existait que parce qu'Hélia baissait les lumières à heures fixes, mais ils avaient pris l'habitude de passer ces heures-là dans la serre. Freya rempotait ses plantes. Kenji, assis sur une caisse, faisait de la calligraphie, le pinceau suspendu au-dessus du papier, attendant le bon moment pour tracer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Gardes de nuit"
+  },
+  {
+   "type": "text",
+   "value": "— Comment tu sais quand c'est le bon moment ? demanda Freya un soir."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas, dit Kenji. C'est quand j'arrête d'avoir peur de rater."
+  },
+  {
+   "type": "text",
+   "value": "— Et si tu rates ?"
+  },
+  {
+   "type": "text",
+   "value": "— Alors je recommence. L'encre ne coûte rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle rit doucement. Il traça le caractère. Il le lui donna."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que ça veut dire ?"
+  },
+  {
+   "type": "text",
+   "value": "— *Pousser.* Comme une plante."
+  },
+  {
+   "type": "text",
+   "value": "Elle le colla sur le pot du plus grand de ses citronniers nains, celui qui, cette nuit-là, donna sa première fleur. Une fleur blanche, minuscule, à l'odeur si forte qu'elle emplit toute la serre, et que Mathis, en se réveillant de son sommeil cryogénique un mois plus tard, sentit depuis le couloir."
+  },
+  {
+   "type": "text",
+   "value": "— Qui a mis du parfum ? demanda-t-il, encore à moitié endormi."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le citronnier, dit Freya, rayonnante. Il a fleuri."
+  },
+  {
+   "type": "text",
+   "value": "— Il était temps, dit Mathis. Je commençais à croire que tes chansons le tuaient."
+  },
+  {
+   "type": "text",
+   "value": "La serre fleurit, cette année-là. Tout entière. Les fraisiers, les tomates, le basilic. Pendant quelques semaines, l'Aurore sentit l'été."
+  },
+  {
+   "type": "text",
+   "value": "C'était la fin de la quatrième année. Kenji dormait dans sa capsule de sommeil, pour la première de ses deux nuits de quatre mois. Ou plutôt, il aurait dû dormir. Le cycle avait été retardé de quelques heures à cause d'un capteur défectueux, et il attendait, assis dans la cuisine, que Mathis ait fini de le remplacer."
+  },
+  {
+   "type": "text",
+   "value": "La porte était entrouverte. Il entendit un bruit dans la serre."
+  },
+  {
+   "type": "text",
+   "value": "Il se leva sans y penser. Il s'arrêta dans l'encadrement de la porte."
+  },
+  {
+   "type": "text",
+   "value": "Freya était seule, debout devant le citronnier. Elle tenait une tasse de thé dans la main gauche. Elle ne savait pas qu'il était là."
+  },
+  {
+   "type": "text",
+   "value": "Et sous ses yeux, la main de Freya s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne lâcha pas la tasse. Ce n'était pas un geste. C'était une absence de geste, comme si un fil, quelque part entre son cerveau et ses doigts, avait été coupé. La tasse tomba. Elle rebondit sur le sol sans se casser. Le thé se répandit en une flaque fumante au pied du citronnier."
+  },
+  {
+   "type": "text",
+   "value": "Freya regarda sa main gauche. Elle essaya de fermer les doigts. Ils tremblèrent, se replièrent à moitié, puis s'immobilisèrent, raides, à demi ouverts, ne lui obéissant plus."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "La main"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne cria pas. Elle respira, très lentement, comme on le lui avait appris, comme elle l'apprenait aux autres. Puis elle se baissa, ramassa la tasse de la main droite, et la posa sur l'étagère."
+  },
+  {
+   "type": "text",
+   "value": "Elle se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Kenji était là, dans l'encadrement de la porte. Il n'avait pas bougé."
+  },
+  {
+   "type": "text",
+   "value": "Il l'avait vue."
+  }
+ ]
+}

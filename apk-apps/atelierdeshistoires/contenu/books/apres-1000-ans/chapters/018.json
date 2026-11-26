@@ -1,0 +1,285 @@
+{
+ "number": 18,
+ "title": "La planète bleue",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il leur fallut encore quatre mois pour atteindre la Terre."
+  },
+  {
+   "type": "text",
+   "value": "Quatre mois pendant lesquels Hélia écouta sans relâche. Toutes les fréquences, toutes les bandes, les anciens canaux militaires, les balises de détresse, les signaux que les humains de 2189 auraient reconnus et ceux qu'ils n'auraient jamais imaginés. Elle chercha les murmures des réseaux, le bourdonnement des villes, la moindre trace de ce bruit permanent que l'humanité avait émis vers l'espace pendant des siècles sans même y penser."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Chaque matin, Kenji posait la même question. Chaque matin, Hélia donnait la même réponse."
+  },
+  {
+   "type": "text",
+   "value": "*Toujours rien, Kenji. Je suis désolée.*"
+  },
+  {
+   "type": "text",
+   "value": "— Ne sois pas désolée, finit-il par lui dire. Ce n'est pas ta faute."
+  },
+  {
+   "type": "text",
+   "value": "*Je sais. Mais je crois que c'est ce qu'il faut dire.*"
+  },
+  {
+   "type": "text",
+   "value": "Ils la virent grandir, jour après jour, d'abord un point bleu pâle à côté du Soleil, puis une bille, puis un disque. La Lune à ses côtés, grise et fidèle, inchangée. Elle, au moins, n'avait pas bougé. Les mêmes mers sombres, les mêmes cratères. Amara la regarda longtemps, le premier soir où on put distinguer ses taches à l'œil nu."
+  },
+  {
+   "type": "text",
+   "value": "— Noé l'appelait le fromage, dit-elle. Quand il était petit. Il disait que quelqu'un avait mangé un morceau."
+  },
+  {
+   "type": "text",
+   "value": "Elias lui prit la main."
+  },
+  {
+   "type": "text",
+   "value": "L'Aurore se plaça en orbite haute le cent dix-septième jour, au-dessus de l'océan Indien."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient tous les quatre dans la baie d'observation. Freya avait demandé qu'on l'attache près de la vitre, et Kenji avait passé une heure à régler les sangles du fauteuil pour qu'elle puisse se pencher sans glisser. Amara se tenait debout, droite, les mains dans le dos, dans la posture qu'elle prenait pendant les briefings, autrefois. Elias était à côté d'elle. Personne ne parlait."
+  },
+  {
+   "type": "text",
+   "value": "La Terre remplissait la baie tout entière."
+  },
+  {
+   "type": "text",
+   "value": "Elle était bleue."
+  },
+  {
+   "type": "text",
+   "value": "Pas le bleu gris, sale, voilé de brun, qu'ils avaient laissé derrière eux en 2189. Pas le ciel orange de Kourou. Un bleu profond, vivant, presque violent tant il était pur. Et sur ce bleu, des nuages blancs, éclatants, qui tournaient en spirales lentes au-dessus des océans. Des nuages comme sur les photos anciennes, celles d'avant les grandes chaleurs, que Freya avait vues dans ses livres d'enfant et qu'elle croyait ne jamais voir en vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Oh, souffla-t-elle. Oh, regardez."
+  },
+  {
+   "type": "text",
+   "value": "Sous les nuages, les continents. L'Afrique d'abord, immense, et Amara eut un mouvement du corps vers la vitre, comme si elle pouvait la toucher. L'Afrique était verte. Le Sahel, qu'elle avait connu brûlé, poussiéreux, mangé par le désert, était une large bande de vert tendre. Même le Sahara semblait plus petit, ses bords grignotés par des taches sombres qui ne pouvaient être que de la végétation."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "La Terre a guéri"
+  },
+  {
+   "type": "text",
+   "value": "— Le Sénégal, dit Amara. Là. Là, regardez. C'est vert."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix tremblait. Elle ne s'en cacha pas."
+  },
+  {
+   "type": "text",
+   "value": "— Le climat s'est refroidi, dit Elias, très bas. Sans nous. Sans les usines, sans les moteurs, sans rien. Le carbone est retombé. Ça prend des siècles. Il a eu des siècles."
+  },
+  {
+   "type": "text",
+   "value": "— La Terre a guéri, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— La Terre a guéri, répéta Elias. Quand on est partis."
+  },
+  {
+   "type": "text",
+   "value": "Il ne le dit pas comme une accusation. Il le dit comme un constat, une évidence triste et belle à la fois. Ils l'entendirent tous de la même façon."
+  },
+  {
+   "type": "text",
+   "value": "Kenji, lui, regardait les écrans. Il avait lancé les cartographies, les comparaisons avec les relevés de 2189. Il fut le premier à voir que les côtes avaient changé."
+  },
+  {
+   "type": "text",
+   "value": "— La mer est montée, dit-il. Pas énormément. Mais regardez."
+  },
+  {
+   "type": "text",
+   "value": "Il afficha les deux images côte à côte. L'ancienne carte, et ce qu'Hélia voyait. Le Bangladesh n'était plus qu'un chapelet d'îles. Le delta du Nil s'était effacé. Les Pays-Bas avaient disparu presque entièrement sous une mer grise et calme. Venise, il ne la chercha même pas."
+  },
+  {
+   "type": "text",
+   "value": "— Huit mètres, à peu près, dit Elias. Les glaces ont fondu avant de recommencer à se former. On voit déjà des glaciers qui reviennent sur les Alpes. Là, au nord, sur la Scandinavie aussi."
+  },
+  {
+   "type": "text",
+   "value": "Freya se pencha autant que ses sangles le lui permettaient."
+  },
+  {
+   "type": "text",
+   "value": "— La Suède est là, dit-elle. Elle est encore là."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est encore là, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "Il ne lui dit pas que les côtes de Göteborg avaient reculé de plusieurs kilomètres. Elle le vit toute seule. Elle ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "Ils firent le tour de la Terre plusieurs fois, ce jour-là, à mesure que l'Aurore glissait sur son orbite. Ils virent les Andes enneigées, l'Amazonie plus vaste que dans aucun souvenir, des déserts d'Asie où des fleuves avaient retrouvé leur lit. Ils virent des troupeaux, ou crurent en voir, de longues taches mouvantes dans les plaines d'Afrique de l'Est."
+  },
+  {
+   "type": "text",
+   "value": "Ils cherchèrent les villes."
+  },
+  {
+   "type": "text",
+   "value": "Ils les trouvèrent, en cherchant bien. Pas comme des villes. Comme des cicatrices. Des formes géométriques trop régulières sous la forêt, des lignes droites que la nature n'aurait jamais tracées, d'anciennes autoroutes devenues des rubans de végétation un peu plus clairs que le reste. Des taches grises, parfois, là où le béton résistait encore. Paris n'était qu'un dessin pâle dans une forêt, avec la Seine qui serpentait au milieu, libre."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a pas de fumée, dit Amara. Pas une seule."
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. Nulle part, aucune colonne de fumée, aucun feu de camp, aucun brûlis. Aucune route nouvelle. Aucun champ."
+  },
+  {
+   "type": "text",
+   "value": "Les satellites, ils les croisèrent au troisième tour."
+  },
+  {
+   "type": "text",
+   "value": "Hélia les avait détectés de loin, et elle prévint l'équipage avant de modifier légèrement l'orbite pour passer à distance. Ce n'étaient plus que des carcasses. Des boîtes métalliques aux panneaux solaires arrachés, qui tournaient sur elles-mêmes, mortes depuis des siècles. Certaines brillaient encore quand le Soleil les frappait sous le bon angle, des éclats fugitifs qui donnaient l'illusion d'un signal."
+  },
+  {
+   "type": "text",
+   "value": "Puis la station."
+  },
+  {
+   "type": "text",
+   "value": "Ils la reconnurent tout de suite, Amara surtout. La grande station orbitale européenne, celle où elle avait fait son premier stage, à vingt-six ans. Elle était coupée en deux. Un des modules avait disparu, sans doute retombé dans l'atmosphère, et ce qui restait dérivait lentement, couvert d'une poussière grise, avec ses hublots noirs comme des yeux vides."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "La station morte"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai dormi là, dit Amara. Dans le module de gauche. Il y avait une photo de Dakar au-dessus de ma couchette."
+  },
+  {
+   "type": "text",
+   "value": "Elle regarda la station tourner, jusqu'à ce qu'elle disparaisse derrière la courbe de la Terre."
+  },
+  {
+   "type": "text",
+   "value": "— On ne va pas trouver de survivants, dit-elle enfin. Il faut qu'on se le dise, maintenant, tous les quatre. À voix haute."
+  },
+  {
+   "type": "text",
+   "value": "Elias acquiesça. Freya baissa la tête. Kenji serra les poings."
+  },
+  {
+   "type": "text",
+   "value": "— On ne va pas trouver de survivants, répéta-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Mais ses yeux restaient sur l'écran."
+  },
+  {
+   "type": "text",
+   "value": "Ils mangèrent à peine, ce soir-là. Elias tenta une explication, parce qu'il fallait bien que quelqu'un parle. Les satellites, dit-il, ne tombent pas tous d'un coup. Les plus bas frottent contre les restes d'atmosphère, ralentissent, et finissent par brûler en quelques années ou quelques décennies. Les plus hauts peuvent tourner pendant des millénaires, morts, sans que rien ne les arrête. Ce qu'ils voyaient là, c'était un cimetière qui tournait au-dessus de leur tête."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps pour qu'une ville disparaisse sous la forêt ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Les toits tombent en quelques décennies. Le béton tient plus longtemps, mais l'eau entre, les racines aussi. En cinq cents ans, il ne reste que des squelettes. En mille ans…"
+  },
+  {
+   "type": "text",
+   "value": "Il n'acheva pas."
+  },
+  {
+   "type": "text",
+   "value": "Kenji repensa à son jeu. À sa ville entière sur le quai, avec des drapeaux, et l'enfant qui leur tendait des fleurs. Il comprit qu'il n'y jouerait plus. Il en fut triste, et en même temps soulagé, comme on l'est quand on pose enfin un poids qu'on portait sans le savoir."
+  },
+  {
+   "type": "text",
+   "value": "Amara, elle, avait sorti de sa poche une vieille photo imprimée, cornée, de Noé à six ans, devant la mer à Dakar. Elle la posa contre la vitre, face à la Terre. Personne ne lui demanda pourquoi."
+  },
+  {
+   "type": "text",
+   "value": "La nuit tomba sur l'Europe pendant le quatrième tour."
+  },
+  {
+   "type": "text",
+   "value": "C'était le moment qu'ils redoutaient le plus. Autrefois, la face nocturne de la Terre était un réseau de lumières, une toile d'araignée dorée tendue d'une ville à l'autre. Même en 2189, quand tout allait mal, il restait les grandes cités sous leurs dômes, les ports, les flambées des incendies. Hélia les avait prévenus. Aucune lumière la nuit. Mais ils voulaient le voir."
+  },
+  {
+   "type": "text",
+   "value": "Le terminateur glissa sur l'Atlantique, puis sur l'Espagne, puis sur la France. L'ombre avala tout."
+  },
+  {
+   "type": "text",
+   "value": "Noir. Un noir total, profond, comme le noir de l'espace autour du vaisseau. Pas une lueur. Pas une ville. La Méditerranée était une flaque d'encre qui ne se distinguait de la terre que par le reflet de la Lune."
+  },
+  {
+   "type": "text",
+   "value": "Freya ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est comme regarder une tombe, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Amara fit un pas en arrière, puis s'arrêta. Kenji ne bougeait plus. Il fixait un point de l'écran, au milieu du noir, sans cligner des yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit-il, très doucement. Agrandis le secteur quarante-cinq nord, six est."
+  },
+  {
+   "type": "text",
+   "value": "*J'agrandis.*"
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que c'est ? demanda Elias."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne répondit pas. Il se leva, s'approcha de l'écran, posa le doigt dessus, comme pour l'empêcher de s'envoler."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Une lumière"
+  },
+  {
+   "type": "text",
+   "value": "Là, au milieu du noir de l'Europe, au cœur des montagnes, il y avait une lumière. Une seule. Minuscule, blanche, et qui clignotait lentement, régulièrement, comme un cœur qui bat."
+  },
+  {
+   "type": "text",
+   "value": "Elias afficha à côté la carte trouvée dans la sonde de Thalassa. Le point lumineux gravé sous les Alpes était exactement au même endroit."
+  },
+  {
+   "type": "text",
+   "value": "*Une source de lumière artificielle*, dit Hélia. *Sous les Alpes. Elle clignote toutes les quatre secondes. Elle ne s'est pas éteinte depuis que je l'observe.*"
+  }
+ ]
+}

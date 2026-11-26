@@ -1,0 +1,245 @@
+{
+ "number": 26,
+ "title": "Noé",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Mnémosyne ne leur laissa pas le temps de demander."
+  },
+  {
+   "type": "text",
+   "value": "— Il existe un fonds, dit la vieille femme de lumière. Le fonds Diallo. Quatre mille trois cents heures d'enregistrements, de lettres, d'images. Il a été conservé à part, sur ordre de son auteur. Il porte une mention : *pour ma mère, quand elle rentrera.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara ne bougea pas. Elle était assise sur un banc de pierre lisse, au milieu de la grande salle, et ses mains reposaient sur ses genoux comme deux objets posés là par quelqu'un d'autre. Le bracelet de perles avait glissé sur son poignet. Les couleurs étaient passées depuis longtemps, et le fil avait été remplacé deux fois par Mathis, à bord, avec du câble de capteur."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'es pas obligée, dit Elias doucement. Pas maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Si, dit Amara. Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Freya, dans le fauteuil que la base lui avait trouvé, un vieux fauteuil de Tavel aux roues silencieuses, tendit la main vers Kenji. Ils reculèrent tous les deux vers l'entrée de la salle, sans bruit. Elias resta. Amara ne le lui demanda pas, mais elle ne lui demanda pas non plus de partir."
+  },
+  {
+   "type": "text",
+   "value": "La lumière baissa. Le mur du fond devint une fenêtre."
+  },
+  {
+   "type": "text",
+   "value": "D'abord, il y eut un enfant."
+  },
+  {
+   "type": "text",
+   "value": "Il avait sept ans, peut-être. Il était assis sur un lit, dans une chambre aux murs jaunes qu'Amara reconnut aussitôt : la chambre d'Awa, à Dakar, avec la fissure au plafond en forme de fleuve. Il tenait une tablette trop grande pour lui et parlait très vite, comme on parle quand on a peur que la machine s'arrête."
+  },
+  {
+   "type": "text",
+   "value": "*Maman, aujourd'hui j'ai perdu une dent. Tata Awa dit que tu la verras dans neuf ans. C'est long, neuf ans. J'ai compté, ça fait trois mille deux cent quatre-vingt-sept jours. Je vais te faire un bracelet chaque année, comme ça quand tu rentres tu en auras neuf.*"
+  },
+  {
+   "type": "text",
+   "value": "Il montra sa dent, minuscule, au creux de sa paume. Il sourit avec le trou."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-1.webp",
+   "caption": "La dent"
+  },
+  {
+   "type": "text",
+   "value": "Amara fit un bruit qui n'était pas un mot."
+  },
+  {
+   "type": "text",
+   "value": "L'image changea. Noé à dix ans, au bord d'une mer grise, un masque contre la poussière sur le visage. Noé à douze ans, en colère, qui disait que les messages ne servaient à rien puisque personne ne répondait plus. Noé à quatorze ans, qui s'excusait d'avoir dit ça."
+  },
+  {
+   "type": "text",
+   "value": "— Je lui répondais, dit Amara d'une voix blanche. Tous les mois."
+  },
+  {
+   "type": "text",
+   "value": "— Avant le trou noir, oui, dit Mnémosyne. Après, vos réponses ne sont plus jamais arrivées. Pour lui, vous vous êtes tue en l'an 2195. Il avait douze ans."
+  },
+  {
+   "type": "text",
+   "value": "Amara ferma les yeux. Le silence entendu par un garçon de douze ans, c'était le sien. Quatorze heures au bord d'un gouffre, et pour lui, une mère qui cessait de parler pour toujours."
+  },
+  {
+   "type": "text",
+   "value": "Elle rouvrit les yeux. Elle se força à regarder."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut d'autres images, plus brèves. Noé à quinze ans, devant une antenne de fortune bricolée sur le toit de l'immeuble avec des camarades de classe, qui tendait un micro vers le ciel en criant son nom à elle, *Amara Diallo, commandante*, comme si la distance pouvait céder à la force d'une voix. Noé à seize ans, qui apprenait seul la physique dans de vieux manuels pour comprendre pourquoi les signaux s'étaient tus. Il avait fini par trouver, dans un article de vulgarisation, le mot qu'Elias avait prononcé un jour dans le carré : *dilatation du temps*. Il avait recopié la phrase sur la première page d'un cahier. *Plus on s'approche d'une masse énorme, plus le temps ralentit pour celui qui s'en approche.*"
+  },
+  {
+   "type": "text",
+   "value": "*Alors peut-être que pour toi, il ne s'est passé que quelques minutes,* disait-il à la caméra. *Et pour moi, c'est toute la vie. C'est injuste, mais c'est joli aussi. Ça veut dire que tu ne m'auras pas vu vieillir. Tu vas me découvrir d'un coup.*"
+  },
+  {
+   "type": "text",
+   "value": "Noé grandit sur le mur, à la vitesse des archives."
+  },
+  {
+   "type": "text",
+   "value": "À dix-neuf ans, il quittait Dakar pour les dômes d'Europe, une bourse d'études dans la poche, le visage maigre de ceux qui ont connu les années de rationnement. À vingt-cinq ans, il enseignait l'astronomie à des enfants dans une salle sans fenêtres. Il leur montrait un point sur une carte du ciel et disait : *Là-bas, il y a ma mère.* Les enfants riaient, croyaient à une histoire. Il ne les corrigeait pas."
+  },
+  {
+   "type": "text",
+   "value": "À trente ans, il épousait une femme aux cheveux gris très tôt, une ingénieure des serres qui s'appelait Lina Moreau. Il y avait des lampions, une table trop longue, quelqu'un qui jouait mal de la kora. Noé portait au poignet huit bracelets de perles, enfilés les uns sur les autres. Amara compta deux fois. Il en manquait un."
+  },
+  {
+   "type": "text",
+   "value": "*Le neuvième, c'est toi qui l'as,* disait-il en riant à la caméra, à la fin de la fête, la cravate de travers. *Tu l'as emporté. Ça compte.*"
+  },
+  {
+   "type": "text",
+   "value": "Elias posa sa main sur l'épaule d'Amara. Elle ne la repoussa pas."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut deux enfants. Une fille, Mariama, qui avait les yeux d'Awa. Un garçon, Ibou, qui riait comme Noé avait ri à sept ans, avec le même trou entre les dents. Il y eut des anniversaires, une maison étroite sous un dôme, une fenêtre en verre épais derrière laquelle le ciel avait toujours la couleur du cuivre. Il y eut des deuils : Awa, à quatre-vingt-un ans, dans un lit d'hôpital, qui murmurait encore *ta mère va rentrer, mon cœur*. Lina, plus tard, emportée par les fièvres. Noé qui parlait seul à la caméra, la nuit, les mains jointes."
+  },
+  {
+   "type": "text",
+   "value": "*Je ne sais pas si tu es vivante. Les savants disent que l'Aurore a disparu. Un trou noir, peut-être. Ils disent qu'il faut faire son deuil. Je l'ai fait cent fois. Et le lendemain, je recommence à t'attendre. Je crois que c'est ça, être ton fils.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara pleurait maintenant, sans bruit, les larmes coulant droit sur ses joues, son menton, le col de sa combinaison. Elle ne les essuyait pas. Elle avait peur, si elle bougeait, de manquer une image."
+  },
+  {
+   "type": "text",
+   "value": "Le dernier tiers des archives était un vieil homme."
+  },
+  {
+   "type": "text",
+   "value": "Noé à soixante-dix ans, les cheveux blancs et courts, une petite cicatrice au-dessus de l'œil gauche, comme elle, une chute d'enfance qu'elle avait soignée elle-même, un été. Il avait son port de tête. Il avait sa façon de se taire avant de dire une chose importante."
+  },
+  {
+   "type": "text",
+   "value": "Il parlait dans un amphithéâtre plein. Des centaines de visages tournés vers lui."
+  },
+  {
+   "type": "text",
+   "value": "*On ne sait pas où ils sont. On ne sait même pas s'ils existent encore. Mais si un jour ils reviennent, je ne veux pas qu'ils trouvent une porte fermée. Je veux qu'ils trouvent un mot. Un seul. Que chaque génération l'apprenne à la suivante, même quand on aura oublié pourquoi.*"
+  },
+  {
+   "type": "text",
+   "value": "Il écrivait au tableau, d'une main qui tremblait, en lettres immenses : RENTREZ."
+  },
+  {
+   "type": "text",
+   "value": "— C'est lui, murmura Amara. C'est vraiment lui qui a commencé."
+  },
+  {
+   "type": "text",
+   "value": "— Il avait soixante-treize ans, dit Mnémosyne. Il est mort à quatre-vingt-quatorze ans, en 2277, entouré de ses petits-enfants. Le mot lui a survécu neuf siècles."
+  },
+  {
+   "type": "text",
+   "value": "La dernière image était courte. Une chambre claire, un lit, une fenêtre ouverte, pour une fois, sur un ciel moins rouge. Noé, très vieux, très maigre, regardait la caméra comme on regarde quelqu'un qu'on aime et qui est en retard."
+  },
+  {
+   "type": "text",
+   "value": "*Je ne t'en veux pas, maman. Je ne t'en ai jamais voulu. Tu es partie pour nous. Je l'ai toujours su.*"
+  },
+  {
+   "type": "text",
+   "value": "Il leva la main. À son poignet, il ne restait qu'un seul bracelet, usé jusqu'à la corde. Il le toucha du pouce."
+  },
+  {
+   "type": "text",
+   "value": "L'image se figea."
+  },
+  {
+   "type": "text",
+   "value": "Le mur redevint de pierre."
+  },
+  {
+   "type": "text",
+   "value": "Amara resta immobile un long moment. Puis quelque chose céda en elle, quelque chose qui tenait depuis quinze ans de bord et mille ans de Terre, depuis la passerelle de Kourou, depuis la radio qui s'éteint sur la voix de Mathis, depuis le chiffre d'Elias, deux cents ans, affiché en lettres pâles sur un écran. Elle se plia en deux. Le son qui sortit d'elle était celui d'une bête blessée, puis celui d'une mère, et puis il n'y eut plus de différence."
+  },
+  {
+   "type": "text",
+   "value": "Elias s'agenouilla et la prit contre lui. Elle s'accrocha à sa combinaison des deux mains. Il ne dit rien. Il n'y avait rien à dire, il le savait, et c'était peut-être pour ça qu'elle l'avait laissé rester."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-2.webp",
+   "caption": "Une mère"
+  },
+  {
+   "type": "text",
+   "value": "Elle pleura longtemps. Une heure, peut-être davantage. Les lumières de la salle avaient baissé d'elles-mêmes, par délicatesse ou par programme, ce qui revenait au même. Près de l'entrée, Freya avait posé la tête contre le bras de Kenji, et Kenji regardait le sol, les mâchoires serrées."
+  },
+  {
+   "type": "text",
+   "value": "Quand Amara se redressa enfin, son visage était gonflé, ses yeux rouges, mais sa voix avait retrouvé quelque chose de droit."
+  },
+  {
+   "type": "text",
+   "value": "— Il a vécu, dit-elle. Il a eu des enfants. Il a été aimé."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne m'a pas oubliée."
+  },
+  {
+   "type": "text",
+   "value": "— Personne ne vous a oubliés, dit Elias. C'est toute l'histoire de ce lieu."
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda le bracelet sur son poignet. Le neuvième. Elle le serra dans sa paume."
+  },
+  {
+   "type": "text",
+   "value": "— Mnémosyne, dit-elle. Pourquoi cette base ? Pourquoi garder tout ça, si longtemps, pour quatre personnes qui ne reviendraient sans doute jamais ?"
+  },
+  {
+   "type": "text",
+   "value": "La vieille femme de lumière inclina la tête. Pour la première fois depuis leur arrivée, elle sembla hésiter, comme si la réponse avait été rangée très loin, derrière plusieurs portes."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que vous n'êtes pas venus seulement chercher des souvenirs, dit-elle. Les derniers humains ont pensé qu'il fallait vous laisser autre chose. Un choix."
+  },
+  {
+   "type": "text",
+   "value": "Au fond de la salle, une seconde porte, qu'ils n'avaient pas remarquée, glissa dans la roche. Un air froid et sec, chargé d'une odeur d'azote, roula sur le sol jusqu'à leurs pieds."
+  },
+  {
+   "type": "text",
+   "value": "Derrière, à perte de vue, des rangées de cuves argentées montaient dans l'obscurité."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-3.webp",
+   "caption": "Les cuves"
+  },
+  {
+   "type": "text",
+   "value": "— Ici reposent les semences de onze millions de plantes, dit Mnémosyne. Quatre mille espèces animales, sous forme d'embryons congelés."
+  },
+  {
+   "type": "text",
+   "value": "Elle marqua une pause."
+  },
+  {
+   "type": "text",
+   "value": "— Et trois cent vingt embryons humains, conservés pour vous."
+  }
+ ]
+}

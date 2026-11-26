@@ -1,0 +1,253 @@
+{
+ "number": 24,
+ "title": "Mnémosyne",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il leur fallut toute la matinée pour descendre jusqu'à la porte."
+  },
+  {
+   "type": "text",
+   "value": "Le versant était raide, et Amara boitait. Kenji et Elias portaient Freya avec des gestes infiniment prudents, pas après pas, en assurant chaque appui. Plus ils approchaient, plus la porte grandissait, jusqu'à leur boucher le ciel. Au pied de la paroi, une esplanade de pierre lisse s'étendait, sans une herbe, comme si quelqu'un l'avait balayée la veille."
+  },
+  {
+   "type": "text",
+   "value": "Ils posèrent la civière. Personne ne savait quoi faire."
+  },
+  {
+   "type": "text",
+   "value": "— On frappe ? demanda Elias."
+  },
+  {
+   "type": "text",
+   "value": "Il n'eut pas besoin. Une ligne de lumière blanche courut le long du bord de la porte, du sol jusqu'au soleil gravé. Un grondement sourd monta de la montagne, si profond qu'ils le sentirent dans leurs os plus qu'ils ne l'entendirent. Et lentement, très lentement, l'immense battant de métal pivota vers l'intérieur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-1.webp",
+   "caption": "Elle s'ouvre"
+  },
+  {
+   "type": "text",
+   "value": "Un souffle d'air tiède en sortit. Il sentait la pierre sèche et quelque chose d'autre, de très léger, que Kenji mit du temps à reconnaître. L'odeur d'un endroit propre. D'un endroit entretenu."
+  },
+  {
+   "type": "text",
+   "value": "*Équipage de l'Aurore*, dit la voix qu'ils avaient entendue à Lyon. *Identification confirmée. Bienvenue. Entrez.*"
+  },
+  {
+   "type": "text",
+   "value": "Le tunnel s'enfonçait dans la roche sur des centaines de mètres. Des lumières s'allumaient devant eux à mesure qu'ils avançaient, et s'éteignaient derrière, comme un chemin qui se dessinait pour eux seuls. Les murs étaient lisses, d'un gris pâle, sans une inscription."
+  },
+  {
+   "type": "text",
+   "value": "Puis le tunnel s'ouvrit sur une salle."
+  },
+  {
+   "type": "text",
+   "value": "Elle était immense et ronde, creusée dans le cœur de la montagne. Le plafond se perdait dans l'ombre, très haut. Au centre, une estrade basse, et autour d'elle, des sièges disposés en cercle, comme dans un amphithéâtre. Sur les murs, des milliers de petites lumières bleues clignotaient doucement, en rangées serrées, à perte de vue."
+  },
+  {
+   "type": "text",
+   "value": "— Les archives, murmura Elias. Tout ça, ce sont des mémoires."
+  },
+  {
+   "type": "text",
+   "value": "Kenji poussa la civière jusqu'à l'estrade. Amara s'assit sur le premier siège, sa jambe blessée tendue devant elle. Elias resta debout près d'elle."
+  },
+  {
+   "type": "text",
+   "value": "Au centre de l'estrade, la lumière se condensa."
+  },
+  {
+   "type": "text",
+   "value": "D'abord un brouillard doré, puis des contours, puis une silhouette. Une femme apparut, petite, très âgée, vêtue d'une longue robe simple de couleur sable. Ses cheveux blancs étaient tirés en arrière. Son visage était creusé de rides profondes, mais ses yeux étaient vifs et noirs, et ils se posèrent sur chacun d'eux, un par un, avec une attention qui les fit frissonner."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "La grand-mère de lumière"
+  },
+  {
+   "type": "text",
+   "value": "Quand elle parla, ce fut dans leur langue. Un français un peu raide, aux tournures parfois désuètes, comme celui d'un vieux livre lu à voix haute."
+  },
+  {
+   "type": "text",
+   "value": "— Amara Diallo. Freya Lindqvist. Kenji Arata. Elias Varga."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit une pause."
+  },
+  {
+   "type": "text",
+   "value": "— Et Mathis Corre, qui n'est pas avec vous. Je le vois à vos visages. Je suis désolée."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne put répondre. Amara baissa les yeux. Kenji sentit la main de Freya se crisper sur la sienne. Mille ans plus tard, au fond d'une montagne, quelqu'un savait encore le nom de Mathis, et savait qu'il manquait. C'était à la fois une douleur et un réconfort, et il n'aurait pas su dire lequel était le plus fort."
+  },
+  {
+   "type": "text",
+   "value": "Elias fut le premier à retrouver sa voix."
+  },
+  {
+   "type": "text",
+   "value": "— Comment savez-vous ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Vous étiez cinq sur les registres de départ, dit la vieille femme. Vous êtes quatre devant moi. Et vous vous tenez comme des gens qui ont gardé une place vide entre eux."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Mnémosyne, reprit la vieille femme. Je suis l'archive de l'humanité. Ce visage n'est pas le mien : je n'en ai pas. On l'a choisi pour vous, parce qu'on a pensé qu'il vous serait plus doux de parler à quelqu'un qui ressemble à une grand-mère qu'à une machine. Et cette langue, je l'ai reconstruite à partir des enregistrements de votre époque. Elle n'est plus parlée depuis neuf cents ans. Pardonnez mes fautes."
+  },
+  {
+   "type": "text",
+   "value": "— Vous parlez très bien, dit Freya d'une petite voix."
+  },
+  {
+   "type": "text",
+   "value": "Mnémosyne sourit. C'était un sourire étonnamment humain."
+  },
+  {
+   "type": "text",
+   "value": "— Vous devez avoir mille questions. Je vais commencer par le début. Vous m'arrêterez quand vous voudrez."
+  },
+  {
+   "type": "text",
+   "value": "Elle raconta."
+  },
+  {
+   "type": "text",
+   "value": "Les lumières de la salle baissèrent, et autour de l'estrade, des images apparurent, flottant dans l'air. La Terre de 2189, qu'ils connaissaient : le ciel orange, les villes étouffées, les foules masquées. Puis, peu après leur départ, quelque chose de nouveau."
+  },
+  {
+   "type": "text",
+   "value": "— La Grande Fièvre, dit Mnémosyne. Un virus né dans les sols qui se réchauffaient. Il est apparu en 2271. En trente ans, il a tué près de la moitié de l'humanité."
+  },
+  {
+   "type": "text",
+   "value": "Les images montraient des hôpitaux, des files, des gens qui portaient des gens. Amara serra les accoudoirs de son siège. Kenji savait qu'elle comptait les années. En 2271, Noé avait quatre-vingt-huit ans."
+  },
+  {
+   "type": "text",
+   "value": "— L'humanité a survécu, poursuivit Mnémosyne. Elle a construit les dômes. Des cités fermées, sous verre, où l'air était filtré et l'eau recyclée. Il y en a eu quarante sur toute la planète. Pendant cinq siècles, c'est là que les humains ont vécu. Ils ont fait de grandes choses. Ils ont guéri des maladies, inventé des moteurs, envoyé des sondes vers les étoiles. L'une d'elles vous a trouvés sur Thalassa."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ils ne sont pas partis ? demanda Elias. S'ils avaient des moteurs. S'ils pouvaient atteindre d'autres étoiles."
+  },
+  {
+   "type": "text",
+   "value": "— Ils auraient pu envoyer quelques milliers de personnes, dit Mnémosyne. Pas des milliards. Et ils avaient vu, grâce aux sondes, qu'aucune planète proche n'était habitable. Thalassa la première, vous le savez. Partir aurait voulu dire choisir qui part et qui reste. Et condamner ceux qui partaient à des siècles de voyage vers nulle part."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tut un moment. Les images changèrent. On voyait maintenant des enfants, très peu d'enfants, dans de grandes salles vides."
+  },
+  {
+   "type": "text",
+   "value": "— Et puis il y a eu la natalité, dit-elle doucement. Sous les dômes, les naissances ont commencé à baisser. Lentement d'abord. Une conséquence de la Fièvre, de l'air, de la vie enfermée. Les médecins n'ont jamais trouvé toutes les causes. On faisait de moins en moins d'enfants. Puis presque plus."
+  },
+  {
+   "type": "text",
+   "value": "Freya avait fermé les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Vers l'an 2800, reprit Mnémosyne, il ne restait que quelques millions d'humains. Ils se sont réunis. Ce fut le Grand Conseil, le dernier. Et ils ont pris une décision."
+  },
+  {
+   "type": "text",
+   "value": "— Laquelle ? demanda Amara."
+  },
+  {
+   "type": "text",
+   "value": "— De ne pas fuir. De ne pas se battre contre ce qui arrivait. De laisser la Terre guérir."
+  },
+  {
+   "type": "text",
+   "value": "Les images montraient maintenant des dômes qu'on ouvrait. Des gens qui sortaient sous un ciel encore gris, et qui commençaient à planter. Des barrages qu'on démontait, des rivières qu'on libérait, des usines qu'on éteignait une à une."
+  },
+  {
+   "type": "text",
+   "value": "— Ils savaient qu'ils seraient les derniers, dit Mnémosyne. Alors ils ont passé leurs derniers siècles à réparer. À rendre à la planète ce qui lui avait été pris. Ils ont replanté les forêts, réintroduit les animaux des réserves. Les bisons que vous avez vus en venant, ce sont eux qui les ont relâchés. Les loups aussi. Ils ont voulu laisser derrière eux un monde plus beau que celui qu'ils avaient reçu."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? demanda Elias, et sa voix était rauque. Pourquoi faire tout ça, si personne ne devait en profiter ?"
+  },
+  {
+   "type": "text",
+   "value": "Mnémosyne inclina la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Une présidente du Conseil des Dômes a répondu à cette question, bien avant le dernier Conseil. Elle s'appelait Ilse Marant. Vous avez entendu sa voix sur Thalassa. Je peux vous lire ses mots, si vous voulez."
+  },
+  {
+   "type": "text",
+   "value": "Amara fit oui de la tête."
+  },
+  {
+   "type": "text",
+   "value": "La voix de Mnémosyne changea, devint plus jeune, plus ferme, comme si elle prêtait sa bouche à quelqu'un d'autre."
+  },
+  {
+   "type": "text",
+   "value": "*On ne plante pas un arbre pour s'asseoir à son ombre. On le plante parce qu'on sait ce qu'est l'ombre. Nous avons reçu une planète blessée. Nous la rendons guérie. Peu importe qui viendra après : les loups, les oiseaux, ou personne. Nous aurons été les premiers humains à quitter la maison plus propre qu'on ne l'a trouvée.*"
+  },
+  {
+   "type": "text",
+   "value": "Freya pleurait doucement. Kenji regarda les images qui flottaient dans l'air : un vieil homme qui ouvrait une cage, et un loup gris qui en sortait, hésitait, puis disparaissait dans les herbes. Il pensa à la plaine aux bisons, à la rivière claire, aux grillons. Tout cela, des gens l'avaient voulu. Des gens qui savaient qu'ils ne le verraient pas."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "Rendre la Terre"
+  },
+  {
+   "type": "text",
+   "value": "— Les tombes de Lyon, dit Kenji. Elles étaient si bien rangées."
+  },
+  {
+   "type": "text",
+   "value": "— Ils sont partis en paix, dit Mnémosyne. C'était leur dernière fierté."
+  },
+  {
+   "type": "text",
+   "value": "Le silence dura longtemps. Les lumières bleues des archives clignotaient dans l'ombre, comme un ciel d'étoiles enfermé sous la montagne."
+  },
+  {
+   "type": "text",
+   "value": "— Et le mot, dit enfin Freya. *Rentrez.* Pourquoi nous ? Pourquoi ils nous attendaient, alors qu'on n'était plus rien pour eux ?"
+  },
+  {
+   "type": "text",
+   "value": "Mnémosyne la regarda avec une tendresse infinie."
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'étiez pas rien. Vous étiez la dernière chose qu'ils n'avaient pas perdue. Tout le reste avait disparu : les pays, les langues, les villes d'autrefois. Mais il restait vous. Cinq personnes quelque part dans le ciel, qui ne savaient rien de la Fièvre ni des dômes. Qui étaient encore de 2189. Pour eux, vous étiez le passé vivant. Et peut-être l'avenir."
+  },
+  {
+   "type": "text",
+   "value": "Amara se pencha en avant."
+  },
+  {
+   "type": "text",
+   "value": "— Combien ? demanda-t-elle. Combien de temps on a manqué. Le dernier. Quand ?"
+  },
+  {
+   "type": "text",
+   "value": "La vieille femme ne répondit pas tout de suite. Ses yeux noirs se posèrent sur Amara, puis sur chacun des autres, comme pour s'assurer qu'ils étaient prêts."
+  },
+  {
+   "type": "text",
+   "value": "— Le dernier humain est mort il y a cent douze ans, dit Mnémosyne. Il vous a attendus."
+  }
+ ]
+}

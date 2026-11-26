@@ -1,0 +1,265 @@
+{
+ "number": 20,
+ "title": "La ville verte",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le cheval resta jusqu'à l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Il broutait à quelques mètres du camp, levant la tête de temps en temps pour les observer. Les loups, eux, avaient disparu dans la nuit, aussi silencieusement qu'ils étaient venus. Au matin, Kenji trouva leurs traces dans la boue au bord du fleuve, larges comme sa main."
+  },
+  {
+   "type": "text",
+   "value": "— Ils nous ont surveillés toute la nuit, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Ils se demandaient ce qu'on était, dit Elias. On est la chose la plus étrange qu'ils aient jamais vue."
+  },
+  {
+   "type": "text",
+   "value": "Freya, enroulée dans sa couverture, tendait la main vers le cheval. Il s'approcha, prudent, renifla ses doigts, souffla un nuage de vapeur tiède, puis repartit vers la forêt au trot. Elle le suivit des yeux jusqu'à ce qu'il disparaisse."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais l'appeler Fidèle, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne reviendra peut-être jamais, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Alors il sera fidèle à lui-même."
+  },
+  {
+   "type": "text",
+   "value": "Ils déchargèrent le véhicule de la navette dans la matinée. C'était un petit tout-terrain électrique à six roues, conçu pour Thalassa, avec une plateforme arrière où Kenji fixa le fauteuil de Freya. Amara prit le volant. Elias s'assit à côté d'elle avec les cartes anciennes de la ville sur une tablette."
+  },
+  {
+   "type": "text",
+   "value": "— On ne part pas tout de suite vers les Alpes, dit Amara. D'abord, je veux comprendre ce qui s'est passé. Je veux voir comment ils sont partis."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne la contredit."
+  },
+  {
+   "type": "text",
+   "value": "Ils remontèrent le long du Rhône, vers le nord, vers ce qui avait été le centre de Lyon."
+  },
+  {
+   "type": "text",
+   "value": "Il leur fallut une heure pour parcourir six kilomètres. La forêt avait tout recouvert. Les routes n'étaient plus que des sentiers entre les arbres, reconnaissables seulement à leur tracé trop droit et aux plaques de bitume qui affleuraient encore, fendues, soulevées par les racines. Des chênes avaient poussé au milieu des carrefours. Des ronces couvraient des carcasses de véhicules rouillés jusqu'à n'être plus que des silhouettes brunes, à peine reconnaissables."
+  },
+  {
+   "type": "text",
+   "value": "Puis les tours apparurent."
+  },
+  {
+   "type": "text",
+   "value": "Elles surgissaient au-dessus des arbres, grises, immenses, couvertes de lierre du sommet jusqu'au pied. Certaines étaient encore debout, droites, leurs fenêtres vides comme des orbites. D'autres penchaient. Une s'était effondrée sur sa voisine, et les deux restaient là, appuyées l'une sur l'autre, dans une étreinte de béton. Des arbres poussaient sur les toits. Des oiseaux entraient et sortaient par les fenêtres par dizaines."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "Les tours"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis venu ici, dit Elias. Un congrès de physique, en 2178. Je logeais dans cette tour-là, je crois. Il y avait un restaurant au sommet."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la reconnaissait pas vraiment. Il le dit quand même."
+  },
+  {
+   "type": "text",
+   "value": "La rivière coulait librement au milieu de la ville. La Saône, sans ses quais, sans ses ponts. Les quais avaient été mangés par l'eau, les ponts s'étaient écroulés un à un, et il n'en restait que des piles de pierre au milieu du courant, couvertes de mousse, où des hérons se tenaient immobiles sur une patte. Des castors avaient construit un barrage contre l'une d'elles."
+  },
+  {
+   "type": "text",
+   "value": "Sur la colline, au-dessus de la ville, il y avait des formes étranges. De grandes structures arrondies, à moitié effondrées, faites d'un matériau translucide qui avait jauni avec le temps. Comme des bulles géantes qui auraient éclaté."
+  },
+  {
+   "type": "text",
+   "value": "— Les dômes, dit Freya. Les messages en parlaient. Les cités sous dômes."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent la colline. Le véhicule peinait dans la pente, et Amara dut deux fois descendre pour dégager des troncs abattus. Ils arrivèrent au pied du plus grand dôme vers midi."
+  },
+  {
+   "type": "text",
+   "value": "Il avait dû mesurer cinq cents mètres de diamètre. Maintenant, il n'en restait qu'une moitié, une coquille creuse, ouverte au ciel. À l'intérieur, il y avait une ville. Une deuxième ville, plus récente, construite sous l'abri. Des maisons basses, des rues étroites, des jardins collectifs dont les bacs débordaient de plantes redevenues sauvages. Des inscriptions sur les murs, dans un alphabet qu'ils reconnaissaient à peine : des lettres latines, mais déformées, simplifiées, avec des signes en plus."
+  },
+  {
+   "type": "text",
+   "value": "— C'est du français, dit Kenji en déchiffrant. Je crois. Du français qui a changé."
+  },
+  {
+   "type": "text",
+   "value": "— *Saloun komun*, lut Elias sur une façade. Salle commune."
+  },
+  {
+   "type": "text",
+   "value": "Ils explorèrent toute l'après-midi. Ce qu'ils trouvèrent ne ressemblait pas à ce qu'ils avaient redouté."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait aucune trace de violence. Aucun mur criblé de balles, aucune barricade, aucune maison incendiée. Les portes étaient fermées, pas forcées. Dans les maisons où ils entrèrent, les objets étaient rangés. Des lits faits. Des étagères vides, soigneusement vidées, comme si les habitants avaient tout donné avant de partir. Dans une cuisine, Freya trouva une rangée de bocaux, alignés par taille, avec des étiquettes à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont pris le temps, dit-elle. Ils n'ont pas fui. Ils ont rangé."
+  },
+  {
+   "type": "text",
+   "value": "Au centre du dôme, ils trouvèrent les abris. De grandes salles souterraines, avec des couchettes, des réserves d'eau, des panneaux qui expliquaient, en dessins simples, comment se protéger de la chaleur, de la poussière, de la fièvre. Des dessins d'enfants punaisés au mur, pâlis jusqu'à n'être plus que des fantômes de couleur. Un soleil. Une maison. Une fusée."
+  },
+  {
+   "type": "text",
+   "value": "Amara resta longtemps devant la fusée. Un enfant l'avait dessinée, il y a des siècles, avec un grand rond jaune au-dessus. Un soleil levant."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit rien."
+  },
+  {
+   "type": "text",
+   "value": "Dans la salle voisine, Kenji trouva un mur couvert de plaques de métal gravées. Des listes. Des noms, des dates de naissance, de moins en moins nombreuses à mesure que les plaques avançaient. Les premières étaient couvertes de lignes serrées. Les dernières n'en portaient que trois ou quatre."
+  },
+  {
+   "type": "text",
+   "value": "— Les naissances, dit Freya quand il les lui montra. Année après année. Elles diminuent."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi ? demanda Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas. La fièvre, peut-être. Ou ils ont choisi de ne plus faire d'enfants dans un monde pareil. Ou les deux."
+  },
+  {
+   "type": "text",
+   "value": "Elle passa le doigt sur la dernière plaque, où il ne restait qu'un seul nom, suivi d'une date qu'elle ne parvint pas à lire."
+  },
+  {
+   "type": "text",
+   "value": "— Un seul enfant, cette année-là, dit-elle. Dans toute cette ville."
+  },
+  {
+   "type": "text",
+   "value": "Elias photographia chaque plaque, méthodiquement, pour Hélia. Il ne parlait plus. Amara le vit essuyer ses yeux du dos de la main, très vite, en croyant que personne ne le regardait."
+  },
+  {
+   "type": "text",
+   "value": "Les tombes, ils les trouvèrent en sortant du dôme, de l'autre côté de la colline."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Elias qui les vit en premier. Il s'arrêta si brusquement qu'Amara faillit le heurter. Devant eux, sur une grande pente orientée vers le sud, à perte de vue, il y avait des pierres. Des milliers de pierres plates, posées en lignes parfaitement droites, à intervalles réguliers. Chacune portait un nom gravé. Des noms qu'ils pouvaient presque lire."
+  },
+  {
+   "type": "text",
+   "value": "— Des tombes, dit Kenji. Toutes ces pierres…"
+  },
+  {
+   "type": "text",
+   "value": "— Des tombes collectives, dit Elias. Regardez, chaque pierre porte plusieurs noms. Des familles entières."
+  },
+  {
+   "type": "text",
+   "value": "Ils marchèrent entre les rangées. Freya avait demandé qu'on la pousse, et Kenji guidait le fauteuil avec précaution dans l'herbe haute. Les tombes étaient propres, même après des siècles. Simples. Ordonnées. Sur certaines, il y avait des petits cailloux de couleur posés en cercle. Sur d'autres, des dessins gravés : un arbre, un oiseau, une main ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne sont pas morts dans le chaos, dit Freya doucement. Ils se sont enterrés les uns les autres. Avec soin. Génération après génération, jusqu'au bout."
+  },
+  {
+   "type": "text",
+   "value": "— Ils se sont éteints, dit Amara. Calmement. Comme une bougie."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'agenouilla devant une pierre au hasard et passa la main sur les noms. Elle n'arrivait pas à tous les lire. Mais au bas de la pierre, il y avait des chiffres. Des dates."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "Les tombes"
+  },
+  {
+   "type": "text",
+   "value": "— 2. 9. 6. 4, lut-elle. Deux mille neuf cent soixante-quatre."
+  },
+  {
+   "type": "text",
+   "value": "Elle se releva."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont tenu presque huit cents ans après nous. Huit cents ans."
+  },
+  {
+   "type": "text",
+   "value": "Le vent passa sur la colline. L'herbe ondula entre les rangées de pierres. Quelque part, un oiseau se mit à chanter, et il chanta longtemps, pour personne."
+  },
+  {
+   "type": "text",
+   "value": "Le soleil baissait quand ils redescendirent vers la ville basse. Ils cherchaient un endroit pour passer la nuit, à l'abri, avant de rejoindre le camp le lendemain."
+  },
+  {
+   "type": "text",
+   "value": "Elias repéra le bâtiment sur la carte ancienne. Une grande bibliothèque, au bord de la rivière, construite en pierre et en verre. La pierre avait tenu. Le verre avait disparu depuis longtemps, mais le toit tenait encore, soutenu par d'énormes colonnes."
+  },
+  {
+   "type": "text",
+   "value": "— Ce sera sec, dit-il. Et solide."
+  },
+  {
+   "type": "text",
+   "value": "Ils entrèrent à la lumière des lampes frontales. À l'intérieur, les rayonnages avaient pourri, les livres étaient retournés à la poussière depuis des siècles. Il ne restait que les murs. De grands murs de pierre claire, hauts de dix mètres, qui montaient jusqu'au plafond."
+  },
+  {
+   "type": "text",
+   "value": "Kenji leva sa lampe. Puis il s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Amara, dit-il d'une voix étrange. Regarde les murs."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva sa lampe à son tour. Elias aussi. Le faisceau de lumière glissa sur la pierre, et la pierre n'était pas lisse."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Le mur"
+  },
+  {
+   "type": "text",
+   "value": "Elle était couverte d'inscriptions."
+  },
+  {
+   "type": "text",
+   "value": "Du sol jusqu'au plafond, sur chaque mur, sur chaque colonne, il y avait des lettres gravées. Toutes petites, ou grandes, maladroites ou parfaites. Certaines profondes, taillées au burin. D'autres à peine griffées, de la main d'un enfant. Des centaines, des milliers d'inscriptions, serrées les unes contre les autres, superposées, mêlées, faites par des milliers de mains différentes au long des siècles."
+  },
+  {
+   "type": "text",
+   "value": "Et toutes disaient la même chose."
+  },
+  {
+   "type": "text",
+   "value": "Freya, dans son fauteuil, déchiffra la plus proche à voix haute. Elle ne la comprenait pas. Elle l'avait déjà entendue, une fois, dans un message qui se répétait, juste avant le silence."
+  },
+  {
+   "type": "text",
+   "value": "Le même mot, des milliers de fois, du sol jusqu'au ciel : *RANTRÉ*."
+  }
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "number": 11,
+ "title": "Thalassa",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elle apparut d'abord comme une étoile un peu trop bleue."
+  },
+  {
+   "type": "text",
+   "value": "Pendant des semaines, Thalassa ne fut qu'un point sur l'écran de navigation, une coordonnée que Kenji vérifiait chaque matin, comme on vérifie qu'une porte est bien fermée. Puis le point devint un disque. Puis le disque eut des nuages."
+  },
+  {
+   "type": "text",
+   "value": "Le jour où Hélia annonça la mise en orbite, au début de la huitième année de bord, personne ne dormait. Ils étaient tous les quatre dans la baie d'observation, serrés contre la vitre comme des enfants devant une vitrine de Noël."
+  },
+  {
+   "type": "text",
+   "value": "— Orbite stable, dit Hélia. Altitude quatre cent douze kilomètres. Bienvenue à Thalassa."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. La planète remplissait toute la vitre. Elle était d'un bleu que la Terre n'avait plus depuis longtemps, un bleu profond, presque violet sur les bords, strié de longues bandes de nuages blancs qui s'enroulaient lentement autour des pôles. Pas de continents. Seulement, çà et là, des chapelets d'îles sombres, comme des miettes oubliées sur une nappe."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "Thalassa"
+  },
+  {
+   "type": "text",
+   "value": "— Elle est belle, murmura Freya."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix tremblait. Sa main gauche aussi, mais elle l'avait glissée dans la poche de sa combinaison, et personne ne fit semblant de le remarquer."
+  },
+  {
+   "type": "text",
+   "value": "— Neuf ans de voyage pour ça, dit Elias. Enfin, huit. Et quatorze heures."
+  },
+  {
+   "type": "text",
+   "value": "Il essaya de sourire. Amara posa la main sur son bras, brièvement, et la retira."
+  },
+  {
+   "type": "text",
+   "value": "Depuis le trou noir, depuis Mathis, depuis le signal et ce mot incompréhensible, *Rantré*, qui revenait la nuit dans les rêves de chacun, ils avaient appris à vivre avec un trou au milieu de la poitrine. Thalassa, c'était tout ce qui restait de la mission. La seule raison de ne pas avoir fait tout cela pour rien."
+  },
+  {
+   "type": "text",
+   "value": "— Si elle est vivable, dit Kenji doucement, alors ça aura servi."
+  },
+  {
+   "type": "text",
+   "value": "— À qui ? demanda Elias."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne répondit pas. Il n'y avait plus personne sur Terre à qui annoncer la nouvelle, pas comme avant. Ils regardèrent quand même la planète, longtemps, parce qu'elle était belle et que la beauté, après tout ce qui s'était passé, ressemblait à une forme de pardon."
+  },
+  {
+   "type": "text",
+   "value": "La navette s'appelait la *Libellule*. C'était Mathis qui l'avait baptisée, la deuxième année, parce que, disait-il, elle avait des ailes ridicules et qu'elle volait quand même. Personne n'avait eu le cœur de changer son nom."
+  },
+  {
+   "type": "text",
+   "value": "Amara pilotait. Freya était assise derrière elle, sanglée, une mallette de prélèvements sur les genoux. Elias et Kenji restaient à bord de l'Aurore : quelqu'un devait surveiller l'orbite, et Amara refusait de risquer tout l'équipage dans la même boîte de métal."
+  },
+  {
+   "type": "text",
+   "value": "— Entrée atmosphérique dans trente secondes, annonça Hélia dans leurs casques."
+  },
+  {
+   "type": "text",
+   "value": "— On y va, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "La navette trembla, puis rugit. Par le hublot, Freya vit le ciel virer à l'orange, puis au blanc, puis à un bleu pâle et laiteux. Les secousses diminuèrent. Sous elles, l'océan s'étendait jusqu'à l'horizon, lisse comme une peau, sans un oiseau, sans une voile."
+  },
+  {
+   "type": "text",
+   "value": "— Tu vois l'île ? demanda Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Je la vois."
+  },
+  {
+   "type": "text",
+   "value": "C'était une île de roche noire, longue de quelques kilomètres, bordée d'une étroite plage de galets. Amara posa la *Libellule* sur un plateau, avec cette douceur qui était sa signature depuis l'armée de l'air. Le moteur s'éteignit. Le silence revint."
+  },
+  {
+   "type": "text",
+   "value": "— Pression extérieure correcte, dit Hélia. Température quatorze degrés. Je recommande de garder les casques."
+  },
+  {
+   "type": "text",
+   "value": "— On les garde, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes les premiers êtres humains à vous poser sur un autre monde que le vôtre, ajouta Hélia. Je pensais que quelqu'un devait le dire."
+  },
+  {
+   "type": "text",
+   "value": "Amara et Freya se regardèrent à travers leurs visières. Ni l'une ni l'autre n'avait pensé à ça. Il n'y aurait pas de discours, pas de drapeau, pas de foule devant les écrans. Juste deux femmes fatiguées et une voix de machine."
+  },
+  {
+   "type": "text",
+   "value": "Elles descendirent l'échelle. La gravité était un peu plus faible que sur Terre, juste assez pour que chaque pas semble léger, presque joyeux. Freya s'agenouilla au bord de l'eau. Elle resta immobile un moment, la main droite posée sur un galet mouillé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "Premier rivage"
+  },
+  {
+   "type": "text",
+   "value": "— Huit ans, dit-elle. Huit ans que je n'ai pas touché un vrai caillou."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne le touches pas, dit Amara. Tu as des gants."
+  },
+  {
+   "type": "text",
+   "value": "— Laisse-moi rêver, commandante."
+  },
+  {
+   "type": "text",
+   "value": "Amara sourit derrière sa visière. Elle fit quelques pas sur la plage. Le vent poussait des nuages bas, et la lumière de l'étoile de Thalassa, plus rouge que le Soleil, donnait à tout une couleur de fin d'après-midi. Elle pensa à Noé. Elle pensait toujours à Noé dans les moments de beauté, et c'était devenu une douleur qu'elle portait sans plus la regarder. Du pouce, elle fit rouler une perle du bracelet sous le gant."
+  },
+  {
+   "type": "text",
+   "value": "Freya travaillait. Elle plongea des tubes dans l'eau, gratta la roche, aspira l'air dans de petites cartouches. Ses gestes étaient précis, malgré le tremblement. Elle parlait toute seule, à mi-voix, en suédois, comme toujours quand elle se concentrait."
+  },
+  {
+   "type": "text",
+   "value": "Puis elle se tut."
+  },
+  {
+   "type": "text",
+   "value": "Amara se retourna. Freya était assise sur les galets, l'analyseur portable posé sur les genoux. Elle ne bougeait plus."
+  },
+  {
+   "type": "text",
+   "value": "— Freya ?"
+  },
+  {
+   "type": "text",
+   "value": "— Attends."
+  },
+  {
+   "type": "text",
+   "value": "Elle relança l'analyse. Une fois. Deux fois. Amara s'approcha et vit, sur le petit écran, des colonnes de chiffres qu'elle ne comprenait pas, et une ligne surlignée en rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que c'est ?"
+  },
+  {
+   "type": "text",
+   "value": "Freya leva les yeux. Derrière la visière, son visage était très pâle."
+  },
+  {
+   "type": "text",
+   "value": "— Du cyanure, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "Dans la salle commune de l'Aurore, Freya avait projeté les résultats sur le mur. Elle parlait d'une voix nette, professionnelle, la voix qu'elle prenait autrefois à l'hôpital d'Uppsala pour annoncer les mauvaises nouvelles aux familles."
+  },
+  {
+   "type": "text",
+   "value": "— L'océan est chargé de cyanure, expliqua-t-elle. Ce n'est pas une pollution, c'est naturel. Les éclairs cassent l'azote de l'air, il se recombine avec le carbone, et ça tombe dans la mer, depuis toujours. Sur Terre, il y a quatre milliards d'années, c'était peut-être pareil. C'est une chimie qui pourrait un jour donner une vie. Mais pas la nôtre."
+  },
+  {
+   "type": "text",
+   "value": "— On ne peut pas filtrer ? demanda Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Un verre, oui. Un océan, non. Et ce n'est pas le pire."
+  },
+  {
+   "type": "text",
+   "value": "Elle fit défiler l'écran."
+  },
+  {
+   "type": "text",
+   "value": "— L'atmosphère contient quatre pour cent d'oxygène. Nous, on en respire vingt et un. Ici, sans casque, on perd connaissance en moins d'une minute. Il n'y a pas de plantes, pas d'algues, rien qui en fabrique. Pour rendre Thalassa respirable, il faudrait des dizaines de milliers d'années."
+  },
+  {
+   "type": "text",
+   "value": "Elle éteignit le projecteur. Personne ne parla."
+  },
+  {
+   "type": "text",
+   "value": "— Donc, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Donc elle est inhabitable, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "Le mot tomba dans la pièce comme une pierre dans un puits. Ils l'écoutèrent tomber longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Amara se leva. Elle alla jusqu'au hublot, où la planète tournait, toujours aussi belle, toujours aussi indifférente."
+  },
+  {
+   "type": "text",
+   "value": "— Neuf ans, dit-elle. Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'acheva pas. Elle n'en avait pas besoin. Tous pensaient la même chose : Mathis était mort pour les amener jusqu'ici, et ici, il n'y avait rien."
+  },
+  {
+   "type": "text",
+   "value": "Kenji retira ses lunettes et les essuya longuement, sans raison."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ma faute, dit-il. Si on n'avait pas perdu tout ce temps…"
+  },
+  {
+   "type": "text",
+   "value": "— Arrête, dit Freya. Thalassa était empoisonnée bien avant ton calcul. Elle l'était il y a un milliard d'années. Ça n'a rien à voir avec toi."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait parlé plus durement qu'elle ne l'aurait voulu. Elle posa la main sur la sienne, et il ne la retira pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il reste une chose à faire, dit Amara sans se retourner. On a été envoyés pour savoir. Alors on va savoir jusqu'au bout. Hélia, lance la cartographie complète des îles. Le sous-sol, les fonds, les grottes. Tout."
+  },
+  {
+   "type": "text",
+   "value": "— Pour quoi faire ? demanda Elias doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que c'est notre travail, dit Amara. Et parce que je ne sais rien faire d'autre ce soir."
+  },
+  {
+   "type": "text",
+   "value": "La cartographie dura six jours. Le radar de l'Aurore balayait les îles une par une, et Kenji assemblait les images la nuit, comme un puzzle, avec la patience obstinée des gens qui ont besoin d'occuper leurs mains."
+  },
+  {
+   "type": "text",
+   "value": "Le septième jour, à quatre heures du matin, heure de bord, Freya le trouva endormi devant son écran, la joue sur son carnet de calligraphie, le pinceau encore humide. Elle sourit, tira une couverture du placard et la posa sur ses épaules."
+  },
+  {
+   "type": "text",
+   "value": "C'est alors que l'écran clignota."
+  },
+  {
+   "type": "text",
+   "value": "— Docteur Lindqvist, dit Hélia à voix basse, pour ne pas le réveiller. Je crois que vous devriez réveiller le navigateur."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qui se passe ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le radar a terminé l'île numéro quarante-sept. Je détecte une anomalie."
+  },
+  {
+   "type": "text",
+   "value": "Freya secoua l'épaule de Kenji. Il se redressa d'un coup, les lunettes de travers, une trace d'encre noire sur la pommette."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "L'anomalie"
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ? Qu'est-ce que…"
+  },
+  {
+   "type": "text",
+   "value": "— Regarde, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'écran, l'image montrait une petite île en forme de croissant, perdue dans l'hémisphère sud. Une île comme les autres. Mais sous la surface, à une trentaine de mètres dans la roche, il y avait une forme. Des lignes droites. Des angles parfaits. Un cylindre d'une vingtaine de mètres, couché dans la pierre."
+  },
+  {
+   "type": "text",
+   "value": "Kenji resta immobile. Puis il agrandit l'image, encore, et encore."
+  },
+  {
+   "type": "text",
+   "value": "— La nature ne fait pas d'angles droits, murmura-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Hélia. Je confirme. Sous la surface de l'île quarante-sept, il y a une structure artificielle."
+  }
+ ]
+}

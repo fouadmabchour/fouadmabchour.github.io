@@ -1,0 +1,289 @@
+{
+ "number": 10,
+ "title": "Le signal accéléré",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La première voix était celle d'une femme."
+  },
+  {
+   "type": "text",
+   "value": "Elle parlait français, un français tout à fait normal, avec un léger accent du Sud. Derrière elle, on entendait une salle pleine, des chaises qui grinçaient, quelqu'un qui toussait."
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, ici le centre de contrôle de Kourou. Nous sommes le 3 mars 2203. Nous avons perdu votre télémétrie il y a huit ans. Nous ne savons pas si vous êtes vivants. Nous continuons d'émettre. Si vous nous entendez… nous continuons d'émettre.*"
+  },
+  {
+   "type": "text",
+   "value": "Le message durait quarante secondes. Hélia le fit suivre, sans pause, par le suivant."
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, ici Kourou, 2204…*"
+  },
+  {
+   "type": "text",
+   "value": "Puis par un autre. Et un autre encore."
+  },
+  {
+   "type": "text",
+   "value": "— Attends, dit Amara. Hélia, attends."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau se tut."
+  },
+  {
+   "type": "text",
+   "value": "— Combien y en a-t-il ?"
+  },
+  {
+   "type": "text",
+   "value": "*J'en ai reconstitué trois mille deux cent douze pour l'instant. Le décodage continue. Ils couvrent environ deux siècles. Pendant les quatorze heures que nous avons passées près de l'horizon, ils sont arrivés tous ensemble, serrés les uns contre les autres. Comme si nous avions couru le long d'une file de lettres qu'on postait pour nous une par une.*"
+  },
+  {
+   "type": "text",
+   "value": "— Tous pour nous, murmura Freya."
+  },
+  {
+   "type": "text",
+   "value": "*Tous pour vous.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda les trois autres. Kenji avait remis ses lunettes ; sa joue gauche était encore rouge. Elias se tenait près de la porte, comme toujours, prêt à partir ou à rester."
+  },
+  {
+   "type": "text",
+   "value": "— Dans l'ordre, dit-elle. Tous. On les écoute tous."
+  },
+  {
+   "type": "text",
+   "value": "Ils mirent trois semaines."
+  },
+  {
+   "type": "text",
+   "value": "Ils les écoutaient le soir, après les gardes, réunis dans le module de commande, sur les sièges où ils avaient vécu la chute. Ils s'apportaient des couvertures. Freya faisait du thé. Parfois quelqu'un s'endormait et les autres ne le réveillaient pas, et le lendemain on lui résumait. C'était devenu leur veillée, leur feu de camp, leur radio de cuisine."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "La veillée"
+  },
+  {
+   "type": "text",
+   "value": "Pendant les premières années, les messages étaient officiels. Des responsables de mission, des ingénieurs, des voix fatiguées qui lisaient des communiqués. Puis, vers la trentième année, quelqu'un eut l'idée d'ouvrir le canal au public, et tout changea."
+  },
+  {
+   "type": "text",
+   "value": "Des enfants d'école chantaient pour eux. Une classe de Lyon leur récitait une poésie. Un vieil homme de Valparaíso leur racontait la mer, en espagnol, pendant six minutes, parce qu'il avait lu que l'un des astronautes aimait la mer et qu'il ne savait pas lequel. Une femme de Nagoya demandait à Kenji s'il était parent avec sa grand-mère, qui s'appelait Arata elle aussi. Kenji écouta ce message trois fois, la main posée sur sa bouche."
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, on a donné votre nom à une école.*"
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, on a donné votre nom à une étoile.*"
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, ma fille est née ce matin. Je voulais que quelqu'un, quelque part, le sache. Alors je vous le dis.*"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut aussi, vers la cinquantième année, un message d'une vieille dame de Douarnenez. Elle parlait lentement, avec un accent breton qui roulait les r. Elle ne disait pas son nom. Elle disait qu'elle avait connu, petite fille, une femme qui tenait un café sur le port et qui attendait son fils parti dans les étoiles. *Elle mettait une tasse pour lui tous les matins sur le comptoir*, racontait la vieille dame. *Jusqu'à la fin. On l'appelait la mère du phare.*"
+  },
+  {
+   "type": "text",
+   "value": "Personne, ce soir-là, ne dit un mot pendant longtemps. Freya alla chercher dans la boîte la photo de la femme au ciré jaune et la posa sur la table, contre le haut-parleur, comme si elle pouvait entendre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "La mère du phare"
+  },
+  {
+   "type": "text",
+   "value": "— Il aurait voulu le savoir, dit Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Il le savait, dit Amara. C'est pour ça qu'il a dit *dites à ma mère*. Il savait qu'elle attendrait."
+  },
+  {
+   "type": "text",
+   "value": "— Ils nous parlent comme à des saints, dit Elias un soir."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Freya. Ils nous parlent comme à des gens qui ne peuvent pas répondre. On dit beaucoup de choses aux gens qui ne peuvent pas répondre."
+  },
+  {
+   "type": "text",
+   "value": "La Terre allait mal. Ils le savaient en partant. Mais ils l'entendaient maintenant aller mal en accéléré, comme on regarde un film en tenant le bouton d'avance rapide, et c'était autre chose."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut une période calme, presque heureuse, vers le milieu du siècle. Les voix parlaient de forêts replantées, d'un accord mondial sur le climat, de villes qui se refroidissaient enfin. Freya pleura de soulagement en entendant un agronome de Dakar parler de pluie revenue au Sahel. Amara serra son bracelet."
+  },
+  {
+   "type": "text",
+   "value": "Puis arriva la Grande Fièvre."
+  },
+  {
+   "type": "text",
+   "value": "Le nom apparut d'abord dans un message de 2271, en passant, comme on mentionne une mauvaise grippe. Trois mois plus tard, d'après les dates, il revenait dans chaque phrase. Les voix changèrent. Elles devinrent plus rares, plus courtes, enregistrées dans des pièces vides. Un médecin de Montréal expliquait, épuisé, qu'on avait un traitement, mais qu'il arrivait trop tard pour la moitié du monde. Une jeune femme ne disait rien, pendant presque une minute, puis elle disait seulement : *Ma mère vous aimait beaucoup. Voilà.*"
+  },
+  {
+   "type": "text",
+   "value": "Freya, ce soir-là, sortit avant la fin."
+  },
+  {
+   "type": "text",
+   "value": "Après la Fièvre vinrent les dômes. Des villes entières sous des coques transparentes, avec leur propre air, leur propre eau, leurs propres saisons artificielles. Dehors, d'après les voix, la terre se reposait. Dedans, on survivait. Les enfants étaient de moins en moins nombreux à chanter."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut des débats, aussi. Des messages en colère. Certains voulaient construire de grands vaisseaux, partir, tout recommencer ailleurs. D'autres répondaient qu'on n'avait plus les moyens d'envoyer plus de quelques milliers de personnes, et que choisir ces quelques milliers serait un crime. Un homme hurlait que l'Aurore les avait abandonnés. Une femme lui répondait, dans le message suivant, que l'Aurore était partie pour eux et qu'on n'insulte pas ceux qui ne peuvent pas répondre."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ne sont pas partis, dit Kenji en écoutant. Il n'y a pas d'exode. Ils restent."
+  },
+  {
+   "type": "text",
+   "value": "— Ils n'ont pas pu, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Ou ils n'ont pas voulu, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tut un instant, puis elle ajouta, plus bas :"
+  },
+  {
+   "type": "text",
+   "value": "— Moi non plus, je n'aurais pas voulu. On ne quitte pas sa maison parce qu'elle est malade. On la soigne. On reste à côté."
+  },
+  {
+   "type": "text",
+   "value": "Elias la regarda. Il pensa à sa femme, aux fièvres de 2181, à la petite chambre d'hôpital de Budapest où il était resté onze jours sans rentrer chez lui. Il ne dit rien. Il rapprocha seulement sa couverture de celle d'Amara, et elle ne s'écarta pas."
+  },
+  {
+   "type": "text",
+   "value": "La langue changea en même temps que le monde."
+  },
+  {
+   "type": "text",
+   "value": "Au début, ils ne le remarquèrent pas. Un mot nouveau ici, une tournure là. Puis, vers la fin du deuxième siècle, il fallut demander à Hélia de répéter. Le français des messages se raccourcissait, perdait ses fins de mots, mélangeait des morceaux d'anglais, d'espagnol, de wolof, de langues qu'ils ne reconnaissaient même pas. Les voyelles glissaient. Les gens ne disaient plus *nous sommes*, ils disaient quelque chose comme *noson*."
+  },
+  {
+   "type": "text",
+   "value": "— C'est normal, dit Elias. Deux siècles, c'est long pour une langue. Mets un paysan de l'an mille devant un écran d'aujourd'hui, il ne comprendrait pas un mot. Nous sommes en train de devenir des étrangers."
+  },
+  {
+   "type": "text",
+   "value": "— Nous sommes déjà des étrangers, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "Hélia les aidait. Elle comparait, devinait, proposait des traductions entre parenthèses. Certains messages restaient obscurs. D'autres étaient limpides malgré tout, parce qu'ils disaient des choses qui ne changent pas : *on pense à vous, on vous attend, il fait froid, ma fille est malade, la nuit est belle ce soir*."
+  },
+  {
+   "type": "text",
+   "value": "Et toujours, dans presque chaque message, au début, la même formule. Elle avait traversé deux cents ans en s'usant à peine."
+  },
+  {
+   "type": "text",
+   "value": "*Aurore, si vous nous entendez…*"
+  },
+  {
+   "type": "text",
+   "value": "*Oror, si vou nou zantandé…*"
+  },
+  {
+   "type": "text",
+   "value": "*Oror, si vuzantan…*"
+  },
+  {
+   "type": "text",
+   "value": "Les messages s'espacèrent."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut d'abord un par jour, d'après les dates. Puis un par semaine. Puis un par mois. Les voix étaient de plus en plus vieilles, ou de plus en plus jeunes, comme si les adultes avaient disparu entre les deux. Les bruits de fond changeaient : plus de salle pleine, plus de chaises, plus de toux. Le silence d'une seule personne dans une pièce."
+  },
+  {
+   "type": "text",
+   "value": "Le dernier soir, Hélia les prévint."
+  },
+  {
+   "type": "text",
+   "value": "*Il ne reste qu'un message. Le décodage est terminé. Après lui, le flux s'arrête. Il n'y a plus rien.*"
+  },
+  {
+   "type": "text",
+   "value": "— Plus rien du tout ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "*Ni voix, ni données. Seulement la balise automatique, à partir de là. Une fois par heure.*"
+  },
+  {
+   "type": "text",
+   "value": "Ils se regardèrent. Kenji tendit la main vers Freya, sans y penser, et elle la prit. Amara se redressa sur son siège. Elias, pour une fois, s'était assis avec eux, tout près d'elle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Le dernier message"
+  },
+  {
+   "type": "text",
+   "value": "— Vas-y, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "Le message était très court."
+  },
+  {
+   "type": "text",
+   "value": "Il n'y avait pas de formule au début. Pas de date. Juste une voix, impossible à situer, ni jeune ni vieille, ni homme ni femme, qui parlait lentement, comme on parle à quelqu'un de très loin. Derrière elle, d'autres voix, beaucoup d'autres voix, qui répétaient la même chose en même temps, un chœur sourd."
+  },
+  {
+   "type": "text",
+   "value": "Ils ne comprirent qu'un seul mot. C'était le seul mot du message. Il revenait encore, et encore, porté par toutes ces voix, doux et obstiné, jusqu'à la fin."
+  },
+  {
+   "type": "text",
+   "value": "*Rantré.*"
+  },
+  {
+   "type": "text",
+   "value": "*Rantré.*"
+  },
+  {
+   "type": "text",
+   "value": "*Rantré.*"
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit Amara. Qu'est-ce que ça veut dire ?"
+  },
+  {
+   "type": "text",
+   "value": "*Je ne sais pas*, dit Hélia. *Ce mot n'existe dans aucune langue que je connais.*"
+  },
+  {
+   "type": "text",
+   "value": "La dernière voix se tut. Le chœur aussi. Les haut-parleurs restèrent ouverts, longtemps, sur un souffle qui n'était plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Puis plus rien."
+  }
+ ]
+}

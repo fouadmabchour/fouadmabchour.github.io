@@ -8,7 +8,188 @@
   "science-fiction"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-25T22:04:29Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-26T01:18:25Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "La dernière aube",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 2,
+   "title": "Hélia",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 3,
+   "title": "Les années",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 4,
+   "title": "Ce qu'on cache",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 5,
+   "title": "L'ombre",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 6,
+   "title": "Trop près",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 7,
+   "title": "Mathis",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 8,
+   "title": "La fronde",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 9,
+   "title": "Deux cents ans",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 10,
+   "title": "Le signal accéléré",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 11,
+   "title": "Thalassa",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 12,
+   "title": "Les autres",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 13,
+   "title": "Rentrer",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 14,
+   "title": "Le choix",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 15,
+   "title": "Le passage",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 16,
+   "title": "Mathis, figé",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 17,
+   "title": "Mille ans",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 18,
+   "title": "La planète bleue",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 19,
+   "title": "Atterrissage",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 20,
+   "title": "La ville verte",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 21,
+   "title": "Le mot",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 22,
+   "title": "Le voyage vers les Alpes",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 23,
+   "title": "Porter",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 24,
+   "title": "Mnémosyne",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 25,
+   "title": "Le dernier homme",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 26,
+   "title": "Noé",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 27,
+   "title": "Le droit de recommencer",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 28,
+   "title": "Freya debout",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 29,
+   "title": "Ce qu'on emporte",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  },
+  {
+   "number": 30,
+   "title": "L'aube",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-26T01:18:25Z"
+  }
+ ]
 }

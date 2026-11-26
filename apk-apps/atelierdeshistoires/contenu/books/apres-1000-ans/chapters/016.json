@@ -1,0 +1,281 @@
+{
+ "number": 16,
+ "title": "Mathis, figé",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Personne ne bougea pendant longtemps."
+  },
+  {
+   "type": "text",
+   "value": "L'image avait disparu des écrans, remplacée par le champ d'étoiles tordu qui entourait le trou noir, mais chacun la voyait encore. Une silhouette blanche, minuscule, les bras légèrement écartés, comme quelqu'un qui flotte sur le dos dans une mer calme. Juste au bord de l'anneau d'or. Immobile."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit enfin Amara d'une voix qui n'était plus tout à fait la sienne. Repasse l'image."
+  },
+  {
+   "type": "text",
+   "value": "*Je la repasse, commandante.*"
+  },
+  {
+   "type": "text",
+   "value": "La silhouette revint. Elle était floue, rougie, étirée sur un côté comme un dessin qu'on aurait mouillé. Mais on distinguait le casque. On distinguait l'écusson rond sur l'épaule, le soleil levant de la mission. On distinguait, si on voulait bien le distinguer, une main tendue vers l'arrière, vers l'endroit où le câble s'était rompu."
+  },
+  {
+   "type": "text",
+   "value": "Freya, dans son fauteuil sanglé au sol de la baie, porta la main droite à sa bouche. La gauche restait posée sur sa cuisse morte, inutile, et elle tremblait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "Figé"
+  },
+  {
+   "type": "text",
+   "value": "— C'est lui, murmura Kenji. C'est vraiment lui."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la lumière de lui, corrigea doucement Elias."
+  },
+  {
+   "type": "text",
+   "value": "Tous se tournèrent vers le physicien. Il s'était adossé à la paroi, les bras croisés, et il regardait l'écran avec une expression que personne ne lui connaissait. Pas de l'ironie. Pas même de la tristesse. Une sorte de respect."
+  },
+  {
+   "type": "text",
+   "value": "— Explique-nous, dit Amara. Lentement. Je veux comprendre ce que je vois."
+  },
+  {
+   "type": "text",
+   "value": "Elias prit une tablette, puis la reposa. Il n'avait pas besoin de chiffres."
+  },
+  {
+   "type": "text",
+   "value": "— Vous vous rappelez ce que je vous ai dit après la fronde ? Plus on s'approche du trou noir, plus le temps ralentit. Pour nous, quatorze heures. Pour la Terre, deux cents ans. Le temps n'est pas le même partout. Il dépend de l'endroit où on se trouve."
+  },
+  {
+   "type": "text",
+   "value": "— On se rappelle, dit Kenji, et sa voix se brisa un peu sur le dernier mot."
+  },
+  {
+   "type": "text",
+   "value": "— Mathis est tombé beaucoup plus près que nous. Jusqu'au bord. L'horizon, c'est la limite d'où même la lumière ne revient plus. Et au bord de cette limite, vu de loin, le temps ne ralentit plus seulement. Il s'arrête presque."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un geste vers l'écran."
+  },
+  {
+   "type": "text",
+   "value": "— La lumière qui part de lui met de plus en plus de temps à nous parvenir. Chaque seconde de sa chute s'étire sur des années, puis des siècles, pour nous qui regardons de loin. Alors on le voit là, figé, de plus en plus rouge, de plus en plus pâle. On pourrait revenir dans mille ans, on le verrait encore. Un peu plus effacé. Toujours là."
+  },
+  {
+   "type": "text",
+   "value": "— Pour toujours, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Pour nous, oui."
+  },
+  {
+   "type": "text",
+   "value": "Amara serra le poing autour de son bracelet de perles."
+  },
+  {
+   "type": "text",
+   "value": "— Et pour lui ?"
+  },
+  {
+   "type": "text",
+   "value": "Elias se tut un instant. Il pesait ses mots, comme aux échecs, quand il savait que le coup suivant déciderait de tout."
+  },
+  {
+   "type": "text",
+   "value": "— Pour lui, c'est l'inverse. Il ne s'est rien passé d'étrange. Il est tombé, et il a franchi l'horizon en quelques instants. Sans rien sentir de spécial à ce moment-là. Pas de mur, pas de porte. Il est passé."
+  },
+  {
+   "type": "text",
+   "value": "— Passé où ? demanda Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— De l'autre côté. Là où on ne peut pas voir. Là où personne ne peut voir."
+  },
+  {
+   "type": "text",
+   "value": "Il décroisa les bras et, pour la première fois depuis des mois, il sourit vraiment."
+  },
+  {
+   "type": "text",
+   "value": "— Ce qu'on voit sur cet écran, ce n'est pas Mathis qui souffre. Ce n'est pas Mathis qui attend. C'est une photo. La dernière photo de lui, que l'univers garde au bord du trou comme on garde un portrait sur une cheminée. Lui, il n'est plus là depuis longtemps. Il est allé voir."
+  },
+  {
+   "type": "text",
+   "value": "*Je vais voir ce qu'il y a de l'autre côté.*"
+  },
+  {
+   "type": "text",
+   "value": "Ils l'entendirent tous les quatre, la voix calme de Mathis à la radio, ses derniers mots. Personne ne les répéta. Ce n'était pas nécessaire."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Freya qui pleura la première. Pas comme après la fronde, quand elle avait pleuré de colère et d'épuisement, en soignant tout le monde et en refusant de s'asseoir. Cette fois, elle pleura tranquillement, les yeux ouverts sur l'écran, comme on pleure à un enterrement quand on a enfin le droit."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'arrivais pas à le pleurer, dit-elle. Depuis presque trois ans, je n'y arrivais pas. Parce que je l'imaginais en train de tomber. Toujours en train de tomber. Je me réveillais la nuit et je me disais : il tombe encore, en ce moment, tout seul."
+  },
+  {
+   "type": "text",
+   "value": "— Moi aussi, avoua Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Et maintenant je sais qu'il ne tombe plus."
+  },
+  {
+   "type": "text",
+   "value": "Amara s'approcha d'elle et posa la main sur son épaule. Freya la couvrit de sa main droite. Elles restèrent ainsi, toutes les deux, face à la silhouette blanche."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "Le portrait"
+  },
+  {
+   "type": "text",
+   "value": "— Je lui avais donné un ordre, dit Amara. Je lui avais dit de rester à bord. Il m'a désobéi."
+  },
+  {
+   "type": "text",
+   "value": "— Il t'a désobéi pour nous sauver, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'est bien ça le problème. Je lui en veux encore. Je lui en voudrai toute ma vie. Et je l'aime pour ça."
+  },
+  {
+   "type": "text",
+   "value": "C'était la première fois qu'elle disait ce mot à voix haute depuis le départ. Personne ne fit de remarque."
+  },
+  {
+   "type": "text",
+   "value": "Ils restèrent dans la baie d'observation toute la durée du passage. Hélia avait proposé de les avertir quand la trajectoire serait terminée, de les laisser dormir, mais aucun ne voulut partir. Kenji ramena du thé de la cuisine. Elias ramena l'échiquier, sans vraiment savoir pourquoi, et le posa au sol sans l'ouvrir."
+  },
+  {
+   "type": "text",
+   "value": "Et ils parlèrent."
+  },
+  {
+   "type": "text",
+   "value": "Ils parlèrent de Mathis d'abord. De son gâteau de protéines pour l'anniversaire de la mission, qui avait le goût du carton et qu'ils avaient tous mangé jusqu'à la dernière miette pour ne pas lui faire de peine. De ses chansons bretonnes à trois heures du matin dans les conduits de maintenance. De la fois où il avait réparé le recycleur d'eau avec un trombone et une recette de crêpe, et où il avait juré que c'était la recette qui avait tout fait."
+  },
+  {
+   "type": "text",
+   "value": "— Il disait que les phares, c'est pour ceux qui reviennent, dit Kenji. Son tatouage. Je lui avais demandé pourquoi un phare. Il m'avait répondu : parce que le phare ne part jamais. Il reste là. Il attend les bateaux."
+  },
+  {
+   "type": "text",
+   "value": "— Et lui, il est parti, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Lui, il est resté. Là-bas, au bord. Il nous a éclairés pendant qu'on s'en allait."
+  },
+  {
+   "type": "text",
+   "value": "Elias baissa la tête. Amara ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Puis ils parlèrent d'eux. De choses qu'ils n'avaient jamais dites, même pendant les longues années de garde. Kenji raconta son grand-père, qui lui avait appris à tenir le pinceau à cinq ans et qui disait qu'une erreur d'encre ne s'efface pas : on la transforme en partie du dessin. Freya raconta l'hiver où elle avait su pour sa maladie, seule dans un appartement de Göteborg, et comment elle avait choisi de ne rien dire pour pouvoir partir. Elias raconta qu'il avait appris à jouer aux échecs pour parler avec sa femme, au début, parce qu'il était trop timide pour lui parler autrement."
+  },
+  {
+   "type": "text",
+   "value": "Amara ne raconta rien pendant longtemps. Puis elle dit :"
+  },
+  {
+   "type": "text",
+   "value": "— Noé avait peur du noir. Il fallait laisser la porte ouverte. Je ne la laissais jamais assez ouverte, d'après lui. Il disait : encore un peu, maman, encore un doigt."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva les yeux vers le disque noir qui remplissait la moitié de la baie."
+  },
+  {
+   "type": "text",
+   "value": "— Je pense à lui chaque fois que je regarde ce truc."
+  },
+  {
+   "type": "text",
+   "value": "Elias, sans un mot, vint s'asseoir à côté d'elle. Leurs épaules se touchèrent. Ni l'un ni l'autre ne s'écarta."
+  },
+  {
+   "type": "text",
+   "value": "Le trou noir glissa lentement sur le côté. Les étoiles, qui avaient été tordues en arcs et en anneaux, commencèrent à se redresser, une à une, comme des herbes après le passage du vent. La silhouette de Mathis disparut des capteurs, perdue dans la lumière déformée, puis il ne resta plus que le noir et l'or, de plus en plus petits."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "Le passage"
+  },
+  {
+   "type": "text",
+   "value": "*Le passage est terminé*, dit Hélia. *Trajectoire nominale. Aucune avarie. Nous quittons la zone d'influence.*"
+  },
+  {
+   "type": "text",
+   "value": "Kenji vérifia ses écrans par habitude. Il refit le calcul de tête, deux fois, et cette fois les chiffres étaient justes. Il ne s'en réjouit pas. Il se contenta de hocher la tête."
+  },
+  {
+   "type": "text",
+   "value": "— On est sortis, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Au revoir, Mathis, dit Freya à voix basse."
+  },
+  {
+   "type": "text",
+   "value": "Amara se leva. Ses jambes étaient raides d'être restée assise des heures sur le sol métallique. Elle regarda une dernière fois le point d'or qui s'éloignait, puis elle se tourna vers l'équipage."
+  },
+  {
+   "type": "text",
+   "value": "Il restait une question. Ils la connaissaient tous. Ils l'avaient évitée pendant tout le passage, parce qu'il y avait plus urgent, parce qu'il y avait Mathis. Mais elle était là, dans la pièce, depuis le moment où ils avaient décidé de prendre la route courte."
+  },
+  {
+   "type": "text",
+   "value": "Elias la regarda. Il savait. Il avait déjà fait le calcul, bien sûr, et cette fois il ne l'avait pas caché : il l'avait donné à Hélia pour qu'elle le vérifie avec les horloges du vaisseau et les pulsars de référence."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit Amara. Combien de temps ?"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Un silence un peu trop long pour une intelligence artificielle, qui répondait d'ordinaire en un millième de seconde."
+  },
+  {
+   "type": "text",
+   "value": "*Vous voulez le chiffre exact, commandante ?*"
+  },
+  {
+   "type": "text",
+   "value": "— Je veux le chiffre exact."
+  },
+  {
+   "type": "text",
+   "value": "*Temps écoulé à bord depuis le départ de Kourou : neuf ans, sept mois et onze jours. Temps écoulé sur Terre depuis le départ, à l'arrivée prévue dans le système solaire : mille quatorze ans.*"
+  },
+  {
+   "type": "text",
+   "value": "Freya serra les accoudoirs de son fauteuil. Kenji ne respirait plus."
+  },
+  {
+   "type": "text",
+   "value": "Mille quatorze ans."
+  }
+ ]
+}

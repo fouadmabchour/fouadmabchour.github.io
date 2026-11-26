@@ -1,0 +1,317 @@
+{
+ "number": 5,
+ "title": "L'ombre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le message suivant arriva un mois plus tard, comme prévu. Puis un autre. Puis un autre encore."
+  },
+  {
+   "type": "text",
+   "value": "Awa avait réussi à rétablir le contact. Elle s'excusait de la coupure. Le quartier était calme, désormais, l'armée gardait les réservoirs. Noé était entré au collège. Il avait demandé qu'on lui envoie une photo de Thalassa dès qu'on l'apercevrait, même floue. Il voulait l'accrocher au-dessus de son lit."
+  },
+  {
+   "type": "text",
+   "value": "Amara regardait chaque message trois fois. Puis elle retournait au travail."
+  },
+  {
+   "type": "text",
+   "value": "Ils entraient dans la sixième année du voyage."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Freya qui le remarqua la première, et elle ne comprit pas ce qu'elle voyait."
+  },
+  {
+   "type": "text",
+   "value": "C'était un matin ordinaire. Elle était montée dans la baie d'observation, à l'avant du vaisseau, avec une tasse qu'elle tenait désormais toujours de la main droite. Elle aimait commencer ses journées là, devant les étoiles, avant d'aller retrouver ses plantes. Elle connaissait ce ciel par cœur. Depuis cinq ans, il ne bougeait pas : à ces distances, même à la vitesse folle de l'Aurore, les étoiles semblaient clouées sur un tissu noir."
+  },
+  {
+   "type": "text",
+   "value": "Ce matin-là, l'une d'elles n'était pas à sa place."
+  },
+  {
+   "type": "text",
+   "value": "Freya fronça les sourcils. Elle connaissait un petit groupe de quatre étoiles, droit devant, qu'elle appelait le Cerf-volant, parce qu'elles en dessinaient la forme. Le Cerf-volant avait toujours été là, bien net. Aujourd'hui, il était déformé. Une de ses étoiles s'était étirée en un minuscule arc de lumière, comme une virgule."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "L'étoile tordue"
+  },
+  {
+   "type": "text",
+   "value": "Elle cligna des yeux. Elle se dit que c'était sa vue. Ses yeux, peut-être, après la main. Elle sentit le froid de la peur monter dans sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit-elle. Est-ce que les étoiles devant nous sont normales ?"
+  },
+  {
+   "type": "text",
+   "value": "*Je détecte une légère distorsion optique dans le secteur frontal, docteur Lindqvist. Elle est probablement due à un défaut du revêtement de la baie. Je planifie une inspection.*"
+  },
+  {
+   "type": "text",
+   "value": "Freya se sentit soulagée. Ce n'étaient pas ses yeux."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'en parla à personne ce jour-là. Elle ne pouvait pas savoir que c'était la dernière fois qu'elle se sentirait soulagée avant très longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Trois jours plus tard, il n'y avait plus de doute possible."
+  },
+  {
+   "type": "text",
+   "value": "Les étoiles glissaient."
+  },
+  {
+   "type": "text",
+   "value": "Toute une région du ciel, droit devant eux, semblait se tordre lentement, comme une image vue à travers un verre d'eau qu'on aurait fait tourner. Des étoiles s'étiraient en arcs. D'autres se dédoublaient : on en voyait deux là où il n'y en avait qu'une. Au centre de cette zone, il y avait comme un trou. Une absence. Un endroit où les étoiles semblaient fuir, s'écarter, pour s'entasser sur les bords en un cercle de lumière."
+  },
+  {
+   "type": "text",
+   "value": "Et les instruments s'affolaient."
+  },
+  {
+   "type": "text",
+   "value": "L'alarme réveilla Kenji à trois heures du matin. Il se trouva dans le poste de navigation avant même d'être complètement réveillé, en tee-shirt, pieds nus, ses lunettes de travers. Mathis était déjà là, Elias aussi, et Amara arriva dix secondes plus tard."
+  },
+  {
+   "type": "text",
+   "value": "*Anomalie de trajectoire*, disait Hélia de sa voix toujours calme. *Le vaisseau subit une accélération non commandée en direction du secteur frontal. Valeur faible, mais croissante.*"
+  },
+  {
+   "type": "text",
+   "value": "— Quelle accélération ? dit Amara. Il n'y a rien, devant nous. Rien sur des milliards de kilomètres."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne répondit pas. Il regardait les chiffres. Il regardait la carte du ciel déformée. Il regardait le petit cercle de lumière tordue au centre de l'écran."
+  },
+  {
+   "type": "text",
+   "value": "Il savait déjà."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit le catalogue. Il chercha la position de RX-4419, l'étoile morte, celle qu'on aurait dû croiser de très loin, sans même la voir. Il compara avec le centre de la distorsion."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas au même endroit. C'était bien plus près. Bien plus près de leur route que dans le catalogue."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji, dit Amara. Parle."
+  },
+  {
+   "type": "text",
+   "value": "Il parla. Sa voix était étrange, détachée, comme si quelqu'un d'autre parlait à sa place."
+  },
+  {
+   "type": "text",
+   "value": "— RX-4419 n'est pas une étoile morte, dit-il. Ce n'est pas une naine éteinte. C'est un trou noir."
+  },
+  {
+   "type": "text",
+   "value": "Le mot tomba dans la pièce."
+  },
+  {
+   "type": "text",
+   "value": "— Un trou noir errant, continua Kenji. Un trou noir qui ne tourne autour de rien, qui voyage seul dans la galaxie. Il ne brille pas. Il n'émet rien. On ne peut le voir qu'à la façon dont il tord la lumière des étoiles derrière lui. Et il est beaucoup plus lourd que ce que disait le catalogue. Beaucoup plus. Il se déplace, aussi. Il a croisé notre route."
+  },
+  {
+   "type": "text",
+   "value": "— Mais Hélia avait dit que c'était dans la marge d'erreur, dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia avait raison, dit Kenji. Avec les données qu'on avait. C'est moi qui… J'aurais dû…"
+  },
+  {
+   "type": "text",
+   "value": "Il ne termina pas. Il fixait l'écran. Ses mains tremblaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Un trou noir"
+  },
+  {
+   "type": "text",
+   "value": "Elias se pencha par-dessus son épaule. Il regarda les chiffres pendant de longues secondes, et quelque chose changea sur son visage. Le physicien prenait le dessus sur l'homme."
+  },
+  {
+   "type": "text",
+   "value": "— On tombe vers lui, dit Elias."
+  },
+  {
+   "type": "text",
+   "value": "— Comment ça, on tombe ? dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "— Comme une pierre tombe vers la Terre. Il nous attire. Pour l'instant, c'est doux. Mais plus on s'approche, plus il tire fort. Et il tire de plus en plus fort de plus en plus vite."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on s'en éloigne, dit Amara. Tout de suite. Hélia, correction de trajectoire. Poussée maximale, cap opposé."
+  },
+  {
+   "type": "text",
+   "value": "*Exécution, commandante.*"
+  },
+  {
+   "type": "text",
+   "value": "Ils sentirent le vaisseau frémir. Les moteurs s'allumèrent, à l'arrière. Une vibration grave parcourut toute la structure. Dans la serre, le petit phare de Mathis vacilla sur son support."
+  },
+  {
+   "type": "text",
+   "value": "Ils regardèrent les chiffres."
+  },
+  {
+   "type": "text",
+   "value": "L'accélération vers le trou noir diminua. Un peu. Puis elle se stabilisa. Puis, très lentement, elle se remit à croître."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne suffit pas, murmura Kenji."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, plus de puissance, dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "*Les moteurs fonctionnent déjà à cent pour cent de leur capacité, commandante. Je ne peux pas aller au-delà sans risquer de les endommager.*"
+  },
+  {
+   "type": "text",
+   "value": "— Alors endommage-les."
+  },
+  {
+   "type": "text",
+   "value": "*Commandante, si les moteurs sont endommagés maintenant, nous n'aurons plus aucun moyen d'agir plus tard.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara frappa la console du plat de la main. Mathis était déjà parti en courant vers la salle des machines. Ils l'entendirent dans l'intercom, essoufflé, crier des valeurs de pression, jurer une fois, une seule, en breton."
+  },
+  {
+   "type": "text",
+   "value": "Pendant six heures, ils se battirent. Ils changèrent l'angle de la poussée. Ils coupèrent tout ce qui ne servait à rien pour envoyer l'énergie aux moteurs. Ils allumèrent les petits propulseurs de manœuvre, un par un, comme on donne des coups de rame dans un courant trop fort. Mathis bricola un circuit de refroidissement pour gagner quatre pour cent de poussée."
+  },
+  {
+   "type": "text",
+   "value": "À un moment, au milieu de la nuit, Amara croisa Kenji dans le couloir. Il portait une tablette dans chaque main et il ne la vit pas. Elle lui posa la main sur l'épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas le moment, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— De quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— De te demander à qui la faute. On verra ça plus tard. Pour l'instant, j'ai besoin de ton cerveau. Pas de ta culpabilité."
+  },
+  {
+   "type": "text",
+   "value": "Il hocha la tête. Il repartit en courant."
+  },
+  {
+   "type": "text",
+   "value": "Le vaisseau ne répondait plus assez."
+  },
+  {
+   "type": "text",
+   "value": "C'était comme nager contre un fleuve. On avançait, on pensait avancer, et quand on levait la tête, la rive s'était éloignée."
+  },
+  {
+   "type": "text",
+   "value": "À la septième heure, Kenji leva les yeux de ses calculs."
+  },
+  {
+   "type": "text",
+   "value": "— On ne peut pas s'éloigner, dit-il. Il est trop lourd et on est trop rapides. On est déjà pris. Tout ce qu'on peut faire, c'est choisir comment on passe à côté."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit."
+  },
+  {
+   "type": "text",
+   "value": "— À côté, dit Freya. Pas dedans ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pas dedans, dit Kenji. Si on garde la poussée, on ne tombe pas dedans. On le frôle. Mais on le frôle de très près."
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda ses quatre compagnons. Mathis, couvert de graisse, les yeux rouges. Freya, pâle, qui tenait sa main gauche dans la droite. Elias, immobile. Kenji, qui ne pouvait plus la regarder en face."
+  },
+  {
+   "type": "text",
+   "value": "— Baie d'observation, dit-elle. Tous. Je veux le voir."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent ensemble."
+  },
+  {
+   "type": "text",
+   "value": "La baie était plongée dans le noir. Hélia avait baissé toutes les lumières, pour que leurs yeux s'habituent. Ils s'avancèrent jusqu'à la grande vitre, côte à côte, les cinq, sans un mot."
+  },
+  {
+   "type": "text",
+   "value": "Et ils le virent."
+  },
+  {
+   "type": "text",
+   "value": "Au centre du ciel, il y avait un disque noir. Parfaitement noir. Un noir qui n'était pas celui de l'espace, qui était plus profond encore, un noir qui n'était pas une couleur mais l'absence de tout. Un cercle parfait découpé dans l'univers."
+  },
+  {
+   "type": "text",
+   "value": "Autour de lui, un anneau d'or."
+  },
+  {
+   "type": "text",
+   "value": "C'était de la matière, du gaz et de la poussière arrachés à des étoiles lointaines, qui tournaient autour du trou noir à une vitesse inimaginable et brillaient de chaleur avant de disparaître. Mais l'anneau n'était pas plat, comme les anneaux d'une planète. Il se tordait. Il passait devant le disque noir et s'enroulait aussi au-dessus et en dessous de lui, comme si on voyait à la fois le devant et le derrière, parce que la lumière elle-même, prise au piège, était forcée de faire le tour. Et tout autour, les étoiles étaient étirées, déformées, repoussées en longs filaments, comme si l'univers entier était aspiré vers ce point et s'y courbait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Le disque noir"
+  },
+  {
+   "type": "text",
+   "value": "C'était la chose la plus belle qu'ils eussent jamais vue."
+  },
+  {
+   "type": "text",
+   "value": "C'était la chose la plus terrifiante qu'ils eussent jamais vue."
+  },
+  {
+   "type": "text",
+   "value": "Freya avait porté la main droite à sa bouche. Mathis, pour une fois, n'avait aucune blague. Amara sentit la perle bleue sous son pouce, à son poignet, et la serra si fort que l'élastique lui coupa la peau."
+  },
+  {
+   "type": "text",
+   "value": "Kenji regardait le disque noir, et le disque noir semblait le regarder."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Elias qui parla. Il n'avait pas quitté l'anneau d'or des yeux. Dans sa tête, déjà, les calculs se faisaient, et sur son visage passa une ombre que personne d'autre ne remarqua."
+  },
+  {
+   "type": "text",
+   "value": "— On est déjà trop près, murmura Elias."
+  }
+ ]
+}

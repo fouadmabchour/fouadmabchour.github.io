@@ -1,0 +1,361 @@
+{
+ "number": 4,
+ "title": "Ce qu'on cache",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ils restèrent un long moment à se regarder, de part et d'autre de la flaque de thé qui fumait encore."
+  },
+  {
+   "type": "text",
+   "value": "— Ferme la porte, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "Kenji la ferma. Le petit phare de Mathis tournait entre les tomates, et son faisceau passait sur leurs visages, toutes les quatre secondes, comme pour les interroger."
+  },
+  {
+   "type": "text",
+   "value": "— Ça dure depuis combien de temps ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Freya s'assit sur la caisse où il faisait d'habitude sa calligraphie. Elle tenait sa main gauche dans la droite, comme un petit animal blessé."
+  },
+  {
+   "type": "text",
+   "value": "— Les premiers signes, deux ans avant le départ, dit-elle. Des fourmillements. Une fatigue bizarre. Je suis médecin, j'ai fait mes propres examens. La nuit, dans mon laboratoire, pour que personne ne voie. Sclérose en plaques. Une forme lente."
+  },
+  {
+   "type": "text",
+   "value": "— Et l'Agence ?"
+  },
+  {
+   "type": "text",
+   "value": "— L'Agence ne sait pas. Si elle avait su, je ne serais pas là."
+  },
+  {
+   "type": "text",
+   "value": "Elle eut un petit rire sans joie."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une maladie où le corps se trompe d'ennemi, Kenji. Il attaque la gaine qui protège les nerfs, comme on attaquerait l'isolant d'un câble électrique. Le courant passe de plus en plus mal. Un jour la main, un jour la jambe. Ça va et ça vient. Et puis, un jour, ça ne revient plus."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a des traitements."
+  },
+  {
+   "type": "text",
+   "value": "— J'en ai emporté. Dans mes réserves personnelles, sous de faux noms dans l'inventaire. Ils ralentissent les choses. Ils ne les arrêtent pas."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne dit rien. Il s'agenouilla, épongea la flaque de thé avec un chiffon. C'était tout ce qu'il savait faire de ses mains à ce moment-là."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi tu es partie ? demanda-t-il sans lever les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Freya regarda le citronnier."
+  },
+  {
+   "type": "text",
+   "value": "— Parce que, de toute façon, je ne verrais pas la Terre guérir, dit-elle. Alors je voulais voir autre chose. Une planète nouvelle. Un océan que personne n'a jamais touché. Je voulais que ma vie serve à quelque chose de grand, tant qu'elle était encore à moi."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna vers lui."
+  },
+  {
+   "type": "text",
+   "value": "— Promets-moi de ne rien dire."
+  },
+  {
+   "type": "text",
+   "value": "— Amara doit savoir. C'est la commandante."
+  },
+  {
+   "type": "text",
+   "value": "— Amara a déjà trop de choses à porter. Et si elle sait, elle me retirera mes gardes, mes sorties, tout. Elle me mettra sous verre. Je deviendrai la malade. Je ne veux pas être la malade, Kenji. Pas encore. Promets."
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda longtemps. Le faisceau du phare passa, repassa."
+  },
+  {
+   "type": "text",
+   "value": "— Je promets, dit-il. Mais si ça empire, je ne tiendrai pas la promesse."
+  },
+  {
+   "type": "text",
+   "value": "— C'est honnête, dit Freya."
+  },
+  {
+   "type": "text",
+   "value": "Elle essuya ses yeux du dos de la main droite. Puis elle le regarda, mieux qu'avant, comme si elle le voyait pour la première fois."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi ? Qu'est-ce que tu caches ?"
+  },
+  {
+   "type": "text",
+   "value": "— Rien."
+  },
+  {
+   "type": "text",
+   "value": "— Kenji. Tu dors quatre heures par nuit depuis un an. Je vois tes constantes tous les matins. Tu n'es pas malade. Alors c'est autre chose."
+  },
+  {
+   "type": "text",
+   "value": "Il resta silencieux si longtemps qu'elle crut qu'il ne répondrait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Un chiffre, dit-il enfin."
+  },
+  {
+   "type": "text",
+   "value": "— Quel chiffre ?"
+  },
+  {
+   "type": "text",
+   "value": "— Une masse. Celle d'une étoile morte, sur notre route. Loin de notre route. Ma mesure est un peu plus élevée que celle du catalogue. Hélia dit que c'est dans la marge d'erreur."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu ne la crois pas ?"
+  },
+  {
+   "type": "text",
+   "value": "— Si. Je la crois. Hélia a raison, mes calculs disent qu'elle a raison. Mais quand je ferme les yeux, je vois le chiffre."
+  },
+  {
+   "type": "text",
+   "value": "Freya tendit la main droite et la posa sur celle de Kenji. Juste une seconde."
+  },
+  {
+   "type": "text",
+   "value": "— Alors on a chacun un secret qui nous empêche de dormir, dit-elle. Ça nous fait au moins quelque chose en commun."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir-là, quand le capteur fut réparé, Kenji s'allongea dans sa capsule de sommeil. Juste avant que le froid ne l'emporte, il vit le visage de Freya penché au-dessus de la vitre. Elle lui souriait."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut une partie d'échecs qui réconcilia Amara et Elias. Ou plutôt, ce fut une nuit entière."
+  },
+  {
+   "type": "text",
+   "value": "C'était au début de la cinquième année. La rotation les avait laissés éveillés ensemble, et depuis la dispute, ils s'évitaient avec une politesse épuisante. Un soir, Amara entra dans le module commun et trouva Elias penché sur l'échiquier, seul, en train de rejouer une partie perdue contre Hélia."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'assit en face de lui."
+  },
+  {
+   "type": "text",
+   "value": "— Blancs ou noirs ? demanda-t-il sans lever les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Noirs."
+  },
+  {
+   "type": "text",
+   "value": "Ils jouèrent. Elle n'était pas très forte, mais elle était têtue, et elle jouait comme elle pilotait : sans jamais reculer. Il gagna la première partie. Elle demanda une revanche. Il gagna la deuxième. À la troisième, vers deux heures du matin, elle lui prit sa dame, et il resta un long moment à contempler l'échiquier avec une expression de stupéfaction sincère."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "Échec à la dame"
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne l'as pas vu venir, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Non, admit-il. Personne ne m'a pris ma dame depuis Réka."
+  },
+  {
+   "type": "text",
+   "value": "— Qui est Réka ?"
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas tout de suite. Il fit tourner entre ses doigts la reine blanche qu'elle venait de lui prendre."
+  },
+  {
+   "type": "text",
+   "value": "— Ma femme, dit-il. Elle est morte en 2181. Les fièvres."
+  },
+  {
+   "type": "text",
+   "value": "Amara se souvenait des fièvres. Tout le monde s'en souvenait. Une maladie venue des moustiques remontés vers le nord avec la chaleur, qui avait traversé l'Europe en un été. On avait fermé les villes. On avait brûlé des quartiers entiers. Des millions de morts."
+  },
+  {
+   "type": "text",
+   "value": "— Elle était biologiste, continua Elias. Elle travaillait sur le vaccin. Elle l'a trouvé, d'ailleurs. Trois semaines trop tard pour elle."
+  },
+  {
+   "type": "text",
+   "value": "Il reposa la reine sur la table."
+  },
+  {
+   "type": "text",
+   "value": "— Elle me battait aux échecs une fois sur deux. Je n'ai jamais su si elle me laissait gagner l'autre fois."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pour ça que personne n'est venu te dire au revoir à Kourou."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y avait plus personne à qui dire au revoir. C'est pour ça que j'ai été choisi, d'ailleurs. Aucune attache. Le candidat idéal."
+  },
+  {
+   "type": "text",
+   "value": "Amara regarda le bracelet de perles à son poignet."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, j'en avais une, dit-elle. Une attache. Et je suis partie quand même. Tu sais ce qu'on dit d'une mère qui laisse son enfant de six ans pour neuf ans de voyage ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Rien. On ne le dit pas. On le pense. Je le pense toutes les nuits."
+  },
+  {
+   "type": "text",
+   "value": "Elias la regarda. Pour la première fois depuis le début du voyage, il n'y avait aucune ironie dans ses yeux sombres."
+  },
+  {
+   "type": "text",
+   "value": "— Je t'ai dit que tu décidais seule par orgueil, dit-il. Je me suis trompé. Tu décides seule pour que personne d'autre n'ait à porter ce que tu portes. C'est différent. C'est pire, peut-être. Mais c'est différent."
+  },
+  {
+   "type": "text",
+   "value": "Ils ne dirent plus rien. Ils jouèrent encore jusqu'à l'aube artificielle, quand Hélia remonta doucement les lumières. Amara gagna une partie sur cinq. Elle ne sut jamais s'il l'avait laissée gagner."
+  },
+  {
+   "type": "text",
+   "value": "Le cinquième anniversaire de la mission tomba un mardi."
+  },
+  {
+   "type": "text",
+   "value": "Mathis s'était réveillé de son sommeil cryogénique la veille, exprès. Il avait passé la nuit dans la cuisine, interdisant à quiconque d'entrer, et le matin, il présenta à l'équipage réuni une chose grise, haute de quinze centimètres, vaguement cylindrique, couronnée de cinq fraises de la serre et d'une bougie qu'il avait fabriquée lui-même avec de la cire de laboratoire."
+  },
+  {
+   "type": "text",
+   "value": "— Gâteau de protéines, annonça-t-il fièrement. Recette originale. Saveur vanille."
+  },
+  {
+   "type": "text",
+   "value": "— Ça a quel goût, en vrai ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Mastic, dit Mathis. Mais un mastic festif."
+  },
+  {
+   "type": "text",
+   "value": "Ils rirent. Ils mangèrent. C'était affreux. Ils en reprirent. Elias, qui ne riait presque jamais, dut s'essuyer les yeux. Kenji, revenu lui aussi de son long sommeil, fit une calligraphie pour l'occasion, le chiffre cinq, qu'il colla sur la porte de la cuisine, à côté du vieux calendrier de Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Freya sortit de sa poche un petit sachet de graines de citronnier, récoltées sur l'arbre qui avait fleuri, et en offrit une à chacun."
+  },
+  {
+   "type": "text",
+   "value": "— Pour Thalassa, dit-elle. Le premier arbre qu'on plantera là-bas."
+  },
+  {
+   "type": "text",
+   "value": "Mathis glissa la sienne dans la poche de poitrine de sa combinaison, celle qu'il fermait toujours avec une épingle de nourrice."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "Les graines"
+  },
+  {
+   "type": "text",
+   "value": "— Elle ne bougera pas de là, promit-il."
+  },
+  {
+   "type": "text",
+   "value": "Pendant quelques heures, ils furent heureux. Simplement. Cinq êtres humains très loin de chez eux, autour d'un gâteau raté."
+  },
+  {
+   "type": "text",
+   "value": "*Commandante*, dit Hélia au milieu de l'après-midi. *Un message de la Terre vient d'arriver. Expéditeur : Awa Diallo.*"
+  },
+  {
+   "type": "text",
+   "value": "Amara posa sa fourchette. Les autres se turent."
+  },
+  {
+   "type": "text",
+   "value": "— Passe-le, Hélia. Ici. Pour tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "L'écran s'alluma. Ce n'était pas la cuisine au carrelage bleu. C'était une pièce qu'Amara ne connaissait pas, petite, sans fenêtre, éclairée par une lampe. Awa avait maigri. Elle portait un masque autour du cou, même à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "— Amara, dit-elle, et sa voix tremblait un peu. Je fais vite, l'électricité est coupée deux heures sur trois maintenant. Ne t'inquiète pas. D'abord, Noé va bien. Il va très bien. Il a onze ans, tu te rends compte ? Il est plus grand que moi, presque."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit, mais le sourire ne tint pas."
+  },
+  {
+   "type": "text",
+   "value": "— Les émeutes ont atteint Dakar la semaine dernière. Les réserves d'eau, surtout. On a quitté l'appartement. On est chez des amis de l'Agence, dans un quartier protégé. On est en sécurité. Noé ne sort plus seul. Il demande tous les jours de tes nouvelles. Il compte les jours, lui aussi. Il a un calendrier, comme toi."
+  },
+  {
+   "type": "text",
+   "value": "Awa se pencha vers la caméra."
+  },
+  {
+   "type": "text",
+   "value": "— Écoute-moi, Amara. Quoi qu'il arrive ici, ne fais pas demi-tour. Il faut que tu…"
+  },
+  {
+   "type": "text",
+   "value": "L'image se figea."
+  },
+  {
+   "type": "text",
+   "value": "Le visage d'Awa resta suspendu, la bouche entrouverte, au milieu d'un mot. Puis l'écran devint noir."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "Message coupé"
+  },
+  {
+   "type": "text",
+   "value": "— Hélia ? dit Amara."
+  },
+  {
+   "type": "text",
+   "value": "*Le message s'interrompt à cet endroit, commandante. La transmission a été coupée à la source. Il n'y a rien d'autre.*"
+  },
+  {
+   "type": "text",
+   "value": "Personne ne bougea. Sur la table, la bougie de Mathis fumait encore."
+  }
+ ]
+}

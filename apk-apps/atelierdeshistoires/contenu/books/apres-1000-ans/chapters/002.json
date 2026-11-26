@@ -1,0 +1,273 @@
+{
+ "number": 2,
+ "title": "Hélia",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le décollage ne ressemblait à rien de ce qu'on leur avait décrit."
+  },
+  {
+   "type": "text",
+   "value": "On leur avait parlé de poussée, de vibrations, de trois fois leur poids sur la poitrine. On ne leur avait pas parlé du bruit, qui n'était pas un bruit mais une chose vivante, un rugissement qui entrait par les os plutôt que par les oreilles. On ne leur avait pas dit que la capsule tremblerait comme une feuille, que les dents s'entrechoqueraient, qu'on aurait l'impression qu'une main géante essayait de vous enfoncer dans le siège jusqu'à ce que vous passiez au travers."
+  },
+  {
+   "type": "text",
+   "value": "Et puis, d'un coup, plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Le premier étage se détacha. Le silence tomba. Un stylo, que quelqu'un avait mal rangé, se mit à flotter doucement devant le visage d'Amara, tournant sur lui-même comme un petit astre."
+  },
+  {
+   "type": "text",
+   "value": "— C'est à qui, ça ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je nie tout, dit Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient en apesanteur. Freya fut la première à pleurer, sans bruit, et à rire en même temps. Par le hublot, la Terre emplissait tout."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'était pas bleue. Pas vraiment. Elle était brune et rouille, les océans tachés de longues traînées grises, les continents voilés de cette poussière orange qui recouvrait tout depuis la décennie des incendies. Mais vue d'ici, avec la courbe lumineuse de l'atmosphère, si fine qu'on aurait dit un trait de crayon, elle restait la plus belle chose qu'Amara eût jamais vue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "La Terre malade"
+  },
+  {
+   "type": "text",
+   "value": "— Elle est malade, murmura Freya. Mais regardez-la."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Kenji avait ôté ses lunettes pour s'essuyer les yeux. Elias regardait sans bouger."
+  },
+  {
+   "type": "text",
+   "value": "Six heures plus tard, ils s'amarraient à l'Aurore. Trois jours plus tard, la Terre n'était plus qu'une bille dans le hublot arrière. Au bout d'un mois, il fallait la chercher parmi les étoiles."
+  },
+  {
+   "type": "text",
+   "value": "L'Aurore mesurait trois cent quarante mètres de long."
+  },
+  {
+   "type": "text",
+   "value": "C'était un long fuseau blanc, avec, à l'avant, la baie d'observation, à l'arrière, les moteurs et les réservoirs, et au milieu, l'anneau. L'anneau tournait sans cesse autour de l'axe du vaisseau, une fois toutes les quarante secondes, et cette rotation plaquait doucement contre le sol tout ce qui se trouvait à l'intérieur. Ce n'était pas une vraie gravité. C'était le même effet que dans un manège qui vous colle à la paroi. Mais le corps humain ne faisait pas la différence, et c'était tout ce qui comptait : sans elle, en neuf ans, leurs os seraient devenus friables comme de la craie."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'anneau, il y avait les cabines, la cuisine, l'infirmerie, la salle de sport. Et il y avait la serre."
+  },
+  {
+   "type": "text",
+   "value": "La serre, c'était le royaume de Freya. Une longue galerie courbe, éclairée de lampes violettes et blanches, où poussaient des laitues, des tomates naines, du soja, des fraises et des herbes aromatiques dont l'odeur, quand on ouvrait la porte, vous serrait la gorge tant elle rappelait la Terre d'avant. Freya y passait des heures. Elle parlait aux plantes en suédois. Elle leur chantait des chansons, très fort et très faux."
+  },
+  {
+   "type": "text",
+   "value": "— Elles poussent mieux quand je chante, affirmait-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Elles poussent pour que tu arrêtes, disait Mathis."
+  },
+  {
+   "type": "text",
+   "value": "Mathis, lui, n'avait pas de royaume. Il était partout. Il démontait un filtre à air à six heures du matin, recalibrait un capteur de température à midi, rampait dans une gaine technique à minuit. Et il chantait aussi, des chansons de Tri Yann que son grand-père lui avait apprises, des histoires de marins et de filles de Nantes, en tapant le rythme avec sa clé à molette sur les tuyaux."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais que les vibrations se propagent dans toute la structure ? lui fit remarquer Elias un soir."
+  },
+  {
+   "type": "text",
+   "value": "— C'est fait exprès, répondit Mathis. Comme ça, tout le vaisseau en profite."
+  },
+  {
+   "type": "text",
+   "value": "Elias, lui, jouait aux échecs. Contre Hélia, la plupart du temps, et il perdait. Il perdait avec une régularité qui semblait le satisfaire."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi tu joues contre elle, si tu perds à chaque fois ? demanda Freya."
+  },
+  {
+   "type": "text",
+   "value": "— Parce qu'elle ne fait jamais semblant de perdre, dit Elias. C'est reposant, quelqu'un qui ne fait pas semblant."
+  },
+  {
+   "type": "text",
+   "value": "Et il y avait Hélia."
+  },
+  {
+   "type": "text",
+   "value": "Elle n'avait pas de visage. On l'avait voulu ainsi : un visage aurait été une illusion, et cinq personnes enfermées pendant des années avaient besoin de tout sauf d'illusions. Hélia était une voix, partout, et une présence. Elle surveillait l'air, l'eau, la température, la trajectoire, les battements de leurs cœurs pendant leur sommeil. Elle parlait doucement, sans jamais hausser le ton, et elle avait une façon de dire *commandante* qui rassurait Amara plus qu'elle ne l'aurait avoué."
+  },
+  {
+   "type": "text",
+   "value": "*Commandante, il est vingt-trois heures. Votre rythme cardiaque est élevé. Souhaitez-vous que je baisse la lumière ?*"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne dors pas, Hélia."
+  },
+  {
+   "type": "text",
+   "value": "*Je sais. Je voulais seulement que vous sachiez que je le savais.*"
+  },
+  {
+   "type": "text",
+   "value": "Parfois, la nuit, Amara lui parlait de Noé. Hélia écoutait. Elle n'oubliait rien. C'était à la fois une consolation et quelque chose d'un peu effrayant."
+  },
+  {
+   "type": "text",
+   "value": "Le premier message de la Terre arriva le trente-deuxième jour."
+  },
+  {
+   "type": "text",
+   "value": "Il était parti depuis près de deux heures quand il les atteignit : à leur distance, même la lumière mettait du temps à les rejoindre, et chaque jour qui passait allongeait ce délai. Ils le savaient. Bientôt, il faudrait des semaines, puis des mois, pour qu'une voix leur parvienne."
+  },
+  {
+   "type": "text",
+   "value": "Ils se rassemblèrent dans le module commun, les cinq, flottant à moitié dans le couloir qui reliait l'anneau à l'axe, parce que personne n'avait eu la patience de redescendre s'asseoir."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut d'abord le directeur de l'Agence, qui les félicita longuement. Mathis l'imita en silence, les lèvres bougeant en même temps que les siennes, et Freya dut se mordre la main pour ne pas rire. Il y eut des images des foules à Kourou, à Lagos, à Jakarta, à São Paulo, des gens masqués qui levaient les bras vers le ciel orange."
+  },
+  {
+   "type": "text",
+   "value": "Puis l'écran changea."
+  },
+  {
+   "type": "text",
+   "value": "Une cuisine. Une petite cuisine qu'Amara connaissait par cœur, à Dakar, avec le carrelage bleu ébréché. Awa, assise, et sur ses genoux, Noé, sans masque, parce qu'à l'intérieur on pouvait."
+  },
+  {
+   "type": "text",
+   "value": "— Tu peux y aller, souffla Awa. Elle t'écoute."
+  },
+  {
+   "type": "text",
+   "value": "Noé regarda la caméra avec le plus grand sérieux du monde. Puis il se mit à chanter."
+  },
+  {
+   "type": "text",
+   "value": "C'était une berceuse wolof que la grand-mère d'Amara lui chantait, et qu'Amara avait chantée à son fils tous les soirs pendant six ans. Il ne connaissait pas tous les mots. Il en inventait. Sa voix était aiguë, hésitante, et il oublia la fin du deuxième couplet, s'arrêta, regarda sa tante, puis reprit au début, parce qu'il fallait que ce soit bien fait."
+  },
+  {
+   "type": "text",
+   "value": "Amara ne bougeait pas. Elle tenait son poignet gauche dans sa main droite, le pouce posé sur la perle bleue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La berceuse"
+  },
+  {
+   "type": "text",
+   "value": "Quand le message s'arrêta, personne ne parla pendant un long moment."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit enfin Amara d'une voix parfaitement neutre. Archive ce message dans ma cabine."
+  },
+  {
+   "type": "text",
+   "value": "*C'est fait, commandante.*"
+  },
+  {
+   "type": "text",
+   "value": "Elle quitta le module. Ils l'entendirent remonter le couloir. Ils ne la suivirent pas."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Mathis qui brisa le silence, beaucoup plus tard, en tapant doucement le rythme de la berceuse sur un tuyau, du bout de sa clé. Personne ne lui demanda d'arrêter."
+  },
+  {
+   "type": "text",
+   "value": "Kenji ne dormait pas."
+  },
+  {
+   "type": "text",
+   "value": "Cela faisait quarante et un jours qu'ils voyageaient, et il n'avait toujours pas oublié la note. Elle était là, dans un coin de sa tablette, entre une liste de corrections de cap et une recette de soupe miso que sa mère lui avait dictée avant le départ."
+  },
+  {
+   "type": "text",
+   "value": "*RX-4419. Déviation légèrement supérieure au modèle. À vérifier en route.*"
+  },
+  {
+   "type": "text",
+   "value": "Il s'installa dans la baie d'observation, seul. Devant lui, les étoiles, immobiles, d'une netteté qu'aucun ciel terrestre n'avait jamais offerte. Il sortit son pinceau et son encre, comme il le faisait toujours avant un calcul difficile, et traça sur une feuille un seul caractère, lentement, d'un geste. 静. *Le calme.* Puis il posa le pinceau et se mit au travail."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "Le calme"
+  },
+  {
+   "type": "text",
+   "value": "Les télescopes de l'Aurore étaient bien meilleurs que ceux de Mauna Kea pour regarder dans cette direction : il n'y avait pas d'atmosphère entre eux et le ciel. Il pointa les instruments vers la région de l'étoile morte. Il mesura, encore et encore, la façon dont la lumière des étoiles lointaines se courbait en passant près d'elle."
+  },
+  {
+   "type": "text",
+   "value": "Il refit le calcul de sa masse."
+  },
+  {
+   "type": "text",
+   "value": "L'écart était toujours là. Un peu plus grand, même."
+  },
+  {
+   "type": "text",
+   "value": "Il le refit une seconde fois, par une autre méthode. L'écart persistait. Pas énorme. Mais réel."
+  },
+  {
+   "type": "text",
+   "value": "— Hélia, dit-il à voix basse. J'ai une question sur RX-4419."
+  },
+  {
+   "type": "text",
+   "value": "*Je vous écoute, Kenji.*"
+  },
+  {
+   "type": "text",
+   "value": "— Ma mesure de sa masse est supérieure à celle du catalogue. Pas beaucoup. Mais c'est constant."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un court silence. Hélia ne réfléchissait pas vraiment, il le savait : elle calculait en une fraction de seconde. Mais elle avait appris que les humains se sentaient mieux quand on semblait prendre le temps de réfléchir."
+  },
+  {
+   "type": "text",
+   "value": "*J'ai analysé vos données. L'écart que vous observez reste dans la marge d'erreur des instruments, compte tenu de la distance et de la faiblesse du signal. La trajectoire actuelle conserve une marge de sécurité très largement suffisante. Je ne recommande aucune correction.*"
+  },
+  {
+   "type": "text",
+   "value": "Kenji regarda l'étoile morte, invisible, quelque part dans ce noir piqueté de lumière."
+  },
+  {
+   "type": "text",
+   "value": "— Dans la marge d'erreur, répéta-t-il."
+  },
+  {
+   "type": "text",
+   "value": "*Oui. Vous pouvez dormir, Kenji.*"
+  },
+  {
+   "type": "text",
+   "value": "Il resta encore un moment. Il regarda le caractère tracé à l'encre, qui séchait sur la feuille. Le calme."
+  },
+  {
+   "type": "text",
+   "value": "Puis il effaça la note de sa tablette, éteignit la baie d'observation et alla se coucher."
+  },
+  {
+   "type": "text",
+   "value": "Il la croyait."
+  }
+ ]
+}
