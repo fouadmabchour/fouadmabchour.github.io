@@ -143,7 +143,24 @@
    "updatedAt": "2026-11-26T08:17:37Z",
    "chapterCount": 30,
    "featured": false
+  },
+  {
+   "id": "la-chute-de-la-lune",
+   "publishedAt": "2026-11-26T09:32:02Z",
+   "order": 7,
+   "title": "La Chute de la Lune",
+   "author": "FouLaude",
+   "cover": "books/la-chute-de-la-lune/cover.webp",
+   "summary": "En 2041, la Lune se met à bouger. D'abord, elle se rapproche d'à peine quelques centaines de mètres par mois. Puis viennent les marées géantes qui avalent Lisbonne et Valparaíso, les séismes que personne n'explique, et les pluies de météorites. La mission Artemis Nova décolle pour comprendre. Un seul homme revient : Ilan Varga, brûlé par la radiation, qui jure qu'un peuple vit sous la face cachée de la Lune et qu'une guerre y détruit tout. Personne ne le croit. Déclaré inapte, licencié, moqué dans le monde entier, il n'a plus que les Veilleurs de Minuit, une communauté en ligne qui refuse de le traiter de fou. Cinq ans plus tard, la Lune s'est rapprochée de huit pour cent. Les géants de la tech et les agences spatiales construisent l'Odyssée, le vaisseau le plus avancé jamais conçu, et ils ont besoin d'Ilan. Cette fois, le voyage est filmé en direct. Et l'humanité entière va découvrir ce qui se cache de l'autre côté de la Lune.",
+   "categories": [
+    "science-fiction"
+   ],
+   "tags": [],
+   "status": "ongoing",
+   "updatedAt": "2026-11-26T09:32:02Z",
+   "chapterCount": 0,
+   "featured": false
   }
  ],
- "updatedAt": "2026-11-26T08:17:37Z"
+ "updatedAt": "2026-11-26T09:32:02Z"
 }
