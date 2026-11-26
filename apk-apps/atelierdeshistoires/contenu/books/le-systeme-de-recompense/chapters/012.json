@@ -1,0 +1,290 @@
+{
+ "number": 12,
+ "title": "Lina",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "— Système. Où est-elle ?"
+  },
+  {
+   "type": "text",
+   "value": "Léo tenait la chaussure blanche dans sa main comme si elle allait parler."
+  },
+  {
+   "type": "text",
+   "value": "[Je ne peux pas localiser directement une personne. Je ne suis pas un GPS. Je suis bien mieux qu'un GPS. Mais pas pour ça.]"
+  },
+  {
+   "type": "text",
+   "value": "— Alors à quoi tu sers ?"
+  },
+  {
+   "type": "text",
+   "value": "[Quête urgente : Retrouver Lina avant la nuit. Indice : les Charognards achètent ce que Fort-Rouille jette. Cherchez qui fait les livraisons.]"
+  },
+  {
+   "type": "text",
+   "value": "Les livraisons. Léo connaissait ce mot mieux que personne. Il avait passé six ans à traverser Lyon avec des pizzas tièdes sur le dos. Et il connaissait aussi les livraisons de Fort-Rouille : celles qu'on faisait la nuit, par la porte de l'ancienne station de lavage, vers la vieille zone commerciale où rôdaient les pillards."
+  },
+  {
+   "type": "text",
+   "value": "Il revint à la cabane en courant. Kara se leva d'un bond en voyant son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Lina, haleta-t-il. Quelqu'un l'a prise. Sa chaussure était au puits."
+  },
+  {
+   "type": "text",
+   "value": "Victoria lâcha sa cuillère. Petit Sam se mit à pleurer sans bruit. Kara attrapait déjà sa machette sous le lit."
+  },
+  {
+   "type": "text",
+   "value": "— Rico, dit-elle. Il la regardait depuis des jours. Je vais lui arracher..."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Écoute-moi."
+  },
+  {
+   "type": "text",
+   "value": "Elle le fusilla du regard. Personne ne disait non à Kara. Il le dit quand même."
+  },
+  {
+   "type": "text",
+   "value": "— Si tu vas chez Brutus avec une machette, ses hommes te tombent dessus, et il aura enfin une raison de te jeter dehors. C'est peut-être exactement ce qu'il veut. Toi, tu restes ici, tu protèges Victoria et Sam. Et tu surveilles la station de lavage. Si quelqu'un sort par là cette nuit, tu le vois."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je suis livreur. Je vais livrer."
+  },
+  {
+   "type": "text",
+   "value": "Victoria s'approcha, posa ses deux mains sur ses joues comme dans un film, mais sa voix tremblait pour de vrai."
+  },
+  {
+   "type": "text",
+   "value": "— Léo Marchal, si tu meurs, je ne te le pardonnerai jamais. Et je suis très rancunière, demande à mes trois ex-agents."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit par l'arrière du camp, celui que tout le monde croyait condamné, par un trou dans le grillage qu'il utilisait pour aller pêcher les jours de disette. Le Rhône coulait, épais et brun. Au-delà s'étendait la zone commerciale morte : des parkings fendus, des enseignes géantes aux lettres tombées, un magasin de meubles suédois dont il ne restait que le squelette bleu et jaune."
+  },
+  {
+   "type": "text",
+   "value": "[Conseil tactique : vous n'êtes pas un guerrier. Vous êtes un livreur. Utilisez vos forces.]"
+  },
+  {
+   "type": "text",
+   "value": "— Mes forces, c'est quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "[Vous connaissez les raccourcis. Vous êtes rapide. Et personne ne vous prend au sérieux. C'est votre arme la plus puissante.]"
+  },
+  {
+   "type": "text",
+   "value": "— Charmant."
+  },
+  {
+   "type": "text",
+   "value": "Il trouva des traces de pneus de chariot dans la poussière, puis des empreintes de bottes, deux paires. Et, accrochée à un buisson d'épines, une petite rose de tissu rose arrachée à une robe blanche. Lina laissait des miettes de pain comme dans un conte. Il en trouva une deuxième près d'un panneau « Promo jardinage – 50 % ». Elle était maligne, sa botaniste."
+  },
+  {
+   "type": "text",
+   "value": "Les traces menaient à une jardinerie à moitié effondrée. Sous la verrière brisée, les plantes mortes depuis cinq ans formaient une forêt grise et sèche. Léo s'accroupit derrière un présentoir de pots en terre cuite et retint son souffle."
+  },
+  {
+   "type": "text",
+   "value": "Rico était là. Maigre, nerveux, le crâne rasé sur les côtés, un couteau qui ne quittait jamais sa main. À côté de lui, assis sur un sac d'engrais, Gros Didier mâchait quelque chose qui ressemblait à une vieille semelle. Et entre eux, attachée à un pilier par une corde, Lina. Pieds nus d'un côté. Les yeux rouges, mais le menton levé."
+  },
+  {
+   "type": "text",
+   "value": "— Ils arrivent quand, tes Charognards ? demanda Didier. J'ai faim, moi."
+  },
+  {
+   "type": "text",
+   "value": "— Au coucher du soleil, siffla Rico. Une fille comme ça, ça vaut deux bidons d'essence et une caisse de cartouches. Brutus sera content."
+  },
+  {
+   "type": "text",
+   "value": "— Brutus sait qu'on est là ?"
+  },
+  {
+   "type": "text",
+   "value": "— Brutus sait ce qu'il a besoin de savoir. Ferme-la."
+  },
+  {
+   "type": "text",
+   "value": "Léo serra les poings. Brutus. Bien sûr. Il compta. Deux hommes. Un couteau. Une barre de fer pour lui, et des leçons de Kara encore fraîches dans les muscles. Pas assez. Kara aurait dit : la moitié des batailles qu'on gagne, ce sont celles qu'on évite."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne le prenait au sérieux. Très bien."
+  },
+  {
+   "type": "text",
+   "value": "Il recula sans bruit, contourna la jardinerie, et trouva ce qu'il cherchait dans le rayon outillage : un vieux chariot à roulettes et une pile de seaux en métal. Il les empila sur le chariot, regarda la pente qui descendait vers l'entrée nord, et sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Système, si je meurs, tu pourras dire à Kara que j'ai utilisé mes forces."
+  },
+  {
+   "type": "text",
+   "value": "[Noté. Probabilité de succès estimée : 34 %. C'est mieux que vos chances de payer le Tribut à l'heure.]"
+  },
+  {
+   "type": "text",
+   "value": "Il poussa le chariot de toutes ses forces. Les seaux dévalèrent la pente dans un fracas de fin du monde et allèrent s'écraser contre la porte nord en roulant dans tous les sens."
+  },
+  {
+   "type": "text",
+   "value": "— C'est quoi, ça ? hurla Didier en se levant d'un bond."
+  },
+  {
+   "type": "text",
+   "value": "— Les Charognards sont en avance, cria Léo d'une voix rauque, depuis l'autre côté du mur. Et ils sont pas contents ! Ils disent que vous les avez doublés !"
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas la meilleure imitation du monde. Mais Gros Didier était le meilleur public du monde."
+  },
+  {
+   "type": "text",
+   "value": "— Rico, ils disent qu'on les a doublés !"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai entendu, crétin ! Va voir !"
+  },
+  {
+   "type": "text",
+   "value": "Didier partit vers la porte nord en trottinant, sa batte à la main. Rico resta, nerveux, le couteau levé. Léo fit le tour en courant par le rayon des barbecues, et arriva dans son dos au moment où celui-ci se tournait vers Lina."
+  },
+  {
+   "type": "text",
+   "value": "— Si c'est un piège, ma belle, c'est toi qui..."
+  },
+  {
+   "type": "text",
+   "value": "Léo frappa. Pas la tête : le poignet, comme Kara le lui avait montré. Le couteau vola et disparut dans les plantes mortes. Rico hurla et se retourna, le visage tordu par la rage, et se jeta sur lui. Ils roulèrent dans la terre sèche. Rico était plus vicieux, plus rapide, il frappait en traître. Léo encaissa un coup dans les côtes, un autre à la mâchoire, vit des étoiles bleues qui n'étaient pas celles du Système."
+  },
+  {
+   "type": "text",
+   "value": "Puis il se souvint de la seule chose qu'il faisait mieux que tout le monde : il se releva. Encore. Et encore. Kara aurait été fière de son nombre de morts évitées."
+  },
+  {
+   "type": "text",
+   "value": "Au troisième assaut, Rico se jeta trop vite. Léo pivota, coudes serrés, frappa avec les hanches. Rico alla s'écraser dans une pyramide de pots de terre cuite qui s'effondra sur lui avec un bruit de vaisselle de mariage. Il ne se releva pas, sonné, grognant sous les débris."
+  },
+  {
+   "type": "text",
+   "value": "Léo courut au pilier et attaqua la corde avec ses doigts tremblants."
+  },
+  {
+   "type": "text",
+   "value": "— Tu es venu, souffla Lina. Tu es venu tout seul."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai suivi tes roses. Super idée, les roses."
+  },
+  {
+   "type": "text",
+   "value": "— C'est ma robe préférée, sanglota-t-elle en riant. Tu me dois une robe."
+  },
+  {
+   "type": "text",
+   "value": "La corde céda. Elle se jeta dans ses bras et il la serra très fort, plus fort qu'il n'aurait dû, parce que ses jambes à lui tremblaient autant que les siennes."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Lina : 60 % (+15)]"
+  },
+  {
+   "type": "text",
+   "value": "[Quête accomplie : Retrouver Lina. Récompense : 1 trousse de premiers soins, 1 paire de chaussures plates blanches (taille 37).]"
+  },
+  {
+   "type": "text",
+   "value": "Lina fixa le sac de Léo, d'où dépassait une chaussure neuve, exactement la sienne. Elle ouvrit de grands yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Comment tu..."
+  },
+  {
+   "type": "text",
+   "value": "— Plus tard. Didier revient."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'enfuirent par le rayon des barbecues, puis par les parkings, puis par le grillage, la main dans la main. Ils ne s'arrêtèrent qu'au bord du Rhône, essoufflés. Le soleil se couchait. Au loin, sur la route, trois silhouettes avec des torches approchaient de la jardinerie. Les vrais Charognards, cette fois. Trop tard pour eux."
+  },
+  {
+   "type": "text",
+   "value": "Quand ils franchirent le trou du grillage, Kara les attendait, machette à la main. Elle regarda Lina, puis la lèvre fendue de Léo, puis ses poings écorchés."
+  },
+  {
+   "type": "text",
+   "value": "— Combien ?"
+  },
+  {
+   "type": "text",
+   "value": "— Deux. Didier s'est sauvé tout seul. Rico est sous des pots de fleurs."
+  },
+  {
+   "type": "text",
+   "value": "— Seul. Contre deux. Sans moi."
+  },
+  {
+   "type": "text",
+   "value": "— Tu m'as dit d'éviter les batailles. J'en ai évité une moitié."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda longtemps, puis lui donna une tape sèche sur l'épaule, celle qui n'était pas bleue."
+  },
+  {
+   "type": "text",
+   "value": "— Pas mal, Marchal. Vraiment pas mal."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Kara : 35 % (+10)]"
+  },
+  {
+   "type": "text",
+   "value": "Victoria arriva en courant, en talons rouges dans la boue, et serra Lina, puis Léo, puis Lina encore, en distribuant des ordres dont personne ne comprenait le sens. Mémé Jo apporta de l'eau chaude. Petit Sam s'accrocha à la jambe de Léo et ne la lâcha plus."
+  },
+  {
+   "type": "text",
+   "value": "Pour la première fois depuis longtemps, la cabane pourrie ressembla à une maison."
+  },
+  {
+   "type": "text",
+   "value": "Cela dura vingt minutes."
+  },
+  {
+   "type": "text",
+   "value": "Puis une lumière de torches envahit la ruelle, et la porte s'ouvrit d'un coup de pied. Brutus se tenait sur le seuil, le fusil à pompe sur l'épaule, entouré de six hommes. Derrière lui, la moitié du camp regardait."
+  },
+  {
+   "type": "text",
+   "value": "— Léo Marchal, gronda-t-il d'une voix qui fit trembler les tôles. Le stock du camp a été vidé ce soir. Toutes les conserves de la réserve. Et devine quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Il leva une boîte de petits pois cabossée, couverte d'une étiquette au marqueur rouge : « Réserve F-R »."
+  },
+  {
+   "type": "text",
+   "value": "— On en a trouvé une dans ton potager."
+  }
+ ]
+}

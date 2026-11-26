@@ -10,7 +10,188 @@
   "science-fiction"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-26T21:23:23Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-26T21:28:00Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Le Tribut",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 2,
+   "title": "Première quête",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 3,
+   "title": "Le sac",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 4,
+   "title": "La première nuit",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 5,
+   "title": "Gros Didier",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 6,
+   "title": "Sous le pont",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 7,
+   "title": "La star",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 8,
+   "title": "Les graines",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 9,
+   "title": "Mémé Jo",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 10,
+   "title": "Le Tribut triplé",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 11,
+   "title": "Leçon de combat",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 12,
+   "title": "Lina",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 13,
+   "title": "Le procès",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 14,
+   "title": "La route",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 15,
+   "title": "Les Charognards",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 16,
+   "title": "Le médicament",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 17,
+   "title": "La ferme abandonnée",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 18,
+   "title": "Les autres",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 19,
+   "title": "Jalousies",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 20,
+   "title": "Les murs",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 21,
+   "title": "La basket fluo",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 22,
+   "title": "La comédie de sa vie",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 23,
+   "title": "Veille d'armes",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 24,
+   "title": "Le potager en feu",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 25,
+   "title": "Dans la grange",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 26,
+   "title": "Les trois",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 27,
+   "title": "Cent pour cent",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 28,
+   "title": "ARCHE",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 29,
+   "title": "Le mariage",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  },
+  {
+   "number": 30,
+   "title": "Un an plus tard",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-26T21:28:00Z"
+  }
+ ]
 }

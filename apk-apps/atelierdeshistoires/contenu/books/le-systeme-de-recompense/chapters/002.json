@@ -1,0 +1,322 @@
+{
+ "number": 2,
+ "title": "Première quête",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Léo recula d'un pas. L'écran recula avec lui."
+  },
+  {
+   "type": "text",
+   "value": "Il fit un pas à gauche. L'écran glissa à gauche, poli, patient, comme un serveur qui suit un client indécis entre les tables."
+  },
+  {
+   "type": "text",
+   "value": "— Non, dit Léo. Non, non, non. Pas aujourd'hui."
+  },
+  {
+   "type": "text",
+   "value": "Une femme qui passait avec un jerrican le dévisagea et changea de trajectoire."
+  },
+  {
+   "type": "text",
+   "value": "Léo se frotta les yeux. Fort. Il vit des étoiles orange, puis à nouveau le rectangle bleu, intact, lumineux, avec sa petite bordure élégante."
+  },
+  {
+   "type": "text",
+   "value": "[Bonjour, Léo Marchal ! Je suis votre Système d'assistance. Votre bien-être est ma priorité.]"
+  },
+  {
+   "type": "text",
+   "value": "— Mon bien-être ? Je parle à un panneau qui flotte. Mon bien-être est en train de faire ses valises."
+  },
+  {
+   "type": "text",
+   "value": "[Analyse : vous ne parlez pas à un panneau. Vous parlez à moi. Nuance importante.]"
+  },
+  {
+   "type": "text",
+   "value": "— C'est la faim, se dit Léo à voix haute. Voilà. C'est la faim. J'ai mangé une demi-galette de châtaigne hier soir, mon cerveau fait des économies, il a coupé la partie raisonnable."
+  },
+  {
+   "type": "text",
+   "value": "[Vos apports caloriques sont effectivement insuffisants. Statistiquement, vous êtes en dessous d'un hamster adulte.]"
+  },
+  {
+   "type": "text",
+   "value": "— Merci. Vraiment. Ça me fait chaud au cœur."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles à qui, Léo ?"
+  },
+  {
+   "type": "text",
+   "value": "Petit Sam le fixait, la tête penchée, avec la curiosité sans gêne des enfants."
+  },
+  {
+   "type": "text",
+   "value": "— À personne. À moi. Je me motive."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te motives en disant que t'es un hamster ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est une technique. Très moderne. Va voir Mémé Jo, elle a besoin d'aide pour l'eau."
+  },
+  {
+   "type": "text",
+   "value": "Le gamin s'éloigna en lançant des regards par-dessus son épaule. Léo se plaqua contre la tôle d'un conteneur, à l'écart, et baissa la voix."
+  },
+  {
+   "type": "text",
+   "value": "— Bon. D'accord. Admettons. Tu es quoi, exactement ?"
+  },
+  {
+   "type": "text",
+   "value": "[Je suis le Système. Je propose des quêtes. Vous les accomplissez. Je vous récompense. C'est simple, efficace et sans abonnement.]"
+  },
+  {
+   "type": "text",
+   "value": "— Et pourquoi moi ?"
+  },
+  {
+   "type": "text",
+   "value": "[Cette information sera disponible plus tard.]"
+  },
+  {
+   "type": "text",
+   "value": "— Génial. Une hallucination avec des secrets."
+  },
+  {
+   "type": "text",
+   "value": "L'écran clignota, et un nouveau cadre s'ouvrit, plus grand, bordé d'or."
+  },
+  {
+   "type": "text",
+   "value": "[QUÊTE PRINCIPALE : Prendre sous votre protection les trois dernières candidates de l'Enchère. Récompense : à débloquer.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo lut deux fois. Puis il leva les yeux vers le centre de la cour, où les trois femmes attendaient toujours."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te moques de moi. Tu as vu ce que j'ai payé ce matin ? Une boîte de petits pois handicapée. Je n'ai rien. Je n'ai même pas assez pour moi."
+  },
+  {
+   "type": "text",
+   "value": "[Constat exact. Votre inventaire contient : une couverture trouée, une cuillère, un briquet à 8 % de gaz, une photo.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo serra les dents. La photo. Celle de sa sœur, Chloé, seize ans pour toujours, qui riait sur un quai de Saône avec une glace à la pistache qui lui coulait sur les doigts. Il n'aimait pas qu'on en parle. Même une hallucination."
+  },
+  {
+   "type": "text",
+   "value": "— Ne touche pas à ça."
+  },
+  {
+   "type": "text",
+   "value": "[Bien noté. Je ne touche à rien. Je n'ai pas de mains.]"
+  },
+  {
+   "type": "text",
+   "value": "Le soleil commençait à descendre derrière les hangars. Les ombres des bus s'allongeaient sur le béton. Il restait peut-être une heure et demie avant le coucher du soleil."
+  },
+  {
+   "type": "text",
+   "value": "Au centre de la cour, Kara Duval avait fini d'aiguiser son couteau. Elle le glissa dans sa botte, sangla un vieux sac militaire sur son dos et vérifia les lacets de ses rangers avec la méthode de quelqu'un qui part en opération, pas en exil. Elle ne regardait personne. Elle ne demandait rien."
+  },
+  {
+   "type": "text",
+   "value": "— Tu pars déjà ? lui lança Gros Didier, qui traînait près de la palette. T'attends même pas la fin ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je préfère choisir l'heure où je sors, répondit Kara. Pas qu'on me la donne."
+  },
+  {
+   "type": "text",
+   "value": "— Dehors, t'es morte en deux jours."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda enfin. Gros Didier recula d'un demi-mètre sans s'en rendre compte."
+  },
+  {
+   "type": "text",
+   "value": "— Trois, dit-elle. Au minimum."
+  },
+  {
+   "type": "text",
+   "value": "Un peu plus loin, la rousse en robe rouge s'était plantée devant Brutus. Elle parlait avec une diction impeccable, chaque syllabe posée comme un bijou sur un coussin de velours."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Taillard. Bruno. Je peux vous appeler Bruno ? Soyons des adultes raisonnables. Je vous propose un arrangement. Je reste, je ne mange presque rien, je suis très économique, je me nourris essentiellement d'air et de mépris. En échange, j'organise des soirées. Du divertissement. De la culture. Vos hommes s'ennuient, Bruno. Un camp qui s'ennuie est un camp qui se révolte."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Brutus."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment. Brutus. Très shakespearien. Vous savez comment ça finit, pour Brutus, chez Shakespeare ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Mal."
+  },
+  {
+   "type": "text",
+   "value": "Brutus la fixa un long moment, puis éclata d'un rire gras."
+  },
+  {
+   "type": "text",
+   "value": "— T'es marrante, la rouquine. Mais marrante, ça ne se mange pas. Double Tribut ou dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Je vous signale que j'ai eu un César."
+  },
+  {
+   "type": "text",
+   "value": "— Un quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "La femme ferma les yeux une seconde, comme si on venait de lui annoncer une mort dans sa famille."
+  },
+  {
+   "type": "text",
+   "value": "Et sur sa caisse, Lina pleurait sans bruit, les mains serrées sur sa robe. Une fois, elle releva la tête, et son regard croisa celui de Léo. Des yeux bleus immenses, rougis, qui ne demandaient rien non plus, mais qui avaient peur. Une peur simple, nue, qu'il connaissait. La peur qu'avait eue Chloé, à la fin."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge de rythme cardiaque de l'utilisateur : en hausse. Souhaitez-vous de l'aide ?]"
+  },
+  {
+   "type": "text",
+   "value": "— Tais-toi, souffla Léo. Je réfléchis."
+  },
+  {
+   "type": "text",
+   "value": "[Durée moyenne de vos réflexions : 4 minutes. Temps restant avant le coucher du soleil : 71 minutes. Vous avez de la marge. Peu.]"
+  },
+  {
+   "type": "text",
+   "value": "Il ne réfléchissait pas, en vérité. Il savait. Il savait depuis le moment où Brutus avait prononcé le mot « dehors ». Il cherchait seulement une raison raisonnable de ne pas faire ce qu'il allait faire, et il n'en trouvait aucune, parce qu'il n'y en avait pas, à part la peur, et la peur n'était pas une raison. C'était juste la peur."
+  },
+  {
+   "type": "text",
+   "value": "Il pensa au pain. À ces matins où il avait coupé sa ration en deux pour la glisser dans la poche de Sam, en lui disant qu'il n'avait pas faim. Il avait toujours faim. Mais un gosse qui mange, ça vaut plus qu'un ventre plein."
+  },
+  {
+   "type": "text",
+   "value": "Trois femmes jetées dehors, ça valait combien ?"
+  },
+  {
+   "type": "text",
+   "value": "Kara se dirigeait déjà vers le bus qui servait de porte. Rico s'approchait du levier en souriant, ravi."
+  },
+  {
+   "type": "text",
+   "value": "Léo s'avança au milieu de la cour."
+  },
+  {
+   "type": "text",
+   "value": "Ses jambes avaient décidé avant lui. Elles le portaient vers la palette de Brutus avec une détermination qu'il ne leur connaissait pas, et une petite partie de son cerveau, la partie raisonnable, celle qui avait été coupée par la faim, se réveilla en hurlant : « Qu'est-ce que tu fais ? Qu'est-ce que tu fais ? Tu n'as rien ! »"
+  },
+  {
+   "type": "text",
+   "value": "— Attendez, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne l'entendit. Il toussa."
+  },
+  {
+   "type": "text",
+   "value": "— Attendez !"
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, les têtes se tournèrent. Kara s'arrêta, une main sur la sangle de son sac. La rousse pivota sur ses talons. Lina leva les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Brutus se pencha en avant, amusé."
+  },
+  {
+   "type": "text",
+   "value": "— Le livreur. Qu'est-ce que tu veux ? Tu as retrouvé une deuxième boîte ?"
+  },
+  {
+   "type": "text",
+   "value": "Quelques rires. Léo avala sa salive. Elle avait le goût du métal."
+  },
+  {
+   "type": "text",
+   "value": "— Je les prends, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "Silence."
+  },
+  {
+   "type": "text",
+   "value": "— Les trois."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tint encore une seconde, fragile comme une bulle. Puis il éclata. Gros Didier fut le premier, un rire de phoque qui le plia en deux. Puis d'autres, partout dans la cour, un rire énorme, contagieux, cruel. Même certains qui, une heure plus tôt, avaient eu honte de l'Enchère, riaient maintenant, soulagés d'avoir quelqu'un de plus misérable qu'eux à regarder."
+  },
+  {
+   "type": "text",
+   "value": "Léo ne bougea pas. Il sentait son visage brûler, mais il ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "Kara le fixait sans expression. La rousse haussa un sourcil parfaitement dessiné. Lina, elle, avait cessé de pleurer. Elle le regardait comme on regarde quelqu'un qui saute d'un pont pour vous rattraper, avec un mélange de stupeur et d'espoir insensé."
+  },
+  {
+   "type": "text",
+   "value": "[Décision enregistrée. Courage détecté : niveau inattendu.]"
+  },
+  {
+   "type": "text",
+   "value": "Brutus leva la main, et les rires se calmèrent peu à peu. Il se leva de sa palette. Debout, il était encore plus grand qu'on ne l'imaginait. Il fit deux pas vers Léo, si près que Léo sentit son haleine de café de chicorée et de tabac roulé. Le fusil à pompe pendait au bout de son bras, nonchalant."
+  },
+  {
+   "type": "text",
+   "value": "— Les trois, répéta Brutus, en savourant chaque mot. Triple double Tribut. Tu sais compter jusque-là, au moins ?"
+  },
+  {
+   "type": "text",
+   "value": "— Ça fait six Tributs, dit Léo. Par semaine. Je sais."
+  },
+  {
+   "type": "text",
+   "value": "— Et tu payes quand ?"
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Brutus sourit. La cicatrice de sa lèvre s'étira comme une fermeture éclair."
+  },
+  {
+   "type": "text",
+   "value": "— Avec quoi tu vas payer, le livreur ?"
+  }
+ ]
+}

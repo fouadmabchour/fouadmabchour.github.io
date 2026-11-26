@@ -1,0 +1,314 @@
+{
+ "number": 27,
+ "title": "Cent pour cent",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Il fallut trois jours à Léo pour tenir debout sans s'accrocher à quelqu'un, et trois jours à Mémé Jo pour arrêter de le menacer avec sa cuillère en bois chaque fois qu'il essayait."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as un trou dans le flanc, deux côtes fêlées, une épaule déboîtée et une tête comme une citrouille, mon garçon. Tu bouges, je te rattache à la table."
+  },
+  {
+   "type": "text",
+   "value": "— Mémé, j'ai juste envie d'aller aux toilettes."
+  },
+  {
+   "type": "text",
+   "value": "— Sam va t'apporter le seau."
+  },
+  {
+   "type": "text",
+   "value": "— Je refuse que Sam m'apporte le seau."
+  },
+  {
+   "type": "text",
+   "value": "— Alors tu te retiens, et tu deviens un homme."
+  },
+  {
+   "type": "text",
+   "value": "Pendant ces trois jours, la ferme se répara autour de lui. Hakim remonta le portail avec les charnières d'un vieux camion. Marta et ses enfants replantèrent ce que les flammes avaient épargné du potager. On enterra les morts des Charognards au bout du champ, et Brutus un peu à l'écart, sous une croix de bois, sans haine, parce que Léo l'avait demandé, et que personne n'avait eu envie de discuter avec un blessé qui parlait au plafond."
+  },
+  {
+   "type": "text",
+   "value": "La fenêtre dorée, elle, ne s'était pas refermée. Elle flottait dans un coin de son champ de vision, patiente, comme un livreur qui attend qu'on vienne signer."
+  },
+  {
+   "type": "text",
+   "value": "[Accès au niveau final. Rendez-vous sous la montagne.]"
+  },
+  {
+   "type": "text",
+   "value": "— Quelle montagne ? avait-il demandé la première nuit, tout bas. Le Pilat ? Il est grand, le Pilat. Tu pourrais être plus précis."
+  },
+  {
+   "type": "text",
+   "value": "[Les coordonnées seront transmises lorsque les conditions seront remplies.]"
+  },
+  {
+   "type": "text",
+   "value": "— Quelles conditions ?"
+  },
+  {
+   "type": "text",
+   "value": "[Les conditions savent qui elles sont.]"
+  },
+  {
+   "type": "text",
+   "value": "— C'est hyper flippant, ce que tu dis."
+  },
+  {
+   "type": "text",
+   "value": "[Merci.]"
+  },
+  {
+   "type": "text",
+   "value": "Le quatrième matin, Lina vint le chercher avant que tout le monde se lève. Elle portait sa robe à roses, lavée au puits et encore un peu humide, et elle tenait un panier."
+  },
+  {
+   "type": "text",
+   "value": "— Viens. Doucement. Mémé dort."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'emmena derrière la grange, là où, sous la bâche que le feu n'avait pas atteinte, survivait le premier carré de tomates. Il y en avait une, une seule, qui avait rougi pendant la bataille. Ronde, brillante, ridicule de beauté au milieu de la cendre."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai gardée pour toi, dit Lina. C'est la première tomate du nouveau monde. Enfin, de notre nouveau monde."
+  },
+  {
+   "type": "text",
+   "value": "Il la prit. Elle était tiède de soleil. Il la coupa en deux avec son couteau et lui en tendit une moitié. Ils mangèrent sans rien dire, le jus leur coulant sur les doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Léo, dit-elle ensuite en s'essuyant les mains sur sa robe, ce qui la fit grimacer. Je t'aime. Pas parce que tu m'as sauvée. Enfin, un peu, au début. Maintenant c'est parce que tu ris quand tu te cognes, parce que tu parles aux tomates quand tu crois que personne n'entend, et parce que tu donnes toujours la plus grosse moitié sans t'en rendre compte. Regarde."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda. Sa moitié à lui était nettement plus petite."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai mal coupé, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Tu coupes toujours mal dans le même sens."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Lina : 100 %]"
+  },
+  {
+   "type": "text",
+   "value": "L'écran fit un petit bruit de cloche joyeuse. Léo ne le remarqua presque pas, parce que Lina l'embrassait, et qu'elle avait le goût de la tomate."
+  },
+  {
+   "type": "text",
+   "value": "Kara l'attendait sur le chemin de ronde, à midi, en plein soleil, là où personne ne monte sans raison."
+  },
+  {
+   "type": "text",
+   "value": "— T'as mis le temps, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai des côtes fêlées."
+  },
+  {
+   "type": "text",
+   "value": "— Les Romains se battaient avec des côtes fêlées."
+  },
+  {
+   "type": "text",
+   "value": "— Les Romains sont tous morts, Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Pas à cause des côtes."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui tendit une gourde, attendit qu'il boive, puis se tourna vers la vallée. De là-haut, on voyait la forêt, la route, et au loin, très loin, la ligne grise de l'autoroute des carcasses par où ils étaient venus."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais pas faire de discours, prévint-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'en doutais."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis nulle pour ça. Lina, elle a les mots. Victoria, elle a les mots des autres. Moi j'ai des mains."
+  },
+  {
+   "type": "text",
+   "value": "Elle lui prit la main valide, la retourna, montra les cals qui avaient poussé sur sa paume depuis les leçons de combat."
+  },
+  {
+   "type": "text",
+   "value": "— Ça, c'est moi qui te l'ai fait. Six mois de bâton. Au début, tu tenais une barre de fer comme un bouquet de fleurs. Maintenant, tu tiens debout devant un type de cent vingt kilos avec un fusil. Je sais pas si je suis fière de toi ou de moi."
+  },
+  {
+   "type": "text",
+   "value": "— Des deux ?"
+  },
+  {
+   "type": "text",
+   "value": "— Des deux, admit-elle. Écoute, Léo. J'ai juré un jour de protéger mon pays. Le pays a disparu. Alors je choisis un autre serment. Je te protège, toi, et ce que tu construis. Et ceux qui essaieront de te le prendre, je les attends ici. Toute ma vie, s'il faut."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda enfin, de ses yeux marron qui ne cillaient jamais."
+  },
+  {
+   "type": "text",
+   "value": "— Et puis t'es pas si nul. Je l'ai déjà dit. Je le redis. C'est tout."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Kara : 100 %]"
+  },
+  {
+   "type": "text",
+   "value": "— C'est le plus beau discours que j'aie jamais entendu, dit Léo, et il le pensait."
+  },
+  {
+   "type": "text",
+   "value": "— Le répète à personne, ou je te refêle les côtes."
+  },
+  {
+   "type": "text",
+   "value": "Victoria, évidemment, avait réservé la grange pour le soir, et posé un écriteau sur la porte : RÉPÉTITION, NE PAS ENTRER. Gros mots inclus en dessous, au cas où."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait installé deux chaises face à face au milieu de la paille, une bougie entre les deux, et elle était assise très droite, en robe rouge, maquillée avec ce qui ressemblait à du jus de betterave."
+  },
+  {
+   "type": "text",
+   "value": "— Assieds-toi. Ne dis rien. J'ai écrit un monologue."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord."
+  },
+  {
+   "type": "text",
+   "value": "Elle déplia une feuille. Elle la regarda longtemps. Elle la replia."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Je ne vais pas te jouer une scène. Je joue tout le temps, j'ai joué toute ma vie, et toi tu as toujours vu à travers. Ça me rendait folle. Maintenant, ça me rend… je ne sais pas. Tranquille. Je n'ai jamais été tranquille, Léo. Jamais, depuis mes douze ans et mon premier casting."
+  },
+  {
+   "type": "text",
+   "value": "Elle délaça une botte rouge, puis l'autre, et posa ses pieds nus dans la paille. Léo la regarda faire comme on regarde une éclipse."
+  },
+  {
+   "type": "text",
+   "value": "— Voilà, dit-elle. Je n'ai plus de costume. C'est moi. Victoria Sorel, née Valérie Sorel à Montluçon, fille d'un boucher, une seule vraie récompense dans sa vie, et ce n'est pas le César. C'est que tu m'as vue. Je t'aime, espèce de livreur. Et si tu racontes que j'ai enlevé mes chaussures, je nie tout. J'ai d'excellents avocats. Ils sont morts, mais je les imite très bien."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Victoria : 100 %]"
+  },
+  {
+   "type": "text",
+   "value": "— Valérie ? répéta Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Ne t'avise pas."
+  },
+  {
+   "type": "text",
+   "value": "— C'est joli, Valérie."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un prénom de comptable. Ne t'avise pas."
+  },
+  {
+   "type": "text",
+   "value": "Il ne s'avisa pas. Il l'embrassa, et elle oublia de jouer."
+  },
+  {
+   "type": "text",
+   "value": "La porte de la grange grinça. Lina passa la tête, puis Kara derrière elle, qui ne faisait même pas semblant de ne pas avoir écouté."
+  },
+  {
+   "type": "text",
+   "value": "— C'est fini ? demanda Lina. On peut ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vous étiez là depuis quand ? s'indigna Victoria en cherchant ses bottes."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis Montluçon, dit Kara."
+  },
+  {
+   "type": "text",
+   "value": "Elles entrèrent. Elles se mirent toutes les trois devant lui, côte à côte, comme le soir de l'Enchère, sur l'estrade de Fort-Rouille. Sauf que cette fois, personne ne les vendait, personne ne les jetait, et elles se tenaient par la main."
+  },
+  {
+   "type": "text",
+   "value": "— On a parlé, toutes les trois, dit Lina. Pendant que tu dormais. Beaucoup."
+  },
+  {
+   "type": "text",
+   "value": "— On s'est disputées aussi, précisa Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Énormément, confirma Victoria. Kara a cassé une chaise."
+  },
+  {
+   "type": "text",
+   "value": "— Elle était déjà bancale."
+  },
+  {
+   "type": "text",
+   "value": "— Et on a décidé, reprit Lina. Ensemble. Personne ne nous l'a demandé, et surtout pas toi. On a choisi. On reste avec toi, Léo. Toutes les trois. On veut construire quelque chose ici, une famille, avec toi, à notre façon, bizarre, mais à nous."
+  },
+  {
+   "type": "text",
+   "value": "— Si t'es d'accord, ajouta Kara. Et si tu l'es pas, on reste quand même, parce que la ferme est aussi à nous maintenant."
+  },
+  {
+   "type": "text",
+   "value": "Léo ouvrit la bouche. Rien ne sortit. Il la referma. Il avait les yeux qui piquaient, et ce n'était pas la bosse."
+  },
+  {
+   "type": "text",
+   "value": "— Il pleure, constata Victoria. Excellent. Une vraie larme, en plus. Je prends."
+  },
+  {
+   "type": "text",
+   "value": "[Jauges d'affection : 100 % — 100 % — 100 %. Confiance totale atteinte. Félicitations, utilisateur Léo Marchal. Conditions remplies.]"
+  },
+  {
+   "type": "text",
+   "value": "Au même instant, le sol trembla."
+  },
+  {
+   "type": "text",
+   "value": "Pas fort. Un frisson long, profond, qui monta par les pieds et fit danser la flamme de la bougie. Dehors, les chiens de Marta se mirent à aboyer. Quelqu'un cria dans la cour. Ils se précipitèrent tous les quatre vers la porte, Léo en dernier, une main sur le flanc."
+  },
+  {
+   "type": "text",
+   "value": "Au-dessus des arbres, sur le flanc noir du Pilat, une lumière venait de s'allumer. Une ligne droite, blanche, parfaite, qui s'élargissait lentement à mesure qu'un grondement de métal roulait jusqu'à eux à travers la vallée."
+  },
+  {
+   "type": "text",
+   "value": "Dans la montagne, une porte d'acier était en train de s'ouvrir."
+  }
+ ]
+}

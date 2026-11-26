@@ -1,0 +1,342 @@
+{
+ "number": 11,
+ "title": "Leçon de combat",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le soleil n'était pas encore levé quand une ranger noire percuta les côtes de Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Debout, livreur. Brutus a juré que tu ne verrais pas la fin du mois. Moi, j'ai décidé que tu la verrais."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit un œil. Kara se tenait au-dessus de lui, mitaines enfilées, une barre de fer dans chaque main. Derrière elle, le ciel de Fort-Rouille hésitait entre le gris sale et le gris très sale."
+  },
+  {
+   "type": "text",
+   "value": "— Il est quelle heure ?"
+  },
+  {
+   "type": "text",
+   "value": "— L'heure où les Charognards attaquent. Ils ne préviennent pas, eux. Lève-toi."
+  },
+  {
+   "type": "text",
+   "value": "[Bonjour, Léo ! Activité détectée : entraînement matinal. Saviez-vous que 87 % des héros commencent leur journée par une humiliation ?]"
+  },
+  {
+   "type": "text",
+   "value": "— Merci, c'est motivant, grogna Léo."
+  },
+  {
+   "type": "text",
+   "value": "Kara haussa un sourcil."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles encore à ton ami invisible ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il me souhaite une bonne journée."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-lui qu'il peut regarder. Ça va être court."
+  },
+  {
+   "type": "text",
+   "value": "Derrière la cabane, entre le potager de Lina et le mur de pneus, Kara avait tracé un cercle dans la poussière avec le talon. Elle lança une barre à Léo. Il la rattrapa avec le visage, ou presque : le métal lui frappa l'épaule et tomba à ses pieds."
+  },
+  {
+   "type": "text",
+   "value": "— Premier exercice raté, constata-t-elle. On attrape avec les mains."
+  },
+  {
+   "type": "text",
+   "value": "— J'avais compris l'idée générale."
+  },
+  {
+   "type": "text",
+   "value": "Victoria apparut à la fenêtre, une tasse de chicorée à la main, ses cheveux roux enroulés dans un torchon en guise de turban."
+  },
+  {
+   "type": "text",
+   "value": "— Oh, du spectacle. Ne vous gênez pas pour moi. Lina, viens voir, Kara va tuer Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Pas tuer, corrigea Kara. Réparer."
+  },
+  {
+   "type": "text",
+   "value": "Les vingt minutes qui suivirent furent, de l'avis général, les plus drôles depuis la fin du monde. Léo trébucha sur ses propres pieds, se prit sa propre barre dans le genou, fit un pas en avant quand il fallait reculer, puis recula quand il fallait esquiver. À chaque erreur, Kara le touchait du bout de la barre, sans force, juste assez pour qu'il comprenne qu'il serait mort."
+  },
+  {
+   "type": "text",
+   "value": "— Mort, dit-elle. Mort. Encore mort. Tu meurs beaucoup."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis constant, au moins."
+  },
+  {
+   "type": "text",
+   "value": "Petit Sam s'était assis sur un seau retourné et comptait à voix haute."
+  },
+  {
+   "type": "text",
+   "value": "— Ça fait douze morts, Léo !"
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Sam. Tu peux arrêter de compter."
+  },
+  {
+   "type": "text",
+   "value": "— Treize !"
+  },
+  {
+   "type": "text",
+   "value": "[Statistique : vous êtes mort treize fois en dix-neuf minutes. Record personnel ! Voulez-vous partager ce résultat ?]"
+  },
+  {
+   "type": "text",
+   "value": "— Non, je ne veux pas le partager ! Avec qui, d'ailleurs ?"
+  },
+  {
+   "type": "text",
+   "value": "Kara baissa sa barre et le regarda longuement."
+  },
+  {
+   "type": "text",
+   "value": "— Écoute-moi, Léo. Tu as un problème."
+  },
+  {
+   "type": "text",
+   "value": "— Un seul ? Ça me rassure."
+  },
+  {
+   "type": "text",
+   "value": "— Tu te bats comme quelqu'un qui s'excuse. Tu avances, et ton corps dit pardon. Un type comme Rico, il sent ça. Il sent la peur comme un chien sent la viande."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai pas peur."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as peur de faire mal."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrit la bouche, la referma. Elle avait raison, et c'était le plus vexant."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un défaut ?"
+  },
+  {
+   "type": "text",
+   "value": "— Pas dans la vie. Ici, oui. Alors on va changer de méthode."
+  },
+  {
+   "type": "text",
+   "value": "Elle laissa tomber sa barre, se plaça derrière Lina qui venait de sortir arroser les tomates, et posa doucement une main sur son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Imagine que Rico veut l'emmener. Il est là. Moi, je suis Rico."
+  },
+  {
+   "type": "text",
+   "value": "Lina rougit et joua le jeu en serrant son arrosoir contre elle. Kara recula d'un pas, tira légèrement Lina par le bras. Quelque chose bascula dans la tête de Léo. Il ne réfléchit pas. Il entra dans le cercle, bloqua le bras de Kara avec sa barre, pivota comme elle le lui avait montré dix fois sans succès, et se retrouva entre les deux femmes, la barre levée, les pieds bien plantés."
+  },
+  {
+   "type": "text",
+   "value": "Un silence tomba sur la cour. Même Victoria avait reposé sa tasse."
+  },
+  {
+   "type": "text",
+   "value": "Kara sourit. C'était rare, et ça lui changeait tout le visage."
+  },
+  {
+   "type": "text",
+   "value": "— Voilà. Tu ne sais pas te battre pour toi. Tu sais te battre pour les autres. Bon. On fera avec."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Kara : 21 % (+5)]"
+  },
+  {
+   "type": "text",
+   "value": "[Commentaire : elle a apprécié votre posture. Conseil : ne gâchez pas ce moment en parlant.]"
+  },
+  {
+   "type": "text",
+   "value": "— C'était bien, non ? lança Léo, ravi. Avoue que c'était bien."
+  },
+  {
+   "type": "text",
+   "value": "— Ne gâche pas ce moment en parlant."
+  },
+  {
+   "type": "text",
+   "value": "Il resta bouche bée. Elle et le Système avaient dit la même phrase. Il commençait à se demander s'ils ne s'étaient pas mis d'accord."
+  },
+  {
+   "type": "text",
+   "value": "Les jours suivants, l'entraînement devint un rituel. Kara lui apprit à tomber sans se casser, à garder les coudes serrés, à frapper avec les hanches et non avec les bras. Elle lui apprit aussi le plus important : courir. « La moitié des batailles qu'on gagne, ce sont celles qu'on évite », répétait-elle. Léo, ancien livreur à vélo, découvrit qu'il avait des jambes, du souffle et un excellent sens de l'orientation dans les ruelles du camp."
+  },
+  {
+   "type": "text",
+   "value": "Le cinquième matin, il para trois coups de suite. Le sixième, il la fit reculer d'un pas. Le septième, il trébucha sur Petit Sam, mais personne ne voulut compter cette fois-là."
+  },
+  {
+   "type": "text",
+   "value": "[Compétence débloquée : Combat de rue (niveau 1). Description : vous ne mourez plus treize fois. Seulement huit.]"
+  },
+  {
+   "type": "text",
+   "value": "— Il y a du progrès, admit Kara en lui tendant la gourde."
+  },
+  {
+   "type": "text",
+   "value": "Ils s'assirent dos au mur de pneus. Le soleil de fin de journée allumait les carcasses de bus d'une lumière orangée, presque belle. Au loin, on entendait les cris des enfants autour du puits et le grincement de la poulie. Kara but une gorgée, essuya sa bouche avec le dos de sa mitaine."
+  },
+  {
+   "type": "text",
+   "value": "— Tu veux savoir pourquoi je ne parle jamais de l'armée."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une question. Léo se tut. Il avait appris ça, aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Sergente Duval, quatrième régiment, quelque part près de Grenoble. Quand la rouille grise est arrivée, on nous a envoyés garder un entrepôt de nourriture. Le dernier de la région. On avait des ordres : personne n'entre."
+  },
+  {
+   "type": "text",
+   "value": "Elle tournait la gourde entre ses doigts."
+  },
+  {
+   "type": "text",
+   "value": "— Les gens sont venus. D'abord des dizaines. Puis des centaines. Des familles. Des gamins. Le lieutenant a dit de tenir. J'ai tenu trois semaines. Un matin, j'ai regardé une femme avec un bébé contre la grille, et j'ai ouvert le portail."
+  },
+  {
+   "type": "text",
+   "value": "— C'était bien."
+  },
+  {
+   "type": "text",
+   "value": "— C'était un massacre. Tout le monde s'est jeté sur les sacs. Ça s'est battu. Il y a eu des morts, Léo. À cause du portail. À cause de moi. Et le lendemain, l'entrepôt était vide, et les gens avaient quand même faim."
+  },
+  {
+   "type": "text",
+   "value": "Elle haussa les épaules, comme pour dire que l'histoire était finie, qu'elle n'avait aucune importance."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis, je ne fais plus confiance aux bons sentiments. Les bons sentiments, ça ouvre les portails."
+  },
+  {
+   "type": "text",
+   "value": "Léo regarda ses mains, couvertes d'ampoules toutes neuves."
+  },
+  {
+   "type": "text",
+   "value": "— Ma sœur disait que c'était mieux de se tromper en ouvrant qu'en fermant."
+  },
+  {
+   "type": "text",
+   "value": "Kara tourna la tête vers lui. C'était la première fois qu'il mentionnait une sœur. Il le regretta aussitôt, parce que la suite lui serrait la gorge, alors il ajouta très vite :"
+  },
+  {
+   "type": "text",
+   "value": "— Elle disait aussi que les pâtes au ketchup étaient de la gastronomie, donc bon. Elle se trompait souvent."
+  },
+  {
+   "type": "text",
+   "value": "Un petit rire échappa à Kara, un rire bref, surpris, comme un oiseau qui s'envole."
+  },
+  {
+   "type": "text",
+   "value": "— T'es bizarre, Marchal."
+  },
+  {
+   "type": "text",
+   "value": "— On me le dit souvent. Surtout quand je parle tout seul."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne parles pas tout seul. Je commence à le croire."
+  },
+  {
+   "type": "text",
+   "value": "Elle se leva, lui tendit la main pour l'aider à se relever. Il la prit. Elle le hissa d'un coup sec, et pendant une seconde ils se retrouvèrent très près, assez pour qu'il voie une petite cicatrice blanche au coin de son sourcil."
+  },
+  {
+   "type": "text",
+   "value": "— Merci de m'avoir écoutée, dit-elle à voix basse. Je ne l'avais jamais raconté."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Kara : 25 % (+4)]"
+  },
+  {
+   "type": "text",
+   "value": "[Félicitations ! Vous avez gagné la confiance d'une sergente. Récompense : 1 paire de mitaines renforcées, 2 boîtes de sardines à l'huile.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo sentit le poids nouveau dans son sac. Il n'osa pas l'ouvrir devant elle. Elle aurait demandé d'où venaient les sardines, et il n'avait toujours pas de bonne réponse."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais chercher Lina pour le dîner, dit-il. Elle est partie au puits il y a une heure."
+  },
+  {
+   "type": "text",
+   "value": "Kara fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Une heure ? Pour un seau ?"
+  },
+  {
+   "type": "text",
+   "value": "— Elle discute. Elle parle à tout le monde, tu la connais."
+  },
+  {
+   "type": "text",
+   "value": "Mais en traversant le camp, il sentit le malaise monter. Au puits, la file s'était dissoute. Le seau en zinc de Lina, celui avec la rose peinte dessus, était posé au bord de la margelle. Plein. Personne autour."
+  },
+  {
+   "type": "text",
+   "value": "— Quelqu'un a vu Lina ? demanda-t-il. La blonde, robe blanche ?"
+  },
+  {
+   "type": "text",
+   "value": "Les visages se détournèrent. Une vieille femme fit semblant de nouer ses lacets. Un homme cracha par terre et s'en alla. Léo connaissait ce silence. C'était celui de Fort-Rouille quand Brutus était dans le coin."
+  },
+  {
+   "type": "text",
+   "value": "— Lina ! cria-t-il. LINA !"
+  },
+  {
+   "type": "text",
+   "value": "Personne ne répondit. Près du seau, dans la poussière, gisait une petite chaussure plate, blanche. Une seule."
+  },
+  {
+   "type": "text",
+   "value": "[Alerte : la jauge de Lina ne répond plus. Distance inconnue. Signal en baisse.]"
+  },
+  {
+   "type": "text",
+   "value": "Le sang de Léo se glaça."
+  }
+ ]
+}

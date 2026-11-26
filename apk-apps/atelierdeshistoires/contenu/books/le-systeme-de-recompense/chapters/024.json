@@ -1,0 +1,246 @@
+{
+ "number": 24,
+ "title": "Le potager en feu",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La cloche sonna à trois heures douze. Petit Sam tirait la corde de toutes ses forces, les yeux écarquillés, et la cloche de bronze offerte par le Système, au-dessus du portail, réveilla les morts, les vivants et toutes les poules du Pilat."
+  },
+  {
+   "type": "text",
+   "value": "En deux minutes, la cour se remplit de silhouettes en pyjama armées de fourches. Mémé Jo arriva la dernière, en robe de chambre à fleurs, une poêle en fonte à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Si c'est encore un exercice, je mords quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas un exercice, dit Kara. À vos postes. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Ils avaient répété le plan dix fois la veille. Les arbalètes sur la plateforme du portail. Hakim et les plus forts derrière le mur nord, le plus fragile. Les enfants, Marta et Lina dans la cave de la maison, avec les seaux d'eau, les bandages et les antibiotiques. Victoria et son « département des effets spéciaux » derrière les épouvantails. Et Léo sur la plateforme, avec Kara, le fusil dans les mains."
+  },
+  {
+   "type": "text",
+   "value": "Ce fusil pesait plus lourd que tout ce qu'il avait porté de sa vie."
+  },
+  {
+   "type": "text",
+   "value": "[Conseil : respirez. Votre rythme cardiaque est de 148 battements par minute. Un colibri vous trouverait agité.]"
+  },
+  {
+   "type": "text",
+   "value": "— Merci, souffla-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles encore tout seul ? demanda Kara sans le regarder."
+  },
+  {
+   "type": "text",
+   "value": "— Je fais du yoga mental."
+  },
+  {
+   "type": "text",
+   "value": "Dans le noir, en bas de la route, quelque chose bougeait. Beaucoup de choses. Des pas, des chuchotements, le cliquetis du métal, le grincement d'une charrette. Et puis une voix énorme, qui tonna dans la nuit comme un haut-parleur de supermarché."
+  },
+  {
+   "type": "text",
+   "value": "— LÉO MARCHAL !"
+  },
+  {
+   "type": "text",
+   "value": "Léo connaissait cette voix. Il l'avait entendue chaque semaine pendant cinq ans, le jour du Tribut, quand elle se moquait de ses conserves cabossées."
+  },
+  {
+   "type": "text",
+   "value": "— Je te laisse une chance, le livreur ! hurla Brutus. Tu m'ouvres, tu me donnes le sac, tu me rends mes trois femmes, et je te laisse partir vivant ! Avec tes petits pois !"
+  },
+  {
+   "type": "text",
+   "value": "Sur la plateforme, Kara serra la mâchoire. À côté du portail, Victoria se pencha au-dessus du mur, les mains en porte-voix."
+  },
+  {
+   "type": "text",
+   "value": "— Nous ne sommes les femmes de personne, mon gros ! cria-t-elle d'une voix de théâtre qui portait jusqu'à Lyon. Et vous avez une diction épouvantable ! Articulez quand vous menacez les gens, c'est la moindre des politesses !"
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence stupéfait. Puis, dans les rangs ennemis, quelqu'un pouffa. Un autre. Quelqu'un dit « elle a raison, il mange ses mots »."
+  },
+  {
+   "type": "text",
+   "value": "— TAISEZ-VOUS ! rugit Brutus. À L'ATTAQUE !"
+  },
+  {
+   "type": "text",
+   "value": "La nuit explosa."
+  },
+  {
+   "type": "text",
+   "value": "Des dizaines d'hommes surgirent de l'ombre en hurlant. Des pierres volèrent par-dessus le mur. Des carreaux d'arbalète sifflèrent. Les Charognards du Bourreau arrivèrent les premiers, avec des échelles faites de palettes clouées, et se jetèrent contre la palissade."
+  },
+  {
+   "type": "text",
+   "value": "— Maintenant, Léo ! cria Kara."
+  },
+  {
+   "type": "text",
+   "value": "Il arracha le bouchon d'une fusée éclairante et la lança au-dessus des assaillants. Elle monta dans le ciel en sifflant et explosa en une lumière rouge aveuglante. Toute la colline s'illumina d'un coup, comme une scène de théâtre quand on allume les projecteurs."
+  },
+  {
+   "type": "text",
+   "value": "Les attaquants se figèrent, éblouis. Et c'est alors qu'ils virent les épouvantails."
+  },
+  {
+   "type": "text",
+   "value": "Derrière chaque créneau du mur, éclairés par la lueur rouge, des dizaines de silhouettes immobiles les regardaient. Gérard et sa tête de citrouille. Une madame en chapeau de paille. Un grand type en ciré jaune. Victoria avait même accroché une vieille casserole à la main de l'un d'eux, pour faire « plus menaçant »."
+  },
+  {
+   "type": "text",
+   "value": "— Y en a des centaines ! hurla quelqu'un en bas."
+  },
+  {
+   "type": "text",
+   "value": "— Ils nous attendaient !"
+  },
+  {
+   "type": "text",
+   "value": "— Le livreur a une armée !"
+  },
+  {
+   "type": "text",
+   "value": "[Estimation des défenseurs par l'ennemi : 140. Défenseurs réels : 31. Gérard compte pour 1. Le Système valide la contribution de Gérard.]"
+  },
+  {
+   "type": "text",
+   "value": "La première vague recula. Les arbalètes de la plateforme tiraient en continu. Hakim et ses hommes repoussèrent les échelles à coups de fourche. Kara, partout à la fois, criait des ordres brefs, précis, et chacun lui obéissait sans réfléchir. Léo tira une fois, en l'air, au-dessus du groupe qui s'approchait du portail. Le coup de fusil claqua comme un orage, et une dizaine de pillards détalèrent dans les fourrés."
+  },
+  {
+   "type": "text",
+   "value": "— Pas mal, livreur, dit Kara."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai visé les étoiles."
+  },
+  {
+   "type": "text",
+   "value": "— T'en as eu aucune."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. C'était le but."
+  },
+  {
+   "type": "text",
+   "value": "Pendant une demi-heure, ils tinrent bon. Les assaillants tentèrent le portail, puis le mur ouest, puis à nouveau le portail. À chaque fois, ils furent repoussés. Une fois, un Charognard réussit à passer par-dessus la palissade et retomba droit sur Mémé Jo, qui l'assomma d'un coup de poêle si sonore qu'on l'entendit des deux côtés du mur."
+  },
+  {
+   "type": "text",
+   "value": "— Et ne revenez pas sans vous être essuyé les pieds ! lui cria-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "[Mémé Jo : 1 ennemi neutralisé. Arme : ustensile de cuisine. Le Système crée une nouvelle catégorie de combat.]"
+  },
+  {
+   "type": "text",
+   "value": "C'est vers quatre heures que tout bascula."
+  },
+  {
+   "type": "text",
+   "value": "Une odeur de fumée arriva d'abord. Puis une lueur orange, derrière la maison, du côté où il n'y avait aucun garde, parce qu'il n'y avait rien à défendre : juste un talus en pente raide et, en bas, le potager."
+  },
+  {
+   "type": "text",
+   "value": "— Le potager, souffla Léo."
+  },
+  {
+   "type": "text",
+   "value": "Il courut jusqu'au bout de la plateforme. Des torches volaient par-dessus le talus. Les hommes de Brutus avaient fait le tour pendant que les autres attaquaient le portail. La paille qui protégeait les jeunes plants avait pris feu. Les tuteurs des tomates flambaient comme des allumettes. Les rangs de haricots que Lina appelait « mes petits soldats » se tordaient dans les flammes."
+  },
+  {
+   "type": "text",
+   "value": "Et Lina, sortie de la cave, courait vers le feu avec un seau dans chaque main."
+  },
+  {
+   "type": "text",
+   "value": "— Lina ! NON !"
+  },
+  {
+   "type": "text",
+   "value": "Elle ne l'entendit pas. Ou elle fit semblant. Elle jeta son premier seau sur les tomates, puis le second, puis repartit en courant vers le puits. Derrière elle, les enfants de Marta faisaient la chaîne. Petit Sam portait une casserole."
+  },
+  {
+   "type": "text",
+   "value": "Léo dévala l'échelle. Kara le retint par le bras."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une diversion ! Ils veulent qu'on dégarnisse le portail !"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais !"
+  },
+  {
+   "type": "text",
+   "value": "— Alors reste !"
+  },
+  {
+   "type": "text",
+   "value": "Il la regarda. Elle le regarda. Puis elle le lâcha."
+  },
+  {
+   "type": "text",
+   "value": "— Vas-y. Je tiens le portail. Victoria, avec moi !"
+  },
+  {
+   "type": "text",
+   "value": "Léo courut à travers la cour. Il passa devant la grange, devant la maison, contourna le puits. La chaleur lui frappa le visage. Le potager n'était plus qu'un brasier. Lina, couverte de suie, les larmes plein les joues, continuait à jeter de l'eau sur les flammes, comme si chaque goutte pouvait sauver une graine."
+  },
+  {
+   "type": "text",
+   "value": "— Lina, c'est fini, viens !"
+  },
+  {
+   "type": "text",
+   "value": "— Non ! Ce sont les graines du Système ! Ce sont les seules graines qu'on a ! Sans elles, on n'aura rien cet hiver, rien du tout !"
+  },
+  {
+   "type": "text",
+   "value": "Il la prit par les épaules. Elle se débattit, puis s'effondra contre lui en sanglotant."
+  },
+  {
+   "type": "text",
+   "value": "[Alerte : perte de 70 % des cultures. Ne vous inquiétez pas pour les graines, Léo. Inquiétez-vous pour ce qui se passe derrière vous.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Derrière la grange, une partie du mur nord, celle qu'Hakim avait renforcée la veille, venait de céder dans un fracas de pierres. Une charrette chargée de pierres avait été poussée contre elle, à toute vitesse, depuis le haut du chemin. Les pierres sèches avaient roulé comme des billes. Il y avait maintenant un trou béant, large comme une porte de garage, ouvert sur la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Hakim gisait au sol à côté, sonné, mais vivant. Il levait une main pour dire « ça va »."
+  },
+  {
+   "type": "text",
+   "value": "Et dans la brèche, éclairé par les flammes du potager, apparut une silhouette énorme. Un crâne rasé, luisant de sueur. Une cicatrice sur la lèvre. Un fusil à pompe tenu à deux mains."
+  },
+  {
+   "type": "text",
+   "value": "Brutus enjamba les débris, regarda autour de lui comme un propriétaire qui revient chez lui, et sourit en apercevant Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Enfin seuls, le livreur."
+  }
+ ]
+}

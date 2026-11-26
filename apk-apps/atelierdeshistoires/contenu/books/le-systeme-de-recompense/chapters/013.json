@@ -1,0 +1,294 @@
+{
+ "number": 13,
+ "title": "Le procès",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Brutus appelait ça un procès. Tout le monde savait que c'était un spectacle."
+  },
+  {
+   "type": "text",
+   "value": "On l'avait installé le lendemain midi sur la place centrale de Fort-Rouille, entre le puits et l'ancien entrepôt frigorifique qui servait de réserve. Une table de camping pour le juge, c'est-à-dire Brutus. Une chaise en plastique pour l'accusé, c'est-à-dire Léo. Et, tout autour, cent vingt habitants qui n'avaient rien d'autre à faire, et qui avaient pris leurs places dès l'aube, assis sur des pneus, des caisses, des toits de bus."
+  },
+  {
+   "type": "text",
+   "value": "Léo avait les mains attachées dans le dos. Ce n'était pas nécessaire, mais Brutus aimait les détails."
+  },
+  {
+   "type": "text",
+   "value": "[Bonjour, Léo ! Nouvel événement : procès. Information utile : je n'ai aucune compétence juridique. Mais je vous soutiens à 100 %.]"
+  },
+  {
+   "type": "text",
+   "value": "— Tu peux me donner un avocat ? murmura Léo."
+  },
+  {
+   "type": "text",
+   "value": "[Je regarde l'inventaire… Non. J'ai des cornichons.]"
+  },
+  {
+   "type": "text",
+   "value": "— Le prévenu parle encore à ses fantômes, ricana Rico, assis à la droite de Brutus, un gros bleu violet sur la tempe et un bras en écharpe."
+  },
+  {
+   "type": "text",
+   "value": "Des rires parcoururent la foule. Pas tous. Léo remarqua que certains ne riaient plus, comme avant. Certains regardaient Rico avec un drôle d'air, depuis que la rumeur de la jardinerie avait fait le tour du camp."
+  },
+  {
+   "type": "text",
+   "value": "Brutus frappa la table avec la crosse de son fusil."
+  },
+  {
+   "type": "text",
+   "value": "— Silence ! On est ici pour juger un voleur. Hier soir, pendant que tout le monde était à table, quelqu'un a vidé la réserve. Quarante-deux conserves. Douze bidons d'eau. La nourriture de vos enfants, les amis."
+  },
+  {
+   "type": "text",
+   "value": "Un murmure de colère monta. La faim rendait les gens méchants très vite, Léo le savait."
+  },
+  {
+   "type": "text",
+   "value": "— Et qui, à Fort-Rouille, mange toujours à sa faim alors qu'il n'a jamais rien payé ? Qui a toujours de l'eau, des sardines, du savon ? Qui nourrit trois bouches sans jamais aller travailler ?"
+  },
+  {
+   "type": "text",
+   "value": "Tous les regards se tournèrent vers Léo. Il aurait voulu disparaître sous sa chaise."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je travaille, protesta-t-il. Je pêche. Je répare des vélos."
+  },
+  {
+   "type": "text",
+   "value": "— Avec quoi ? Des vélos fantômes ?"
+  },
+  {
+   "type": "text",
+   "value": "Nouveaux rires. Brutus sortit les preuves une par une, comme un magicien sort des lapins. La boîte de petits pois trouvée dans le potager. Une deuxième, sous le lit de la cabane. Et un témoin : Gros Didier, qui se leva en se dandinant, regarda ses chaussures, puis le ciel, puis Brutus."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai vu Léo, dit-il. Hier soir. Avec un sac. Près de la réserve."
+  },
+  {
+   "type": "text",
+   "value": "— À quelle heure ? demanda une voix dans la foule."
+  },
+  {
+   "type": "text",
+   "value": "Didier ouvrit la bouche. Il la referma. Il regarda Brutus d'un air désespéré."
+  },
+  {
+   "type": "text",
+   "value": "— À… une heure qui était la nuit."
+  },
+  {
+   "type": "text",
+   "value": "[Analyse : le témoin ment. Taux de transpiration anormal, regard fuyant, vocabulaire très pauvre. Enfin, plus pauvre que d'habitude.]"
+  },
+  {
+   "type": "text",
+   "value": "— Je n'étais pas près de la réserve hier soir, dit Léo d'une voix ferme. J'étais dans la jardinerie de la zone commerciale. En train de sauver Lina. Que Rico et Didier avaient enlevée pour la vendre aux Charognards."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba d'un coup. Rico se dressa à moitié."
+  },
+  {
+   "type": "text",
+   "value": "— Mensonge !"
+  },
+  {
+   "type": "text",
+   "value": "— Ah oui ? Et ton bras, il s'est cassé tout seul ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis tombé !"
+  },
+  {
+   "type": "text",
+   "value": "— Dans des pots de fleurs ?"
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un éclata de rire dans la foule, puis un autre. Brutus frappa encore la table."
+  },
+  {
+   "type": "text",
+   "value": "— Assez ! Tu n'as aucune preuve, le livreur. Une gamine qui a fait une fugue, ça ne prouve rien."
+  },
+  {
+   "type": "text",
+   "value": "Lina se leva. Elle avait remis sa robe, raccommodée en vitesse, et ses nouvelles chaussures blanches."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai pas fait de fugue. Ils m'ont attachée à un pilier. Ils parlaient de bidons d'essence, de cartouches. Et Rico a dit : « Brutus sera content. »"
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, le silence fut lourd comme du plomb."
+  },
+  {
+   "type": "text",
+   "value": "Brutus ne broncha pas. Il sourit, même, de son sourire coupé par la cicatrice."
+  },
+  {
+   "type": "text",
+   "value": "— Évidemment qu'elle le défend. Il la nourrit. Elle dirait n'importe quoi pour une boîte de sardines. Suivant."
+  },
+  {
+   "type": "text",
+   "value": "Hakim, le mécanicien, se leva au fond. Léo ne s'y attendait pas. Hakim n'avait jamais pris parti pour personne. Il réparait les moteurs, les pompes, les générateurs, et il se taisait."
+  },
+  {
+   "type": "text",
+   "value": "— Hier soir, j'étais dans mon atelier, à côté de la réserve. J'ai travaillé sur la pompe du puits jusqu'à trois heures du matin. Personne n'est passé par la porte principale. Personne. Celui qui a vidé la réserve avait la clé."
+  },
+  {
+   "type": "text",
+   "value": "— Et qui a la clé, Hakim ? lança Mémé Jo en se levant à son tour, les poings sur les hanches. Je vais te le dire, moi. Il n'y en a qu'une, et elle pend au cou d'un gros bonhomme qui confond sa cantine avec son ventre."
+  },
+  {
+   "type": "text",
+   "value": "Une vague de rires gênés parcourut la foule. Brutus devint rouge, puis violet."
+  },
+  {
+   "type": "text",
+   "value": "— Rassieds-toi, la vieille."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai nourri des milliers de gamins pendant trente-deux ans à la cantine de Givors, mon garçon. J'en ai vu, des petits voleurs. Celui-là, dit-elle en pointant Léo, ce n'en est pas un. Il donne son pain aux mômes. Toi, tu le leur prends."
+  },
+  {
+   "type": "text",
+   "value": "Brutus allait exploser. Mais avant qu'il ne puisse ouvrir la bouche, une silhouette en robe rouge s'avança au centre de la place, avec la démarche d'une reine qui monte les marches de Cannes."
+  },
+  {
+   "type": "text",
+   "value": "— Mesdames et messieurs, permettez-moi."
+  },
+  {
+   "type": "text",
+   "value": "— Pas toi, gronda Brutus."
+  },
+  {
+   "type": "text",
+   "value": "— Oh, si. Moi."
+  },
+  {
+   "type": "text",
+   "value": "Victoria se tourna vers la foule et, pendant cinq minutes, elle fut magnifique. Elle ne cria pas. Elle parla doucement, puis plus fort, puis doucement encore. Elle fit rire la foule en imitant Didier qui cherchait l'heure dans le ciel. Elle la fit frissonner en racontant la corde, le pilier, la petite rose arrachée. Elle posa des questions simples, terribles : où étaient les quarante-deux conserves, si Léo les avait volées ? Pourquoi pas une seule trouvée dans son sac, qu'il ouvrait pourtant devant tout le monde ? Pourquoi seulement deux, posées bien en vue, comme dans un mauvais téléfilm de dimanche après-midi ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'ai tourné dans des mauvais téléfilms, ajouta-t-elle. Je sais reconnaître un mauvais scénario. Et celui-ci, mesdames et messieurs, a été écrit par quelqu'un qui n'a jamais lu un livre."
+  },
+  {
+   "type": "text",
+   "value": "La place explosa de rire. Même des hommes de Brutus baissèrent la tête pour cacher leur sourire."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Victoria : 36 % (+4). Remarque : elle ne fait pas cela pour vous. Elle le fait aussi pour elle. Les deux sont vrais.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo la regarda et pensa qu'il n'avait jamais vu personne d'aussi courageux sur des talons de dix centimètres."
+  },
+  {
+   "type": "text",
+   "value": "Mais Brutus se leva. Lentement. Il fit le tour de la table, pompa son fusil d'un geste sec, et le bruit coupa net tous les rires. Il n'avait pas besoin de viser qui que ce soit. Tout le monde avait compris."
+  },
+  {
+   "type": "text",
+   "value": "— Très joli. Très drôle. Mais ici, ce n'est pas un théâtre. Ici, c'est chez moi. Et chez moi, c'est moi qui décide."
+  },
+  {
+   "type": "text",
+   "value": "Il se tourna vers la foule."
+  },
+  {
+   "type": "text",
+   "value": "— Qui veut garder un voleur au camp ? Qui veut partager son eau avec un type qui vous vole pendant votre sommeil ? Levez la main."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne leva la main. Pas parce qu'ils croyaient Brutus. Parce qu'ils avaient peur. Léo vit Hakim serrer les mâchoires, Mémé Jo trembler de rage, des gens détourner les yeux, honteux."
+  },
+  {
+   "type": "text",
+   "value": "— Verdict, déclara Brutus. Léo Marchal est expulsé de Fort-Rouille. Demain, à l'aube. Avec ce qu'il a sur le dos. Le sac reste ici."
+  },
+  {
+   "type": "text",
+   "value": "[Information : le sac est lié à votre identité. Si quelqu'un d'autre l'ouvre, il ne trouvera qu'un vieux t-shirt et une chaussette orpheline.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo faillit éclater de rire, ce qui n'aurait pas aidé."
+  },
+  {
+   "type": "text",
+   "value": "— Quant aux femmes, poursuivit Brutus en savourant chaque mot, elles n'ont plus de protecteur. Alors elles restent. Ici. Sous ma protection."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda Victoria. Très longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Le soir, dans la cabane, personne ne mangea. Léo, assis par terre, détachait doucement la corde qui avait laissé des marques rouges sur ses poignets."
+  },
+  {
+   "type": "text",
+   "value": "— Bon, dit-il en essayant de sourire. Vous avez entendu Brutus. Je pars demain. Vous êtes libres, je vous l'ai dit le premier soir. Mémé Jo veillera sur vous, Hakim aussi, et..."
+  },
+  {
+   "type": "text",
+   "value": "— Tais-toi, dit Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ?"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as fini ton discours de martyr ? Parce qu'on a déjà décidé."
+  },
+  {
+   "type": "text",
+   "value": "Il les regarda toutes les trois. Lina avait les yeux pleins de larmes, mais elle souriait. Victoria se limait les ongles avec un calme glacial. Kara vérifiait le tranchant de sa machette."
+  },
+  {
+   "type": "text",
+   "value": "— On part avec toi, dit Lina."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne reste pas une minute de plus chez ce gorille, ajouta Victoria. Il me regarde comme une côtelette."
+  },
+  {
+   "type": "text",
+   "value": "— Et moi, je ne laisse pas mon meilleur élève mourir dehors au bout de trois jours, conclut Kara. Ce serait mauvais pour ma réputation."
+  },
+  {
+   "type": "text",
+   "value": "Léo voulut répondre, mais sa gorge s'était fermée. Il hocha la tête, c'est tout."
+  },
+  {
+   "type": "text",
+   "value": "Alors l'écran bleu s'ouvrit devant lui, plus grand que jamais, bordé d'une lumière dorée qu'il n'avait encore jamais vue."
+  },
+  {
+   "type": "text",
+   "value": "[QUÊTE MAJEURE DÉBLOQUÉE : Trouver un foyer.]"
+  },
+  {
+   "type": "text",
+   "value": "[Difficulté : élevée. Récompense : inestimable. Conseil : partez avant l'aube. Brutus n'a pas l'intention d'attendre le lever du soleil.]"
+  }
+ ]
+}

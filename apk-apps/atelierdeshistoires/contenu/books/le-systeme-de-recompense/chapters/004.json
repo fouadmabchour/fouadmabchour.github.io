@@ -1,0 +1,422 @@
+{
+ "number": 4,
+ "title": "La première nuit",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le ragoût fut englouti en sept minutes. Kara chronométra."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne parla pendant ces sept minutes. On n'entendait que les cuillères, puis les doigts qui raclaient le fond de la marmite, puis Lina qui soupira de bonheur, les yeux fermés, comme on soupire devant la mer. Victoria Sorel mangea avec une élégance de dîner officiel, le dos droit, les petits doigts écartés, mais elle se resservit trois fois et lécha discrètement sa cuillère quand elle crut que personne ne regardait."
+  },
+  {
+   "type": "text",
+   "value": "Léo regardait. Il ne dit rien. Il tenait à la vie."
+  },
+  {
+   "type": "text",
+   "value": "— Bien, dit Kara en reposant la marmite vide. Logistique."
+  },
+  {
+   "type": "text",
+   "value": "— Logistique ? répéta Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Quatre personnes. Un matelas. Une porte en ficelle. On s'organise maintenant, ou on s'organise à trois heures du matin en s'engueulant."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a un matelas, constata Victoria, avec la gravité d'une juge. Il est pour moi."
+  },
+  {
+   "type": "text",
+   "value": "— Pourquoi pour toi ? demanda Kara."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai le dos fragile. Et je suis la plus âgée."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai trente-deux ans."
+  },
+  {
+   "type": "text",
+   "value": "Victoria la dévisagea, puis se tourna vers Lina."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis la plus âgée des deux plus jeunes."
+  },
+  {
+   "type": "text",
+   "value": "— Ça ne veut rien dire, dit Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Ça veut dire que je dors sur le matelas."
+  },
+  {
+   "type": "text",
+   "value": "Lina leva timidement la main, comme à l'école."
+  },
+  {
+   "type": "text",
+   "value": "— On pourrait dormir toutes les trois dessus ? Il est assez large, si on se serre. Et Léo…"
+  },
+  {
+   "type": "text",
+   "value": "Trois regards se posèrent sur lui. Léo s'empressa de lever les deux mains."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je dors par terre. Évidemment. Le sol, c'est mon élément. J'ai grandi sur le sol. J'ai fait mes premiers pas sur le sol."
+  },
+  {
+   "type": "text",
+   "value": "— Comme tout le monde, fit remarquer Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Oui, mais moi, j'y suis resté."
+  },
+  {
+   "type": "text",
+   "value": "Lina pouffa. Victoria leva les yeux au ciel, mais un coin de sa bouche trembla."
+  },
+  {
+   "type": "text",
+   "value": "Le matelas fut attribué. Victoria côté mur, « pour éviter les courants d'air et les regards ». Lina au milieu, parce qu'elle voulait. Kara côté porte, parce que c'était le côté de la porte. Léo étala sa couverture trouée sur le plancher, entre la table et le sac, et se coucha dessus avec un soulagement réel : il ne s'était pas senti aussi bien depuis des mois. Il avait le ventre plein. Il avait oublié ce que c'était."
+  },
+  {
+   "type": "text",
+   "value": "— Je prends le premier quart, annonça Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Le premier quart de quoi ? demanda Léo."
+  },
+  {
+   "type": "text",
+   "value": "— De garde. Toi, tu dors. Tu prends le deuxième. Réveille-toi quand je te secoue, pas quand je te parle. Je ne parle pas pendant les gardes."
+  },
+  {
+   "type": "text",
+   "value": "— Tu ne parles pas en dehors non plus."
+  },
+  {
+   "type": "text",
+   "value": "Kara le regarda. Il se tut. Elle s'assit sur une caisse près de la porte, le couteau sur les genoux, et éteignit la bougie d'un pincement de doigts."
+  },
+  {
+   "type": "text",
+   "value": "La cabane plongea dans le noir. Un noir presque total, juste percé d'un vague halo de lune à travers le Plexiglas. Léo entendit le souffle des trois femmes, le froissement de la robe de Victoria qui se plaignait à mi-voix que le tissu du matelas « grattait comme un pull de cousine », Lina qui chuchotait « bonne nuit » à tout le monde, une par une, puis à lui."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, Lina."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, Kara."
+  },
+  {
+   "type": "text",
+   "value": "Pas de réponse."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, Victoria."
+  },
+  {
+   "type": "text",
+   "value": "— Victoria Sorel, corrigea la voix dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne nuit, Victoria Sorel."
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "Léo attendit que les respirations ralentissent. Puis il tourna la tête vers le mur, couvrit sa bouche avec sa main et chuchota, si bas que lui-même s'entendait à peine."
+  },
+  {
+   "type": "text",
+   "value": "— Système ?"
+  },
+  {
+   "type": "text",
+   "value": "Le rectangle bleu s'alluma aussitôt, à quelques centimètres de son nez. Il plissa les yeux. Dans le noir, c'était comme regarder un téléphone à pleine luminosité à trois heures du matin."
+  },
+  {
+   "type": "text",
+   "value": "[Bonsoir, Léo ! Mode nuit activé.]"
+  },
+  {
+   "type": "text",
+   "value": "La luminosité baissa d'un cran, poliment."
+  },
+  {
+   "type": "text",
+   "value": "— Merci. Bon. J'ai des questions."
+  },
+  {
+   "type": "text",
+   "value": "[Je suis là pour ça. Dans une certaine mesure.]"
+  },
+  {
+   "type": "text",
+   "value": "— Les jauges. Elles montent comment, exactement ?"
+  },
+  {
+   "type": "text",
+   "value": "[Elles mesurent un sentiment réel. Elles montent lorsque vos actes sont sincères.]"
+  },
+  {
+   "type": "text",
+   "value": "— Donc si je fais quelque chose de gentil, ça monte. Et si ça monte, tu me donnes des trucs. Comme le ragoût."
+  },
+  {
+   "type": "text",
+   "value": "[Résumé correct, quoique un peu commercial.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo réfléchit. Une idée lui vint, une de ces idées qui ont l'air brillantes à minuit et stupides à midi."
+  },
+  {
+   "type": "text",
+   "value": "— Et si je dis un truc gentil à Victoria, là, maintenant ? Genre, un compliment. Ça monte ?"
+  },
+  {
+   "type": "text",
+   "value": "[Je ne peux pas prédire le résultat. Vous êtes libre d'essayer.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo se redressa sur un coude. Il chercha la silhouette de Victoria dans le noir, contre le mur."
+  },
+  {
+   "type": "text",
+   "value": "— Victoria Sorel ? chuchota-t-il."
+  },
+  {
+   "type": "text",
+   "value": "Un long soupir."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je voulais juste dire… Vous avez une voix magnifique. Vraiment. Une voix de… de star."
+  },
+  {
+   "type": "text",
+   "value": "Silence. Puis :"
+  },
+  {
+   "type": "text",
+   "value": "— Vous dites ça parce que vous voulez le matelas."
+  },
+  {
+   "type": "text",
+   "value": "— Non !"
+  },
+  {
+   "type": "text",
+   "value": "— Vous dites ça parce que vous ne savez toujours pas qui je suis et que vous essayez de vous rattraper."
+  },
+  {
+   "type": "text",
+   "value": "— Un peu, admit Léo."
+  },
+  {
+   "type": "text",
+   "value": "Le petit son de trompette dégonflée résonna dans sa tête."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Victoria Sorel : 2 % (-1 %). Remarque : la flatterie est détectée à 97 %.]"
+  },
+  {
+   "type": "text",
+   "value": "— Oh, allez, souffla Léo en se recouchant."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon ? fit Victoria."
+  },
+  {
+   "type": "text",
+   "value": "— Rien. Je disais : allez, bonne nuit."
+  },
+  {
+   "type": "text",
+   "value": "Il fixa l'écran bleu avec rancune."
+  },
+  {
+   "type": "text",
+   "value": "— Tu aurais pu me prévenir."
+  },
+  {
+   "type": "text",
+   "value": "[Je vous ai prévenu. J'ai dit : « Je ne peux pas prédire le résultat. » Traduction libre : « Ne faites pas ça. »]"
+  },
+  {
+   "type": "text",
+   "value": "— Tu as un sens de l'humour, toi ?"
+  },
+  {
+   "type": "text",
+   "value": "[Je dispose d'un module de communication conviviale. Son efficacité est en cours d'évaluation.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo eut une deuxième idée. Pire que la première."
+  },
+  {
+   "type": "text",
+   "value": "— D'accord. Autre test. Si je me donne moi-même une quête ? Genre : « Quête : manger une deuxième marmite de ragoût. » Tu me la valides ?"
+  },
+  {
+   "type": "text",
+   "value": "[Non.]"
+  },
+  {
+   "type": "text",
+   "value": "— Même un tout petit ragoût ?"
+  },
+  {
+   "type": "text",
+   "value": "[Non. Les quêtes sont attribuées en fonction des besoins de votre mission. Votre mission n'est pas le ragoût.]"
+  },
+  {
+   "type": "text",
+   "value": "— Ma mission, c'est quoi, alors ? Sauver l'humanité, c'est vague, tu sais. C'est très vague. C'est le genre de truc qu'on met sur un CV quand on n'a rien fait."
+  },
+  {
+   "type": "text",
+   "value": "[Votre mission se précisera. Pour l'instant : dormez. Votre quart de garde commence dans 2 heures et 14 minutes.]"
+  },
+  {
+   "type": "text",
+   "value": "— Et Kara ? Sa jauge ? Comment je la fais monter, elle ?"
+  },
+  {
+   "type": "text",
+   "value": "L'écran sembla hésiter. Une petite icône de chargement tourna dans un coin."
+  },
+  {
+   "type": "text",
+   "value": "[Kara Duval valorise des qualités que vous n'avez pas encore démontrées.]"
+  },
+  {
+   "type": "text",
+   "value": "— Lesquelles ?"
+  },
+  {
+   "type": "text",
+   "value": "[Toutes.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo regarda le plafond qui fuyait. Une goutte tomba exactement sur son front."
+  },
+  {
+   "type": "text",
+   "value": "— C'est encourageant, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles à qui ? fit la voix de Kara, depuis la porte."
+  },
+  {
+   "type": "text",
+   "value": "Léo se figea."
+  },
+  {
+   "type": "text",
+   "value": "— Je prie."
+  },
+  {
+   "type": "text",
+   "value": "— Tu pries quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le… saint patron des livreurs. Saint Christophe. Il protège les voyageurs. Et les colis."
+  },
+  {
+   "type": "text",
+   "value": "Un temps."
+  },
+  {
+   "type": "text",
+   "value": "— Prie moins fort."
+  },
+  {
+   "type": "text",
+   "value": "Léo se tut. L'écran bleu s'éteignit avec un discret « bip » de politesse. Dans le noir, il entendit Lina rire sous sa couverture, un tout petit rire, retenu, et quelque part dans sa tête, très loin, quelque chose qui ressemblait à un tintement de cloche."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Lina Morel : 31 %]"
+  },
+  {
+   "type": "text",
+   "value": "Il resta un moment les yeux ouverts, à écouter. Le Rhône, au loin, qui clapotait contre les grillages. Un chien qui aboyait de l'autre côté du mur, puis se taisait brusquement. Le toit qui gouttait, régulier comme une horloge. Et ces trois respirations nouvelles, dans sa cabane qui n'avait jamais entendu que la sienne."
+  },
+  {
+   "type": "text",
+   "value": "Depuis Chloé, il dormait seul. Il s'était habitué au silence comme on s'habitue à une dent cassée : on n'y pense plus, et puis un jour, on mord dans quelque chose de dur, et ça revient d'un coup. Ce soir, le silence n'était plus là. À sa place, il y avait une actrice qui se plaignait du tissu, une soldate qui ne disait pas bonne nuit, et une étudiante qui le disait à tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "Il s'endormit en souriant."
+  },
+  {
+   "type": "text",
+   "value": "Il fut réveillé non pas par une main qui le secouait, mais par un bruit."
+  },
+  {
+   "type": "text",
+   "value": "Un raclement. Lent. Métallique. Tout près de sa tête."
+  },
+  {
+   "type": "text",
+   "value": "Léo ouvrit les yeux. Il faisait toujours nuit. La lune avait tourné, et la cabane était plus noire encore. Il ne savait pas quelle heure il était. Il ne savait pas si Kara l'avait oublié, ou si elle s'était endormie, ou si…"
+  },
+  {
+   "type": "text",
+   "value": "Le raclement recommença."
+  },
+  {
+   "type": "text",
+   "value": "Il venait de la porte. Quelqu'un, de l'autre côté, glissait une lame entre le battant et le chambranle. Lentement. Pour couper la ficelle."
+  },
+  {
+   "type": "text",
+   "value": "Léo tourna la tête vers la caisse de Kara."
+  },
+  {
+   "type": "text",
+   "value": "La caisse était vide."
+  },
+  {
+   "type": "text",
+   "value": "Et la ficelle, avec un petit claquement sec, céda."
+  }
+ ]
+}

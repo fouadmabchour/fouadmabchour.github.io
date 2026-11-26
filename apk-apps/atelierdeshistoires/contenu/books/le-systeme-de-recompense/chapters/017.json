@@ -1,0 +1,294 @@
+{
+ "number": 17,
+ "title": "La ferme abandonnée",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Les phares n'étaient pas venus jusqu'à eux. Ils avaient longé l'autoroute vers le nord, puis s'étaient éteints, et Kara avait déclaré que ça ne voulait rien dire du tout, ce qui, venant d'elle, voulait dire qu'il fallait partir tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Ils partirent à l'aube. Hakim marchait appuyé sur Léo d'un côté et sur une béquille taillée dans un manche de pioche de l'autre. Il avait encore de la fièvre, mais il râlait, et Mémé Jo affirmait qu'un homme qui râle est un homme qui guérit."
+  },
+  {
+   "type": "text",
+   "value": "— Dans ce cas, je suis immortel, disait Hakim."
+  },
+  {
+   "type": "text",
+   "value": "Ils quittèrent l'autoroute à Givors, traversèrent des lotissements vides aux volets fermés, des ronds-points envahis de ronces, une zone commerciale où une enseigne de magasin de meubles promettait encore, en lettres délavées, « Tout pour votre intérieur ». Victoria s'arrêta devant."
+  },
+  {
+   "type": "text",
+   "value": "— Tout pour votre intérieur, lut-elle. J'aimerais bien, moi, un intérieur. Avec des murs. Et un toit. Et une baignoire."
+  },
+  {
+   "type": "text",
+   "value": "— Une baignoire, répéta Lina comme on parle d'une licorne."
+  },
+  {
+   "type": "text",
+   "value": "— Avec de la mousse."
+  },
+  {
+   "type": "text",
+   "value": "— Arrêtez, gémit Petit Sam. Vous me donnez envie."
+  },
+  {
+   "type": "text",
+   "value": "— Toi, tu n'as jamais pris un bain de ta vie, mon chéri."
+  },
+  {
+   "type": "text",
+   "value": "— Justement !"
+  },
+  {
+   "type": "text",
+   "value": "Puis la route se mit à monter. Les maisons s'espacèrent, les arbres revinrent : des châtaigniers, des hêtres, des sapins noirs, une forêt dense et silencieuse que la rouille grise n'avait pas touchée. Le champignon ne s'attaquait qu'aux céréales ; les arbres, eux, s'en fichaient. Pour la première fois depuis des années, Léo entendit des oiseaux. Pas un ou deux. Des dizaines."
+  },
+  {
+   "type": "text",
+   "value": "Lina s'arrêta au milieu du chemin, la bouche ouverte."
+  },
+  {
+   "type": "text",
+   "value": "— Des myrtilles, souffla-t-elle. Léo. Des myrtilles sauvages. Et là, de l'ail des ours. Et ça, c'est de l'oseille. On peut manger tout ça. On peut manger toute la forêt !"
+  },
+  {
+   "type": "text",
+   "value": "Elle se mit à cueillir avec une telle joie que personne n'eut le cœur de lui dire qu'ils étaient pressés. Même Kara attendit, en surveillant les bois, une poignée de myrtilles à la main qu'elle mangeait une par une, l'air de rien."
+  },
+  {
+   "type": "text",
+   "value": "Le carillon retentit."
+  },
+  {
+   "type": "text",
+   "value": "[Zone découverte : Parc naturel du Pilat. Biodiversité détectée : élevée. Ressources comestibles : nombreuses. Moustiques : également nombreux.]"
+  },
+  {
+   "type": "text",
+   "value": "— Ça, j'avais remarqué, marmonna Léo en se claquant la nuque."
+  },
+  {
+   "type": "text",
+   "value": "[Destination : 2,4 km. Continuez tout droit, puis tournez à gauche au vieux calvaire.]"
+  },
+  {
+   "type": "text",
+   "value": "— Il fait GPS, maintenant, dit Léo."
+  },
+  {
+   "type": "text",
+   "value": "— Qui ça ? demanda Hakim."
+  },
+  {
+   "type": "text",
+   "value": "— Personne."
+  },
+  {
+   "type": "text",
+   "value": "— Il parle encore à personne, expliqua Petit Sam à Hakim, du ton qu'on emploie pour un chien qui aboie aux voitures. On a l'habitude."
+  },
+  {
+   "type": "text",
+   "value": "Le vieux calvaire était là, une croix de pierre mangée de lichen au croisement de deux chemins de terre. Ils tournèrent à gauche. Le chemin descendit dans un vallon, longea un ruisseau presque à sec, puis remonta vers une clairière."
+  },
+  {
+   "type": "text",
+   "value": "Et la ferme apparut."
+  },
+  {
+   "type": "text",
+   "value": "Elle était posée au flanc de la colline comme une vieille forteresse : un grand corps de logis en pierres grises, deux étages, un toit de tuiles rondes à moitié couvert de mousse. Autour, une grange, une bergerie, un four à pain, le tout enfermé dans une cour par un mur de pierre sèche haut de deux mètres, avec un unique portail en bois massif. Les fenêtres du rez-de-chaussée avaient des barreaux. Quelqu'un, avant, avait voulu se protéger. Quelqu'un avait réfléchi."
+  },
+  {
+   "type": "text",
+   "value": "Sur le linteau du portail, gravé dans la pierre, on lisait : « Les Combes — 1847 »."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne veux pas m'emballer, dit Victoria d'une voix tremblante, mais je crois que c'est un intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Kara leva le poing. Tout le monde se figea."
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'entre avant moi, dit-elle. Léo, avec moi. Les autres, derrière le mur. Si vous entendez crier, vous courez."
+  },
+  {
+   "type": "text",
+   "value": "— Et si c'est toi qui cries ? demanda Petit Sam."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne crie pas."
+  },
+  {
+   "type": "text",
+   "value": "Le portail n'était pas verrouillé. Il grinça comme une porte de film d'horreur, ce que Victoria ne manqua pas de signaler à voix haute. La cour était envahie d'herbes folles et de pissenlits. Au milieu, sous un petit toit de tuiles, il y avait un puits, avec sa margelle de pierre et une poulie rouillée."
+  },
+  {
+   "type": "text",
+   "value": "Léo et Kara firent le tour, arme à la main : elle avec son arbalète, lui avec sa barre de fer, qu'il tenait désormais correctement, coude fléchi, comme elle le lui avait appris. La maison était vide. Pas de corps, pas de traces de lutte. Les meubles étaient couverts de draps blancs, la vaisselle rangée dans le buffet. Sur la table de la cuisine, une note jaunie, écrite à la main :"
+  },
+  {
+   "type": "text",
+   "value": "« Nous partons rejoindre notre fille à Annonay. Si vous êtes dans le besoin, servez-vous. Prenez soin de la maison. — Jeanne et Paul. »"
+  },
+  {
+   "type": "text",
+   "value": "La date : mars 2026."
+  },
+  {
+   "type": "text",
+   "value": "Léo relut la note trois fois. Il pensa à Jeanne et Paul, qui avaient couvert leurs meubles de draps avant de partir vers une fille qu'ils n'avaient peut-être jamais retrouvée. Il plia le papier avec soin et le mit dans la poche de sa veste."
+  },
+  {
+   "type": "text",
+   "value": "— Rien à signaler, dit Kara en redescendant de l'étage. Cinq chambres. Des matelas. De la laine dans les placards. Les souris ont mangé les rideaux."
+  },
+  {
+   "type": "text",
+   "value": "— C'est un détail."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais. Je fais un rapport, c'est tout."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta pourtant devant la fenêtre de la cuisine, celle qui donnait sur la vallée. En bas, très loin, on devinait le ruban gris du Rhône, et plus loin encore la tache sombre de Lyon. Elle resta là un long moment."
+  },
+  {
+   "type": "text",
+   "value": "— Bonne position, dit-elle enfin. Un seul accès. Des murs épais. Un point d'eau à l'intérieur. Avec dix personnes motivées, on tient un siège."
+  },
+  {
+   "type": "text",
+   "value": "— On n'est que sept."
+  },
+  {
+   "type": "text",
+   "value": "— Alors il faudra en trouver trois autres. Et motivées, Léo. Pas des touristes."
+  },
+  {
+   "type": "text",
+   "value": "C'était, de la part de Kara, l'équivalent d'un cri de joie."
+  },
+  {
+   "type": "text",
+   "value": "Il sortit dans la cour et appela les autres. Ce qui suivit fut le chaos le plus heureux que Léo eût vu depuis cinq ans."
+  },
+  {
+   "type": "text",
+   "value": "Petit Sam courut partout en hurlant qu'il voulait la chambre « avec la fenêtre ronde ». Mémé Jo inspecta le four à pain et déclara, la larme à l'œil, qu'elle allait « faire des miches à se rouler par terre », avant de se souvenir qu'il n'y avait pas de farine et de se rouler par terre quand même, de désespoir comique, sous les applaudissements de Sam. Hakim s'effondra dans un fauteuil à oreilles et annonça qu'il n'en bougerait plus jamais. Victoria découvrit une baignoire en fonte à pieds de lion au premier étage et poussa un cri si aigu que Kara arriva en courant, arbalète armée, prête à tuer."
+  },
+  {
+   "type": "text",
+   "value": "— C'est une baignoire, Kara."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai cru que tu te faisais égorger."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens de vivre le plus beau moment de ma vie. Laisse-moi."
+  },
+  {
+   "type": "text",
+   "value": "Restait le puits. Léo fit descendre le vieux seau, en entendant la corde se dérouler longtemps, très longtemps. Puis un plouf. Il remonta le seau, lourd, ruisselant. L'eau était claire et glacée."
+  },
+  {
+   "type": "text",
+   "value": "Lina la goûta la première, dans le creux de sa main. Elle ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Elle est bonne, dit-elle. Elle est vraiment bonne."
+  },
+  {
+   "type": "text",
+   "value": "Le carillon sonna, avec une petite fanfare de trompettes numériques."
+  },
+  {
+   "type": "text",
+   "value": "[QUÊTE MAJEURE ACCOMPLIE (partiellement) : Trouver un foyer.]"
+  },
+  {
+   "type": "text",
+   "value": "[Récompense : 1 cadenas renforcé, 1 trousse à outils complète, 2 kg de graines de légumes variés, 1 livre « Le Potager pour les nuls ». Bienvenue chez vous, Léo !]"
+  },
+  {
+   "type": "text",
+   "value": "[Nouvelle quête : Faire de cette maison un foyer. Indice : une maison n'est qu'un abri. Un foyer, ce sont des gens.]"
+  },
+  {
+   "type": "text",
+   "value": "Le soir, ils mangèrent dans la grande cuisine, à la lueur d'un feu de cheminée que Kara avait enfin autorisé, vu l'épaisseur des murs. Une soupe d'ail des ours et de conserves, des myrtilles en dessert. C'était le meilleur repas de leur vie et tout le monde le dit au moins deux fois."
+  },
+  {
+   "type": "text",
+   "value": "Plus tard, quand les autres furent montés se coucher, Léo resta un moment dans la cour avec Lina. Elle regardait les étoiles, la tête renversée, ses longs cheveux blonds dans le dos."
+  },
+  {
+   "type": "text",
+   "value": "— Tu crois qu'on peut rester ? demanda-t-elle. Vraiment ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je crois qu'on peut essayer."
+  },
+  {
+   "type": "text",
+   "value": "— Je pourrai faire un potager, là, au sud, contre le mur. Le sol est bon. J'ai regardé. Et il y a des pommiers derrière la grange, tu les as vus ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je les ai vus."
+  },
+  {
+   "type": "text",
+   "value": "Elle se tourna vers lui. Elle souriait, mais ses yeux brillaient."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Léo."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pas moi. C'est le Système."
+  },
+  {
+   "type": "text",
+   "value": "— Le Système, il t'a donné une carte. C'est toi qui nous as amenés jusqu'ici."
+  },
+  {
+   "type": "text",
+   "value": "Il ne sut pas quoi répondre. Elle lui serra la main, fort, puis rentra."
+  },
+  {
+   "type": "text",
+   "value": "Léo resta seul dans la cour. Il se sentait bien. Il ne se rappelait plus la dernière fois qu'il s'était senti bien."
+  },
+  {
+   "type": "text",
+   "value": "C'est alors qu'il le vit."
+  },
+  {
+   "type": "text",
+   "value": "À la lisière de la forêt, au-dessus du mur, entre deux sapins, il y avait un reflet. Un petit éclat de lumière, rond, qui accrochait la lune. Puis il bougea. Léo plissa les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Des jumelles."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un, là-haut dans les arbres, les observait depuis le début."
+  }
+ ]
+}

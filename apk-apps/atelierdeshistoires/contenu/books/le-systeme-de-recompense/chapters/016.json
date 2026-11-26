@@ -1,0 +1,302 @@
+{
+ "number": 16,
+ "title": "Le médicament",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Hakim ne se plaignait pas. C'était bien ça le problème."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va, répétait-il, assis contre la roue d'un camion-citerne renversé, sur l'aire de repos abandonnée où ils avaient échoué au bout de la nuit, après avoir longé le petit bois jusqu'à la départementale. C'est une égratignure. J'ai eu pire en changeant un embrayage."
+  },
+  {
+   "type": "text",
+   "value": "L'égratignure était un trou dans le flanc gauche, là où le carreau d'arbalète s'était planté pendant la fuite. Kara avait retiré la pointe et recousu la plaie à la lumière d'une lampe à dynamo, avec du fil de pêche et une aiguille passée à la flamme, sans un mot de trop. Ça, c'était la veille. Ce matin, la peau autour de la plaie était rouge, gonflée, brûlante. Et Hakim, qui transpirait sous un ciel gris à quinze degrés, claquait des dents."
+  },
+  {
+   "type": "text",
+   "value": "Mémé Jo posa sa main ridée sur le front du mécanicien et la retira comme d'une plaque de cuisson."
+  },
+  {
+   "type": "text",
+   "value": "— Infection, dit-elle. J'ai vu ça avec mon Raymond, en quatre-vingt-dix. Sans antibiotiques, dans trois jours, on creuse."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Josette, grommela Hakim. Toujours le mot pour remonter le moral."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis cantinière, pas animatrice."
+  },
+  {
+   "type": "text",
+   "value": "Petit Sam s'était collé contre Lina, qui lui caressait les cheveux en regardant Léo avec ce regard-là, celui qui disait « tu vas trouver quelque chose, hein ? ». Léo aurait donné cher pour qu'elle le regarde autrement. Avec moins d'espoir. L'espoir, c'était lourd à porter."
+  },
+  {
+   "type": "text",
+   "value": "Il s'éloigna de quelques pas, derrière la carcasse d'un autocar de tourisme dont les sièges étaient encore couverts de housses à motifs de palmiers, et parla tout bas."
+  },
+  {
+   "type": "text",
+   "value": "— Système. Il me faut des antibiotiques."
+  },
+  {
+   "type": "text",
+   "value": "L'écran cyan s'ouvrit aussitôt, avec son petit carillon joyeux qui, dans ce paysage de ferraille et de cendres, sonnait comme une sonnette de vélo dans un enterrement."
+  },
+  {
+   "type": "text",
+   "value": "[Bonjour, Léo ! Demande enregistrée : antibiotiques (catégorie Médical, rareté : Épique).]"
+  },
+  {
+   "type": "text",
+   "value": "[Condition de déblocage : faire progresser une Jauge d'affection de 5 % minimum.]"
+  },
+  {
+   "type": "text",
+   "value": "[Conseil du jour : la confiance naît souvent de la vulnérabilité. Statistiquement, 78 % des liens solides commencent par une confidence.]"
+  },
+  {
+   "type": "text",
+   "value": "— C'est une blague ? souffla Léo. Un homme est en train de mourir, et toi tu me sors un horoscope ?"
+  },
+  {
+   "type": "text",
+   "value": "[Ce n'est pas un horoscope. Les horoscopes n'ont aucune valeur prédictive. Moi, si.]"
+  },
+  {
+   "type": "text",
+   "value": "— Je peux pas faire monter une jauge sur commande ! Tu m'as assez dit que ça marchait pas !"
+  },
+  {
+   "type": "text",
+   "value": "[Exact. Toute tentative de manipulation entraîne une baisse. Je vous recommande donc de ne pas essayer de manipuler.]"
+  },
+  {
+   "type": "text",
+   "value": "— Super. Merci. Très utile."
+  },
+  {
+   "type": "text",
+   "value": "[Avec plaisir !]"
+  },
+  {
+   "type": "text",
+   "value": "Léo se cogna doucement le front contre la tôle de l'autocar. Une fois. Deux fois."
+  },
+  {
+   "type": "text",
+   "value": "— Tu parles encore à ton ami imaginaire ?"
+  },
+  {
+   "type": "text",
+   "value": "Victoria se tenait à l'angle du car, ses baskets fluo à la main, pour une fois. Ses pieds nus étaient couverts de poussière et elle avait noué ses cheveux roux avec un bout de fil électrique. Même comme ça, elle avait l'air de sortir d'un tournage."
+  },
+  {
+   "type": "text",
+   "value": "— Il est pas imaginaire, dit Léo. Il est juste… exigeant."
+  },
+  {
+   "type": "text",
+   "value": "— Comme tous les producteurs. Qu'est-ce qu'il veut ?"
+  },
+  {
+   "type": "text",
+   "value": "Léo hésita. Victoria savait pour le Système depuis le jour où il s'était fait surprendre à négocier avec le vide pour une boîte de sardines. Elle n'y croyait qu'à moitié, mais elle croyait aux résultats."
+  },
+  {
+   "type": "text",
+   "value": "— Il veut que je… que je dise des choses vraies."
+  },
+  {
+   "type": "text",
+   "value": "Victoria haussa un sourcil parfait."
+  },
+  {
+   "type": "text",
+   "value": "— Toi ? Mais tu ne fais que ça, mon pauvre. Tu es incapable de mentir. Tu m'as dit que tu avais vu mon film et tu as rougi jusqu'aux oreilles."
+  },
+  {
+   "type": "text",
+   "value": "— Pas ce genre de choses vraies."
+  },
+  {
+   "type": "text",
+   "value": "Elle le regarda longtemps. Puis elle renfila ses baskets fluo avec un soupir de veuve, en murmurant un adieu à ses talons perdus, et elle lui prit le bras."
+  },
+  {
+   "type": "text",
+   "value": "— Viens. Si tu dois parler, parle à tout le monde. Ce soir, on n'a rien d'autre à faire que d'avoir peur. Autant avoir peur ensemble."
+  },
+  {
+   "type": "text",
+   "value": "Le soir tomba vite, comme toujours depuis la Famine, comme si le ciel lui-même n'avait plus la force de rester éclairé. Kara refusa qu'on allume un feu ; les Charognards du Bourreau n'étaient peut-être pas loin. Ils s'installèrent donc dans l'autocar, sur les sièges à palmiers, enroulés dans des couvertures, avec Hakim allongé sur la banquette du fond, qui délirait doucement à propos de bougies de préchauffage."
+  },
+  {
+   "type": "text",
+   "value": "Personne ne dormait. Kara montait la garde près de la porte, l'arbalète ramassée sur l'autoroute en travers des genoux. Lina tenait la main d'Hakim. Mémé Jo tricotait dans le noir, un truc informe qu'elle appelait « une écharpe pour le petit » et que tout le monde appelait « la chose ». Petit Sam avait la tête sur les genoux de Victoria."
+  },
+  {
+   "type": "text",
+   "value": "Léo s'assit dans l'allée centrale, entre les rangées."
+  },
+  {
+   "type": "text",
+   "value": "— Je vais vous raconter un truc, dit-il. C'est pas drôle. Désolé d'avance."
+  },
+  {
+   "type": "text",
+   "value": "— Pour une fois, marmonna Kara."
+  },
+  {
+   "type": "text",
+   "value": "— Vas-y, mon grand, dit Mémé Jo sans lever les yeux de la chose."
+  },
+  {
+   "type": "text",
+   "value": "Léo prit une inspiration. Ça faisait cinq ans qu'il évitait cette histoire, qu'il la contournait comme on contourne un nid-de-poule à vélo, par habitude, sans même y penser."
+  },
+  {
+   "type": "text",
+   "value": "— J'avais une petite sœur. Chloé. Elle avait seize ans quand la rouille est arrivée. Elle voulait être vétérinaire, elle ramenait tous les pigeons blessés de Lyon dans notre appart de la Croix-Rousse. Ma mère hurlait. On avait un pigeon qui s'appelait Monsieur Bernard et qui dormait dans le panier à pain."
+  },
+  {
+   "type": "text",
+   "value": "Petit Sam pouffa dans le noir. Léo sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Quand les supermarchés ont été vidés, j'ai continué à livrer. Des colis, des médicaments, n'importe quoi, pour des gens qui payaient en bouffe. Je traversais la ville à vélo tous les jours. Je me trouvais héroïque, tiens. Et un jour, il y a eu les émeutes à la Part-Dieu. Chloé est sortie me chercher parce que je rentrais pas. Moi, j'étais coincé dans un parking avec une livraison de lait en poudre."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta. Le car était silencieux. Même Hakim avait cessé de marmonner."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai retrouvée trois jours après. À l'hôpital Édouard-Herriot. Il n'y avait plus de médecins, juste des gens qui attendaient. Elle avait pris un mauvais coup dans la foule, et puis la fièvre. Une infection. Comme Hakim."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix se cassa sur le nom. Il se racla la gorge, ce qui ne servit à rien."
+  },
+  {
+   "type": "text",
+   "value": "— Il aurait fallu une boîte d'antibiotiques. Une seule boîte. J'en avais livré, des boîtes, pendant des semaines. À des gens qui avaient de quoi payer. Et le seul jour où j'en ai eu besoin, il n'y en avait plus nulle part."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda ses mains, dans la pénombre."
+  },
+  {
+   "type": "text",
+   "value": "— Après, je suis devenu le gars qui paie son Tribut en retard. Le loser. Ça m'allait bien. Les losers, on leur demande rien. On compte pas sur eux. Comme ça, ils peuvent décevoir personne."
+  },
+  {
+   "type": "text",
+   "value": "Quelqu'un renifla. C'était Lina, évidemment, mais Léo crut entendre un second reniflement, plus discret, du côté de la porte. Il n'osa pas vérifier."
+  },
+  {
+   "type": "text",
+   "value": "— Voilà. C'est pour ça que je laisserai pas Hakim mourir. Même si je dois parler à un écran bleu toute la nuit et passer pour un dingue."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Victoria qui brisa le silence. Elle parla bas, sans aucun de ses effets de voix habituels."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'es pas un loser, Léo. Tu es un homme qui a décidé de se punir. Ce n'est pas la même chose. J'ai joué les deux. Le deuxième est beaucoup plus difficile."
+  },
+  {
+   "type": "text",
+   "value": "Lina se leva, traversa l'allée et s'assit à côté de lui, si près que leurs épaules se touchaient. Elle ne dit rien. Elle posa juste sa tête contre lui. Ses cheveux sentaient la poussière et, très légèrement, le savon à la lavande qu'il lui avait donné des semaines plus tôt."
+  },
+  {
+   "type": "text",
+   "value": "Et Kara, depuis la porte, sans se retourner, lâcha :"
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur Bernard. Sérieusement ?"
+  },
+  {
+   "type": "text",
+   "value": "Léo éclata de rire, d'un rire mouillé, idiot, libérateur. Petit Sam rit aussi, puis Mémé Jo, puis tout le car, même Hakim, qui rit en gémissant et en traitant tout le monde d'abrutis."
+  },
+  {
+   "type": "text",
+   "value": "Le carillon retentit."
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Lina : 66 % (+6)]"
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Victoria : 46 % (+10)]"
+  },
+  {
+   "type": "text",
+   "value": "[Jauge d'affection — Kara : 57 % (+2)]"
+  },
+  {
+   "type": "text",
+   "value": "[Félicitations ! Condition remplie. Récompense : Antibiotiques — amoxicilline, 1 boîte (traitement complet). Note : Monsieur Bernard aurait été fier de vous.]"
+  },
+  {
+   "type": "text",
+   "value": "Léo ouvrit son sac. Entre la gourde et le paquet de biscuits secs, il y avait une boîte blanche et verte, neuve, avec sa notice pliée en accordéon. Il la tint un moment sans bouger, comme si elle risquait de s'évaporer."
+  },
+  {
+   "type": "text",
+   "value": "— C'est le Système, dit Mémé Jo. Je reconnais cette tête-là. C'est la tête de quelqu'un qui vient d'être servi."
+  },
+  {
+   "type": "text",
+   "value": "Kara lut la notice à la lumière de la lampe à dynamo, calcula les doses avec l'efficacité d'une infirmière militaire, et fit avaler le premier comprimé à Hakim, qui protesta qu'il préférait mourir que d'être soigné par une sergente."
+  },
+  {
+   "type": "text",
+   "value": "— Tu préfères, je peux arranger ça, dit Kara."
+  },
+  {
+   "type": "text",
+   "value": "Il avala."
+  },
+  {
+   "type": "text",
+   "value": "Vers minuit, la fièvre baissa un peu. Pas beaucoup. Assez pour qu'il s'endorme vraiment. Assez pour que Lina s'endorme à son tour, la tête toujours sur l'épaule de Léo, qui n'osa plus bouger d'un millimètre pendant trois heures, au prix d'une crampe monumentale."
+  },
+  {
+   "type": "text",
+   "value": "Il ne dormait pas quand le carillon sonna de nouveau, plus grave, sur une note qu'il n'avait encore jamais entendue."
+  },
+  {
+   "type": "text",
+   "value": "Une carte s'afficha devant ses yeux. Une vraie carte, en trois dimensions, aux lignes cyan. Le Rhône. L'autoroute. Et, au sud-ouest, une masse sombre de montagnes boisées, sur laquelle clignotait un point lumineux."
+  },
+  {
+   "type": "text",
+   "value": "[Mise à jour de la Quête majeure : Trouver un foyer.]"
+  },
+  {
+   "type": "text",
+   "value": "[Destination recommandée : le Pilat. Distance : 31 km.]"
+  },
+  {
+   "type": "text",
+   "value": "[Probabilité de survie du groupe si vous restez ici : 12 %. Probabilité si vous partez à l'aube : à calculer. Bonne nuit, Léo !]"
+  },
+  {
+   "type": "text",
+   "value": "Il regarda le point clignoter, encore et encore, comme un cœur."
+  },
+  {
+   "type": "text",
+   "value": "Et, très loin derrière eux, du côté de l'autoroute, une lumière s'alluma. Puis une deuxième. Des phares."
+  }
+ ]
+}
