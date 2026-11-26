@@ -1,0 +1,230 @@
+{
+ "number": 7,
+ "title": "Le nom d'un autre",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Aurèle."
+  },
+  {
+   "type": "text",
+   "value": "Le nom tournait dans la tête de Noé comme une bille dans une boîte en fer. Il l'entendait encore, ce souffle glacé contre ses doigts, et il revoyait le regard de la mariée à l'instant où elle l'avait prononcé : une joie si brusque qu'elle avait fait mal à voir. Puis la Douairière avait frappé sa canne, et la mariée avait baissé la tête comme une enfant prise en faute."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas son nom. Elle s'était trompée de visage."
+  },
+  {
+   "type": "text",
+   "value": "Ou bien elle ne s'était pas trompée du tout."
+  },
+  {
+   "type": "text",
+   "value": "— Mesdames et messieurs, annonça Céleste, la nuit est longue et la fête l'est davantage. Vous allez être conduits à vos appartements. Reposez-vous. Lorsque le gong sonnera, vous reviendrez prendre votre place."
+  },
+  {
+   "type": "text",
+   "value": "Il marqua un temps, et son sourire s'élargit d'un cran."
+  },
+  {
+   "type": "text",
+   "value": "— Tous."
+  },
+  {
+   "type": "text",
+   "value": "Les servantes guidèrent les invités par groupes dans un escalier de pierre qui montait en colimaçon. Les murs suintaient de froid. À chaque palier, une bougie noire brûlait dans une niche, et sa flamme ne réchauffait rien ; elle semblait même aspirer le peu de chaleur qui restait dans les corps. Malik serrait les bras contre sa poitrine en claquant des dents."
+  },
+  {
+   "type": "text",
+   "value": "— Des chambres, grommela-t-il. Évidemment qu'il y a des chambres. Dans les films, c'est toujours pendant la nuit que ça dérape. Personne ne survit à la nuit, Noé. Personne."
+  },
+  {
+   "type": "text",
+   "value": "— On a survécu au dessert."
+  },
+  {
+   "type": "text",
+   "value": "— Grâce à toi. Ce qui fait de toi le héros. Et le héros, il meurt à la fin."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Malik."
+  },
+  {
+   "type": "text",
+   "value": "— De rien. Je dis ça pour t'aider."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir des invités s'étirait sous un plafond bas, bordé de portes en chêne toutes semblables. On répartit les invités par chambrées. Noé partagea la sienne avec Malik et Monsieur Paul, à qui on avait ajouté un lit de camp comme on ajoute un couvert à une table trop pleine. Yasmine et Clara obtinrent la chambre voisine. Gérard, plus loin, réclama une chambre seule et l'obtint sans qu'on lui réponde."
+  },
+  {
+   "type": "text",
+   "value": "La pièce sentait la poussière et la lavande morte. Un lit à baldaquin aux rideaux décolorés, une cheminée sans feu, une table de toilette. Au-dessus de celle-ci, un rectangle plus clair sur le papier peint, et deux clous nus : on avait décroché le miroir. Ou alors on l'avait recouvert d'un drap et emporté ailleurs. Noé préféra ne pas savoir."
+  },
+  {
+   "type": "text",
+   "value": "Malik s'effondra tout habillé sur le lit et rabattit l'édredon jusqu'à son nez."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne dors pas, déclara-t-il. Je ferme les yeux pour réfléchir."
+  },
+  {
+   "type": "text",
+   "value": "Trois minutes plus tard, il ronflait."
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Paul s'était assis au bord du lit de camp, ses longues mains posées sur ses genoux. Il observait Noé, qui faisait les cent pas devant la fenêtre givrée."
+  },
+  {
+   "type": "text",
+   "value": "— Elle vous a parlé, dit le vieil homme. Je l'ai vu."
+  },
+  {
+   "type": "text",
+   "value": "Noé s'arrêta."
+  },
+  {
+   "type": "text",
+   "value": "— Elle m'a appelé par un autre nom. Aurèle. Ça vous dit quelque chose ?"
+  },
+  {
+   "type": "text",
+   "value": "Monsieur Paul fronça ses sourcils broussailleux. Il chercha longtemps, les yeux perdus dans la cheminée froide."
+  },
+  {
+   "type": "text",
+   "value": "— La légende de Valmorte ne retient que la mariée, dit-il enfin. Les légendes sont injustes, elles gardent un visage et oublient tous les autres. Mais il me semble… il y avait, dans les archives de la paroisse, une mention d'un artiste. Un portraitiste engagé par le comte pour peindre sa future épouse. Je ne me souviens plus de son nom. Je suis désolé."
+  },
+  {
+   "type": "text",
+   "value": "Il eut un sourire triste."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai quatre-vingts ans, mon garçon. Ma mémoire est une bibliothèque où l'on a laissé entrer la pluie."
+  },
+  {
+   "type": "text",
+   "value": "— Ce château a peut-être des archives, lui aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Les règles disent qu'il faut être à sa place au gong. Elles ne disent pas qu'il faut rester dans sa chambre. Vous l'avez remarqué, n'est-ce pas ?"
+  },
+  {
+   "type": "text",
+   "value": "Noé ne répondit pas. Monsieur Paul s'allongea sur son lit de camp, croisa les mains sur sa poitrine comme un gisant, et ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "— Ne vous faites pas prendre, murmura-t-il. Et ne regardez rien qui brille."
+  },
+  {
+   "type": "text",
+   "value": "Noé attendit que sa respiration devienne régulière. Puis il entrouvrit la porte."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir était vide. Les bougies noires veillaient dans leurs niches. Quelque part, très loin, une horloge aurait dû sonner ; il n'y en avait aucune. Ici, le temps ne passait pas, il stagnait comme une eau dans une citerne."
+  },
+  {
+   "type": "text",
+   "value": "Il descendit l'escalier à pas de loup."
+  },
+  {
+   "type": "text",
+   "value": "Le château la nuit n'était pas le même. Ou plutôt, il ne faisait plus semblant. Les tapisseries montraient des chasses dont le gibier avait des visages humains. Les portraits de famille, le long des corridors, avaient tous les yeux crevés, de petites déchirures nettes dans la toile, comme si quelqu'un, un jour, avait refusé d'être regardé. Le froid se faisait plus mordant à mesure qu'il s'enfonçait dans l'aile ouest. Son souffle formait des nuages qui ne se dissipaient pas tout à fait, qui restaient suspendus derrière lui, comme les traces d'un passage."
+  },
+  {
+   "type": "text",
+   "value": "Il ouvrait les portes une à une. Un salon de musique aux harpes sans cordes. Une bibliothèque aux livres soudés par le gel, impossibles à ouvrir. Une salle d'armes où pendaient des épées couvertes de givre."
+  },
+  {
+   "type": "text",
+   "value": "Et puis, au bout d'un corridor plus large que les autres, une double porte entrebâillée, d'où sortait une odeur différente. Pas la poussière. La térébenthine. L'huile de lin."
+  },
+  {
+   "type": "text",
+   "value": "L'odeur d'un atelier."
+  },
+  {
+   "type": "text",
+   "value": "La galerie était longue et étroite, éclairée par une rangée de bougies noires plantées dans des appliques de bronze. Les murs portaient des dizaines de tableaux : des paysages du Jura sous la neige, des natures mortes, des chevaux, un chien de chasse aux yeux trop tristes. Et tout au fond, sur un chevalet monumental, une toile haute comme un homme, recouverte d'un drap de lin gris."
+  },
+  {
+   "type": "text",
+   "value": "Noé s'approcha."
+  },
+  {
+   "type": "text",
+   "value": "Le drap était ancien, raide, constellé de taches de peinture. Sur le bas du chevalet, gravé dans le bois, il distingua des lettres à demi effacées. Il s'accroupit, passa le pouce sur les sillons. Un A. Un V. Le reste avait disparu sous des siècles de cire."
+  },
+  {
+   "type": "text",
+   "value": "Il se releva. Sa main monta vers le coin du drap. Il sentait déjà la rugosité du lin sous ses doigts. Il suffisait de tirer."
+  },
+  {
+   "type": "text",
+   "value": "Des pas."
+  },
+  {
+   "type": "text",
+   "value": "Lents, réguliers, au bout de la galerie. Des talons qui frappaient le parquet avec la patience de quelqu'un qui ne s'est jamais pressé de sa vie, parce que rien, jamais, ne lui a échappé."
+  },
+  {
+   "type": "text",
+   "value": "Noé lâcha le drap. Il chercha une issue, n'en trouva pas, et se jeta derrière une lourde tenture de velours qui masquait une fenêtre condamnée. Le tissu sentait le moisi. Il se plaqua contre la pierre glacée, retint son souffle, et pria pour que ses chaussures ne dépassent pas."
+  },
+  {
+   "type": "text",
+   "value": "Par l'interstice entre la tenture et le mur, il vit entrer le comte."
+  },
+  {
+   "type": "text",
+   "value": "Le comte de Valmorte marchait sans hâte, les mains croisées dans le dos. Son habit noir brodé d'argent captait la lueur des bougies. Sa perruque poudrée semblait plus blanche que la neige, au-dehors. Il longea les tableaux un à un, s'arrêtant parfois, comme un visiteur dans un musée qu'il connaîtrait par cœur."
+  },
+  {
+   "type": "text",
+   "value": "Devant la toile voilée, il s'immobilisa longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Noé le fixait. Et parce qu'il le fixait, parce qu'il ne pouvait pas détourner les yeux, il vit ce qu'il avait déjà entrevu chez Céleste : le masque qui glisse. La peau du comte grisa sous la poudre, se tendit sur les os comme un parchemin mouillé. Ses yeux perdirent leurs pupilles, devinrent deux galets de lait. Et ses mains, croisées dans son dos, s'allongèrent, doigt après doigt, jusqu'à toucher le bas de ses reins."
+  },
+  {
+   "type": "text",
+   "value": "Puis le comte tourna la tête, et tout redevint normal. Un bel homme en habit, au regard fixe."
+  },
+  {
+   "type": "text",
+   "value": "Il quitta le tableau. Il marcha vers la tenture."
+  },
+  {
+   "type": "text",
+   "value": "Noé cessa de respirer. Le sang battait si fort dans ses oreilles qu'il était sûr qu'on pouvait l'entendre à l'autre bout du château. Le froid de la pierre lui mordait les omoplates. Il serra les poings pour empêcher ses mains de trembler."
+  },
+  {
+   "type": "text",
+   "value": "Les pas s'arrêtèrent."
+  },
+  {
+   "type": "text",
+   "value": "Juste devant lui. À un souffle de velours. Il voyait, sous le bord de la tenture, la pointe des souliers à boucle d'argent, immobiles. Il sentait monter du comte une odeur de cave et de fleurs fanées, une odeur de chapelle après un enterrement."
+  },
+  {
+   "type": "text",
+   "value": "Le comte ne tira pas le rideau. Il ne bougea pas du tout. Il resta là, de l'autre côté du tissu, et Noé eut la certitude affreuse que ces yeux sans cils le regardaient à travers le velours comme à travers une vitre."
+  },
+  {
+   "type": "text",
+   "value": "Puis la voix vint. Douce. Presque tendre. Glaciale."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais que tu la vois."
+  }
+ ]
+}

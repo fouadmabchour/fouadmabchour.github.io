@@ -8,7 +8,188 @@
   "horreur"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-26T16:45:22Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-26T16:54:04Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Les bougies noires",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 2,
+   "title": "Le gong",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 3,
+   "title": "Ce que voit Noé",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 4,
+   "title": "Le premier service",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 5,
+   "title": "Ne regardez pas en haut",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 6,
+   "title": "Le plat rouge",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 7,
+   "title": "Le nom d'un autre",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 8,
+   "title": "Le cœur de verre",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 9,
+   "title": "L'énigme de Malik",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 10,
+   "title": "Monsieur Paul",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 11,
+   "title": "La réponse est un nom",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 12,
+   "title": "Le sablier",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 13,
+   "title": "Le conte de Clara",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 14,
+   "title": "La galerie",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 15,
+   "title": "L'histoire de Noé",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 16,
+   "title": "Les mots interdits",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 17,
+   "title": "Les Pâles",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 18,
+   "title": "Gérard",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 19,
+   "title": "Clara",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 20,
+   "title": "La chapelle",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 21,
+   "title": "La Dernière Danse",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 22,
+   "title": "Première mort",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 23,
+   "title": "Les déjà-vu",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 24,
+   "title": "Les miroirs",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 25,
+   "title": "Le grand miroir voilé",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 26,
+   "title": "La dernière vie",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 27,
+   "title": "Cavalier de la mariée",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 28,
+   "title": "Le reflet",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 29,
+   "title": "La fin de la fête",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  },
+  {
+   "number": 30,
+   "title": "La voisine",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-26T16:54:04Z"
+  }
+ ]
 }

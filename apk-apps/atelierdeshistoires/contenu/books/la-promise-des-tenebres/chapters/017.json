@@ -1,0 +1,234 @@
+{
+ "number": 17,
+ "title": "Les Pâles",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Noé écarta le rideau d'un geste sec."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas Bertrand. C'était un homme d'une soixantaine d'années, une moustache grise soigneusement taillée, un nœud papillon bordeaux. Noé l'avait remarqué pendant le Banquet, à la table voisine : il avait avalé ses insectes vernis sans broncher, en s'essuyant les lèvres avec une serviette pliée en quatre, comme un notaire à un repas d'affaires. Il se tenait à présent debout, un verre vide à la main, et souriait."
+  },
+  {
+   "type": "text",
+   "value": "Sa peau avait la couleur de la cire."
+  },
+  {
+   "type": "text",
+   "value": "Pas pâle, comme on dit d'un malade. Blanche. Une blancheur uniforme, sans veines, sans rougeur, qui montait du col de sa chemise et lui mangeait déjà le menton. Ses yeux étaient encore bruns, mais un voile laiteux avait commencé à les envahir par les bords, comme du lait versé dans du café."
+  },
+  {
+   "type": "text",
+   "value": "— Alors, l'artiste, reprit-il avec la voix de Bertrand. On se fait prier ?"
+  },
+  {
+   "type": "text",
+   "value": "Noé recula d'un pas. Le froid qui émanait de l'homme était celui d'une chambre froide qu'on ouvre en plein été."
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'êtes pas lui."
+  },
+  {
+   "type": "text",
+   "value": "L'homme pencha la tête. Le mouvement fut trop ample, trop souple, comme si sa nuque avait perdu une vertèbre."
+  },
+  {
+   "type": "text",
+   "value": "— Moi ? dit-il, et cette fois c'était la voix d'une femme, une voix aiguë et tremblante que Noé reconnut aussitôt : celle de la dame qui avait renversé son assiette, au premier service. Moi, je n'ai rien fait. Ce n'est pas ma faute. Ce n'est pas ma faute."
+  },
+  {
+   "type": "text",
+   "value": "Un hurlement éclata au fond de la salle."
+  },
+  {
+   "type": "text",
+   "value": "Noé se retourna. Ce fut comme si la phrase de l'homme avait été un signal. Ici et là, dans la pénombre, entre les tables, des invités se levaient. Pas tous. Une dizaine, peut-être davantage. Ils se levaient de la même façon, lentement, avec cette souplesse étrange, et leurs visages blanchissaient à vue d'œil, comme des photographies qu'on aurait développées à l'envers. Le brouillard s'enroulait autour de leurs chevilles, leur montait aux genoux, à la taille. Il ne les attaquait pas. Il les habitait."
+  },
+  {
+   "type": "text",
+   "value": "Une jeune femme en robe vert d'eau tendit les bras vers son voisin et l'appela « mon chéri » avec la voix d'un enfant. Un vieil homme se mit à rire avec le rire de Céleste. Partout, les voix se mélangeaient, empruntées, volées, cousues ensemble : des morts du premier soir, des vivants assis deux tables plus loin, des répliques entendues une heure plus tôt et recrachées à l'identique."
+  },
+  {
+   "type": "text",
+   "value": "Et la salle explosa."
+  },
+  {
+   "type": "text",
+   "value": "Des chaises tombèrent. Des verres éclatèrent sur le parquet. Les invités sains se jetèrent en arrière, se bousculèrent, se piétinèrent. Noé vit un homme enjamber une table et glisser sur une nappe. Il vit une femme se cacher sous une autre, les mains sur les oreilles."
+  },
+  {
+   "type": "text",
+   "value": "— Noé !"
+  },
+  {
+   "type": "text",
+   "value": "Yasmine se frayait un chemin vers lui, Malik dans son sillage, Sofia accrochée à son bras. Clara suivait un peu en retrait, une main sur la bouche. Gérard fermait la marche, rouge, essoufflé, en jurant entre ses dents."
+  },
+  {
+   "type": "text",
+   "value": "— C'est quoi, ça ? cria Malik. C'est des zombies ? Dis-moi que c'est pas des zombies !"
+  },
+  {
+   "type": "text",
+   "value": "— C'est le brouillard, répondit Noé. Il entre dans les gens."
+  },
+  {
+   "type": "text",
+   "value": "— Super. Génial. J'adore. Je veux rentrer chez moi."
+  },
+  {
+   "type": "text",
+   "value": "L'homme à la moustache tendit la main vers Noé. Ses doigts s'étaient allongés, ou peut-être était-ce la lumière. Noé sentit le froid lui griffer la joue avant même le contact. Il se jeta de côté, heurta une chaise, et une poigne solide le releva par le col."
+  },
+  {
+   "type": "text",
+   "value": "— Pas de contact, dit une voix grave. Ni avec la peau, ni avec la bouche. On garde la distance."
+  },
+  {
+   "type": "text",
+   "value": "L'homme qui le tenait avait la trentaine, une carrure de nageur, une barbe courte, un smoking qui craquait aux épaules. Il avait le regard calme de quelqu'un qui a déjà vu des bâtiments brûler."
+  },
+  {
+   "type": "text",
+   "value": "— Thomas, dit-il. Pompier, à Strasbourg. Ou je l'étais, avant de m'endormir. Vous êtes celui qui a parlé de l'assiette rouge ?"
+  },
+  {
+   "type": "text",
+   "value": "— Noé."
+  },
+  {
+   "type": "text",
+   "value": "— Alors je vous suis. Vous avez l'air de comprendre leurs règles mieux que tout le monde. Moi, je sais évacuer une salle."
+  },
+  {
+   "type": "text",
+   "value": "Il ne perdit pas une seconde. Il jaugea les portes, les tables, les groupes, avec la rapidité d'un homme qui fait ça pour vivre."
+  },
+  {
+   "type": "text",
+   "value": "— Les grandes portes, c'est le brouillard. Il reste une petite sur la gauche, derrière l'estrade des musiciens. Celle des serveurs."
+  },
+  {
+   "type": "text",
+   "value": "— Les cuisines, dit Noé. Elle mène aux cuisines."
+  },
+  {
+   "type": "text",
+   "value": "— Parfait. Les cuisines, c'est carrelé, c'est fermé, il y a de l'eau. On y va."
+  },
+  {
+   "type": "text",
+   "value": "— On y va comment ? geignit Malik. Ils sont partout."
+  },
+  {
+   "type": "text",
+   "value": "C'était vrai. Les Pâles ne couraient pas. Ils marchaient, au contraire, à pas mesurés, et c'était pire. Ils allaient de table en table, tendaient les mains, appelaient. Un invité, pétrifié, se laissa toucher l'épaule par la jeune femme en vert d'eau. Il ne cria même pas. Il resta là, immobile, pendant que la blancheur gagnait son cou."
+  },
+  {
+   "type": "text",
+   "value": "— Têtes baissées, dit Noé. Tout le monde. On ne court pas, on ne lève pas les yeux. Les règles tiennent toujours."
+  },
+  {
+   "type": "text",
+   "value": "Car au-dessus d'eux, dans la pénombre, le plafond s'agitait plus que jamais. Noé l'entendait sans le voir : un bruissement énorme, affamé, des dizaines de corps qui se déplaçaient en grappes, attirés par le désordre. Les Suspendus attendaient qu'on panique. Qu'un seul visage se lève vers eux."
+  },
+  {
+   "type": "text",
+   "value": "Ils avancèrent en file, collés aux murs, Thomas en tête, Noé derrière lui, les yeux rivés aux lattes du parquet. Les flammes noires des bougies, réduites à des points, ne laissaient voir que des pieds, des ourlets de robes, des chaussures vernies. Et le brouillard qui rampait partout, en nappes de plus en plus épaisses."
+  },
+  {
+   "type": "text",
+   "value": "À mi-chemin, un homme leur barra la route. Un des invités sains, les yeux exorbités, qui hurlait qu'il fallait sortir, sortir dehors, que dehors il y aurait des secours. Il courut vers les grandes portes. Il disparut dans le brouillard. On ne l'entendit plus."
+  },
+  {
+   "type": "text",
+   "value": "— Continuez, dit Thomas. Ne vous arrêtez pas pour ce qu'on ne peut pas changer."
+  },
+  {
+   "type": "text",
+   "value": "Une chaussure d'homme tomba du plafond, juste devant Noé, et rebondit sur le parquet avec un bruit mat. Il ne leva pas les yeux. Il l'enjamba. Quelque part au-dessus, quelqu'un venait de commettre l'erreur que lui-même avait failli commettre vingt fois depuis le début de la nuit, et le froissement des membranes s'éloignait déjà vers les hauteurs, emportant sa proie sans un cri."
+  },
+  {
+   "type": "text",
+   "value": "— Ne regarde pas, souffla-t-il à Malik. Quoi que tu entendes."
+  },
+  {
+   "type": "text",
+   "value": "— Je regarde mes pieds, répondit le garçon d'une voix aiguë. J'adore mes pieds. Mes pieds sont la chose la plus fascinante de l'univers."
+  },
+  {
+   "type": "text",
+   "value": "Derrière Noé, Clara toussa."
+  },
+  {
+   "type": "text",
+   "value": "C'était une toux sèche, légère, presque polie. Noé se retourna à demi. Elle avait une main contre la poitrine, et entre ses doigts s'échappait un mince filet de vapeur blanche, comme une haleine par un matin de gel. Yasmine la soutenait par le coude."
+  },
+  {
+   "type": "text",
+   "value": "— Ça va, dit Clara. C'est le froid. Juste le froid."
+  },
+  {
+   "type": "text",
+   "value": "Yasmine croisa le regard de Noé par-dessus l'épaule de son amie. Elle n'avait pas besoin de parler. Elle avait vu la même chose que lui pendant le conte, ce filet de brouillard qui s'était glissé sous les portes. Elle savait ce que voulait dire « ceux qui ont froid au-dedans »."
+  },
+  {
+   "type": "text",
+   "value": "— Avance, dit-elle simplement. Je la tiens."
+  },
+  {
+   "type": "text",
+   "value": "La petite porte était là, entre deux tentures, à demi masquée par l'estrade où les musiciens sans yeux avaient abandonné leurs violons. Thomas l'ouvrit d'un coup d'épaule. Une odeur de pierre mouillée, de suie et de graisse froide les enveloppa."
+  },
+  {
+   "type": "text",
+   "value": "— Dedans. Vite."
+  },
+  {
+   "type": "text",
+   "value": "Ils passèrent un par un. Sofia d'abord, puis Malik, puis Gérard, qui bouscula Clara au passage sans même s'excuser. Yasmine, Clara. Noé s'arrêta sur le seuil et jeta un dernier regard à la salle."
+  },
+  {
+   "type": "text",
+   "value": "Isaure était toujours à sa place, droite comme une statue, au milieu du chaos. Le comte, à côté d'elle, ne regardait ni les Pâles, ni les invités en fuite. Il regardait Noé. De ses yeux sans pupilles, sans un battement de cils, il le regardait, et il souriait."
+  },
+  {
+   "type": "text",
+   "value": "Thomas le tira à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Ils descendirent quelques marches dans le noir, une main sur le mur humide. Un couloir voûté, puis une seconde porte, plus lourde, bardée de fer. Les cuisines. Le pompier la poussa, fit entrer tout le monde, et chercha à la refermer derrière eux."
+  },
+  {
+   "type": "text",
+   "value": "Ce fut à ce moment-là que la porte de la salle de bal, tout en haut des marches, claqua."
+  },
+  {
+   "type": "text",
+   "value": "Pas comme une porte qu'on referme. Comme une mâchoire. Le bruit roula dans le couloir, rebondit sous la voûte, et quelque part très loin un gong vibra, une seule note, longue, grave. Noé connaissait assez ce château, maintenant, pour comprendre ce que cela signifiait. La salle de bal était scellée. Personne n'y rentrerait plus, personne n'en sortirait plus avant la fin du rituel."
+  },
+  {
+   "type": "text",
+   "value": "Il compta les siens. Yasmine. Clara. Malik. Sofia. Gérard. Thomas. Lui."
+  },
+  {
+   "type": "text",
+   "value": "Puis il compta les pas dans le couloir derrière la lourde porte de fer."
+  },
+  {
+   "type": "text",
+   "value": "Ils étaient lents. Mesurés. Ils descendaient les marches une à une."
+  },
+  {
+   "type": "text",
+   "value": "Et une voix, de l'autre côté du battant, appela gentiment, avec la voix exacte de Malik :"
+  },
+  {
+   "type": "text",
+   "value": "— Hé, les gars ? Attendez-moi. Vous m'avez oublié."
+  }
+ ]
+}

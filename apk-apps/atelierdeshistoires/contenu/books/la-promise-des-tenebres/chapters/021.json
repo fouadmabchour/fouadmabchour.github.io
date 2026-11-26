@@ -1,0 +1,302 @@
+{
+ "number": 21,
+ "title": "La Dernière Danse",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La chapelle sentait la cire froide et la pierre mouillée. Une seule bougie y brûlait, posée sur l'autel nu, et sa flamme n'était pas noire comme partout ailleurs dans le château : elle était d'un jaune pâle, fragile, presque timide, comme une chose qu'on aurait oubliée là depuis très longtemps."
+  },
+  {
+   "type": "text",
+   "value": "Personne n'osait s'en approcher. Les survivants s'étaient tassés sur les deux premiers bancs, épaule contre épaule, comme des voyageurs dans une gare après le dernier train. Yasmine tenait encore entre ses doigts le gant de Clara, ramassé dans le couloir sans même qu'elle s'en rende compte. Malik avait remonté ses genoux contre sa poitrine. Sofia fixait la porte. Thomas, debout, les bras croisés, montait la garde sans que personne le lui ait demandé."
+  },
+  {
+   "type": "text",
+   "value": "Et au fond, dans l'ombre du confessionnal, il y avait Isaure."
+  },
+  {
+   "type": "text",
+   "value": "Noé sentait la peur des autres comme un courant d'air. Il savait ce qu'ils voyaient : la peau grise et fendillée, la bouche ouverte jusqu'aux oreilles, le voile raide de taches anciennes. Lui voyait une jeune femme assise très droite, les mains croisées sur sa robe ivoire, avec un visage si fin qu'il semblait taillé dans la lumière de la bougie. Ses grands yeux noirs ne quittaient pas la flamme jaune."
+  },
+  {
+   "type": "text",
+   "value": "— C'est la mienne, dit-elle doucement. La seule chose qui soit restée à moi. Je l'ai allumée la veille de mes noces, pour prier. Elle ne s'est jamais éteinte."
+  },
+  {
+   "type": "text",
+   "value": "Sa voix était basse, un peu voilée, comme si elle avait désappris à parler. Thomas décroisa les bras."
+  },
+  {
+   "type": "text",
+   "value": "— Vous pouvez nous dire ce qui vient, maintenant ? On a perdu assez de monde."
+  },
+  {
+   "type": "text",
+   "value": "Isaure leva les yeux vers lui. Thomas recula d'un demi-pas, malgré lui. Elle le remarqua ; quelque chose passa sur son visage, une fatigue très vieille."
+  },
+  {
+   "type": "text",
+   "value": "— Le dernier rituel s'appelle la Dernière Danse. Quand le gong sonnera, vous retournerez dans la grande salle. Les portes disparaîtront. Il n'y aura plus que la musique, les murs, et nous."
+  },
+  {
+   "type": "text",
+   "value": "— Et il faut faire quoi ? demanda Malik d'une petite voix. Danser jusqu'à mourir ? Parce que dans les films, c'est toujours ça, le…"
+  },
+  {
+   "type": "text",
+   "value": "— Trouver la sortie."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba sur les bancs."
+  },
+  {
+   "type": "text",
+   "value": "— Il existe une sortie, reprit Isaure. Une seule. Elle est dans la salle, quelque part. Je ne sais pas où. Je ne l'ai jamais su. Ma malédiction l'a cachée même à moi."
+  },
+  {
+   "type": "text",
+   "value": "— Et si on ne la trouve pas ? demanda Yasmine."
+  },
+  {
+   "type": "text",
+   "value": "— Alors vous mourrez. Et la danse recommencera."
+  },
+  {
+   "type": "text",
+   "value": "Noé fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Recommencera comment ?"
+  },
+  {
+   "type": "text",
+   "value": "Isaure posa les yeux sur lui, et ce fut comme si les autres n'étaient plus là."
+  },
+  {
+   "type": "text",
+   "value": "— Depuis le début. Le même instant, la même mesure de violon, les mêmes visages. Celui qui meurt pendant la danse revient au premier pas. Il a onze danses, pas une de plus. La onzième mort ne ramène personne."
+  },
+  {
+   "type": "text",
+   "value": "— Onze, répéta Sofia. Pourquoi onze ?"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que la cloche de la chapelle a sonné onze coups quand j'ai bu la coupe."
+  },
+  {
+   "type": "text",
+   "value": "Elle le dit simplement, sans trembler. C'était pire que si elle avait pleuré."
+  },
+  {
+   "type": "text",
+   "value": "Thomas se passa une main sur le visage."
+  },
+  {
+   "type": "text",
+   "value": "— Donc on a onze essais. Chacun ?"
+  },
+  {
+   "type": "text",
+   "value": "— Chacun. Mais vous ne vous souviendrez pas. Pas vraiment. Des éclats. L'impression d'avoir déjà vu un geste, entendu une phrase. La danse efface. Elle a toujours effacé."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde oublie ? insista Noé."
+  },
+  {
+   "type": "text",
+   "value": "Isaure hésita. Ses doigts se serrèrent sur le tissu de sa robe."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne sais pas, pour toi. Tu vois ce que les autres ne voient pas. Peut-être que tu garderas ce qu'ils perdent."
+  },
+  {
+   "type": "text",
+   "value": "Malik émit un rire nerveux."
+  },
+  {
+   "type": "text",
+   "value": "— Génial. Alors c'est un jeu vidéo. Onze vies et pas de sauvegarde."
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'a jamais trouvé la sortie, dit Isaure. En trois cents ans, personne."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'avait dit pour qu'ils sachent, pas pour les effrayer. Mais Noé vit les épaules de Yasmine s'affaisser, et Sofia fermer les yeux. Thomas, lui, regarda la porte de la chapelle comme s'il calculait la distance jusqu'au brouillard."
+  },
+  {
+   "type": "text",
+   "value": "— Laissez-nous une minute, demanda Noé."
+  },
+  {
+   "type": "text",
+   "value": "Ils le dévisagèrent comme s'il avait perdu la raison. Puis Yasmine se leva, entraîna Malik, fit signe aux autres. Ils allèrent s'asseoir près de l'entrée, sous les vitraux noircis, assez loin pour ne pas entendre, assez près pour intervenir. Yasmine ne quittait pas Isaure des yeux."
+  },
+  {
+   "type": "text",
+   "value": "Noé s'approcha du confessionnal et s'assit sur la marche de pierre, à quelques centimètres d'elle. Le froid montait à travers son pantalon de costume. De près, il sentait son parfum : une odeur de violette fanée, de papier ancien."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont peur de toi, dit-il."
+  },
+  {
+   "type": "text",
+   "value": "— Ils ont raison. Je suis ce qui les a fait venir."
+  },
+  {
+   "type": "text",
+   "value": "— Non. C'est lui. C'est elle. Toi, tu as dit non."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai jamais dit non. Je n'en ai pas eu le temps. J'ai seulement refusé de dire oui, et puis…"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'interrompit. Sa main gauche reposait sur la marche, entre eux. Noé la regarda longtemps avant d'oser. Puis il posa la sienne dessus."
+  },
+  {
+   "type": "text",
+   "value": "Elle était froide. Pas glacée comme le givre des vitres, pas morte : froide comme une main qu'on aurait trop longtemps laissée dehors en hiver. Isaure ne la retira pas. Ses doigts frémirent, se retournèrent lentement et vinrent se mêler aux siens."
+  },
+  {
+   "type": "text",
+   "value": "— Tout à l'heure, dit Noé, Sofia a dit que tu avais une bouche de cauchemar. Malik dit que tes yeux sont des trous. Ils le pensent vraiment. Ils ne mentent pas."
+  },
+  {
+   "type": "text",
+   "value": "Isaure baissa la tête."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais ce qu'ils voient."
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je ne le vois pas. Je ne l'ai jamais vu. Pas une seconde, depuis que tu es entrée dans cette salle au bras de ce type."
+  },
+  {
+   "type": "text",
+   "value": "Il cherchait ses mots, maladroit, conscient que chacun pouvait sonner faux."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as les cheveux plus noirs que tout ce qu'il y a dans ce château. Tu as une petite cicatrice au-dessus du sourcil gauche, presque invisible. Quand tu as peur, tu serres la mâchoire. Je te vois, Isaure. Je te vois vraiment."
+  },
+  {
+   "type": "text",
+   "value": "Elle releva les yeux. Ils brillaient. Elle porta leurs deux mains jointes contre sa poitrine, contre la dentelle, et il sentit, très loin, très faible, quelque chose battre. Peut-être un souvenir de cœur."
+  },
+  {
+   "type": "text",
+   "value": "— Il disait la même chose, murmura-t-elle. Aurèle. Il disait que les gens regardent, mais qu'ils ne voient pas. Qu'un peintre, c'est quelqu'un qui reste assez longtemps devant un visage pour qu'il cesse de mentir."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne suis pas lui."
+  },
+  {
+   "type": "text",
+   "value": "— Je sais."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit, pour la première fois depuis qu'il la connaissait. Un tout petit sourire, tremblant, qui ne dura pas."
+  },
+  {
+   "type": "text",
+   "value": "— C'est pour ça que j'ai peur pour toi."
+  },
+  {
+   "type": "text",
+   "value": "Le gong sonna."
+  },
+  {
+   "type": "text",
+   "value": "Le son traversa les murs de la chapelle comme s'ils n'existaient pas. Il fit vibrer les vitraux, les bancs, les os. La flamme jaune se coucha sur l'autel sans s'éteindre. Près de l'entrée, Malik avait bondi sur ses pieds."
+  },
+  {
+   "type": "text",
+   "value": "— C'est maintenant ? C'est maintenant ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il faut être à notre place, dit Thomas. Règle cinq. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Isaure s'était levée d'un seul mouvement. Elle libéra sa main puis, comme se ravisant, prit le ruban noir que Noé tenait encore, le porta un instant à ses lèvres, le reposa dans sa paume et referma ses doigts dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Garde-le. S'ils me reprennent, si je ne peux plus te parler, il te dira où je suis."
+  },
+  {
+   "type": "text",
+   "value": "— Et toi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Moi, je dois être à son bras quand vous entrerez. Sinon ils sauront."
+  },
+  {
+   "type": "text",
+   "value": "Elle disparut dans l'ombre du confessionnal, par un passage que Noé n'avait pas vu. Il ne resta d'elle qu'un froissement de soie et l'odeur de violette."
+  },
+  {
+   "type": "text",
+   "value": "Ils coururent. Le deuxième coup de gong les trouva dans l'escalier, le troisième dans le long couloir aux armures. Le brouillard s'était retiré, ne laissant que des traînées humides sur les dalles, et Noé garda les yeux rivés au sol, le ruban serré dans son poing. Il entendait derrière lui le souffle de Yasmine, les chaussures trop grandes de Malik qui claquaient, Sofia qui murmurait une prière en portugais."
+  },
+  {
+   "type": "text",
+   "value": "Les doubles portes de la grande salle étaient ouvertes. Ils passèrent le seuil au cinquième coup."
+  },
+  {
+   "type": "text",
+   "value": "La salle avait changé."
+  },
+  {
+   "type": "text",
+   "value": "Les tables du banquet avaient disparu, les chaises aussi. Il ne restait que l'immense parquet ciré, noir et luisant comme une flaque d'encre, et les lustres aux flammes noires, si haut qu'on n'en devinait plus que la lueur. Les invités survivants, une soixantaine peut-être, se tenaient le long des murs, hagards, en robes déchirées et en habits tachés de brouillard. Les musiciens sans yeux s'étaient installés sur l'estrade, archets levés, immobiles comme des statues. Tout au fond, contre le mur, une haute forme drapée de noir se dressait derrière la Douairière, et Noé ne l'avait jamais remarquée."
+  },
+  {
+   "type": "text",
+   "value": "Au centre, le comte attendait, Isaure à son bras. Son voile était baissé. Elle ne regarda pas Noé."
+  },
+  {
+   "type": "text",
+   "value": "La Douairière s'avança. Elle frappa le parquet de sa canne, une fois, deux fois, trois fois. Le bruit du pommeau d'argent résonna comme dans une église vide."
+  },
+  {
+   "type": "text",
+   "value": "— Mes chers invités, dit-elle, et sa voix sortait d'entre ses lèvres cousues sans qu'elles bougent. Vous avez mangé à notre table. Vous avez tenu notre cœur. Vous nous avez conté vos histoires. Il est temps, à présent, de nous offrir la dernière."
+  },
+  {
+   "type": "text",
+   "value": "Elle sourit. Les fils noirs se tendirent sur sa bouche."
+  },
+  {
+   "type": "text",
+   "value": "— Que la danse commence."
+  },
+  {
+   "type": "text",
+   "value": "Derrière Noé, il y eut un bruit sourd, comme une pierre qu'on pousse. Il se retourna."
+  },
+  {
+   "type": "text",
+   "value": "Les doubles portes n'étaient plus là. À leur place, le mur. Lisse, parfait, sans une fissure, tendu de la même soie grise que le reste de la salle. Tout autour, l'une après l'autre, les portes de service, la porte des cuisines, la petite porte de l'office s'enfonçaient dans la pierre avec un soupir de tombeau, et la soie se refermait sur elles comme de l'eau."
+  },
+  {
+   "type": "text",
+   "value": "Sur l'estrade, le premier violon posa son archet sur les cordes."
+  }
+ ]
+}
