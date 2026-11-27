@@ -1,0 +1,206 @@
+{
+ "number": 10,
+ "title": "Notre-Dame",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Elles y allèrent à quatre. Lou n'avait pas voulu, mais Sacha attendait au studio quand elles étaient passées prendre leurs armes, et Bastien avait tranché : « Il fait partie de la famille maintenant, que ça te plaise ou non. » Inès avait levé les yeux au ciel. Maé n'avait rien dit ; depuis Belleville, elle ne disait presque plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Le parvis de Notre-Dame était désert à onze heures du soir. La pluie avait cessé, et la cathédrale se dressait au-dessus d'eux, immense et pâle, ses tours perdues dans un ciel couleur d'ardoise. Lou l'avait toujours aimée la nuit. Le jour, elle appartenait aux touristes. La nuit, elle redevenait ce qu'elle était : un rempart."
+  },
+  {
+   "type": "text",
+   "value": "La porte rouge, côté cloître, s'ouvrit avant qu'ils aient frappé."
+  },
+  {
+   "type": "text",
+   "value": "Le père Anselme avait quatre-vingt-sept ans et en paraissait cent. Petit, voûté, une couronne de cheveux blancs autour d'un crâne chauve, des mains tachées comme de vieux parchemins. Mais sa voix, quand il les salua, était encore celle d'un chantre : grave, ronde, pleine comme une cloche."
+  },
+  {
+   "type": "text",
+   "value": "— Lou, dit-il en lui prenant les mains. Tu ressembles de plus en plus à ta mère. Inès, Maé. Et voici le nouveau."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers Sacha. Il le regarda longtemps, plus longtemps que la politesse ne le permettait."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, mon père, dit Sacha."
+  },
+  {
+   "type": "text",
+   "value": "— Bonsoir, mon fils. Suivez-moi. Et ne touchez à rien, c'est plus vieux que vous tous réunis."
+  },
+  {
+   "type": "text",
+   "value": "Il les conduisit à travers un dédale de couloirs, d'escaliers en colimaçon, de portes basses qu'il fallait franchir courbé. Ils descendirent longtemps. L'air devint frais, sec, chargé d'une odeur de cire et de poussière. Enfin, Anselme poussa une dernière porte, et une lampe s'alluma sur une salle voûtée tapissée de livres."
+  },
+  {
+   "type": "text",
+   "value": "Les archives de l'ordre. Lou n'y était venue qu'une fois, à quinze ans, avec sa mère. Elle se souvenait des rayonnages jusqu'au plafond, des pupitres de bois, des partitions enluminées sous verre. Rien n'avait changé. Rien ne changeait jamais ici."
+  },
+  {
+   "type": "text",
+   "value": "Anselme alla jusqu'à un lutrin où reposait un énorme livre relié de cuir sombre. Le livre des chants anciens. Il l'ouvrit avec des gestes de prêtre."
+  },
+  {
+   "type": "text",
+   "value": "— Vous m'avez demandé il y a longtemps, Maé, pourquoi les Muets volaient les voix. Ce qu'ils en faisaient. Je vous ai répondu que je ne savais pas. Je mentais un peu. Je ne voulais pas vous effrayer avant l'heure. L'heure est venue."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna les pages. Des portées de musique médiévale, des lettrines dorées, des dessins à l'encre brune d'ombres sans visage à la bouche cousue."
+  },
+  {
+   "type": "text",
+   "value": "— Les Muets ne sont pas des bêtes. Ils ont un ordre, comme nous. Au bas de cet ordre, les ombres que vous combattez chaque nuit. Elles volent les voix et les rapportent dans le Silence. Au-dessus d'elles, il y a ceux qui ont volé tant de voix qu'ils ont pris forme humaine. Les anciens les appelaient les Princes du Silence."
+  },
+  {
+   "type": "text",
+   "value": "Il désigna une enluminure. Un homme en habit de cour, beau, élégant, au milieu d'une foule endormie. Sa bouche était ouverte. Il chantait."
+  },
+  {
+   "type": "text",
+   "value": "— Ils chantent, les Princes. Merveilleusement. Mais leur chant est emprunté. Ce sont les voix de leurs victimes qui chantent à travers eux. C'est pourquoi ce chant charme, endort, apaise. Il ne réveille rien. Il ne protège rien."
+  },
+  {
+   "type": "text",
+   "value": "Lou sentit le regard de Maé se poser sur elle. Elle ne se retourna pas. Elle pensait à la clé USB dans sa poche, aux chuchotements sous la voix de l'audition. À la vieille femme qui disait « Rendez-moi »."
+  },
+  {
+   "type": "text",
+   "value": "À côté d'elle, Sacha ne bougeait pas."
+  },
+  {
+   "type": "text",
+   "value": "— Et au-dessus des Princes, reprit Anselme, il y a la Reine."
+  },
+  {
+   "type": "text",
+   "value": "Il tourna encore une page. Une silhouette immense occupait toute la feuille, faite de traits d'encre qui s'entrecroisaient comme des fils. Pas de visage. Juste deux points violets, peints avec une encre qui n'avait pas pâli en sept siècles."
+  },
+  {
+   "type": "text",
+   "value": "— Elle a eu bien des noms. Le dernier connu de l'ordre est Ysolde. Elle est la plus ancienne. Elle ne vole plus les voix une par une ; elle les récolte, comme on fauche un champ. Il y a trois siècles, elle a manqué de faire tomber le Voile en charmant tout un quartier de Paris par une chanteuse d'opéra qu'elle contrôlait. Aujourd'hui, elle a trouvé mieux qu'une chanteuse. Elle a trouvé vos machines. Elle entre dans vingt millions d'oreilles chaque jour."
+  },
+  {
+   "type": "text",
+   "value": "— ÉCHO, dit Maé d'une voix blanche."
+  },
+  {
+   "type": "text",
+   "value": "— Votre analyse m'est parvenue par Bastien. La fréquence cachée. C'est sa signature. Je la reconnaîtrais entre mille ; elle est notée ici même, dans le livre, sous la forme d'une portée vide. Une musique qui n'est faite que de silences."
+  },
+  {
+   "type": "text",
+   "value": "Inès jura entre ses dents, puis s'excusa en regardant le crucifix. Anselme lui pardonna d'un geste vague."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce qu'elle veut ? demanda Lou."
+  },
+  {
+   "type": "text",
+   "value": "— Le Voile. Elle veut l'abattre. Et elle a une date : le solstice d'hiver. La nuit la plus longue de l'année, celle où le Voile est le plus mince. Si, cette nuit-là, assez de voix de Paris lui appartiennent, elle n'aura qu'à chanter pour qu'il se déchire."
+  },
+  {
+   "type": "text",
+   "value": "Le solstice. Lou sentit son cœur cogner contre ses côtes. Le solstice approche. Prends-la."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne regarda pas Sacha. Elle s'interdit de le regarder."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a autre chose, dit Anselme plus bas. Et cela, Lou, je l'ai promis à ta mère. Je devais te le dire le jour où la Reine se réveillerait."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma le livre et s'approcha d'elle. Il posa sa vieille main sur son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Certaines voix sont différentes. Rares. Une tous les cinq siècles, peut-être moins. Les anciens les appelaient les voix-sources. Elles ne se contentent pas de chanter : elles créent. Une note d'une voix-source peut brûler un démon. Elle fait trembler la pierre et le verre. Tu connais cela, n'est-ce pas ?"
+  },
+  {
+   "type": "text",
+   "value": "Lou ne répondit pas. Elle pensait aux vitres qui vibraient quand elle chantait trop fort. À l'ampoule qui avait éclaté au plafond d'Arts-et-Métiers. À la peur, toujours là, tapie au fond de sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "— Ta mère le savait depuis ta naissance. C'est pour cela qu'elle t'a appris à retenir ta voix. Pas pour te punir. Pour te cacher."
+  },
+  {
+   "type": "text",
+   "value": "— Me cacher de quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Anselme hésita. Puis il dit, très doucement :"
+  },
+  {
+   "type": "text",
+   "value": "— Une voix-source, si un Muet la prend, ne se dissipe pas en lui comme les autres. Elle le change. Elle le rend humain. Vraiment humain, libre, mortel, avec un cœur qui bat. C'est le rêve de tous les Princes du Silence. Et entre les mains de la Reine, une telle voix suffirait à déchirer le Voile d'un seul coup, sans attendre vingt millions d'écoutes."
+  },
+  {
+   "type": "text",
+   "value": "Le silence tomba sur la salle voûtée. Inès s'était rapprochée de Lou sans même s'en rendre compte, une main posée sur son bras, comme pour la retenir au bord d'un précipice. Maé avait retiré ses lunettes et les essuyait machinalement, encore et encore."
+  },
+  {
+   "type": "text",
+   "value": "Lou se tourna enfin vers Sacha."
+  },
+  {
+   "type": "text",
+   "value": "Il était resté près de la porte, dans l'ombre des rayonnages. Il n'avait pas dit un mot depuis le début. Pas une question, pas un étonnement, rien de cette surprise parfaite qu'il avait jouée devant Bastien. Il regardait le livre fermé, les mains enfoncées dans les poches de son long manteau noir, et son visage était lisse comme de la pierre."
+  },
+  {
+   "type": "text",
+   "value": "— Tu n'as rien à dire ? demanda-t-elle."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux vers elle."
+  },
+  {
+   "type": "text",
+   "value": "— Je crois que j'ai peur pour toi, dit-il simplement."
+  },
+  {
+   "type": "text",
+   "value": "Et Lou, pendant une seconde, le crut."
+  },
+  {
+   "type": "text",
+   "value": "Anselme les regarda tour à tour, Lou, puis Sacha, puis de nouveau Lou. Quelque chose passa sur son vieux visage, une ombre de tristesse. Il retourna vers les rayonnages, d'un pas lent, et en tira un grand carton plat, entouré d'un ruban de soie violette fané."
+  },
+  {
+   "type": "text",
+   "value": "— Je cherchais une illustration des Princes pour vous montrer leur visage, dit-il. Les anciens les dessinaient chaque fois qu'ils en croisaient un, pour que l'ordre les reconnaisse. J'ai trouvé celle-ci ce matin. Elle date de 1725. Un graveur de la rue Saint-Jacques l'a faite d'après un chanteur qui avait endormi toute une salle au théâtre de la Foire. Le lendemain, quarante spectateurs ne parlaient plus."
+  },
+  {
+   "type": "text",
+   "value": "Il dénoua le ruban et ouvrit le carton sur le lutrin, sous la lampe."
+  },
+  {
+   "type": "text",
+   "value": "La gravure était fine, précise, le papier jauni par trois siècles. Un jeune homme, debout sur une scène de théâtre, une main tendue vers la foule. Des cheveux noirs mi-longs en bataille. Une chemise ouverte au col. Un sourire en coin, à peine, au coin des lèvres. Sous l'image, une légende à la plume, en lettres anciennes : « Le Prince sans voix »."
+  },
+  {
+   "type": "text",
+   "value": "Inès poussa un petit cri étranglé. Maé laissa tomber ses lunettes."
+  },
+  {
+   "type": "text",
+   "value": "Lou ne bougea pas. Elle regardait la gravure, puis elle leva lentement les yeux vers le garçon dans l'ombre des rayonnages."
+  },
+  {
+   "type": "text",
+   "value": "C'était le même visage. Trait pour trait. Le visage de Sacha."
+  }
+ ]
+}

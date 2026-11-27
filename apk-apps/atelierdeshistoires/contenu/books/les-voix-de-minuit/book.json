@@ -9,7 +9,188 @@
   "romance"
  ],
  "tags": [],
- "status": "ongoing",
- "updatedAt": "2026-11-27T21:34:23Z",
- "chapters": []
+ "status": "completed",
+ "updatedAt": "2026-11-27T21:49:15Z",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "Le concert du Zénith",
+   "file": "chapters/001.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 2,
+   "title": "Les Voix de Garde",
+   "file": "chapters/002.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 3,
+   "title": "ÉCHO",
+   "file": "chapters/003.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 4,
+   "title": "Le quatrième",
+   "file": "chapters/004.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 5,
+   "title": "Répétitions",
+   "file": "chapters/005.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 6,
+   "title": "Le métro",
+   "file": "chapters/006.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 7,
+   "title": "Ce que voit Sacha",
+   "file": "chapters/007.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 8,
+   "title": "Lyon",
+   "file": "chapters/008.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 9,
+   "title": "Nina",
+   "file": "chapters/009.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 10,
+   "title": "Notre-Dame",
+   "file": "chapters/010.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 11,
+   "title": "Le doute",
+   "file": "chapters/011.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 12,
+   "title": "Marseille",
+   "file": "chapters/012.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 13,
+   "title": "La nuit des éteints",
+   "file": "chapters/013.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 14,
+   "title": "Ce que ça fait",
+   "file": "chapters/014.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 15,
+   "title": "Bordeaux",
+   "file": "chapters/015.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 16,
+   "title": "Réconciliation",
+   "file": "chapters/016.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 17,
+   "title": "Le piège",
+   "file": "chapters/017.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 18,
+   "title": "Les yeux de braise",
+   "file": "chapters/018.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 19,
+   "title": "Sans lui",
+   "file": "chapters/019.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 20,
+   "title": "Le prince déchu",
+   "file": "chapters/020.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 21,
+   "title": "Les catacombes",
+   "file": "chapters/021.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 22,
+   "title": "Le Coffre des voix",
+   "file": "chapters/022.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 23,
+   "title": "La fuite",
+   "file": "chapters/023.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 24,
+   "title": "Le choix de Lou",
+   "file": "chapters/024.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 25,
+   "title": "Le concert interdit",
+   "file": "chapters/025.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 26,
+   "title": "Deux concerts",
+   "file": "chapters/026.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 27,
+   "title": "La bataille des toits",
+   "file": "chapters/027.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 28,
+   "title": "La voix-source",
+   "file": "chapters/028.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 29,
+   "title": "Ce qui ne se vole pas",
+   "file": "chapters/029.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  },
+  {
+   "number": 30,
+   "title": "Quatre voix",
+   "file": "chapters/030.json",
+   "updatedAt": "2026-11-27T21:49:15Z"
+  }
+ ]
 }
