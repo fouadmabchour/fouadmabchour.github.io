@@ -83,6 +83,11 @@
    "value": "Maé se tourna vers Lou. Puis vers la verrière, où le ciel s'éclaircissait au-dessus des toits."
   },
   {
+   "type": "image",
+   "src": "images/ch25-1.webp",
+   "caption": "On monte sur les toits"
+  },
+  {
    "type": "text",
    "value": "— On monte sur les toits."
   },
@@ -207,6 +212,11 @@
    "value": "Bastien ouvrit en caleçon et en tee-shirt de vieux groupe de rock, une batte de baseball à la main, par réflexe. Sur le pas de la porte se tenait Margaux Delaage, en manteau de cachemire beige froissé, sans maquillage, les cheveux défaits. Elle avait l'air d'avoir pleuré toute la nuit."
   },
   {
+   "type": "image",
+   "src": "images/ch25-2.webp",
+   "caption": "Margaux revient"
+  },
+  {
    "type": "text",
    "value": "— Je peux entrer ? demanda-t-elle."
   },
@@ -289,6 +299,11 @@
   {
    "type": "text",
    "value": "Lou leva les yeux vers la ville. Partout, aux fenêtres, une petite lueur violette s'allumait. Puis une autre. Puis des milliers."
+  },
+  {
+   "type": "image",
+   "src": "images/ch25-3.webp",
+   "caption": "La ville connectée"
   },
   {
    "type": "text",

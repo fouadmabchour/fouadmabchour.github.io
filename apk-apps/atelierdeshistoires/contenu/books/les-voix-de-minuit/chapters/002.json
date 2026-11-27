@@ -51,6 +51,11 @@
    "value": "Elle prit appui sur le capot d'un camion, tourna sur elle-même en plein vol, et ses rubans d'acier dessinèrent deux spirales de lumière. Ils frappèrent le Muet à l'épaule, ou à ce qui servait d'épaule, et l'ombre se déchira comme un rideau mouillé. La créature recula en se tordant."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "La danseuse frappe"
+  },
+  {
    "type": "text",
    "value": "— Un pour la danseuse ! lança Inès en retombant sur ses pieds."
   },
@@ -73,6 +78,11 @@
   {
    "type": "text",
    "value": "Elle ne chanta pas une chanson. Elle chanta une seule note, pure, longue, qui monta du fond de son ventre et traversa sa gorge comme un rayon de soleil traverse une vitre. La note emplit le parking d'un coup. Les néons éteints se rallumèrent tous en même temps, puis éclatèrent un par un dans une pluie d'étincelles. Les pare-brise des camions se mirent à trembler. Une alarme de voiture se déclencha au loin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La note pure"
   },
   {
    "type": "text",
@@ -237,6 +247,11 @@
   {
    "type": "text",
    "value": "Elle tourna l'écran vers eux. Une carte de Paris, couverte de petits points rouges."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "La carte des attaques"
   },
   {
    "type": "text",

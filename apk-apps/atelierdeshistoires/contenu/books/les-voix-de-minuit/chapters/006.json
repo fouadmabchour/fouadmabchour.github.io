@@ -55,6 +55,11 @@
    "value": "Il était au bout du quai, debout sur la bordure, au-dessus des rails. Plus grand que ceux du parking du Zénith, plus net aussi. Une silhouette d'ombre presque humaine, avec des épaules, un cou, la suggestion d'un visage sans traits. Et la bouche, surtout : une couture épaisse de fils de lumière noire, qui palpitait doucement, comme une respiration. Autour de lui flottaient des filaments plus pâles, à peine visibles. Des voix volées. Lou en compta cinq, six, sept. Elle eut le temps de penser qu'il y avait sept personnes, quelque part dans Paris, assises dans leur lit les yeux ouverts sur rien."
   },
   {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "Le Muet d'Arts-et-Métiers"
+  },
+  {
    "type": "text",
    "value": "Maé posa son clavier sur un banc de cuivre et ses doigts coururent sur les touches. Rien ne sortit, bien sûr. Dans le Silence, il fallait chanter d'abord, chanter malgré tout. Lou ferma les yeux, chercha au fond d'elle la première ligne de « Garde la nuit », et la poussa hors de sa gorge de toutes ses forces."
   },
@@ -109,6 +114,11 @@
   {
    "type": "text",
    "value": "Ce fut violent, et chaud, ce qui était le plus étrange. Une ombre plus noire que le Muet, plus rapide, qui la souleva et la projeta contre un banc de cuivre. Lou roula, se cogna l'épaule, releva la tête. Entre elle et le démon, une silhouette se dressait, floue, mouvante, un manteau peut-être, ou de la fumée. Elle tendit le bras vers le Muet, et le démon recula. Il recula. Lou ne savait même pas que ces choses-là pouvaient avoir peur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "La silhouette protectrice"
   },
   {
    "type": "text",
@@ -189,6 +199,11 @@
   {
    "type": "text",
    "value": "Sur le dos de sa main, de l'os du poignet jusqu'aux phalanges, s'étendait une brûlure fraîche, rouge vif, luisante. Exactement la forme qu'aurait laissée une note de lumière, si on s'était trouvé tout près, juste devant, entre elle et le démon."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "La main marquée"
   }
  ]
 }

@@ -31,6 +31,11 @@
    "value": "La lumière grandit. Elle prit la taille d'un homme. Elle prit une forme, des épaules, des mains, des cheveux noirs en bataille. Puis elle s'éteignit doucement, et Sacha se tenait là, debout sur le zinc, dans sa chemise blanche froissée, les pieds nus."
   },
   {
+   "type": "image",
+   "src": "images/ch30-1.webp",
+   "caption": "Il revient"
+  },
+  {
    "type": "text",
    "value": "Il cligna des yeux. Il regarda ses mains. Il regarda Lou."
   },
@@ -111,6 +116,11 @@
    "value": "Elle trouva sa mère assise dans le jardin de la maison de soins, emmitouflée dans un châle, face à la mer grise de décembre. Hélène tourna la tête en entendant ses pas sur le gravier. Ses yeux gris clair, les mêmes que ceux de Lou, se posèrent sur elle, et cette fois ils ne glissèrent pas."
   },
   {
+   "type": "image",
+   "src": "images/ch30-2.webp",
+   "caption": "Mon oiseau"
+  },
+  {
    "type": "text",
    "value": "— Mon oiseau, dit-elle."
   },
@@ -181,6 +191,11 @@
   {
    "type": "text",
    "value": "Pour le dernier morceau, les filles reculèrent dans l'ombre. Il ne resta que deux micros, deux projecteurs, Lou et Sacha face à face. C'était une chanson que Maé avait écrite pour eux, pendant l'hiver, en secret."
+  },
+  {
+   "type": "image",
+   "src": "images/ch30-3.webp",
+   "caption": "Le duo final"
   },
   {
    "type": "text",

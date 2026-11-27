@@ -35,6 +35,11 @@
    "value": "Maé tourna l'écran. Une forme d'onde, verte sur fond noir, et sous elle une ligne presque plate qui pulsait."
   },
   {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "La piste du signal"
+  },
+  {
    "type": "text",
    "value": "— C'est le dernier morceau d'ÉCHO. La fréquence cachée, celle qui prend la voix. Je l'ai suivie à l'envers. Elle ne disparaît pas. Elle va quelque part. Chaque écoute envoie un tout petit bout de voix vers un point fixe, toujours le même."
   },
@@ -131,6 +136,11 @@
    "value": "À onze heures, le lion de bronze de la place Denfert-Rochereau luisait sous la bruine. Le père Anselme les attendait sous un réverbère, minuscule dans un manteau gris trop grand, un vieux livre relié de cuir serré contre lui et une lanterne éteinte à la main. Il avait les cheveux blancs comme du sucre et des yeux bleus très clairs qui avaient vu Notre-Dame brûler et renaître."
   },
   {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "Rendez-vous à Denfert"
+  },
+  {
    "type": "text",
    "value": "— Mesdemoiselles. Monsieur Roche."
   },
@@ -225,6 +235,11 @@
   {
    "type": "text",
    "value": "La lampe frontale de Maé éclairait encore, mais faiblement, comme si la lumière elle-même hésitait. Autour d'eux, une plaine de pierre grise s'étendait sous un plafond invisible. Des colonnes torses montaient vers rien. Au loin, très loin, une lueur violette pulsait au rythme d'un cœur qui n'était pas le leur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "Dans le Silence"
   },
   {
    "type": "text",

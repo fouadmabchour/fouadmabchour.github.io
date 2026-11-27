@@ -139,6 +139,11 @@
    "value": "Elle ne chanta pas une chanson de MINUIT. Elle chanta une mélodie que sa mère lui fredonnait le soir, quand elle était petite, et dont elle avait inventé elle-même les paroles, plus tard, au lycée, pour ne pas l'oublier. Elle la chanta tout bas, presque un murmure, pour lui seul, sans aucun pouvoir, sans aucune note pour brûler quoi que ce soit."
   },
   {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "La berceuse"
+  },
+  {
    "type": "text",
    "value": "« Il y a une lampe au bout du quai, / Elle brûle encore pour qui revient, / Si tu te perds, si tu te tais, / Je la tiendrai jusqu'au matin. »"
   },
@@ -157,6 +162,11 @@
   {
    "type": "text",
    "value": "Il ne faisait aucun bruit. Les larmes coulaient simplement sur ses joues pâles, et il ne les essuyait pas, comme s'il ne savait pas ce que c'était. Il porta lentement une main à son visage, toucha une larme du bout des doigts et la regarda, stupéfait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Première larme"
   },
   {
    "type": "text",
@@ -217,6 +227,11 @@
   {
    "type": "text",
    "value": "Ses doigts s'arrêtèrent au bord de la gorge de Lou, si près qu'il sentait sa chaleur."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "La main qui hésite"
   },
   {
    "type": "text",

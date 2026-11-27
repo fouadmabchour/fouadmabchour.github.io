@@ -67,6 +67,11 @@
    "value": "Sacha fit un pas chassé à gauche, leva un seul bras, tourna dans le mauvais sens, oublia de claquer des doigts et finit face au mur."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Face au mur"
+  },
+  {
    "type": "text",
    "value": "— Comme ça ?"
   },
@@ -259,6 +264,11 @@
    "value": "Pendant une seconde, il ne se passa rien. Puis ses yeux s'agrandirent. Il s'arrêta de mâcher. Il regarda la crêpe, puis Bastien, puis les filles, avec une expression d'émerveillement si total qu'on aurait dit un enfant qui voit la neige pour la première fois."
   },
   {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "La première crêpe"
+  },
+  {
    "type": "text",
    "value": "— C'est... c'est..."
   },
@@ -365,6 +375,11 @@
   {
    "type": "text",
    "value": "Parce que dans ce reflet, ses lèvres bougeaient. Il parlait à voix basse, très vite, à quelqu'un qui n'était pas là. Et tout autour de lui, sur le parquet, la lumière des lampes semblait reculer, comme si l'ombre de Sacha était beaucoup trop grande pour un seul homme."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Seul à deux heures du matin"
   },
   {
    "type": "text",

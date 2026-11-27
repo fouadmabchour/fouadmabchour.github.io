@@ -35,6 +35,11 @@
    "value": "Nina était dans sa chambre. Quinze ans, les mêmes taches de rousseur que sa sœur, des cheveux plus longs, plus clairs. Elle était assise en tailleur sur son lit, un casque blanc sur les oreilles, et elle regardait son téléphone. Sur l'écran, une jeune femme aux cheveux blancs et aux yeux violets chantait dans un décor de neige. ÉCHO. Toujours ÉCHO. Les murs de la chambre en étaient couverts : affiches, cartes postales, un calendrier, une veilleuse en forme de flocon."
   },
   {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "La chambre de Nina"
+  },
+  {
    "type": "text",
    "value": "— Nina, dit Maé doucement. Lou et Inès sont là."
   },
@@ -111,6 +116,11 @@
    "value": "Elle ouvrit un logiciel d'analyse, et le spectre de la chanson s'étala sur l'écran, une cascade de couleurs. Elle zooma tout en bas, sous les fréquences que l'oreille humaine perçoit. Il y avait là une ligne. Très fine, presque invisible, qui ne suivait ni la mélodie ni le rythme. Elle pulsait à intervalles réguliers, comme une respiration."
   },
   {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "La fréquence cachée"
+  },
+  {
    "type": "text",
    "value": "Maé la fit passer à travers un filtre, la ralentit, l'amplifia."
   },
@@ -153,6 +163,11 @@
   {
    "type": "text",
    "value": "Lou se leva et alla jusqu'à la porte de la chambre. Nina n'avait pas bougé. La veilleuse en forme de flocon projetait au plafond des étoiles froides. Sur l'écran, ÉCHO chantait toujours, les yeux violets fixés sur la caméra, et Lou eut l'horrible impression que ces yeux la voyaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Les yeux violets"
   },
   {
    "type": "text",

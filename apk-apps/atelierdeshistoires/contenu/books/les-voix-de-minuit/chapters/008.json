@@ -23,6 +23,11 @@
    "value": "Il ne faisait que ça depuis Paris. Les champs gris de novembre, les vaches, les éoliennes, les aires d'autoroute aux lumières orange. Il avait l'air d'un enfant à qui on aurait montré le monde pour la première fois."
   },
   {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Le bus de tournée"
+  },
+  {
    "type": "text",
    "value": "— Tu n'as jamais pris l'autoroute ? demanda Maé."
   },
@@ -135,6 +140,11 @@
    "value": "Lou leva son micro et chanta une ligne qui n'existait pas, inventée sur le moment."
   },
   {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Le duo improvisé"
+  },
+  {
    "type": "text",
    "value": "« Si la nuit tombe, je reste là… »"
   },
@@ -201,6 +211,11 @@
   {
    "type": "text",
    "value": "Lou ne voulait pas regarder. Elle regarda quand même. L'écran affichait un message, sans nom, sans numéro, sans photo. La case de l'expéditeur était vide, simplement vide, comme si personne ne l'avait envoyé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Le message anonyme"
   },
   {
    "type": "text",

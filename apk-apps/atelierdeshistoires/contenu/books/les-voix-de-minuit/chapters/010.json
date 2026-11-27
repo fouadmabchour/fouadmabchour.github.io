@@ -11,6 +11,11 @@
    "value": "Le parvis de Notre-Dame était désert à onze heures du soir. La pluie avait cessé, et la cathédrale se dressait au-dessus d'eux, immense et pâle, ses tours perdues dans un ciel couleur d'ardoise. Lou l'avait toujours aimée la nuit. Le jour, elle appartenait aux touristes. La nuit, elle redevenait ce qu'elle était : un rempart."
   },
   {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "Le parvis désert"
+  },
+  {
    "type": "text",
    "value": "La porte rouge, côté cloître, s'ouvrit avant qu'ils aient frappé."
   },
@@ -81,6 +86,11 @@
   {
    "type": "text",
    "value": "Il tourna encore une page. Une silhouette immense occupait toute la feuille, faite de traits d'encre qui s'entrecroisaient comme des fils. Pas de visage. Juste deux points violets, peints avec une encre qui n'avait pas pâli en sept siècles."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "Le livre des chants anciens"
   },
   {
    "type": "text",
@@ -189,6 +199,11 @@
   {
    "type": "text",
    "value": "La gravure était fine, précise, le papier jauni par trois siècles. Un jeune homme, debout sur une scène de théâtre, une main tendue vers la foule. Des cheveux noirs mi-longs en bataille. Une chemise ouverte au col. Un sourire en coin, à peine, au coin des lèvres. Sous l'image, une légende à la plume, en lettres anciennes : « Le Prince sans voix »."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Le Prince sans voix"
   },
   {
    "type": "text",

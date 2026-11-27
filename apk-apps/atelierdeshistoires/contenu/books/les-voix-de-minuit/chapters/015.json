@@ -27,6 +27,11 @@
    "value": "Elle lui tendit son carnet. En haut de la page, d'une écriture penchée, il y avait un titre : « Sans voix »."
   },
   {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "Sans voix"
+  },
+  {
    "type": "text",
    "value": "Lou lut les premiers vers à voix basse :"
   },
@@ -135,6 +140,11 @@
    "value": "Inès la regarda longtemps, et Lou vit dans ses yeux noisette quelque chose qui ressemblait à de la peine. Puis elle tourna les talons et claqua la porte."
   },
   {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "La dispute"
+  },
+  {
    "type": "text",
    "value": "Elles ne se parlèrent pas le lendemain. Pas pendant le petit-déjeuner, pas pendant la balance, pas dans la loge. Maé, coincée entre elles, faisait des tentatives désespérées pour détendre l'atmosphère, qui tombaient toutes à plat. Sacha, lui, avait compris. Il se tenait à l'écart, poli, discret, et cela rendait Lou encore plus furieuse contre Inès."
   },
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "Inès fut projetée en arrière comme une poupée de chiffon. Elle traversa le miroir d'eau dans une gerbe noire, heurta le rebord de granit et ne bougea plus. Ses rubans glissèrent sur la pierre mouillée, inertes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Le miroir d'eau"
   },
   {
    "type": "text",

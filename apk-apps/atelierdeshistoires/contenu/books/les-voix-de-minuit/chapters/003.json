@@ -35,6 +35,11 @@
    "value": "Lou ouvrit un œil. Elle se traîna jusqu'à la cuisine, enroulée dans son sweat trop grand, ses cheveux noirs en bataille, la mèche argentée dressée sur le sommet du crâne comme une antenne. Inès, en jogging, une crêpe à moitié mangée dans une main, lui fourra son téléphone sous le nez."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "On est deuxièmes"
+  },
+  {
    "type": "text",
    "value": "Le classement des écoutes de la semaine. Depuis huit mois, MINUIT y trônait à la première place avec « Garde la nuit ». Ce matin, la chanson avait glissé d'un cran."
   },
@@ -89,6 +94,11 @@
   {
    "type": "text",
    "value": "Ce matin, elle avait des écouteurs blancs dans les oreilles et des cernes violets sous les yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Nina écoute ÉCHO"
   },
   {
    "type": "text",
@@ -173,6 +183,11 @@
   {
    "type": "text",
    "value": "Margaux Delaage les reçut au dernier étage, dans un bureau tout blanc avec une vue sur toute la ville. Elle avait la quarantaine, un tailleur gris impeccable, des cheveux blonds coupés au millimètre et un sourire qui ne montait jamais jusqu'aux yeux."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Le bureau de la directrice"
   },
   {
    "type": "text",
