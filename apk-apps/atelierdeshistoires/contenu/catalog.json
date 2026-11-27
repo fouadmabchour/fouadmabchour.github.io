@@ -214,7 +214,25 @@
    "updatedAt": "2026-11-27T22:46:39Z",
    "chapterCount": 30,
    "featured": false
+  },
+  {
+   "id": "la-cite-des-oublies",
+   "publishedAt": "2026-11-27T23:58:53Z",
+   "order": 11,
+   "title": "La Cité des Oubliés",
+   "author": "FouLaude",
+   "cover": "books/la-cite-des-oublies/cover.webp",
+   "summary": "Depuis trois cents ans, cinq mille personnes vivent sous un dôme de verre, au fond de l'océan. Personne n'a jamais vu le ciel. On leur a appris que la surface est morte, brûlée, et que le Cœur, la grande machine qui éclaire et fait respirer la cité, est éternel. Mais le Cœur faiblit. Les lumières clignotent, l'eau suinte entre les plaques du dôme, et le Conseil rationne la lumière en répétant que tout va bien. Elio, plongeur-réparateur des quartiers pauvres, colmate chaque nuit des fissures qui ne devraient pas exister. Nour, archiviste du Conseil, tombe sur un registre qu'on lui a interdit de lire. Le jour où Elio remonte d'une épave le journal codé de la fondatrice d'Abysse, leurs routes se croisent. Ses pages parlent d'un protocole oublié, d'un chemin vers la surface… et d'une date limite qui est déjà passée. Dans une cité qui ment depuis trois siècles, chercher la vérité est un crime. Et le temps qui leur reste se compte désormais en coupures de lumière.",
+   "categories": [
+    "science-fiction",
+    "romance"
+   ],
+   "tags": [],
+   "status": "ongoing",
+   "updatedAt": "2026-11-27T23:58:53Z",
+   "chapterCount": 0,
+   "featured": false
   }
  ],
- "updatedAt": "2026-11-27T22:46:39Z"
+ "updatedAt": "2026-11-27T23:58:53Z"
 }
