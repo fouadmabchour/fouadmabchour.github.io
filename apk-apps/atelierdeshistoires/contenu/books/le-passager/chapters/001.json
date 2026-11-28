@@ -27,6 +27,11 @@
    "value": "Au sortir de Clermont, la pluie avait commencé. D'abord une bruine fine, presque jolie dans la lumière des réverbères. Puis, passé Issoire, une vraie pluie d'octobre, lourde, obstinée, qui tambourinait sur le toit de la petite citadine grise et faisait danser les essuie-glaces à pleine vitesse."
   },
   {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "Départ sous la pluie"
+  },
+  {
    "type": "text",
    "value": "Yanis conduisait. Il conduisait toujours, la nuit. Il disait qu'il aimait ça, la route vide, la musique, l'impression d'être seul au monde. Clara savait surtout qu'il ne supportait pas d'être passager. Il se tenait trop droit, il freinait du pied droit sur un pédalier imaginaire, il faisait des commentaires."
   },
@@ -121,6 +126,11 @@
   {
    "type": "text",
    "value": "Au loin, dans le halo des phares, il y avait une silhouette au bord de la route."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "L'auto-stoppeur"
   },
   {
    "type": "text",
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "L'homme la regardait. Il était assis bien droit, les mains posées à plat sur ses genoux, de longues mains blanches aux doigts fins. L'eau gouttait encore de ses cheveux sur son col. Dans la pénombre de la banquette, ses yeux clairs captaient la lumière du tableau de bord et semblaient briller faiblement. Il souriait toujours. Un sourire calme, bienveillant, presque tendre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le regard dans le rétroviseur"
   },
   {
    "type": "text",

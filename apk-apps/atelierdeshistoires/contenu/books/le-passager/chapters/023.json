@@ -11,6 +11,11 @@
    "value": "Clara était assise à l'arrière, dans la cellule grillagée, les poignets menottés à une barre de métal. Une petite lucarne à barreaux, au-dessus d'elle, ne laissait voir que des gouttes et du noir. Par la grille qui la séparait de la cabine, elle apercevait la nuque rouge de Valat, ses mains épaisses sur le volant, et la lueur verte du tableau de bord."
   },
   {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "Le fourgon"
+  },
+  {
    "type": "text",
    "value": "Il était seul. Il avait refusé qu'on lui adjoigne un collègue."
   },
@@ -199,6 +204,11 @@
    "value": "Elle n'était pas là. Puis elle était là. Debout au bord de la route, immobile, sous la pluie. Grande. Mince. Un long imperméable gris que l'eau rendait presque noir aux épaules. Le bras tendu."
   },
   {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "L'apparition"
+  },
+  {
    "type": "text",
    "value": "Le pouce levé."
   },
@@ -285,6 +295,11 @@
   {
    "type": "text",
    "value": "La porte s'ouvrit. L'air froid et la pluie s'engouffrèrent dans la cellule. Dans l'encadrement, découpé par l'orange des feux de détresse, se tenait un homme grand et mince, en imperméable gris trempé, les cheveux gris ras, le trousseau de Valat pendu au bout de ses longs doigts."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Il ne reste que nous"
   },
   {
    "type": "text",

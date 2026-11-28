@@ -111,6 +111,11 @@
    "value": "Monsieur Ange se pencha légèrement en avant. Clara sentit l'odeur de cave et de pluie se rapprocher de sa nuque. Elle se raidit sur son siège."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Une seule règle"
+  },
+  {
    "type": "text",
    "value": "— Oh, c'est un jeu très simple. Il n'a qu'une seule règle. Je vous l'expliquerai quand vous serez prêts. Pour l'instant, je voulais seulement vous prévenir, par politesse. Il y aura des pertes. Il y en a toujours. Des gens que vous croiserez. Des gens qui n'ont rien demandé. Ce sera triste, mais c'est ainsi. Et chaque fois, ce sera un peu votre faute. Vous verrez, on s'y habitue."
   },
@@ -149,6 +154,11 @@
   {
    "type": "text",
    "value": "Elle détacha sa ceinture d'une main qui tremblait, se jeta hors de la voiture. La pluie la frappa au visage, froide, cinglante. Le vent du plateau hurlait dans ses oreilles. Elle contourna l'arrière de la voiture en glissant sur le gravier, attrapa la poignée de la portière arrière gauche et tira de toutes ses forces."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "Dehors !"
   },
   {
    "type": "text",
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "Monsieur Ange s'était relevé. Il se tenait debout au milieu de la route, à l'endroit exact où ils l'avaient jeté, dans la lueur rouge et mourante des feux arrière. L'imperméable gris collé au corps. Les bras le long du corps. Il ne courait pas. Il ne leur criait rien. Il ne faisait pas un geste pour les poursuivre."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "Au revoir"
   },
   {
    "type": "text",

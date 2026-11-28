@@ -51,6 +51,11 @@
    "value": "Une station-service, isolée au bord de la nationale, quelques kilomètres avant Marvejols. Deux pompes sous un auvent éclairé au néon, une petite boutique aux vitres embuées, un parking de gravier où stationnait une vieille camionnette blanche. L'enseigne, au-dessus, était à moitié éteinte. Il ne restait que quelques lettres lumineuses, rouges et tremblantes, qui ne voulaient plus rien dire."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "La station"
+  },
+  {
    "type": "text",
    "value": "— On s'arrête, dit Yanis."
   },
@@ -207,6 +212,11 @@
    "value": "Les toilettes étaient minuscules, carrelées de blanc, éclairées par un néon qui grésillait et qui s'éteignait toutes les trente secondes, obligeant à agiter les bras comme l'avait dit Gérard. L'eau du robinet était glacée. Elle frotta longtemps la boue sur ses doigts, sous ses ongles. Elle releva la tête et se regarda dans le petit miroir piqué de rouille. Elle avait une tête de folle. Le visage blanc, les taches de rousseur qui ressortaient comme des éclaboussures, la queue de cheval à moitié défaite, des mèches châtain collées sur le front. Ses yeux noisette, trop grands."
   },
   {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "Le miroir des toilettes"
+  },
+  {
    "type": "text",
    "value": "« Vous aviez onze ans. Vous mettiez votre oreiller sur votre tête. »"
   },
@@ -253,6 +263,11 @@
   {
    "type": "text",
    "value": "C'était un portefeuille. En cuir marron, usé aux coins, avec une petite fermeture dorée et une étiquette de bagage en forme de cœur accrochée à la boucle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "Le portefeuille"
   },
   {
    "type": "text",

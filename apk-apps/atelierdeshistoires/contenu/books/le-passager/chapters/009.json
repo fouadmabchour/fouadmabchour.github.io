@@ -19,6 +19,11 @@
    "value": "Elle se leva, ouvrit un placard, en sortit une bouteille sans étiquette et trois petits verres. Elle les remplit d'un liquide ambré qui sentait la prune. Elle ne toucha pas au sien."
   },
   {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "La prune"
+  },
+  {
    "type": "text",
    "value": "— Pour le froid. Rien de plus."
   },
@@ -93,6 +98,11 @@
   {
    "type": "text",
    "value": "— Un soir de pluie, il a pris un auto-stoppeur. Sur la Nationale, du côté de l'Aubrac. Un homme d'une cinquantaine d'années. Grand, maigre, avec un long imperméable gris."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "Souvenir de 1987"
   },
   {
    "type": "text",
@@ -209,6 +219,11 @@
   {
    "type": "text",
    "value": "— Et puis hier soir, vers onze heures, j'étais en train de fermer. J'ai regardé par la fenêtre. Et il y avait quelqu'un sur le parking, sous la pluie. Debout, immobile. Il regardait la Nationale. Un long imperméable gris."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Sur le parking"
   },
   {
    "type": "text",

@@ -131,6 +131,11 @@
    "value": "Juste au pied de la porte, à un mètre à peine, dans la flaque boueuse qui s'était formée devant le seuil. Une chaussure. Une grosse chaussure de travail, en cuir noir, avec des lacets défaits. Elle était posée là, à l'endroit, la pointe tournée vers la nuit, comme si quelqu'un venait d'en sortir le pied en marchant."
   },
   {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "Une seule chaussure"
+  },
+  {
    "type": "text",
    "value": "Une seule."
   },
@@ -193,6 +198,11 @@
   {
    "type": "text",
    "value": "Sous la caisse, il y avait un petit écran de surveillance, en noir et blanc, divisé en quatre images. Les caméras de la station. La première montrait les pompes, sous l'auvent : on voyait la citadine grise, et la pluie qui tombait comme de la neige grise dans la lumière. La deuxième, l'entrée de la boutique. La troisième, l'intérieur, filmé en plongée depuis un coin du plafond : les rayonnages, le comptoir, et eux deux, debout derrière la caisse, minuscules et livides. La quatrième montrait la réserve. La porte métallique, fermée maintenant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "Les caméras"
   },
   {
    "type": "text",
@@ -277,6 +287,11 @@
   {
    "type": "text",
    "value": "Une voiture de gendarmerie en patrouille."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "La patrouille arrive"
   },
   {
    "type": "text",

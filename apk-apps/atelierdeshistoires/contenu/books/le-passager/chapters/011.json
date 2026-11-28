@@ -27,6 +27,11 @@
    "value": "Il posa deux pièces sur le zinc, bien alignées, côte à côte. Puis il se leva, lentement, de toute sa hauteur. Il était si grand que sa tête frôlait la vieille lampe suspendue au-dessus du comptoir, et la lumière jaune glissa sur son visage creusé, sur ses cheveux gris coupés ras."
   },
   {
+   "type": "image",
+   "src": "images/ch11-1.webp",
+   "caption": "Il se lève"
+  },
+  {
    "type": "text",
    "value": "— Je vous laisse. Ils ont besoin de réfléchir, et moi, j'ai de la route."
   },
@@ -61,6 +66,11 @@
   {
    "type": "text",
    "value": "Par la vitre embuée, on voyait le parking du relais, un camion frigorifique garé de travers, sa bâche luisante. Et, au bout, là où commençait la Nationale, une silhouette grise qui marchait au bord de la route. Elle ne se pressait pas. Elle ne se retournait pas. Elle avançait sous la pluie, les mains dans les poches, comme un homme qui fait sa promenade du dimanche."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-2.webp",
+   "caption": "Il s'en va à pied"
   },
   {
    "type": "text",
@@ -289,6 +299,11 @@
   {
    "type": "text",
    "value": "Une lumière bleue tourna sur le mur, à travers la petite fenêtre grillagée au-dessus des cartons. Bleue, puis noire, puis bleue encore."
+  },
+  {
+   "type": "image",
+   "src": "images/ch11-3.webp",
+   "caption": "Encerclés"
   },
   {
    "type": "text",

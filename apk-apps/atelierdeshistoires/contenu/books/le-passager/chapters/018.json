@@ -51,6 +51,11 @@
    "value": "Le chauffeur descendit pour se dégourdir les jambes. Un homme d'une cinquantaine d'années, rond, une casquette usée sur un crâne dégarni, une moustache épaisse, un gros pull troué aux coudes. Il alluma une cigarette en regardant le ciel."
   },
   {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "Le routier"
+  },
+  {
    "type": "text",
    "value": "— On ne peut pas, souffla Clara. On ne peut pas monter avec quelqu'un. Pas après ce qui arrive à tous ceux qui nous croisent."
   },
@@ -101,6 +106,11 @@
   {
    "type": "text",
    "value": "La cabine était haute, encombrée, rassurante. Une couchette derrière les sièges, avec une couverture à carreaux. Des photos scotchées au pare-soleil : deux adolescentes en maillot de bain sur une plage, un berger allemand couché dans l'herbe. Un sapin désodorisant qui avait perdu toute odeur depuis longtemps. Clara se glissa au milieu, Yanis contre la portière."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "Dans la cabine"
   },
   {
    "type": "text",
@@ -189,6 +199,11 @@
   {
    "type": "text",
    "value": "Une fois. Deux fois. Elle se ralluma. Devant la machine, il n'y avait plus personne."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "Plus personne"
   },
   {
    "type": "text",

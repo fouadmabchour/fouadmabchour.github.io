@@ -75,6 +75,11 @@
    "value": "Clara baissa les yeux. Sur le muret, juste au bord, il y avait une écharpe. Une écharpe de laine mauve, bien pliée, comme on la pose sur le dossier d'une chaise. Elle n'osa pas la toucher."
   },
   {
+   "type": "image",
+   "src": "images/ch07-1.webp",
+   "caption": "L'écharpe mauve"
+  },
+  {
    "type": "text",
    "value": "Elle comprit alors, avec une clarté glaciale, ce qui allait se passer. Quelqu'un passerait sur cette route. Quelqu'un verrait la voiture vide, les portières ouvertes, le moteur qui tourne. Et quelqu'un verrait aussi, garée trente mètres plus loin, une petite citadine grise."
   },
@@ -121,6 +126,11 @@
   {
    "type": "text",
    "value": "Grand. Mince. Un long imperméable qui claquait dans le vent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-2.webp",
+   "caption": "Sur la crête"
   },
   {
    "type": "text",
@@ -245,6 +255,11 @@
   {
    "type": "text",
    "value": "Un hélicoptère. Bleu et blanc. Les lettres de la gendarmerie sur le flanc."
+  },
+  {
+   "type": "image",
+   "src": "images/ch07-3.webp",
+   "caption": "L'hélicoptère"
   },
   {
    "type": "text",

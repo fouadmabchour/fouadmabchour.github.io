@@ -51,6 +51,11 @@
    "value": "D'un coup, comme un mur. Ils sortirent d'un virage et plongèrent dedans. Un brouillard épais, cotonneux, d'un blanc sale dans la lumière des phares, qui avalait tout. Yanis leva le pied par réflexe. Clara ne voyait plus rien, ni la route, ni les bas-côtés, ni le ciel. Seulement cette masse blanche qui collait aux vitres et que les phares n'arrivaient pas à percer."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Le brouillard"
+  },
+  {
    "type": "text",
    "value": "— Je ne vois rien, souffla Yanis."
   },
@@ -109,6 +114,11 @@
   {
    "type": "text",
    "value": "Clara se mit à pleurer. Sans bruit, d'abord, puis avec de grands sanglots secs qui lui déchiraient la poitrine. Yanis la prit dans ses bras, maladroitement, par-dessus le levier de vitesse. Elle se laissa aller contre lui. Il sentait la pluie, la sueur, le blouson mouillé. Il tremblait autant qu'elle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "Cachés dans les pins"
   },
   {
    "type": "text",
@@ -181,6 +191,11 @@
   {
    "type": "text",
    "value": "Vers six heures, le ciel commença à pâlir. Une grisaille d'abord, à peine distincte de la nuit, puis un gris plus clair, laiteux, qui filtrait entre les branches. Le brouillard se levait en lambeaux. Les oiseaux se mirent à chanter, timidement, comme s'ils n'étaient pas sûrs que la nuit soit vraiment finie."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "L'aube dans le bois"
   },
   {
    "type": "text",

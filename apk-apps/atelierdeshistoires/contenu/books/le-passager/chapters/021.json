@@ -27,6 +27,11 @@
    "value": "On la fit asseoir dans un couloir, sur une chaise en plastique, entre deux gendarmes. Ses vêtements étaient trempés. Ses bottines laissaient deux petites flaques sur le lino. Une aide-soignante passa, la regarda, puis détourna les yeux comme on détourne les yeux d'un accident."
   },
   {
+   "type": "image",
+   "src": "images/ch21-1.webp",
+   "caption": "Le couloir de l'hôpital"
+  },
+  {
    "type": "text",
    "value": "— Je suis infirmière, dit Clara. Je veux savoir comment il va. J'ai le droit de savoir."
   },
@@ -93,6 +98,11 @@
   {
    "type": "text",
    "value": "La chambre était dans la pénombre. Une seule veilleuse au-dessus du lit, le ronronnement des machines, le petit bip régulier qu'elle avait appris à ne plus entendre et qu'elle entendait, maintenant, comme un coup de marteau. Yanis était allongé, très pâle sous sa barbe courte, si grand qu'il avait l'air d'avoir été posé dans un lit d'enfant. On lui avait retiré son sweat bleu marine. Il était plié sur une chaise, dans un coin, encore mouillé."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-2.webp",
+   "caption": "Les adieux"
   },
   {
    "type": "text",
@@ -309,6 +319,11 @@
   {
    "type": "text",
    "value": "Puis elle s'avança et posa sur la table, devant Clara, une épaisse chemise cartonnée, jaunie, cornée aux angles, fermée par un élastique fatigué. Sur la couverture, une étiquette tapée à la machine. Le nom d'une brigade. Marvejols. Et une date."
+  },
+  {
+   "type": "image",
+   "src": "images/ch21-3.webp",
+   "caption": "Le dossier de 1987"
   },
   {
    "type": "text",

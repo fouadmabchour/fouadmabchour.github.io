@@ -35,6 +35,11 @@
    "value": "Clara ne le quitta pas des yeux. Elle contourna le capot de la petite citadine grise, lentement, et marcha vers le fossé. Ange ne bougea pas. Il la regardait avec une sorte de tendresse attentive, comme on regarde un enfant faire ses premiers pas."
   },
   {
+   "type": "image",
+   "src": "images/ch28-1.webp",
+   "caption": "Vers le fossé"
+  },
+  {
    "type": "text",
    "value": "Elle s'agenouilla près de Delorme. Ses doigts trouvèrent la boucle de la ceinture. Elle était trempée, serrée, et ses mains tremblaient si fort qu'elle dut s'y reprendre trois fois."
   },
@@ -147,6 +152,11 @@
    "value": "À l'est, le ciel avait changé. Ce n'était plus une illusion. Au-dessus de la ligne noire des collines, une bande grise s'élargissait, puis une autre, plus pâle encore, presque blanche. Les contours du plateau se dessinaient. Les murets. Les clôtures. Un arbre seul, tordu par le vent."
   },
   {
+   "type": "image",
+   "src": "images/ch28-2.webp",
+   "caption": "Le ciel pâlit"
+  },
+  {
    "type": "text",
    "value": "Ange jeta un regard vers l'horizon. Pour la première fois depuis le début, Clara vit passer quelque chose sur son visage. Une ombre. Une hâte."
   },
@@ -209,6 +219,11 @@
   {
    "type": "text",
    "value": "Elle ne recula pas. Elle tenait l'arme baissée, le long de sa cuisse, le canon vers l'asphalte."
+  },
+  {
+   "type": "image",
+   "src": "images/ch28-3.webp",
+   "caption": "L'arme baissée"
   },
   {
    "type": "text",

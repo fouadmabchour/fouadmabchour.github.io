@@ -35,6 +35,11 @@
    "value": "Et puis, d'un coup, la brume les avala."
   },
   {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Fuite dans la brume"
+  },
+  {
    "type": "text",
    "value": "Elle montait des creux du plateau, épaisse, blanche, comme si la terre elle-même respirait. En quelques secondes, le monde se réduisit à quelques mètres d'herbe grise et à la main de Yanis serrée dans la sienne. Le bruit de l'hélicoptère se fit flou, sembla venir de la gauche, puis de la droite, puis de très haut."
   },
@@ -125,6 +130,11 @@
   {
    "type": "text",
    "value": "Le bâtiment était posé seul au milieu du plateau, une longue maison de pierre grise au toit de lauzes, avec un grand parking de gravier où stationnait un unique camion frigorifique. Une enseigne au néon rouge clignotait au-dessus de la porte, à moitié éteinte. De la fumée sortait de la cheminée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Le Relais"
   },
   {
    "type": "text",
@@ -225,6 +235,11 @@
   {
    "type": "text",
    "value": "— Je m'appelle Maud, dit-elle. Maud Castelle. C'est mon relais depuis trente ans."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Maud"
   },
   {
    "type": "text",

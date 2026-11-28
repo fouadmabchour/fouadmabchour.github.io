@@ -7,6 +7,11 @@
    "value": "Ils sortirent les mains sur la tête, comme on le leur avait ordonné."
   },
   {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "Les mains sur la tête"
+  },
+  {
    "type": "text",
    "value": "La pluie les frappa au visage dès le seuil. Les gyrophares transformaient le parking du relais en un manège bleu et froid, les flaques s'allumaient et s'éteignaient, les bâches des camions luisaient comme des écailles. Des faisceaux de lampes torches se braquèrent sur eux, si violents que Clara ne voyait plus rien d'autre que du blanc."
   },
@@ -77,6 +82,11 @@
   {
    "type": "text",
    "value": "— Capitaine Sarah Delorme. Buvez. Vous en avez besoin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "L'interrogatoire"
   },
   {
    "type": "text",
@@ -249,6 +259,11 @@
   {
    "type": "text",
    "value": "Image 6. Clara se retournait vers la porte ouverte, et regardait quelque chose, à hauteur d'homme, quelque chose d'assez grand pour qu'elle lève un peu le menton."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "Image par image"
   },
   {
    "type": "text",

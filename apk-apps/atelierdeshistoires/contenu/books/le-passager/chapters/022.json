@@ -67,6 +67,11 @@
    "value": "Elle étala les feuillets sur la table, un par un, comme des cartes."
   },
   {
+   "type": "image",
+   "src": "images/ch22-1.webp",
+   "caption": "Les feuillets"
+  },
+  {
    "type": "text",
    "value": "— Octobre 1987. Une nuit de pluie, sur la Nationale 9, près de l'Aubrac. Un jeune homme, vingt-cinq ans, un certain Paul Ferrand, chauffeur de camionnette pour une coopérative laitière, rentre de sa tournée. Il prend un auto-stoppeur, côté Aubrac. Les témoins qui ont croisé la voiture dans les jours suivants décrivent le passager : un homme d'une cinquantaine d'années, grand, mince, imperméable gris, cheveux gris très courts, des yeux très clairs. Poli. Il vouvoie tout le monde. Il ne mange jamais."
   },
@@ -129,6 +134,11 @@
   {
    "type": "text",
    "value": "Elle posa la troisième photo à côté du portrait-robot."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-2.webp",
+   "caption": "Le même visage"
   },
   {
    "type": "text",
@@ -221,6 +231,11 @@
   {
    "type": "text",
    "value": "L'adjudant Valat se tenait dans l'encadrement, le visage écarlate, l'uniforme trempé, deux gendarmes derrière lui. Il regarda le dossier, puis Delorme, puis Clara, et ses lèvres se tordirent."
+  },
+  {
+   "type": "image",
+   "src": "images/ch22-3.webp",
+   "caption": "Valat surgit"
   },
   {
    "type": "text",

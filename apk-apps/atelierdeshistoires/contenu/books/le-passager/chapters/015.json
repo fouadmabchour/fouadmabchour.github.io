@@ -15,6 +15,11 @@
    "value": "Elle étala la carte entre eux, sur le tableau de bord, sur le volant, sur leurs genoux. Le papier était doux, usé, presque du tissu à force d'avoir été plié et déplié. Il sentait le vieux, l'armoire, la cave."
   },
   {
+   "type": "image",
+   "src": "images/ch15-1.webp",
+   "caption": "Le plan de l'autre"
+  },
+  {
    "type": "text",
    "value": "— Regarde, dit-elle. Regarde bien."
   },
@@ -207,6 +212,11 @@
    "value": "C'était exactement comme sur la carte. Deux routes étroites qui se croisaient au milieu du plateau désert. Un panneau rouillé indiquait deux hameaux dont Clara n'avait jamais entendu parler. Un calvaire de pierre, rongé de lichen. Et, sur le bas-côté, un petit abri de ramassage scolaire en bois, avec un toit de tôle et un banc, et sur le banc, personne."
   },
   {
+   "type": "image",
+   "src": "images/ch15-2.webp",
+   "caption": "Le carrefour"
+  },
+  {
    "type": "text",
    "value": "Le bitume était luisant de pluie. Le brouillard s'effilochait dans les champs de pierres."
   },
@@ -233,6 +243,11 @@
   {
    "type": "text",
    "value": "Puis, au loin, sur la route qui venait de l'est, deux phares."
+  },
+  {
+   "type": "image",
+   "src": "images/ch15-3.webp",
+   "caption": "Le car"
   },
   {
    "type": "text",

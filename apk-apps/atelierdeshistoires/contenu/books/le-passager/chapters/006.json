@@ -43,6 +43,11 @@
    "value": "Elle ouvrit la portière. L'air froid la frappa au visage, chargé d'odeur de résine et de terre. Elle fit quelques pas sur le chemin, les bottines enfoncées dans la boue, et serra sa parka verte contre elle. Elle avait besoin de respirer. De sentir quelque chose de réel."
   },
   {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "Respirer"
+  },
+  {
    "type": "text",
    "value": "Le portefeuille. Elle y repensait sans arrêt. Son portefeuille posé sur le comptoir de la station, bien droit, à côté de la caisse. Elle était sûre de l'avoir laissé dans son sac, sous son siège. Elle en était sûre comme on est sûr de son propre nom."
   },
@@ -153,6 +158,11 @@
   {
    "type": "text",
    "value": "Le causse s'ouvrait devant eux, immense et nu. Des étendues d'herbe rase, jaunie par l'automne, des murets de pierres sèches, des buis tordus par le vent. Pas une maison. Pas un arbre debout. Le ciel bas pesait sur tout ça comme un couvercle. Des écharpes de brume traînaient encore dans les creux, et la route filait droit entre elles, luisante de pluie."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Le causse"
   },
   {
    "type": "text",
@@ -313,6 +323,11 @@
   {
    "type": "text",
    "value": "Les quatre portières restèrent ouvertes, battantes au vent, au bord du ravin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "Les quatre portières"
   }
  ]
 }

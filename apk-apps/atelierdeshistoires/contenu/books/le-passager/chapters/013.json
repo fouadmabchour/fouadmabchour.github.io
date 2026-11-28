@@ -59,6 +59,11 @@
    "value": "Elle se redressa sur un coude. Elle colla l'oreille contre la paroi froide, peinte en beige, couverte de graffitis grattés à l'ongle."
   },
   {
+   "type": "image",
+   "src": "images/ch13-1.webp",
+   "caption": "La voix dans le mur"
+  },
+  {
    "type": "text",
    "value": "— … je sais, disait Yanis. Je sais. Mais elle ne veut pas."
   },
@@ -139,6 +144,11 @@
    "value": "Elle appela encore. Elle appela Yanis, elle appela le gendarme, elle appela n'importe qui. Sa voix résonnait dans le couloir et revenait vers elle, nue. Au bout d'un moment, elle se tut, épuisée, et se laissa glisser contre la porte, assise par terre, les genoux contre la poitrine."
   },
   {
+   "type": "image",
+   "src": "images/ch13-2.webp",
+   "caption": "Contre la porte"
+  },
+  {
    "type": "text",
    "value": "Elle n'aurait pas su dire combien de temps elle resta ainsi. Le froid montait du carrelage. Le néon bourdonnait. À un moment, elle crut entendre des pas dans le couloir, des pas lents, réguliers, qui passaient devant sa porte sans s'arrêter. Elle ne releva pas la tête. Elle n'osa pas. Elle garda les yeux fermés très fort, comme une enfant, et elle compta ses respirations, comme elle le faisait faire aux patients qui paniquaient aux urgences. Inspire. Bloque. Expire."
   },
@@ -173,6 +183,11 @@
   {
    "type": "text",
    "value": "Dans le couloir, toutes les portes étaient ouvertes. Celle de Yanis, juste à côté. Celle d'en face. Celle du fond. Un alignement de rectangles noirs, de chaque côté, comme une bouche à laquelle on aurait arraché les dents. L'air était glacé. Ça sentait la pluie, la pluie et le goudron mouillé, comme si quelqu'un avait ouvert une fenêtre sur la Nationale."
+  },
+  {
+   "type": "image",
+   "src": "images/ch13-3.webp",
+   "caption": "Toutes les portes ouvertes"
   },
   {
    "type": "text",

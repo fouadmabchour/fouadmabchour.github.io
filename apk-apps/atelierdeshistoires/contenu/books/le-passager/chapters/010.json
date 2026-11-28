@@ -47,12 +47,22 @@
    "value": "Il était assis là."
   },
   {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "Le tabouret du bout"
+  },
+  {
    "type": "text",
    "value": "De dos, presque. De trois quarts. Le long imperméable gris tombait jusqu'au sol, trempé, et pourtant il n'y avait pas une goutte sur le carrelage autour de lui. Ses mains longues étaient posées à plat sur le zinc. Ses cheveux gris, coupés si court qu'on voyait la peau du crâne, brillaient sous la lampe."
   },
   {
    "type": "text",
    "value": "Clara recula d'un pas et se colla contre le mur, à côté de la porte. Yanis vint se placer contre elle. Elle sentit son bras contre le sien, raide comme une barre de fer."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "Derrière la porte"
   },
   {
    "type": "text",
@@ -89,6 +99,11 @@
   {
    "type": "text",
    "value": "— Votre café, dit Maud."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "Le café servi"
   },
   {
    "type": "text",

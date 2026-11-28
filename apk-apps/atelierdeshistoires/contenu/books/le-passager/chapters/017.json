@@ -59,6 +59,11 @@
    "value": "Elle se détourna. Le lavoir sentait la mousse et l'eau froide. Une fontaine coulait dans un bassin de pierre, avec un bruit de conversation sans fin. Elle trempa ses mains dedans, les frotta, comme si elle pouvait enlever la boue du talus, la terre sous ses ongles, l'odeur de chewing-gum à la fraise qui ne la quittait pas."
   },
   {
+   "type": "image",
+   "src": "images/ch17-1.webp",
+   "caption": "Au lavoir"
+  },
+  {
    "type": "text",
    "value": "Yanis vint s'accroupir à côté d'elle. Il ne la toucha pas. Depuis la cellule de Millau, il y avait entre eux une sorte de vitre invisible, faite de ce qu'il avait entendu cette nuit-là à travers le mur et qu'il ne lui avait pas raconté."
   },
@@ -117,6 +122,11 @@
   {
    "type": "text",
    "value": "Clara entra. Yanis resta dehors, dos à la vitre, à surveiller la rue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-2.webp",
+   "caption": "La cabine téléphonique"
   },
   {
    "type": "text",
@@ -273,6 +283,11 @@
   {
    "type": "text",
    "value": "La pièce de deux euros tomba dans le monnayeur avec un cliquetis. Un bip retentit dans l'écouteur, l'avertissement de fin de crédit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch17-3.webp",
+   "caption": "La terrible nouvelle"
   },
   {
    "type": "text",
