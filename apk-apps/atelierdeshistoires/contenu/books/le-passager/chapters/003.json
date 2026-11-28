@@ -1,0 +1,266 @@
+{
+ "number": 3,
+ "title": "La station",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Ils roulèrent longtemps sans parler."
+  },
+  {
+   "type": "text",
+   "value": "La pluie ne faiblissait pas. Le plateau s'abaissait peu à peu, la route descendait en virages vers la vallée, et les premiers arbres réapparurent, noirs et ruisselants, comme des sentinelles. Clara gardait les yeux sur le rétroviseur extérieur. Chaque fois que des phares apparaissaient derrière eux, son cœur s'emballait. Mais il n'y eut presque personne : une camionnette qui les doubla en klaxonnant, un tracteur garé de travers devant une ferme, puis plus rien."
+  },
+  {
+   "type": "text",
+   "value": "Elle avait récupéré son téléphone dans le vide-poche. Toujours pas de réseau. Elle le gardait serré dans sa main comme un talisman."
+  },
+  {
+   "type": "text",
+   "value": "— On appelle les gendarmes dès qu'on a du réseau, dit-elle."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut qu'on leur dise. Il est encore là-bas, sur la route. Si quelqu'un d'autre s'arrête…"
+  },
+  {
+   "type": "text",
+   "value": "— Je sais, Clara."
+  },
+  {
+   "type": "text",
+   "value": "Il avait parlé plus sèchement qu'il ne l'aurait voulu. Il s'en rendit compte, soupira, et posa brièvement la main sur son genou."
+  },
+  {
+   "type": "text",
+   "value": "— Pardon. Je sais. On va appeler."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne dit pas « je t'avais dit de ne pas t'arrêter ». Elle le pensa très fort, et elle s'en voulut de le penser, parce qu'il avait l'air malheureux, et parce qu'au fond, elle savait pourquoi il s'était arrêté. Yanis s'arrêtait toujours. Pour les chats sur le bord des routes, pour les voitures en panne, pour les vieilles dames qui ne trouvaient pas leur chemin. C'était pour ça qu'elle l'aimait."
+  },
+  {
+   "type": "text",
+   "value": "Un peu avant deux heures, une lumière apparut dans la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Une station-service, isolée au bord de la nationale, quelques kilomètres avant Marvejols. Deux pompes sous un auvent éclairé au néon, une petite boutique aux vitres embuées, un parking de gravier où stationnait une vieille camionnette blanche. L'enseigne, au-dessus, était à moitié éteinte. Il ne restait que quelques lettres lumineuses, rouges et tremblantes, qui ne voulaient plus rien dire."
+  },
+  {
+   "type": "text",
+   "value": "— On s'arrête, dit Yanis."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Il gara la voiture sous l'auvent, près des pompes. Ils restèrent un instant assis, moteur coupé, à écouter la pluie marteler le toit de tôle au-dessus d'eux. Clara regarda son téléphone. Une barre de réseau. Elle le montra à Yanis."
+  },
+  {
+   "type": "text",
+   "value": "— Appelle-les, dit-elle. Je vais aux toilettes. Je ne tiens plus."
+  },
+  {
+   "type": "text",
+   "value": "— Je viens avec toi."
+  },
+  {
+   "type": "text",
+   "value": "— Yanis. C'est une station-service. Il y a de la lumière. Il est à vingt kilomètres derrière nous, à pied. Appelle."
+  },
+  {
+   "type": "text",
+   "value": "Il hésita, puis hocha la tête."
+  },
+  {
+   "type": "text",
+   "value": "Dans la boutique, il faisait chaud. Une chaleur sèche de radiateur électrique, qui sentait le café réchauffé et le désodorisant à la vanille. Des rayonnages de chips, de bonbons, d'huile moteur. Un présentoir de cartes routières. Une petite radio posée sur le comptoir diffusait des chansons de variété, à faible volume. Derrière la caisse, un homme d'une soixantaine d'années lisait le journal, les lunettes au bout du nez. Grand, ventru, une moustache grise et une chemise à carreaux. Sur un badge épinglé à sa poitrine, on lisait « Gérard »."
+  },
+  {
+   "type": "text",
+   "value": "Il leva les yeux sur eux et sourit."
+  },
+  {
+   "type": "text",
+   "value": "— Ah ben ! Des clients ! À cette heure-là, par ce temps, je n'y croyais plus. Vous voulez de l'essence ? C'est automatique dehors, mais si vous voulez payer ici, je ne vais pas dire non, ça me fera de la compagnie."
+  },
+  {
+   "type": "text",
+   "value": "— Les toilettes, s'il vous plaît, dit Clara."
+  },
+  {
+   "type": "text",
+   "value": "— Au fond, à gauche, derrière les boissons. La lumière se met toute seule, faut juste agiter un peu les bras."
+  },
+  {
+   "type": "text",
+   "value": "Clara le remercia et s'éloigna. Yanis s'approcha du comptoir."
+  },
+  {
+   "type": "text",
+   "value": "— On a eu un problème sur la route, dit-il. On a pris un auto-stoppeur, sur l'Aubrac. Un type bizarre. Il nous a menacés, enfin, il a dit des choses… On l'a fait descendre."
+  },
+  {
+   "type": "text",
+   "value": "Gérard posa son journal."
+  },
+  {
+   "type": "text",
+   "value": "— Un auto-stoppeur ? Sur l'Aubrac, à minuit ? Il est fou, celui-là. Il va attraper la mort."
+  },
+  {
+   "type": "text",
+   "value": "— Il savait des choses sur nous. Nos prénoms. Des trucs sur la famille de ma copine. Il a dit qu'il allait jouer avec nous jusqu'à l'aube."
+  },
+  {
+   "type": "text",
+   "value": "Le pompiste le regarda un moment, puis éclata d'un grand rire franc, qui fit trembler sa moustache."
+  },
+  {
+   "type": "text",
+   "value": "— Jouer avec vous ! Ah, celle-là ! C'est un gars du coin qui vous a fait une farce, je vous le dis. Par ici, on n'a pas la télévision qui marche bien, alors on s'amuse comme on peut. Il y a des jeunes de Nasbinals qui font ça, déguisés en fantômes, à la Toussaint. Il vous a bien eus, hein ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il avait cinquante ans, au moins."
+  },
+  {
+   "type": "text",
+   "value": "— Alors c'est un vieux jeune."
+  },
+  {
+   "type": "text",
+   "value": "Il riait encore. Yanis aurait voulu rire avec lui. Il aurait voulu y croire. Il sortit son téléphone, s'éloigna vers la vitre et composa le 17."
+  },
+  {
+   "type": "text",
+   "value": "La communication fut mauvaise, hachée, pleine de souffle. Une voix d'homme, fatiguée, répondit. Yanis expliqua. Il dit l'auto-stoppeur, l'Aubrac, la Nationale 9, l'imperméable gris, les choses que l'homme savait. Il dit « il a parlé de pertes, il a dit qu'il y aurait des pertes ». Il s'entendait parler et trouvait lui-même que cela sonnait faux, absurde, comme un mauvais film."
+  },
+  {
+   "type": "text",
+   "value": "— Il vous a agressés ? demanda le gendarme."
+  },
+  {
+   "type": "text",
+   "value": "— Non. Pas vraiment. C'est nous qui l'avons fait descendre."
+  },
+  {
+   "type": "text",
+   "value": "— Il vous a volé quelque chose ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non."
+  },
+  {
+   "type": "text",
+   "value": "— Il était armé ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je ne crois pas."
+  },
+  {
+   "type": "text",
+   "value": "Un silence, au bout du fil. Puis la voix, un peu plus lente, avec cette patience appuyée qu'on réserve aux ivrognes et aux enfants."
+  },
+  {
+   "type": "text",
+   "value": "— Écoutez, monsieur. Vous avez bu, ce soir ?"
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ? Non !"
+  },
+  {
+   "type": "text",
+   "value": "— Parce que des appels comme le vôtre, le jeudi soir, avec les soirées étudiantes, on en a. Des gars qui s'amusent, des étudiants qui font un pari. Si c'est une blague, je vous préviens, l'appel est enregistré, et c'est un délit."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est pas une blague ! Je vous dis qu'il y a un type dangereux sur la route !"
+  },
+  {
+   "type": "text",
+   "value": "— Un type qui fait du stop sous la pluie et qui vous a dit des choses désagréables. D'accord. On fera passer l'info à la patrouille. Rentrez chez vous, monsieur, et soyez prudent."
+  },
+  {
+   "type": "text",
+   "value": "Ça coupa. Yanis resta un moment le téléphone à la main, à fixer son reflet dans la vitre noire. Derrière lui, il entendait Gérard qui sifflotait avec la radio. Dehors, la pluie tombait en rideaux sous la lumière blanche de l'auvent, et la petite citadine grise attendait près des pompes, seule."
+  },
+  {
+   "type": "text",
+   "value": "Il décida d'aller la chercher. De la rapprocher de la porte, de faire le plein, de ne plus perdre une minute. Il fit un signe à Gérard, qui lui répondit d'un geste distrait, et sortit sous la pluie."
+  },
+  {
+   "type": "text",
+   "value": "Clara, pendant ce temps, se lavait les mains."
+  },
+  {
+   "type": "text",
+   "value": "Les toilettes étaient minuscules, carrelées de blanc, éclairées par un néon qui grésillait et qui s'éteignait toutes les trente secondes, obligeant à agiter les bras comme l'avait dit Gérard. L'eau du robinet était glacée. Elle frotta longtemps la boue sur ses doigts, sous ses ongles. Elle releva la tête et se regarda dans le petit miroir piqué de rouille. Elle avait une tête de folle. Le visage blanc, les taches de rousseur qui ressortaient comme des éclaboussures, la queue de cheval à moitié défaite, des mèches châtain collées sur le front. Ses yeux noisette, trop grands."
+  },
+  {
+   "type": "text",
+   "value": "« Vous aviez onze ans. Vous mettiez votre oreiller sur votre tête. »"
+  },
+  {
+   "type": "text",
+   "value": "Elle ferma les yeux. Elle se força à respirer lentement, comme elle l'apprenait aux patients en panique. Inspirer par le nez. Bloquer. Expirer par la bouche. Ça va aller. C'est un fou. Un fou qui a fouillé ta vie, tes réseaux, qui a parlé à quelqu'un de la famille. Il y a une explication. Il y a toujours une explication."
+  },
+  {
+   "type": "text",
+   "value": "Le néon s'éteignit."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta dans le noir, immobile. Elle entendait la radio, de l'autre côté de la porte, et la pluie sur le toit. Elle agita les bras. Le néon hésita, clignota, se ralluma. Personne dans le miroir à part elle. Évidemment. Elle eut un rire nerveux."
+  },
+  {
+   "type": "text",
+   "value": "Elle sortit."
+  },
+  {
+   "type": "text",
+   "value": "Dans la boutique, la radio jouait toujours. Une chanson d'amour un peu sirupeuse, que Clara reconnut vaguement. Les néons du plafond bourdonnaient. Le radiateur soufflait sa chaleur sèche."
+  },
+  {
+   "type": "text",
+   "value": "Mais il n'y avait plus personne."
+  },
+  {
+   "type": "text",
+   "value": "Le tabouret de Gérard, derrière le comptoir, était vide. Le journal était ouvert à la page des mots croisés, un stylo posé en travers. Une tasse de café fumait encore à côté de la caisse. Yanis n'était pas là non plus. Par la vitre, Clara vit la voiture, près des pompes, et une silhouette qui bougeait autour : Yanis, sans doute, sous la pluie."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur ? appela-t-elle. Gérard ?"
+  },
+  {
+   "type": "text",
+   "value": "Pas de réponse. La radio enchaîna sur une autre chanson."
+  },
+  {
+   "type": "text",
+   "value": "Clara s'approcha du comptoir. Elle allait appeler de nouveau, plus fort, quand elle vit l'objet posé à côté de la tasse de café, bien au milieu, aligné avec le bord du comptoir comme on dispose un couvert."
+  },
+  {
+   "type": "text",
+   "value": "C'était un portefeuille. En cuir marron, usé aux coins, avec une petite fermeture dorée et une étiquette de bagage en forme de cœur accrochée à la boucle."
+  },
+  {
+   "type": "text",
+   "value": "Son portefeuille."
+  },
+  {
+   "type": "text",
+   "value": "Celui qu'elle avait laissé dans son sac, dans la voiture, sous son siège."
+  }
+ ]
+}

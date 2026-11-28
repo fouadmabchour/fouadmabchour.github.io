@@ -1,0 +1,290 @@
+{
+ "number": 4,
+ "title": "La boutique vide",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Clara ne toucha pas le portefeuille."
+  },
+  {
+   "type": "text",
+   "value": "Elle resta là, devant le comptoir, les bras le long du corps, à le regarder comme on regarde un animal endormi dont on ne sait pas s'il mord. La petite étiquette en forme de cœur, c'était Inès qui la lui avait offerte, pour rire, l'été dernier. Elle la reconnaissait. Elle reconnaissait la rayure sur le cuir, la couture qui se défaisait d'un côté. Il n'y avait aucun doute."
+  },
+  {
+   "type": "text",
+   "value": "Elle l'avait mis dans son sac. Son sac était dans la voiture, sous son siège. Elle n'avait rien sorti depuis Clermont."
+  },
+  {
+   "type": "text",
+   "value": "— Gérard ? répéta-t-elle, et sa voix lui parut minuscule."
+  },
+  {
+   "type": "text",
+   "value": "Rien. La radio. Le radiateur. La pluie."
+  },
+  {
+   "type": "text",
+   "value": "La porte de la boutique s'ouvrit derrière elle avec un tintement de clochette. Clara poussa un cri et fit volte-face. C'était Yanis, trempé, les cheveux plaqués sur le front, ses clés de voiture à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Quoi ? Qu'est-ce qu'il y a ?"
+  },
+  {
+   "type": "text",
+   "value": "— Où est le pompiste ?"
+  },
+  {
+   "type": "text",
+   "value": "— Il était là quand je suis sorti. Il y a deux minutes."
+  },
+  {
+   "type": "text",
+   "value": "Il regarda autour de lui, vit le tabouret vide, la tasse qui fumait. Il fronça les sourcils."
+  },
+  {
+   "type": "text",
+   "value": "— Il est peut-être allé dans la réserve."
+  },
+  {
+   "type": "text",
+   "value": "— Yanis. Regarde."
+  },
+  {
+   "type": "text",
+   "value": "Elle montra le comptoir. Il s'approcha, vit le portefeuille, et elle vit son visage changer. Il le reconnaissait, lui aussi. Il le prit. L'ouvrit. Les cartes de Clara, une photo d'eux deux à la plage de Gruissan, son permis. Rien ne semblait manquer. Il le referma lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Il était dans ta voiture, dit Clara. Dans mon sac. Sous mon siège."
+  },
+  {
+   "type": "text",
+   "value": "— Peut-être que tu l'as pris sans t'en rendre compte. Pour les toilettes."
+  },
+  {
+   "type": "text",
+   "value": "— Je n'ai rien pris. Je n'avais rien dans les mains. Tu m'as vue entrer."
+  },
+  {
+   "type": "text",
+   "value": "Il ne répondit pas. Il glissa le portefeuille dans la poche de son blouson, d'un geste presque furtif, comme pour le faire disparaître."
+  },
+  {
+   "type": "text",
+   "value": "— Monsieur ! cria-t-il. Il y a quelqu'un ?"
+  },
+  {
+   "type": "text",
+   "value": "Sa voix résonna entre les rayonnages. Personne ne répondit."
+  },
+  {
+   "type": "text",
+   "value": "Ils firent le tour de la boutique. Ils n'osaient pas se séparer. Clara marchait collée à Yanis, la main accrochée à la manche de son sweat bleu marine. Derrière le comptoir, il y avait une porte entrouverte qui donnait sur une petite réserve : des cartons de bouteilles d'eau, des bidons de lave-glace, une étagère de dossiers, un vieux calendrier de pompiers punaisé au mur. Une ampoule nue pendait au plafond. Elle était allumée."
+  },
+  {
+   "type": "text",
+   "value": "Au fond de la réserve, une seconde porte, métallique, donnait sur l'extérieur."
+  },
+  {
+   "type": "text",
+   "value": "Elle était grande ouverte."
+  },
+  {
+   "type": "text",
+   "value": "Le vent s'engouffrait par l'ouverture, faisait claquer le calendrier contre le mur. Dehors, c'était le noir absolu. Pas de lampadaire de ce côté-là. Seulement la nuit, la pluie qui tombait en biais dans le rectangle de lumière jaune projeté par l'ampoule, et au-delà, l'ombre d'un champ ou d'une lande, impossible à dire."
+  },
+  {
+   "type": "text",
+   "value": "Yanis s'avança jusqu'au seuil. Clara le retint par le bras."
+  },
+  {
+   "type": "text",
+   "value": "— N'y va pas."
+  },
+  {
+   "type": "text",
+   "value": "— Il est peut-être tombé. Il a peut-être fait un malaise."
+  },
+  {
+   "type": "text",
+   "value": "— Yanis."
+  },
+  {
+   "type": "text",
+   "value": "Il s'arrêta sur le pas de la porte. La pluie lui fouettait le visage. Il plissa les yeux, scruta l'obscurité."
+  },
+  {
+   "type": "text",
+   "value": "— Gérard ! Gérard, vous êtes là ?"
+  },
+  {
+   "type": "text",
+   "value": "Le vent emporta son cri. Rien ne répondit. Pas une voix, pas un gémissement, pas un bruit de pas. Seulement la pluie, et quelque part, très loin, le cri d'un oiseau de nuit."
+  },
+  {
+   "type": "text",
+   "value": "Puis Clara la vit."
+  },
+  {
+   "type": "text",
+   "value": "Juste au pied de la porte, à un mètre à peine, dans la flaque boueuse qui s'était formée devant le seuil. Une chaussure. Une grosse chaussure de travail, en cuir noir, avec des lacets défaits. Elle était posée là, à l'endroit, la pointe tournée vers la nuit, comme si quelqu'un venait d'en sortir le pied en marchant."
+  },
+  {
+   "type": "text",
+   "value": "Une seule."
+  },
+  {
+   "type": "text",
+   "value": "Clara sentit ses jambes devenir molles. Elle s'accrocha au chambranle. Elle avait vu des choses, à l'hôpital. Des gens qui ne se réveillaient pas, des familles qui hurlaient dans les couloirs. Elle savait à quoi ressemblait la mort. Mais ça, ce n'était pas la mort. C'était pire. C'était une absence. Un homme qui riait deux minutes plus tôt, qui sifflotait avec la radio, et qui n'était plus nulle part, avalé par la nuit sans un bruit, sans un cri, en laissant derrière lui une seule chaussure dans une flaque."
+  },
+  {
+   "type": "text",
+   "value": "« Il y aura des pertes. Des gens qui n'ont rien demandé. »"
+  },
+  {
+   "type": "text",
+   "value": "— Il est là, murmura-t-elle. Il est là, Yanis. Il est ici."
+  },
+  {
+   "type": "text",
+   "value": "— C'est impossible. On l'a laissé à vingt kilomètres. À pied. Sous la pluie."
+  },
+  {
+   "type": "text",
+   "value": "— Alors qui a pris mon portefeuille ? Qui l'a posé sur le comptoir ?"
+  },
+  {
+   "type": "text",
+   "value": "Yanis recula du seuil. Il tira la porte métallique, la referma d'un coup qui fit trembler les étagères. Il chercha un verrou, n'en trouva pas. Il se tourna vers Clara. Il avait le visage gris."
+  },
+  {
+   "type": "text",
+   "value": "— On s'en va. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "— Il faut appeler les gendarmes."
+  },
+  {
+   "type": "text",
+   "value": "— Je les ai appelés ! Ils m'ont pris pour un ivrogne ! Ils m'ont dit de rentrer chez moi !"
+  },
+  {
+   "type": "text",
+   "value": "— Alors il faut les rappeler ! Un homme a disparu, Yanis !"
+  },
+  {
+   "type": "text",
+   "value": "— Et on va leur dire quoi ? Qu'on a vu une chaussure ? Qu'un fantôme a volé ton portefeuille ? Ils vont arriver, ils vont trouver la station vide, et nous dedans !"
+  },
+  {
+   "type": "text",
+   "value": "Elle ouvrit la bouche pour répondre, et la referma. Il avait raison. C'était ça, le plus horrible : il avait raison."
+  },
+  {
+   "type": "text",
+   "value": "Ils retraversèrent la boutique en courant presque. En passant derrière le comptoir, Yanis s'arrêta net. Clara se cogna contre son dos."
+  },
+  {
+   "type": "text",
+   "value": "— Regarde."
+  },
+  {
+   "type": "text",
+   "value": "Sous la caisse, il y avait un petit écran de surveillance, en noir et blanc, divisé en quatre images. Les caméras de la station. La première montrait les pompes, sous l'auvent : on voyait la citadine grise, et la pluie qui tombait comme de la neige grise dans la lumière. La deuxième, l'entrée de la boutique. La troisième, l'intérieur, filmé en plongée depuis un coin du plafond : les rayonnages, le comptoir, et eux deux, debout derrière la caisse, minuscules et livides. La quatrième montrait la réserve. La porte métallique, fermée maintenant."
+  },
+  {
+   "type": "text",
+   "value": "À côté de l'écran, un vieux magnétoscope numérique clignotait d'une petite lumière rouge. Il enregistrait."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a les images, dit Clara. On peut voir ce qui s'est passé. On peut voir qui c'était."
+  },
+  {
+   "type": "text",
+   "value": "Yanis tripota les boutons. Il ne savait pas comment ça marchait. Il appuya sur une touche, puis une autre. L'image de la réserve se figea, recula en sautillant. Les chiffres de l'horodatage défilaient à l'envers. Deux heures six. Deux heures cinq. La porte métallique, fermée. Puis ouverte. Puis fermée."
+  },
+  {
+   "type": "text",
+   "value": "Il arrêta. Il relança à vitesse normale, à partir de deux heures trois."
+  },
+  {
+   "type": "text",
+   "value": "La réserve, vide. L'ampoule allumée. Le calendrier immobile."
+  },
+  {
+   "type": "text",
+   "value": "Puis Gérard entra dans le champ. On le reconnaissait à sa silhouette massive, à sa chemise à carreaux. Il venait de la boutique. Il ne semblait pas inquiet. Il avançait lentement, la tête légèrement inclinée, comme quelqu'un qui écoute. Comme quelqu'un qui répond à un appel. Il s'arrêta devant la porte métallique. Il parlait, on voyait ses lèvres bouger, mais il n'y avait pas de son. Il parlait à quelqu'un, dehors. Il hocha la tête, une fois, deux fois. Puis il ouvrit la porte, en grand."
+  },
+  {
+   "type": "text",
+   "value": "Il resta un instant immobile, face à la nuit."
+  },
+  {
+   "type": "text",
+   "value": "Et il sortit."
+  },
+  {
+   "type": "text",
+   "value": "Rien d'autre. Personne n'entrait. Personne ne le tirait. La porte restait ouverte, la pluie entrait en biais, le calendrier se mettait à battre contre le mur. Les secondes défilaient. Deux heures cinq. Deux heures six. Puis, dans le coin de l'image, Clara elle-même apparaissait, puis Yanis, sur le seuil."
+  },
+  {
+   "type": "text",
+   "value": "Sur aucune des images, à aucun moment, il n'y avait d'homme en imperméable gris."
+  },
+  {
+   "type": "text",
+   "value": "— Il parlait à quelqu'un, dit Clara d'une voix blanche. Tu as vu. Il parlait à quelqu'un dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a personne sur l'image."
+  },
+  {
+   "type": "text",
+   "value": "— Il était dehors. La caméra ne filme pas dehors."
+  },
+  {
+   "type": "text",
+   "value": "— Clara…"
+  },
+  {
+   "type": "text",
+   "value": "Yanis avait le regard fixe. Il venait de comprendre autre chose, et elle le comprit en même temps que lui, en voyant ce qu'il regardait. Sur la caméra de la boutique, deux minutes plus tôt, on la voyait, elle, debout devant le comptoir, à côté du portefeuille. Et lui, glissant ce portefeuille dans sa poche. Personne d'autre. Juste eux. Un couple d'inconnus, seuls dans une station où un homme venait de disparaître."
+  },
+  {
+   "type": "text",
+   "value": "— On s'en va, répéta Yanis."
+  },
+  {
+   "type": "text",
+   "value": "Cette fois, elle ne discuta pas."
+  },
+  {
+   "type": "text",
+   "value": "Ils sortirent sous la pluie, coururent jusqu'à la voiture. Yanis déverrouilla, Clara se jeta sur son siège. Son sac était là, sous le siège, la fermeture éclair ouverte. Elle ne se souvenait pas de l'avoir laissée ouverte. Yanis mit le contact. Le moteur toussa, démarra. Les phares s'allumèrent et balayèrent le parking."
+  },
+  {
+   "type": "text",
+   "value": "Et à cet instant précis, d'autres phares apparurent à l'entrée de la station."
+  },
+  {
+   "type": "text",
+   "value": "Une voiture ralentissait sur la nationale, mettait son clignotant, s'engageait sur le gravier. Clara vit d'abord la lumière blanche, aveuglante, puis la forme de la carrosserie, la bande tricolore sur la portière, et sur le toit, la barre de gyrophares éteinte."
+  },
+  {
+   "type": "text",
+   "value": "Une voiture de gendarmerie en patrouille."
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêtait à vingt mètres d'eux. Deux silhouettes en uniforme, derrière le pare-brise. Elles regardaient la station vide, la porte de la boutique qui battait au vent, la radio qu'on devait entendre jusque dehors."
+  },
+  {
+   "type": "text",
+   "value": "Et la petite citadine grise, moteur rugissant, qui démarrait en trombe."
+  }
+ ]
+}

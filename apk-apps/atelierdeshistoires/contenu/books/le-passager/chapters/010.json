@@ -1,0 +1,270 @@
+{
+ "number": 10,
+ "title": "Le café",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Personne ne bougea."
+  },
+  {
+   "type": "text",
+   "value": "Dans l'arrière-salle, le poêle continuait de ronronner. La pluie ruisselait sur la vitre étroite. Clara entendait son propre cœur cogner dans ses oreilles, si fort qu'elle eut peur qu'on l'entende de l'autre côté du mur."
+  },
+  {
+   "type": "text",
+   "value": "Yanis s'était levé sans un bruit. Il avait les poings serrés. Ses yeux allaient de la porte de la cuisine à Clara, puis à Maud, puis revenaient à la porte. Clara vit son épaule se tendre, et elle sut ce qu'il allait faire. Elle se leva à son tour et posa la main à plat sur sa poitrine."
+  },
+  {
+   "type": "text",
+   "value": "Non, articula-t-elle sans un son."
+  },
+  {
+   "type": "text",
+   "value": "Maud ne tremblait plus. C'était le plus effrayant. Elle s'était redressée sur sa chaise, très droite, le visage fermé comme une porte de grange. Elle regarda Clara, puis Yanis, et leva un doigt devant ses lèvres."
+  },
+  {
+   "type": "text",
+   "value": "— Restez là, souffla-t-elle. Quoi qu'il arrive. Quoi qu'il dise."
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'allez pas y aller, chuchota Clara."
+  },
+  {
+   "type": "text",
+   "value": "— S'il ne me voit pas, il viendra me chercher. Et il vous trouvera."
+  },
+  {
+   "type": "text",
+   "value": "Elle défit son tablier, le renoua plus serré, d'un geste lent et précis, comme on enfile une armure. Puis elle traversa la cuisine."
+  },
+  {
+   "type": "text",
+   "value": "Clara la suivit des yeux. La porte entre la cuisine et la salle était une simple porte battante à hublot. Maud la poussa, et la porte se rabattit derrière elle en oscillant, sans se fermer tout à fait. Par l'entrebâillement, et à travers le verre gras du hublot, Clara pouvait voir un morceau de la grande salle : le bout du comptoir en zinc, les étagères de bouteilles, et le tabouret du bout."
+  },
+  {
+   "type": "text",
+   "value": "Il était assis là."
+  },
+  {
+   "type": "text",
+   "value": "De dos, presque. De trois quarts. Le long imperméable gris tombait jusqu'au sol, trempé, et pourtant il n'y avait pas une goutte sur le carrelage autour de lui. Ses mains longues étaient posées à plat sur le zinc. Ses cheveux gris, coupés si court qu'on voyait la peau du crâne, brillaient sous la lampe."
+  },
+  {
+   "type": "text",
+   "value": "Clara recula d'un pas et se colla contre le mur, à côté de la porte. Yanis vint se placer contre elle. Elle sentit son bras contre le sien, raide comme une barre de fer."
+  },
+  {
+   "type": "text",
+   "value": "De l'autre côté, la machine à café se mit à siffler."
+  },
+  {
+   "type": "text",
+   "value": "— Bonjour, mademoiselle Maud, dit la voix."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un silence. Puis la voix de Maud, plus basse que d'habitude, mais ferme."
+  },
+  {
+   "type": "text",
+   "value": "— C'est madame, maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Bien sûr. Pardonnez-moi. Le temps passe si vite pour vous."
+  },
+  {
+   "type": "text",
+   "value": "Clara ferma les yeux. Pour vous. Pas pour nous."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez gardé le tabouret, reprit la voix. C'est gentil. Vous avez changé les nappes, en revanche. Elles étaient vertes, avant. Et il y avait un juke-box là-bas, près de la fenêtre. Vous mettiez toujours la même chanson quand votre père avait le dos tourné. Vous vous en souvenez ?"
+  },
+  {
+   "type": "text",
+   "value": "Maud ne répondit pas. Clara entendit le bruit d'une tasse posée sur une soucoupe. Le cliquetis d'une petite cuillère."
+  },
+  {
+   "type": "text",
+   "value": "— Votre café, dit Maud."
+  },
+  {
+   "type": "text",
+   "value": "— Merci."
+  },
+  {
+   "type": "text",
+   "value": "Il ne le but pas. Clara le savait sans le voir."
+  },
+  {
+   "type": "text",
+   "value": "— Vous n'êtes jamais partie, n'est-ce pas ? dit l'homme. Montpellier. La mer. Les études. Vous en parliez à Paul chaque matin. Il vous écoutait. Il aimait vous écouter. Il me l'a dit, vous savez. Il m'a dit beaucoup de choses, pendant ces quatre jours. On a beaucoup de temps pour parler, sur la route."
+  },
+  {
+   "type": "text",
+   "value": "— Ne prononcez pas son nom."
+  },
+  {
+   "type": "text",
+   "value": "La voix de Maud avait claqué comme un coup de fouet. Il y eut un temps. Puis l'homme rit doucement. Un rire sans méchanceté, presque affectueux."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez raison. Ce n'est pas très délicat de ma part. Mais vous voyez, madame Maud, je suis un peu le seul à m'en souvenir encore. Tous les autres ont oublié. Les gendarmes ont oublié. Les journaux ont oublié. Ses parents sont morts. Il n'y a plus que vous et moi."
+  },
+  {
+   "type": "text",
+   "value": "— Qu'est-ce que vous voulez ?"
+  },
+  {
+   "type": "text",
+   "value": "— Un café. Je vous l'ai dit."
+  },
+  {
+   "type": "text",
+   "value": "— Vous ne le buvez pas."
+  },
+  {
+   "type": "text",
+   "value": "— Non, admit-il. Je ne le bois jamais. Mais j'aime qu'on me le serve. C'est un geste si humain, servir un café à un voyageur. Vous ne trouvez pas ?"
+  },
+  {
+   "type": "text",
+   "value": "Clara rouvrit les yeux. À côté d'elle, Yanis respirait par saccades, la mâchoire contractée. Elle lui prit la main. Elle était glacée."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a des gens qui me cherchent, dit l'homme d'un ton léger. Deux jeunes gens. Très gentils, tous les deux. Elle est infirmière. Elle soigne les gens, la nuit, à Clermont. Lui, il apprend aux enfants à courir et à sauter. Ils allaient à un mariage. C'est beau, un mariage. Vous ne les auriez pas vus, par hasard ?"
+  },
+  {
+   "type": "text",
+   "value": "— Personne n'est venu aujourd'hui. À part un routier."
+  },
+  {
+   "type": "text",
+   "value": "— Ah."
+  },
+  {
+   "type": "text",
+   "value": "Un long silence. Clara retenait son souffle. Elle entendait la pluie, le sifflement résiduel de la machine à café, le tic-tac d'une horloge au mur de la salle."
+  },
+  {
+   "type": "text",
+   "value": "— Vous mentiez déjà très mal à dix-neuf ans, dit doucement l'homme. Vous n'avez pas fait de progrès."
+  },
+  {
+   "type": "text",
+   "value": "Clara sentit Yanis tressaillir. Elle serra sa main plus fort."
+  },
+  {
+   "type": "text",
+   "value": "— Ne vous inquiétez pas, reprit la voix. Je ne vais pas les déranger. Ils ont eu une longue nuit. Ils ont besoin de se reposer. Et puis, ce n'est pas encore le moment."
+  },
+  {
+   "type": "text",
+   "value": "— Le moment de quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "— Le moment de choisir."
+  },
+  {
+   "type": "text",
+   "value": "Le tabouret racla de nouveau le carrelage. Clara entendit l'homme se lever. Elle se tassa contre le mur, persuadée qu'il allait venir, pousser la porte battante, apparaître dans la cuisine avec son sourire. Mais les pas ne se dirigèrent pas vers eux. Ils restèrent près du comptoir."
+  },
+  {
+   "type": "text",
+   "value": "— Combien je vous dois ?"
+  },
+  {
+   "type": "text",
+   "value": "— Rien, dit Maud. Partez."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes trop bonne. Mais je tiens à laisser quelque chose. Pour le service."
+  },
+  {
+   "type": "text",
+   "value": "Un petit bruit sec. Quelque chose de léger, de plat, posé sur le zinc."
+  },
+  {
+   "type": "text",
+   "value": "— Vous le rendrez à son propriétaire, voulez-vous ? Il risque d'en avoir besoin. On ne devrait jamais conduire sans ses papiers."
+  },
+  {
+   "type": "text",
+   "value": "Clara sentit Yanis se raidir tout entier. Elle le vit plonger la main dans la poche arrière de son jean, puis dans celle de son blouson, puis dans l'autre. Son visage devint gris. Il tira son portefeuille, l'ouvrit d'un coup de pouce. La fente où il rangeait son permis de conduire était vide."
+  },
+  {
+   "type": "text",
+   "value": "Il releva les yeux vers Clara. Il ne dit rien. Il n'avait pas besoin."
+  },
+  {
+   "type": "text",
+   "value": "Par le hublot, Clara voyait maintenant l'objet posé sur le comptoir, juste à côté de la tasse pleine. Un petit rectangle rose pâle, plastifié. Elle n'en voyait pas les détails, mais elle n'en avait pas besoin. Elle connaissait cette photo. Yanis avec les cheveux plus longs, à dix-huit ans, l'air sérieux, presque fâché. Elle s'était moquée de lui le jour de leur rencontre en la découvrant."
+  },
+  {
+   "type": "text",
+   "value": "L'homme ne partit pas tout de suite. Il resta debout près du comptoir, immobile, une main posée sur le zinc à côté du permis. Clara voyait son profil par le hublot. Le visage creusé, la peau tendue sur les pommettes. Les yeux clairs, si clairs, fixés droit devant lui, sur les bouteilles alignées. Il ne regardait pas la porte de la cuisine."
+  },
+  {
+   "type": "text",
+   "value": "Clara pensa à Paul Ferrand. À ce garçon timide qui rougissait en commandant son café, assis peut-être sur ce même tabouret. Quatre jours, avait dit Maud. Quatre jours avec cet homme sur la banquette arrière, à l'écouter parler de sa voix douce, à voir les gens disparaître autour de lui. Quatre jours, et puis plus de Paul."
+  },
+  {
+   "type": "text",
+   "value": "Eux, ça faisait à peine quinze heures. Et Yanis avait déjà le regard d'un homme qui ne dort plus."
+  },
+  {
+   "type": "text",
+   "value": "Elle se demanda ce qu'il restait de Paul au bout de ces quatre jours. S'il avait encore su rire, rougir, servir de la conversation à une serveuse de dix-neuf ans. Ou si, à la fin, il n'était plus qu'un corps tendu vers une seule idée, comme une corde qu'on tire jusqu'à ce qu'elle casse. Elle regarda les mains de Yanis, ses mains de prof de sport qui lançaient des ballons à des gamins de douze ans le mercredi après-midi, qui réparaient les vélos des voisins, qui lui massaient la nuque quand elle rentrait d'une garde. Elles étaient fermées si fort que ses phalanges écorchées s'étaient remises à saigner."
+  },
+  {
+   "type": "text",
+   "value": "Elle leva les yeux vers lui. Il fixait le hublot, immobile, et dans ses yeux sombres il y avait quelque chose qu'elle ne lui avait jamais vu. Pas seulement de la peur. Autre chose. Une colère froide, patiente, qui l'effraya presque autant que l'homme au comptoir."
+  },
+  {
+   "type": "text",
+   "value": "— Yanis, souffla-t-elle. Regarde-moi."
+  },
+  {
+   "type": "text",
+   "value": "Il ne la regarda pas."
+  },
+  {
+   "type": "text",
+   "value": "Le passager, lui, ne la regardait pas non plus, et pourtant Clara eut la certitude absolue qu'il la voyait. Qu'il les voyait tous les deux, derrière le mur, serrés l'un contre l'autre comme des enfants."
+  },
+  {
+   "type": "text",
+   "value": "— Madame Maud, dit-il. Vous transmettrez un message, aussi ?"
+  },
+  {
+   "type": "text",
+   "value": "Maud ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "— Dites-lui qu'il n'a rien à craindre de moi. Que je ne lui veux aucun mal. Dites-lui que je suis seulement fatigué. Très fatigué. Que la route est longue, et que je voudrais m'asseoir."
+  },
+  {
+   "type": "text",
+   "value": "Il marqua une pause."
+  },
+  {
+   "type": "text",
+   "value": "Puis sa voix changea. Elle se fit plus basse, plus proche, presque intime, comme s'il se penchait à l'oreille de quelqu'un. Et Clara comprit qu'il ne parlait plus à Maud. Pour la première fois, il abandonnait le vouvoiement, et c'était pire que tout."
+  },
+  {
+   "type": "text",
+   "value": "Il dit, sans se retourner :"
+  },
+  {
+   "type": "text",
+   "value": "— Yanis, tu peux arrêter tout ça. Il suffit d'une seule fois."
+  }
+ ]
+}
