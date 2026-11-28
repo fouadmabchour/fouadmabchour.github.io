@@ -67,6 +67,11 @@
    "value": "Il ouvrit la bouche, la referma. Il se détourna vers la baie vitrée, vers la colonne du Cœur qui montait dans la nuit, avec ses anneaux de lumière qui pulsaient lentement, plus lentement qu'autrefois."
   },
   {
+   "type": "image",
+   "src": "images/ch08-1.webp",
+   "caption": "Des choses qu'on ne déterre pas"
+  },
+  {
    "type": "text",
    "value": "— Pour toi, dit-il. Pour nous. Il y a des choses qu'on ne déterre pas."
   },
@@ -131,6 +136,11 @@
    "value": "Elle s'assit dans le fauteuil. Elle réfléchit comme elle réfléchissait devant un manuscrit abîmé : qu'est-ce qui manque ? Qu'est-ce qui ne va pas ? Et elle le vit. Le grand sous-main de cuir, sur le bureau, était légèrement plus épais d'un côté. Elle souleva le bord. Le cuir était décollé, puis recollé, et entre le cuir et le carton, il y avait une feuille pliée en quatre."
   },
   {
+   "type": "image",
+   "src": "images/ch08-2.webp",
+   "caption": "Le bureau secret"
+  },
+  {
    "type": "text",
    "value": "Elle la déplia sous la lampe."
   },
@@ -177,6 +187,11 @@
   {
    "type": "text",
    "value": "Un sceau de cire rouge, aplati, qu'elle connaissait par cœur pour l'avoir vu sur tous les décrets du rationnement : une main ouverte tenant un dôme, entourée de sept étoiles. Le sceau personnel du Gouverneur Lucien Castan."
+  },
+  {
+   "type": "image",
+   "src": "images/ch08-3.webp",
+   "caption": "Le plan des navettes"
   },
   {
    "type": "text",

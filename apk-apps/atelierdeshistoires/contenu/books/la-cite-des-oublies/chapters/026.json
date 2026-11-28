@@ -7,6 +7,11 @@
    "value": "Sous la Couronne, au fond du hangar des navettes, les familles du Conseil montaient à bord en silence. Les lampes de secours, alimentées par de vieilles batteries, jetaient sur la scène une lumière bleutée de fin du monde. Des manteaux brodés, des malles cerclées de cuivre, des enfants endormis sur des épaules. Six coques effilées, couleur de nacre, attendaient dans leurs berceaux d'acier, sas ouverts comme des bouches."
   },
   {
+   "type": "image",
+   "src": "images/ch26-1.webp",
+   "caption": "Le hangar des navettes"
+  },
+  {
    "type": "text",
    "value": "La Commandante Rhéa Voss se tenait près de la passerelle de la première navette, la liste d'embarquement à la main. Trois cents noms. Elle les avait vérifiés deux fois, comme on le lui avait ordonné. Ses gardes formaient un cordon derrière elle, matraques électriques au repos, visages fermés. Plus haut, dans les escaliers qui descendaient du Marché, on entendait la rumeur de la foule. Des milliers de voix dans le noir, qui chantaient encore la comptine d'Ondine et qui, bientôt, comprendraient où étaient partis leurs dirigeants."
   },
@@ -37,6 +42,11 @@
   {
    "type": "text",
    "value": "Elle relut, ligne après ligne, le doigt sur le papier. La place numéro deux cent quatre-vingt-dix-sept, celle que Castan lui avait promise un soir, dans son bureau, devant un verre d'eau filtrée — « votre fille montera, Rhéa, je vous en donne ma parole » — portait un autre nom. Celui du neveu d'un conseiller. Un garçon qu'elle avait vu, l'année passée, humilier un domestique devant tout le monde pour une histoire de veste tachée."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-2.webp",
+   "caption": "La liste"
   },
   {
    "type": "text",
@@ -125,6 +135,11 @@
   {
    "type": "text",
    "value": "Le sourire s'effaça enfin. Ce qui apparut dessous n'était pas de la colère. C'était plus froid que cela : une sorte de lassitude polie, celle d'un homme qui trouve le monde décevant."
+  },
+  {
+   "type": "image",
+   "src": "images/ch26-3.webp",
+   "caption": "Face à Castan"
   },
   {
    "type": "text",

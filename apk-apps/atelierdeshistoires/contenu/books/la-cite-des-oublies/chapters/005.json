@@ -7,6 +7,11 @@
    "value": "Le Marché sentait la friture d'algues, la sueur et la vapeur. C'était l'anneau du milieu, le plus peuplé d'Abysse, un enchevêtrement de passerelles, d'échoppes, d'ateliers et de cantines empilés les uns sur les autres sous une lumière jaune qui donnait à tous les visages une couleur de miel. On y entendait des marteaux, des rires, des marchandages, le sifflement des fermes à vapeur, et par-dessus tout ça, toutes les heures, le gong grave de la grande horloge."
   },
   {
+   "type": "image",
+   "src": "images/ch05-1.webp",
+   "caption": "Le Marché"
+  },
+  {
    "type": "text",
    "value": "Nour descendait chaque semaine, le cinquième jour, par l'ascenseur de service. Elle n'avait jamais dit à son père où elle allait. Elle disait qu'elle travaillait tard aux archives, et c'était vrai, d'une certaine manière : elle apportait les archives avec elle."
   },
@@ -123,6 +128,11 @@
    "value": "Nour s'assit. Elle ne décida pas de s'asseoir, ses jambes le firent pour elle. Elle sortit ses petites lunettes rondes de sa poche, les posa sur son nez, et ouvrit le carnet avec le bout des doigts, comme on touche une chose sacrée."
   },
   {
+   "type": "image",
+   "src": "images/ch05-2.webp",
+   "caption": "L'écriture d'Ada"
+  },
+  {
    "type": "text",
    "value": "C'était l'écriture d'Ada Verlaine. Elle en était sûre. Elle avait vu des dizaines de fois les annotations au crayon sur les plans de fondation, cette écriture rapide et penchée, avec ses barres de « t » qui filaient trop loin, comme si la main était toujours pressée d'arriver à la suite. Personne, aux archives, n'avait jamais vu plus que quelques mots de cette main-là. Et elle tenait un carnet entier."
   },
@@ -193,6 +203,11 @@
   {
    "type": "text",
    "value": "Elio la regarda droit dans les yeux, et pour la première fois, elle ne vit plus en lui un voleur des Bas-Fonds, mais quelqu'un qui avait peur de la même chose qu'elle."
+  },
+  {
+   "type": "image",
+   "src": "images/ch05-3.webp",
+   "caption": "Et si on nous mentait ?"
   },
   {
    "type": "text",

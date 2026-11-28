@@ -47,6 +47,11 @@
    "value": "Le Gouverneur Lucien Castan apparut sur le balcon du Conseil, et le silence se fit d'un coup."
   },
   {
+   "type": "image",
+   "src": "images/ch02-1.webp",
+   "caption": "Le discours du Gouverneur"
+  },
+  {
    "type": "text",
    "value": "Il était grand, droit, ses cheveux gris argent coiffés en arrière, et son manteau blanc brodé d'or accrochait la lumière comme s'il en produisait lui-même. Il leva la main, sourit. Nour, malgré elle, sentit sa poitrine se détendre. Castan avait cet effet sur tout le monde. On l'écoutait comme on écoute un père qui va dire que tout ira bien."
   },
@@ -109,6 +114,11 @@
   {
    "type": "text",
    "value": "Elle suivit les chiffres du doigt, ses lunettes revenues sur son nez. Il y a vingt ans, le Cœur produisait presque autant qu'au premier jour. Puis chaque année un peu moins. Un pour cent. Deux. Puis la chute s'accélérait. Elle tourna les pages, de plus en plus vite. Les officiels mentaient. Ou plutôt, les officiels avaient été recopiés à partir d'un modèle, toujours le même, tandis que celui-ci notait la réalité."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-2.webp",
+   "caption": "La ligne qui descend"
   },
   {
    "type": "text",
@@ -181,6 +191,11 @@
   {
    "type": "text",
    "value": "Elle posa sa plume. Elle regarda par la fenêtre ronde la lumière blanche de la Couronne, qui clignota, très vite, une fois."
+  },
+  {
+   "type": "image",
+   "src": "images/ch02-3.webp",
+   "caption": "An 300"
   },
   {
    "type": "text",

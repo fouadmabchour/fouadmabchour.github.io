@@ -63,6 +63,11 @@
    "value": "Le couloir des Tisserands était le plus bas des Bas-Fonds, un boyau de logements serrés contre la paroi du dôme, où vivaient les familles qui réparaient les filets d'algues. À l'entrée, l'eau atteignait déjà les genoux. Des gens remontaient en portant des sacs, des enfants, des casseroles. Une vieille femme poussait devant elle une caisse qui flottait, et dedans, un chat furieux."
   },
   {
+   "type": "image",
+   "src": "images/ch16-1.webp",
+   "caption": "Le couloir inondé"
+  },
+  {
    "type": "text",
    "value": "— Tout le monde vers l'escalier du Marché ! cria Elio. Ne restez pas ici !"
   },
@@ -117,6 +122,11 @@
   {
    "type": "text",
    "value": "Ondine était assise en haut d'un lit superposé, son châle rapiécé serré autour d'elle, une fillette endormie contre sa poitrine. En dessous, Madame Fabre et son mari, âgés tous les deux, se tenaient la main dans l'eau jusqu'à la poitrine. Monsieur Fabre avait la jambe raide, une vieille blessure des pompes."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-2.webp",
+   "caption": "Ondine sur le lit"
   },
   {
    "type": "text",
@@ -237,6 +247,11 @@
   {
    "type": "text",
    "value": "Elle apparut sur le palier, dans la lumière jaune revenue. Sa longue tunique bleu nuit d'archiviste était trempée jusqu'aux genoux, son col blanc taché, ses cheveux noirs défaits collaient à ses joues. Ses petites lunettes rondes étaient embuées. Elle serrait contre elle sa sacoche de cuir comme si sa vie en dépendait."
+  },
+  {
+   "type": "image",
+   "src": "images/ch16-3.webp",
+   "caption": "Nour au palier"
   },
   {
    "type": "text",

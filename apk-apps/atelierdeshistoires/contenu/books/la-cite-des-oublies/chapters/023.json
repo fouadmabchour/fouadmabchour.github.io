@@ -87,6 +87,11 @@
    "value": "Nour disparut dans la trappe des conduites. Le dernier qu'Elio vit d'elle, ce fut le bas de sa tunique bleu nuit et la sangle de sa sacoche, puis le noir du tuyau l'avala."
   },
   {
+   "type": "image",
+   "src": "images/ch23-1.webp",
+   "caption": "La trappe"
+  },
+  {
    "type": "text",
    "value": "Il courut vers le sas."
   },
@@ -129,6 +134,11 @@
   {
    "type": "text",
    "value": "L'eau entra dans le sas avec un rugissement glacé. Elle monta à ses chevilles, à ses genoux, à sa taille, et la pression de neuf cents mètres de mer serra son scaphandre comme un poing. Par la vitre, il vit Voss courir vers la porte du sas et frapper le panneau. Trop tard. La porte extérieure s'ouvrit sur l'obscurité."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-2.webp",
+   "caption": "Le sas"
   },
   {
    "type": "text",
@@ -205,6 +215,11 @@
   {
    "type": "text",
    "value": "Tout s'éteignit d'un coup. Les trois anneaux, la colonne, les petites lampes de service. Le dôme disparut. Il ne resta que sa lampe frontale, un cône jaune pâle dans un néant infini, et le bruit de sa propre respiration, trop rapide, qui lui remplissait le casque."
+  },
+  {
+   "type": "image",
+   "src": "images/ch23-3.webp",
+   "caption": "Le dôme s'éteint"
   },
   {
    "type": "text",

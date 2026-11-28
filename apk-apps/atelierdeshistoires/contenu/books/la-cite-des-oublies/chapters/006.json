@@ -95,6 +95,11 @@
    "value": "La serre occupait tout un pan de l'anneau du Marché, du côté où le dôme était le plus proche. Une immense salle voûtée, plus haute que trois maisons, où l'air était si humide qu'on avait l'impression de respirer de l'eau tiède. Des bassins s'étageaient en gradins, reliés par des passerelles de métal, et dans chaque bassin ondulaient des forêts d'algues vertes, brunes, rouges, éclairées par des rampes de lumière violette qui bourdonnaient doucement. C'était la seule lumière violette de toute la cité, et elle donnait aux visages une teinte d'un autre monde."
   },
   {
+   "type": "image",
+   "src": "images/ch06-1.webp",
+   "caption": "La grande serre"
+  },
+  {
    "type": "text",
    "value": "Ils entrèrent par une grille d'entretien qu'Elio ouvrit avec un tournevis et un juron. Nour avait ôté sa tunique d'archiviste, trop reconnaissable, et portait une veste empruntée à la mère Gisla, trop grande, qui sentait le thé. Elle avait noué ses cheveux noirs en un chignon serré."
   },
@@ -145,6 +150,11 @@
   {
    "type": "text",
    "value": "Elio retira ses gants, enjamba la margelle et entra dans l'eau jusqu'aux genoux. Elle était tiède, presque douce. Il posa la main sur le faux crampon. Du métal, peint en brun, couvert d'une fine pellicule de mousse. Il tira. Rien. Il tourna. Ça grinça, une plainte rouillée qui le fit grimacer, puis ça céda. Le crampon pivota comme un couvercle, et dans le creux du socle apparut une cavité sèche, tapissée de cire."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-2.webp",
+   "caption": "Le faux crampon"
   },
   {
    "type": "text",
@@ -249,6 +259,11 @@
   {
    "type": "text",
    "value": "Quelqu'un était entré dans la serre avec eux. Quelqu'un qui marchait dans le noir sans lampe, sans hésiter, comme s'il savait exactement où ils étaient."
+  },
+  {
+   "type": "image",
+   "src": "images/ch06-3.webp",
+   "caption": "Dans le noir"
   },
   {
    "type": "text",

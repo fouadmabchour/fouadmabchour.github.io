@@ -11,6 +11,11 @@
    "value": "Elio leva les mains lentement. Dans la gauche, il serrait encore la quatrième clé. Voss la vit, tendit la paume. Il hésita une seconde de trop, et la matraque électrique grésilla à quelques centimètres de son visage, une étincelle bleue qui sentait le métal brûlé."
   },
   {
+   "type": "image",
+   "src": "images/ch14-1.webp",
+   "caption": "Les mains en l'air"
+  },
+  {
    "type": "text",
    "value": "— Je ne demanderai pas deux fois."
   },
@@ -135,6 +140,11 @@
    "value": "La porte s'ouvrit. Le Gouverneur Lucien Castan entra, seul, le journal d'Ada à la main."
   },
   {
+   "type": "image",
+   "src": "images/ch14-2.webp",
+   "caption": "Le salon bleu"
+  },
+  {
    "type": "text",
    "value": "Il était plus grand que dans les cérémonies, plus proche, plus réel. Ses cheveux gris argent étaient parfaitement coiffés en arrière. Son manteau blanc brodé d'or bruissait à chaque pas. Il s'assit en face d'elle, posa le journal sur la table basse entre eux, croisa les jambes et sourit. Un sourire chaleureux, presque tendre. Un sourire de père."
   },
@@ -249,6 +259,11 @@
   {
    "type": "text",
    "value": "Elle rouvrit les yeux. Elle regarda le Gouverneur bien en face, puis le journal sur la table, puis la carafe, les biscuits, le salon bleu pâle où l'on achetait les gens avec de la douceur. Sa voix, quand elle parla, ne trembla pas du tout."
+  },
+  {
+   "type": "image",
+   "src": "images/ch14-3.webp",
+   "caption": "J'accepte"
   },
   {
    "type": "text",

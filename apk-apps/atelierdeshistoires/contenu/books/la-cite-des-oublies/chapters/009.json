@@ -43,6 +43,11 @@
    "value": "Ondine Marin était assise dans son fauteuil de rotin, son châle rapiécé sur les épaules, ses longues tresses blanches posées sur la poitrine. Elle avait quatre-vingt-un ans, les yeux plissés de quelqu'un qui a beaucoup ri, et elle regardait Nour avec une curiosité franche, sans aucune gêne."
   },
   {
+   "type": "image",
+   "src": "images/ch09-1.webp",
+   "caption": "La fille de la Couronne"
+  },
+  {
    "type": "text",
    "value": "— C'est donc toi, la fille de la Couronne, dit-elle. Tu es plus jolie que ce que mon petit-fils raconte. Il dit juste que tu es pénible."
   },
@@ -115,6 +120,11 @@
    "value": "La chapelle des fondateurs était une petite salle ronde, taillée dans un ancien réservoir, au bord de la place haute du Marché. Personne n'y venait plus guère, sinon les vieux. Les bancs de métal étaient rouillés, les murs couverts de plaques de cuivre où s'alignaient, en lettres creuses, cent noms. Au fond, au-dessus d'un petit autel nu, le vitrail occupait toute la paroi : un demi-soleil d'or et d'orange posé sur une ligne bleue, avec des rayons qui s'élargissaient vers les bords. Le même dessin que la signature d'Ada, en grand."
   },
   {
+   "type": "image",
+   "src": "images/ch09-2.webp",
+   "caption": "La chapelle"
+  },
+  {
    "type": "text",
    "value": "Dans la pénombre, le vitrail était éteint, gris, sans vie."
   },
@@ -149,6 +159,11 @@
   {
    "type": "text",
    "value": "Ce fut un son grave, qui roula dans toute la cité, et au même instant, derrière le vitrail, la lampe de la colonne s'alluma. Le soleil de verre s'embrasa d'un seul coup. Une lumière d'or et d'orange inonda la chapelle, jeta sur le sol des losanges de couleur, et un rayon plus vif que les autres, passant par le cœur du demi-soleil, traversa la salle et se posa sur le mur de gauche, comme un doigt."
+  },
+  {
+   "type": "image",
+   "src": "images/ch09-3.webp",
+   "caption": "Le matin des lampes"
   },
   {
    "type": "text",

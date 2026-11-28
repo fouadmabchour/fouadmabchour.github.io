@@ -19,6 +19,11 @@
    "value": "Derrière eux, Ondine s'était levée. Elle s'approcha lentement, s'appuya sur l'épaule de son petit-fils et contempla la plaque longtemps, en silence."
   },
   {
+   "type": "image",
+   "src": "images/ch10-1.webp",
+   "caption": "Le premier plongeur"
+  },
+  {
    "type": "text",
    "value": "— Ce n'est pas un nom courant, dit-elle enfin. Il n'y a que nous."
   },
@@ -163,6 +168,11 @@
    "value": "Ils se défièrent du regard, de part et d'autre de la table où les deux cylindres brillaient sous la lampe."
   },
   {
+   "type": "image",
+   "src": "images/ch10-2.webp",
+   "caption": "La dispute"
+  },
+  {
    "type": "text",
    "value": "— Vous avez raison tous les deux, dit Ondine sans ouvrir les yeux. C'est bien le malheur. Ada l'avait compris, elle. Elle a caché sept clés au lieu d'une, et elle a mis sa chanson dans la bouche des pauvres plutôt que dans les registres des riches. Elle savait qu'il faudrait du temps. Et qu'il faudrait des gens qui ne s'aiment pas forcément pour travailler ensemble."
   },
@@ -201,6 +211,11 @@
   {
    "type": "text",
    "value": "Tibo leva la main pour qu'on se taise. Personne ne respirait. Ondine s'était penchée en avant, les doigts crispés sur son châle. Nour avait lâché son crayon."
+  },
+  {
+   "type": "image",
+   "src": "images/ch10-3.webp",
+   "caption": "La voix dans la radio"
   },
   {
    "type": "text",

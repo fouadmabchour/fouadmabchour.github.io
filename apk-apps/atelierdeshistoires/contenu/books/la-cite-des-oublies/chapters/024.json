@@ -11,6 +11,11 @@
    "value": "Les archives de la Couronne, la nuit, ressemblaient à une forêt de pierre. Des rayonnages montaient jusqu'au plafond, chargés de registres reliés de cuir bleu, et la lumière blanche, réduite au minimum par le rationnement, ne dessinait plus que des colonnes pâles entre des gouffres d'ombre. Nour connaissait chaque allée. Elle y avait passé six ans de sa vie à recopier des chiffres qu'elle croyait vrais."
   },
   {
+   "type": "image",
+   "src": "images/ch24-1.webp",
+   "caption": "Les archives la nuit"
+  },
+  {
    "type": "text",
    "value": "Elle ne s'arrêta pas aux rayonnages. Elle traversa la grande salle jusqu'à la porte de bronze du fond, celle qui donnait sur la salle des ondes."
   },
@@ -115,6 +120,11 @@
    "value": "Nour approcha le micro. Elle sentit ses mains trembler et les posa à plat sur le pupitre pour les calmer. Elle pensa à son père, qui avait récité la page dans le noir. À Ada, qui avait tout prévu sauf la peur des hommes. À tous ceux qui, dans les trois anneaux, regardaient en ce moment les murs en se demandant si la lumière allait revenir."
   },
   {
+   "type": "image",
+   "src": "images/ch24-2.webp",
+   "caption": "Le micro"
+  },
+  {
    "type": "text",
    "value": "Elle appuya sur le bouton."
   },
@@ -141,6 +151,11 @@
   {
    "type": "text",
    "value": "Dehors, accroché à la base extérieure du dôme, près de l'antenne de la balise, un plongeur en scaphandre gris acier aux bandes orange tourna deux bornes rouillées avec une clé à molette."
+  },
+  {
+   "type": "image",
+   "src": "images/ch24-3.webp",
+   "caption": "La balise"
   },
   {
    "type": "text",

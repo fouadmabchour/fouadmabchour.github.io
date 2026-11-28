@@ -19,6 +19,11 @@
    "value": "Sur cette table, Nour avait étalé tout ce qu'ils possédaient. Le journal d'Ada. Les six cylindres de laiton, alignés, chacun gravé de son soleil et de son chiffre. Le plan d'Abysse trouvé dans l'horloge. Le feuillet abîmé de la bibliothèque noyée. Et ses propres carnets, couverts de notes, de flèches, de calculs."
   },
   {
+   "type": "image",
+   "src": "images/ch20-1.webp",
+   "caption": "La table d'Ondine"
+  },
+  {
    "type": "text",
    "value": "— Voilà ce qu'on sait, dit-elle en ajustant ses lunettes rondes. La surface est vivante : la balise le dit tous les jours, une femme appelée Maëlle répète « Le ciel est revenu. Remontez. » Le Cœur va s'arrêter, et le Conseil le sait depuis vingt ans. Castan a six navettes pour trois cents personnes et il part dans trois jours. Et Ada, il y a trois siècles, a écrit : « Ne crois pas les navettes. »"
   },
@@ -111,6 +116,11 @@
    "value": "Nour était assise au bord, les genoux sous le menton, sa sacoche contre elle. Elle avait détaché ses cheveux. Elle ne se retourna pas quand il s'assit à côté d'elle."
   },
   {
+   "type": "image",
+   "src": "images/ch20-2.webp",
+   "caption": "Sur le toit des pompes"
+  },
+  {
    "type": "text",
    "value": "— Je venais ici quand j'étais petit, dit Elio. Après la mort de mon père. Je regardais les poissons-lanternes. Je me disais que c'étaient des étoiles. Je ne savais pas ce que c'était, des étoiles. Ondine m'en parlait dans ses histoires."
   },
@@ -173,6 +183,11 @@
   {
    "type": "text",
    "value": "Quand ils se séparèrent, elle garda le front contre le sien. Ils ne dirent rien. Il n'y avait rien à dire qui soit plus juste que ce silence."
+  },
+  {
+   "type": "image",
+   "src": "images/ch20-3.webp",
+   "caption": "Front contre front"
   },
   {
    "type": "text",

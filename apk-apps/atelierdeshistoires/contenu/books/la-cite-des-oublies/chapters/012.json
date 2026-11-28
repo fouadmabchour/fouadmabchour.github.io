@@ -83,6 +83,11 @@
    "value": "Il les conduisit à un atelier circulaire, sous une coupole de verre dépoli. Au centre, une vieille femme était penchée sur un établi, une loupe vissée à l'œil, en train de démonter une sorte de couronne de cuivre à l'aide d'une pince minuscule. Elle avait le dos voûté, les cheveux gris coupés court comme une brosse, des mains tachées et noueuses, et une voix rauque qui claqua avant même qu'elle relève la tête."
   },
   {
+   "type": "image",
+   "src": "images/ch12-1.webp",
+   "caption": "L'atelier de Jorge"
+  },
+  {
    "type": "text",
    "value": "— Basile, si tu m'amènes encore un chat des conduits, je te fais nettoyer les filtres pendant un mois."
   },
@@ -219,6 +224,11 @@
    "value": "Dessous, dans une niche tapissée de tissu isolant, un cylindre de laiton, frère du premier, gravé d'un soleil levant. Et un petit papier plié, roussi sur les bords."
   },
   {
+   "type": "image",
+   "src": "images/ch12-2.webp",
+   "caption": "La troisième clé"
+  },
+  {
    "type": "text",
    "value": "Nour le déplia d'une main tremblante et lut à voix basse, presque couverte par le grondement :"
   },
@@ -265,6 +275,11 @@
   {
    "type": "text",
    "value": "Devant elle, les mains croisées dans le dos, un homme de haute taille en manteau blanc brodé d'or faisait lentement le tour de l'appareil. Ses cheveux gris argent étaient coiffés en arrière. Il passa la main sur la coque comme on flatte un animal fidèle, et sourit."
+  },
+  {
+   "type": "image",
+   "src": "images/ch12-3.webp",
+   "caption": "La navette"
   },
   {
    "type": "text",

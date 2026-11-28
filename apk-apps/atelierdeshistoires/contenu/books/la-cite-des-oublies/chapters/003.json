@@ -67,6 +67,11 @@
    "value": "Pendant un long moment, ils restèrent tous les trois à regarder le soleil gravé et le nom sous la lumière jaune de la lampe. Aucun d'eux ne parla. Tout le monde à Abysse connaissait ce nom. On l'apprenait à l'école, avant même de savoir lire : Ada Verlaine, l'ingénieure, la fondatrice, celle qui avait construit le Dôme quand la surface avait brûlé. Il y avait une statue d'elle sur la place du Marché, les yeux levés vers le sommet du Dôme. Les enfants lui posaient des coquillages sur les pieds pour avoir de la chance."
   },
   {
+   "type": "image",
+   "src": "images/ch03-1.webp",
+   "caption": "La boîte sur la table"
+  },
+  {
    "type": "text",
    "value": "— Ça peut être n'importe quoi, dit Tibo d'une voix étranglée. Une boîte de matériel. Il y avait son nom partout, à l'époque."
   },
@@ -117,6 +122,11 @@
   {
    "type": "text",
    "value": "Le cliquetis du tricot s'était arrêté depuis longtemps. Ondine s'était levée de son fauteuil sans que personne ne s'en aperçoive, et elle se tenait derrière Elio, une main sur le dossier de sa chaise. Sa voix, quand elle parla, n'était plus la même. C'était sa voix de conteuse, celle des soirs où les enfants du couloir venaient s'asseoir à ses pieds, une voix basse et chantante qui semblait venir de très loin."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-2.webp",
+   "caption": "La comptine d'Ondine"
   },
   {
    "type": "text",
@@ -205,6 +215,11 @@
   {
    "type": "text",
    "value": "Comme si le mot l'avait appelée, trois coups résonnèrent contre la porte d'acier. Pas des coups de voisin. Des coups lourds, réguliers, frappés avec quelque chose de dur. Une matraque."
+  },
+  {
+   "type": "image",
+   "src": "images/ch03-3.webp",
+   "caption": "On frappe"
   },
   {
    "type": "text",

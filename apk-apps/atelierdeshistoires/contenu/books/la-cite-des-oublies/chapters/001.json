@@ -15,6 +15,11 @@
    "value": "De l'extérieur, la cité ressemblait à une lanterne posée au fond du monde. Une bulle de verre et d'acier si grande que sa courbe se perdait dans l'obscurité, éclairée de l'intérieur par trois bandes de couleur superposées : tout en haut, la lumière blanche et froide de la Couronne ; au milieu, le jaune chaud du Marché ; et en bas, là où il travaillait, l'orange fatigué des Bas-Fonds. Au centre, du sol jusqu'au sommet, la colonne du Cœur brillait d'une pulsation lente, régulière, que l'on sentait jusque dans les dents."
   },
   {
+   "type": "image",
+   "src": "images/ch01-1.webp",
+   "caption": "La lanterne au fond du monde"
+  },
+  {
    "type": "text",
    "value": "Elio aimait cette vue. Il ne l'aurait avoué à personne, mais il l'aimait."
   },
@@ -119,6 +124,11 @@
    "value": "Il éteignit sa lampe frontale. Il ne savait pas pourquoi il faisait ça, peut-être pour se prouver qu'il en était capable, peut-être parce qu'il avait toujours pensé que s'il devait affronter le noir, il voulait le regarder en face. Le néant se referma sur lui. Pas une étincelle. Pas une différence entre les yeux ouverts et les yeux fermés. Juste le froid, le poids, et son cœur qui cognait comme pour remplacer celui de la cité."
   },
   {
+   "type": "image",
+   "src": "images/ch01-2.webp",
+   "caption": "Face au noir"
+  },
+  {
    "type": "text",
    "value": "Sept. Huit. Neuf."
   },
@@ -197,6 +207,11 @@
   {
    "type": "text",
    "value": "Il y avait une gravure. Un demi-cercle posé sur une ligne droite, avec des rayons fins qui s'élevaient tout autour. Un soleil levant. Elio n'en avait jamais vu en vrai, personne à Abysse n'en avait jamais vu, mais il connaissait le dessin : on le trouvait parfois, à demi effacé, dans les vieux couloirs des Bas-Fonds."
+  },
+  {
+   "type": "image",
+   "src": "images/ch01-3.webp",
+   "caption": "Le soleil gravé"
   },
   {
    "type": "text",

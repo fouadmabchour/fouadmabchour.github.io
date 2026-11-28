@@ -63,6 +63,11 @@
    "value": "Nour, dans le scaphandre gris acier trop grand, les bandes orange délavées, ressemblait à une enfant déguisée. Ses cheveux noirs étaient enfermés dans la cagoule, ses lunettes rangées dans une poche étanche contre sa poitrine. À travers la vitre du casque, ses yeux ambrés étaient immenses."
   },
   {
+   "type": "image",
+   "src": "images/ch18-1.webp",
+   "caption": "Le scaphandre trop grand"
+  },
+  {
    "type": "text",
    "value": "— Tu as quarante minutes d'air, lui dit Tibo en vérifiant une dernière fois la bouteille. Elio en a autant. Pas une de plus. Je reste ici avec la corde de rappel et la radio. Si vous ne revenez pas à trente-cinq minutes, je descends."
   },
@@ -101,6 +106,11 @@
   {
    "type": "text",
    "value": "C'était une salle ronde, haute comme trois étages, entièrement bordée de rayonnages qui montaient jusqu'au plafond voûté. Des galeries à balustrades couraient autour, reliées par des escaliers en spirale. Au centre, sous une coupole de verre fendue, se dressait la statue d'une femme en manteau long, un livre ouvert dans une main, l'autre levée vers le haut, vers une surface qu'elle n'avait jamais revue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-2.webp",
+   "caption": "La bibliothèque noyée"
   },
   {
    "type": "text",
@@ -241,6 +251,11 @@
   {
    "type": "text",
    "value": "Un grondement monta des parois. Sourd, profond, comme un soupir de la cité tout entière. Le métal hurla quelque part au-dessus d'eux. Puis une pluie de débris, de rouille et de pierre s'abattit dans le faisceau de sa lampe, et une poutre entière glissa en travers du puits, suivie d'un pan de mur qui s'effondra dans un nuage de vase."
+  },
+  {
+   "type": "image",
+   "src": "images/ch18-3.webp",
+   "caption": "L'éboulement"
   },
   {
    "type": "text",

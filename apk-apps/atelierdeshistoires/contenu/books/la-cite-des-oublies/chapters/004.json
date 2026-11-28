@@ -31,6 +31,11 @@
    "value": "Tibo disparut dans la trappe comme un crabe dans un trou. Elio rabattit la plaque, tira le tapis par-dessus du bout du pied, et quand il se redressa, sa grand-mère lui lança un regard qui voulait dire : assieds-toi, mange ta soupe, et tais-toi. Il prit le bol sur le réchaud et s'assit."
   },
   {
+   "type": "image",
+   "src": "images/ch04-1.webp",
+   "caption": "La trappe"
+  },
+  {
    "type": "text",
    "value": "Ondine ouvrit la porte."
   },
@@ -69,6 +74,11 @@
   {
    "type": "text",
    "value": "Les gardes se dispersèrent. Ce fut brutal, méthodique, et étrangement silencieux. Ils ouvrirent tous les placards, vidèrent les tiroirs sur le sol, retournèrent les matelas dans la chambre d'Elio et dans celle d'Ondine. Ils sortirent les boîtes de conserve d'algues une par une et les secouèrent. L'un d'eux arracha la doublure du vieux fauteuil d'Ondine avec un couteau, et des flocons de rembourrage s'envolèrent dans la lumière jaune comme de la neige, une chose qu'aucun d'eux n'avait jamais vue."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-2.webp",
+   "caption": "La fouille"
   },
   {
    "type": "text",
@@ -153,6 +163,11 @@
   {
    "type": "text",
    "value": "Mais Voss, elle, ne semblait pas convaincue. Elle passa lentement devant la trappe ouverte, baissa les yeux vers le vacarme et la vapeur, puis revint vers la table où Elio faisait semblant de manger. Voss le regarda encore un long moment, comme si elle pouvait lire à travers son crâne. Puis elle s'approcha de lui, si près qu'il sentit l'odeur de métal de son uniforme."
+  },
+  {
+   "type": "image",
+   "src": "images/ch04-3.webp",
+   "caption": "L'avertissement"
   },
   {
    "type": "text",
