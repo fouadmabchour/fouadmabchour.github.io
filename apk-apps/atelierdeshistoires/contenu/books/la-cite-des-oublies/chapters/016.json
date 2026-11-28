@@ -1,0 +1,258 @@
+{
+ "number": 16,
+ "title": "L'eau monte",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "La coupure tomba sur Abysse comme un couvercle."
+  },
+  {
+   "type": "text",
+   "value": "Elio était à mi-chemin de l'escalier qui descend du Marché vers les Bas-Fonds quand les lampes jaunes s'éteignirent toutes ensemble, sans un clignement d'avertissement. Il s'arrêta, une main sur la rampe froide, et attendit le grondement familier du Cœur qui repart. Il ne vint pas. Une minute. Deux. Autour de lui, dans le noir, des voix montaient, inquiètes, puis des pleurs d'enfant quelque part au-dessus."
+  },
+  {
+   "type": "text",
+   "value": "Il serra les dents. Le noir complet. Celui qui lui collait à la peau depuis ses sept ans, depuis la nuit où son père n'était pas rentré. Il compta ses respirations comme Ondine le lui avait appris, de un à dix, puis de nouveau de un à dix. Ses doigts trouvèrent la lampe frontale accrochée à sa ceinture. Il l'alluma. Un petit rond blanc, tremblant, sur les marches mouillées."
+  },
+  {
+   "type": "text",
+   "value": "Mouillées. Les marches n'étaient jamais mouillées si haut."
+  },
+  {
+   "type": "text",
+   "value": "Il descendit plus vite. Au bas de l'escalier, l'air sentait le sel et la rouille, cette odeur qu'il connaissait trop bien, celle de la mer qui entre là où elle ne devrait pas. Le sol de la grande coursive des Bas-Fonds luisait sous sa lampe : un film d'eau, puis une flaque, puis une nappe qui lui mouillait déjà les chevilles."
+  },
+  {
+   "type": "text",
+   "value": "— Elio ! C'est toi ?"
+  },
+  {
+   "type": "text",
+   "value": "Tibo surgit d'une porte latérale, une torche d'atelier à la main, son visage rond déformé par l'inquiétude. Ses cheveux crépus étaient trempés."
+  },
+  {
+   "type": "text",
+   "value": "— Les pompes sont mortes, dit-il sans reprendre son souffle. Toutes. Sans le Cœur, elles ne tournent plus, et la paroi du secteur suinte depuis ce matin. Le couloir des Tisserands est en train de se remplir."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps depuis le début de la coupure ?"
+  },
+  {
+   "type": "text",
+   "value": "— Presque une heure. On dit au Marché que ça va durer. On dit… six heures, peut-être plus. Le Conseil n'a rien annoncé."
+  },
+  {
+   "type": "text",
+   "value": "Six heures. Elio regarda l'eau à ses pieds. Il la sentit bouger, monter, avec une lenteur obstinée. Il n'eut pas besoin de calculer longtemps."
+  },
+  {
+   "type": "text",
+   "value": "— Ma grand-mère ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je viens de chez vous. Elle n'y est pas. Les voisins disent qu'elle est partie aider les Fabre, au bout du couloir des Tisserands."
+  },
+  {
+   "type": "text",
+   "value": "Elio partit en courant avant que Tibo ait fini sa phrase."
+  },
+  {
+   "type": "text",
+   "value": "Le couloir des Tisserands était le plus bas des Bas-Fonds, un boyau de logements serrés contre la paroi du dôme, où vivaient les familles qui réparaient les filets d'algues. À l'entrée, l'eau atteignait déjà les genoux. Des gens remontaient en portant des sacs, des enfants, des casseroles. Une vieille femme poussait devant elle une caisse qui flottait, et dedans, un chat furieux."
+  },
+  {
+   "type": "text",
+   "value": "— Tout le monde vers l'escalier du Marché ! cria Elio. Ne restez pas ici !"
+  },
+  {
+   "type": "text",
+   "value": "— On ne peut pas monter, lança un homme. La Garde a fermé la grille du Marché. Ils disent qu'il faut éviter la panique."
+  },
+  {
+   "type": "text",
+   "value": "Elio sentit la colère lui brûler la gorge, une colère utile, qui chassait la peur. Éviter la panique. En laissant les gens se noyer dans le noir."
+  },
+  {
+   "type": "text",
+   "value": "— Tibo, va à la grille. Fais-la ouvrir. Crie, cogne, démonte-la s'il le faut."
+  },
+  {
+   "type": "text",
+   "value": "— Avec plaisir, gronda Tibo, et pour une fois il ne riait pas."
+  },
+  {
+   "type": "text",
+   "value": "Elio s'enfonça dans le couloir. L'eau était glacée, cette eau des profondeurs qui mord les os. Sa lampe frontale dansait sur les portes entrouvertes, sur des objets qui dérivaient : un coussin, une poupée de chiffon, une planche à découper. Des voix l'appelaient de partout."
+  },
+  {
+   "type": "text",
+   "value": "Dans le troisième logement, une mère tenait un bébé au-dessus de sa tête, debout sur une table qui commençait à flotter. Elio prit l'enfant, le cala contre son épaule, guida la femme jusqu'au couloir en lui tenant la main. Dans le cinquième, deux garçons s'étaient réfugiés sur une étagère haute et refusaient de descendre parce qu'il faisait trop noir."
+  },
+  {
+   "type": "text",
+   "value": "— Regardez ma lampe, leur dit Elio. Juste ma lampe. Le noir, on le traverse. On ne reste pas dedans."
+  },
+  {
+   "type": "text",
+   "value": "Il s'entendit parler et s'étonna. C'était exactement ce que son père lui disait. Les garçons descendirent."
+  },
+  {
+   "type": "text",
+   "value": "L'eau atteignait sa taille quand il arriva chez les Fabre, tout au bout, contre la paroi. La porte était bloquée par un meuble effondré. Il entendit derrière, faible mais claire, la voix d'Ondine. Elle chantait. Une de ses vieilles comptines, pour calmer quelqu'un."
+  },
+  {
+   "type": "text",
+   "value": "— Mamie !"
+  },
+  {
+   "type": "text",
+   "value": "— Elio ? Ah, te voilà enfin, mon garçon. Ne crie pas, tu vas réveiller la petite."
+  },
+  {
+   "type": "text",
+   "value": "Il poussa. Le meuble ne bougea pas. Il prit appui contre le mur, cala son épaule et poussa encore, de toutes ses forces, jusqu'à ce que quelque chose craque. La porte s'entrouvrit assez pour qu'il se glisse à l'intérieur."
+  },
+  {
+   "type": "text",
+   "value": "Ondine était assise en haut d'un lit superposé, son châle rapiécé serré autour d'elle, une fillette endormie contre sa poitrine. En dessous, Madame Fabre et son mari, âgés tous les deux, se tenaient la main dans l'eau jusqu'à la poitrine. Monsieur Fabre avait la jambe raide, une vieille blessure des pompes."
+  },
+  {
+   "type": "text",
+   "value": "— Il ne pouvait plus avancer, expliqua Ondine, comme si c'était l'évidence. Alors je suis restée."
+  },
+  {
+   "type": "text",
+   "value": "— Tu as quatre-vingt-un ans, Mamie."
+  },
+  {
+   "type": "text",
+   "value": "— Justement. J'ai de l'expérience."
+  },
+  {
+   "type": "text",
+   "value": "Elio aurait voulu rire et crier en même temps. Il ne fit ni l'un ni l'autre. Il prit la fillette, la confia à Madame Fabre, passa le bras de Monsieur Fabre autour de ses épaules. Puis il tendit la main vers sa grand-mère."
+  },
+  {
+   "type": "text",
+   "value": "C'est en descendant du lit qu'Ondine glissa. Son pied manqua le barreau mouillé, elle tomba de côté, et son front heurta le montant de métal avec un bruit sourd. Elio la rattrapa avant qu'elle ne s'enfonce. Elle avait les yeux ouverts, un peu étonnés. Une bosse rougissait déjà sur sa tempe."
+  },
+  {
+   "type": "text",
+   "value": "— Ce n'est rien, murmura-t-elle. Une bosse. J'ai eu pire en tombant amoureuse de ton grand-père."
+  },
+  {
+   "type": "text",
+   "value": "— Ne parle pas."
+  },
+  {
+   "type": "text",
+   "value": "— Je parle si je veux."
+  },
+  {
+   "type": "text",
+   "value": "Il la porta. Elle était légère, si légère qu'il eut peur, une seconde, de la serrer trop fort. Derrière lui, la petite procession suivait le faisceau de sa lampe : Madame Fabre et l'enfant, Monsieur Fabre qui s'appuyait au mur. L'eau leur arrivait à la poitrine maintenant. Le froid engourdissait les jambes. Chaque pas demandait un effort de volonté."
+  },
+  {
+   "type": "text",
+   "value": "Au milieu du couloir, sa lampe faiblit. Le faisceau pâlit, jaunit, se mit à trembler."
+  },
+  {
+   "type": "text",
+   "value": "Non. Pas maintenant."
+  },
+  {
+   "type": "text",
+   "value": "— Elio, dit doucement Ondine contre son cou. Chante avec moi."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne chante pas, Mamie."
+  },
+  {
+   "type": "text",
+   "value": "— Tu chantes très mal, c'est vrai. Mais tu chantes."
+  },
+  {
+   "type": "text",
+   "value": "Elle commença, d'une voix fêlée, la comptine qu'il connaissait depuis toujours. Et il la reprit, à mi-voix, faux, en avançant dans le noir qui gagnait. Madame Fabre se joignit à eux. Puis la fillette, réveillée, qui ne connaissait que la moitié des paroles. Ils avancèrent ainsi, en chantant, pendant que la lampe mourait."
+  },
+  {
+   "type": "text",
+   "value": "Une lumière vive jaillit devant eux. Des torches, beaucoup de torches. Et la grosse voix de Tibo :"
+  },
+  {
+   "type": "text",
+   "value": "— Par ici ! La grille est ouverte ! J'ai peut-être un peu cassé une serrure du Conseil, mais je ne regrette rien !"
+  },
+  {
+   "type": "text",
+   "value": "Des bras se tendirent, des voisins, des inconnus, des gens du Marché descendus aider. On prit Monsieur Fabre, on prit l'enfant. Quelqu'un posa une couverture sur les épaules d'Ondine. Elio refusa de la lâcher jusqu'à l'escalier."
+  },
+  {
+   "type": "text",
+   "value": "Ils passèrent le reste de la nuit sur les marches et dans la cantine du premier palier du Marché, entassés, trempés, à se passer des bols de bouillon d'algues tiède. Les Bas-Fonds sous eux n'étaient plus qu'une mer noire où flottaient des débris. Tibo comptait les familles sur ses doigts, encore et encore, et finit par annoncer, la voix cassée, que tout le monde était là. Tout le couloir des Tisserands. Personne n'avait été perdu."
+  },
+  {
+   "type": "text",
+   "value": "Une infirmière du Marché nettoya la tempe d'Ondine et déclara que ce n'était qu'une coupure, avec une belle bosse, et qu'il faudrait la surveiller. Ondine la remercia avec dignité et lui demanda si elle était mariée, parce qu'elle avait un petit-fils célibataire très courageux. Elio ferma les yeux."
+  },
+  {
+   "type": "text",
+   "value": "Puis il resta assis, le dos contre le mur, à regarder ses mains. Elles tremblaient. Pas de froid. De rage."
+  },
+  {
+   "type": "text",
+   "value": "Six heures de coupure. Une grille fermée. Et pas un mot du Conseil. Là-haut, dans la Couronne, on avait sans doute allumé des lampes de secours. Là-haut, on préparait des navettes pour trois cents personnes. Et Nour…"
+  },
+  {
+   "type": "text",
+   "value": "Il serra les poings. Nour était là-haut aussi. Nour avait dit oui à Castan. Il l'avait entendu le confirmer, dans le couloir de marbre, pendant qu'elle se taisait. Elle avait choisi sa place."
+  },
+  {
+   "type": "text",
+   "value": "— Arrête de penser à elle, dit Tibo en s'asseyant à côté de lui."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne pense pas à elle."
+  },
+  {
+   "type": "text",
+   "value": "— Tu fais ta tête de pompe qui va exploser. C'est ta tête « Nour »."
+  },
+  {
+   "type": "text",
+   "value": "Elio ne répondit pas."
+  },
+  {
+   "type": "text",
+   "value": "Au bout de six heures et quelques minutes, le Cœur repartit. Un grondement sourd monta du centre de la cité, les lampes jaunes clignotèrent puis s'allumèrent, faibles, fatiguées. Une clameur soulagée parcourut la cantine. En bas, quelque part, les premières pompes toussèrent et se remirent à tourner."
+  },
+  {
+   "type": "text",
+   "value": "C'est à ce moment que des pas résonnèrent dans l'escalier, des pas rapides, glissants. Quelqu'un descendait de la Couronne en courant."
+  },
+  {
+   "type": "text",
+   "value": "Elle apparut sur le palier, dans la lumière jaune revenue. Sa longue tunique bleu nuit d'archiviste était trempée jusqu'aux genoux, son col blanc taché, ses cheveux noirs défaits collaient à ses joues. Ses petites lunettes rondes étaient embuées. Elle serrait contre elle sa sacoche de cuir comme si sa vie en dépendait."
+  },
+  {
+   "type": "text",
+   "value": "Toute la cantine se tut. Une archiviste de la Couronne, ici, dans les Bas-Fonds noyés."
+  },
+  {
+   "type": "text",
+   "value": "Nour chercha du regard, trouva Elio. Elle traversa la salle sans voir personne d'autre et s'arrêta devant lui. Elle ouvrit la sacoche, en sortit un vieux registre à la toile grise, gonflé d'humidité, et le lui tendit d'une main qui tremblait. Sur l'étiquette, on lisait encore : « Naissances — an 87 ». Entre deux cahiers de noms, cousues au fil d'archive, dépassaient des pages couvertes d'une écriture penchée."
+  },
+  {
+   "type": "text",
+   "value": "Le vrai journal d'Ada Verlaine."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne t'ai jamais trahi, dit-elle."
+  }
+ ]
+}

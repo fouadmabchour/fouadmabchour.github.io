@@ -1,0 +1,162 @@
+{
+ "number": 25,
+ "title": "Dans le noir",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le noir était total. Nour ne voyait ni ses mains, ni le pupitre, ni la porte de bronze contre laquelle on avait cessé de frapper. Sa radio ne renvoyait qu'un silence sans même un grésillement : sans le Cœur, les relais de la cité étaient morts, et la voix d'Elio avec eux. Elle se répéta, très bas, pour ne pas hurler, qu'un silence n'est pas une mort. Que les scaphandres ont leur propre air. Qu'il était dehors, à la base du dôme, près des barres de maintenance qu'il connaissait les yeux fermés."
+  },
+  {
+   "type": "text",
+   "value": "Les yeux fermés. Elle faillit rire. C'était exactement ce qu'il était, maintenant. Lui qui avait peur du noir plus que de tout au monde."
+  },
+  {
+   "type": "text",
+   "value": "Dehors, dans la Couronne, les premiers cris montèrent."
+  },
+  {
+   "type": "text",
+   "value": "Ce n'était pas une rumeur, cette fois. C'était un vacarme qui grossissait de seconde en seconde, venu de partout à la fois : des portes qui claquaient, des gens qui s'appelaient, des pas qui couraient sans savoir où, des enfants qui pleuraient, une vitre brisée quelque part. Quelqu'un criait que l'air allait manquer. Quelqu'un d'autre criait que c'était la fin, que la voix de la surface était un piège, que les saboteurs avaient tué le Cœur. La peur se répandait dans les coursives plus vite que l'eau dans un couloir noyé."
+  },
+  {
+   "type": "text",
+   "value": "Nour trouva la porte à tâtons, tourna le verrou. Le couloir des archives était vide. Les gardes qui tambourinaient avaient fui. Elle avança une main sur le mur, l'autre serrée sur la sangle de sa sacoche, où dormaient le journal, son carnet et les sept cylindres de laiton."
+  },
+  {
+   "type": "text",
+   "value": "Elle connaissait les archives par cœur. Ce fut la première fois de sa vie que cela lui sauva quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Pendant ce temps, à l'extérieur du dôme, Elio était accroché à la base de la paroi, près de l'antenne de la balise, et il comptait."
+  },
+  {
+   "type": "text",
+   "value": "Il avait commencé à compter quand la lumière s'était éteinte, par réflexe, comme Ondine le lui avait appris. Il en était à quatre cents. Le dôme avait disparu. La mer avait disparu. Il ne restait que le cône jaune et tremblant de sa lampe frontale, qui n'éclairait rien d'autre que ses propres gants sur la barre. Autour, le néant. Pas de haut, pas de bas, pas de fond. Juste le bruit de son souffle dans le casque, et le battement de son cœur à lui, le seul qui battait encore."
+  },
+  {
+   "type": "text",
+   "value": "Le noir n'a pas de dents. Il a seulement de la place."
+  },
+  {
+   "type": "text",
+   "value": "Il desserra les doigts de la barre. Il fallait bouger. S'il restait là, il deviendrait fou. Il savait où était le sas manuel le plus proche : celui des Bas-Fonds, au ras du fond, celui qu'on ouvrait à la manivelle en cas de panne totale et que personne n'avait utilisé depuis des décennies. Quarante mètres plus loin, le long de la base du dôme. Il connaissait chaque barre, chaque rivet. Son père les lui avait fait compter, autrefois, en descendant avec lui."
+  },
+  {
+   "type": "text",
+   "value": "Il avança. Barre après barre. Un rivet, deux rivets, trois. Il parlait tout seul, à voix haute, pour couvrir le silence. Il parla à son père. Il parla à Nour. Il lui raconta qu'il avançait, qu'il voyait la mer, qu'il n'avait pas peur, et c'était faux, et ça n'avait plus d'importance."
+  },
+  {
+   "type": "text",
+   "value": "Quand ses bottes touchèrent la plate-forme du sas, il sut qu'il avait gagné quelque chose qu'aucune clé n'ouvrirait jamais."
+  },
+  {
+   "type": "text",
+   "value": "La manivelle était grippée. Il s'y suspendit de tout son poids. Elle céda dans un grincement que l'eau étouffa. Le sas se remplit, se vida, s'ouvrit. Elio tomba à genoux sur le plancher mouillé des Bas-Fonds, arracha son casque et respira l'air de la cité. Il était déjà plus lourd, plus tiède, avec cette odeur de sel et de métal qui devenait plus forte quand les pompes se taisaient."
+  },
+  {
+   "type": "text",
+   "value": "Et dans l'obscurité, il vit une lumière."
+  },
+  {
+   "type": "text",
+   "value": "Une petite flamme jaune, au bout du couloir. Puis une autre. Puis dix. Les gens des Bas-Fonds sortaient de chez eux avec des lampes à huile. De vieilles lampes de cuivre et de verre, qu'on gardait au fond des coffres depuis l'enfance des grands-parents, qu'on allumait les soirs de longue coupure et que les gens de la Couronne trouvaient misérables. Ici, en bas, personne ne faisait jamais tout à fait confiance au Cœur. Ici, on avait toujours gardé de l'huile."
+  },
+  {
+   "type": "text",
+   "value": "— C'est Elio ! cria une voix. Le petit Marin !"
+  },
+  {
+   "type": "text",
+   "value": "On l'entoura. On le releva. Une femme qu'il avait tirée de l'eau quelques jours plus tôt lui serra les mains en pleurant. Un vieux réparateur lui mit une lampe dans la paume."
+  },
+  {
+   "type": "text",
+   "value": "— On a entendu, dit-il. La femme d'en haut. Et l'archiviste. C'est vrai, tout ça ?"
+  },
+  {
+   "type": "text",
+   "value": "— C'est vrai, répondit Elio. Et ce n'est pas tout."
+  },
+  {
+   "type": "text",
+   "value": "Ils montèrent. Ils étaient vingt, puis cinquante, puis cent, une procession de petites flammes qui gravissait les escaliers de fer vers le Marché. Au Marché, d'autres lampes s'allumèrent, des bougies d'algues, des torches de chiffon, des lampes de poche à manivelle. L'anneau jaune, sans sa lumière jaune, se mit à briller d'une lueur nouvelle, dorée, vacillante, faite de mille points de feu."
+  },
+  {
+   "type": "text",
+   "value": "Nour les vit arriver depuis la passerelle qui descendait de la Couronne. Elle avait marché à tâtons jusqu'à l'escalier principal ; là, une famille du Marché l'avait reconnue à sa tunique et lui avait tendu une bougie. Elle aperçut une silhouette au milieu de la foule, un garçon en scaphandre gris acier, le casque sous le bras, les cheveux trempés et en bataille."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne se souvint jamais d'avoir couru. Elle se souvint seulement de ses bras à lui, de l'odeur de mer sur sa combinaison, et de sa voix à son oreille :"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis revenu. Tu vois. Ce n'était pas une question."
+  },
+  {
+   "type": "text",
+   "value": "Puis la foule s'écarta, et une autre voix s'éleva."
+  },
+  {
+   "type": "text",
+   "value": "Une voix de vieille femme, cassée, un peu fausse, qui chantait."
+  },
+  {
+   "type": "text",
+   "value": "Ondine arrivait de la Couronne, portée presque par une vingtaine de gens du Marché. Ils avaient forcé les cellules de la Garde dans le noir, quand les gardes s'étaient enfuis ; Tibo marchait à côté d'elle, une lampe dans chaque main, un sourire énorme sur son visage rond. Ondine ne regardait personne. Elle chantait, les yeux fermés, comme elle chantait depuis soixante ans aux enfants des Bas-Fonds pendant les noirs :"
+  },
+  {
+   "type": "text",
+   "value": "« Quand le cœur bat trois cents fois, / la graine dort sous le faux bois. / Va où le vert mange la lumière, / où l'on cueille sans soleil ni terre. / Quand le cœur bat trois cents fois, / le plongeur ouvre la voie. / Sept fois tourne la clé de cuivre, / une pour l'eau, six pour vivre. / Laisse le bas, monte au milieu, / que chaque main ouvre son lieu, / et quand tous chantent d'une voix, / la mer s'ouvre sous nos pas. »"
+  },
+  {
+   "type": "text",
+   "value": "Autour d'elle, quelqu'un reprit. Puis quelqu'un d'autre. Tous les gens des Bas-Fonds connaissaient le début de la comptine, et beaucoup de ceux du Marché aussi ; la fin, qui n'appartenait jusque-là qu'aux Marin, ils l'apprirent en l'écoutant deux fois. Ils la chantèrent ensemble, de plus en plus fort, et la peur reflua comme une marée."
+  },
+  {
+   "type": "text",
+   "value": "Elio monta sur un étal renversé, au pied de la colonne du Cœur. Nour monta à côté de lui. Ils n'avaient plus de radio, plus de haut-parleurs, plus rien. Seulement leur voix, et la foule assez silencieuse pour l'entendre. Ceux du premier rang répétaient chaque phrase à ceux de derrière, qui la répétaient aux suivants, jusqu'aux escaliers, jusqu'aux passerelles où commençaient à descendre, hésitants, des gens de la Couronne en manteau de nuit."
+  },
+  {
+   "type": "text",
+   "value": "Nour expliqua tout. Le Protocole Aube. Le journal d'Ada. Les navettes, le leurre « pour les lâches ». Les ballasts sous leurs pieds. Elle lut à voix haute la page que son père avait récitée."
+  },
+  {
+   "type": "text",
+   "value": "— Abysse n'est pas une maison, dit-elle. C'est un navire. Et il peut nous emporter tous. Pas trois cents. Cinq mille."
+  },
+  {
+   "type": "text",
+   "value": "Elio leva l'un des cylindres de laiton au-dessus de la foule, dans la lumière des lampes."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a sept clés. Sept vannes. Il faut les tourner à la main, toutes en même temps, au signal. Et le signal, vous le connaissez. Vous venez de le chanter."
+  },
+  {
+   "type": "text",
+   "value": "— Et l'air ? cria quelqu'un. Sans le Cœur, il n'y a plus d'air !"
+  },
+  {
+   "type": "text",
+   "value": "— Il y en a encore, répondit Tibo en grimpant à son tour sur l'étal, qui gémit sous son poids. Les réservoirs de réserve sont pleins. Je les ai vérifiés moi-même la semaine dernière, en cachette. On a quelques heures. Pas des jours. Des heures. Alors si on veut voir le ciel de la dame d'en haut, on arrête de pleurer et on se met au travail."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut un rire, quelque part dans la foule. Un seul, nerveux, surpris. Puis un deuxième. C'était le premier rire qu'on entendait à Abysse depuis que la lumière était morte, et il fit plus pour les gens que tous les discours du Conseil."
+  },
+  {
+   "type": "text",
+   "value": "Un silence passa sur la foule. Puis une femme du Marché cria : « Qu'est-ce qu'on doit faire ? » Et une autre : « Où sont les vannes ? » Et un homme de la Couronne, d'une voix tremblante : « Et le Conseil ? Où est le Gouverneur ? »"
+  },
+  {
+   "type": "text",
+   "value": "Ce fut Maître Jorge qui répondit. Elle surgit de l'escalier technique de la colonne, la vieille cheffe des techniciens, une lampe à la main, la combinaison noire de cambouis, à bout de souffle."
+  },
+  {
+   "type": "text",
+   "value": "— Le Gouverneur ? Je l'ai vu à l'instant, par le puits de service. Il est sous la Couronne, dans le hangar des navettes, avec les familles du Conseil. Les moteurs de secours tournent. Ils embarquent. Ils partent maintenant, sans nous."
+  }
+ ]
+}

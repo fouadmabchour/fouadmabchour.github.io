@@ -1,0 +1,270 @@
+{
+ "number": 28,
+ "title": "Dehors",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Dehors. Dans le noir. Les mots restèrent suspendus dans le puits d'entretien, entre les parois de métal froid où perlait l'humidité. Elio les avait prononcés lui-même, et pourtant ils lui semblaient venir d'ailleurs, d'une vieille nuit d'enfance où une sirène hurlait et où son père n'était pas rentré."
+  },
+  {
+   "type": "text",
+   "value": "Maître Jorge le regardait, sa lampe à huile à la main. Ses yeux usés comprenaient tout."
+  },
+  {
+   "type": "text",
+   "value": "— Je peux envoyer quelqu'un d'autre, dit-elle doucement."
+  },
+  {
+   "type": "text",
+   "value": "— Il n'y a personne d'autre. Les deux plongeurs sont encore à la bibliothèque, et ils n'ont plus d'air. C'est moi. C'est toujours moi."
+  },
+  {
+   "type": "text",
+   "value": "Il le dit avec un petit sourire de travers, celui qu'il prenait pour répondre aux gardes. Mais ses mains, en vérifiant les joints de son scaphandre, tremblaient."
+  },
+  {
+   "type": "text",
+   "value": "La radio grésilla à sa ceinture."
+  },
+  {
+   "type": "text",
+   "value": "— Elio. C'est Nour. Je reste avec toi. Tout le temps. Tu m'entends ?"
+  },
+  {
+   "type": "text",
+   "value": "— Je t'entends."
+  },
+  {
+   "type": "text",
+   "value": "— Alors tu n'es pas seul."
+  },
+  {
+   "type": "text",
+   "value": "Il ferma les yeux une seconde. Puis il ajusta son casque."
+  },
+  {
+   "type": "text",
+   "value": "Le sas d'entretien se trouvait au pied de la colonne du Cœur, une petite porte ronde qu'on n'avait pas ouverte depuis des décennies. Jorge et deux techniciens actionnèrent le volant. L'eau entra dans le sas en sifflant, glacée, et monta autour de ses jambes, de son ventre, de sa poitrine. La pression le serra comme un poing. Puis la porte extérieure s'ouvrit, et Elio poussa sur ses talons."
+  },
+  {
+   "type": "text",
+   "value": "Il était dehors."
+  },
+  {
+   "type": "text",
+   "value": "D'habitude, quand il sortait colmater les fissures, le dôme brillait derrière lui comme une lanterne géante. Les lumières orangées des Bas-Fonds, la lueur jaune du Marché, le blanc pâle de la Couronne tout en haut. On ne voyait jamais vraiment l'océan : on voyait la ville, et l'océan n'était qu'un fond."
+  },
+  {
+   "type": "text",
+   "value": "Ce soir, il n'y avait rien."
+  },
+  {
+   "type": "text",
+   "value": "Le Cœur était mort. Le dôme était éteint. Autour d'Elio, le noir était si complet qu'il n'avait plus de forme, plus de haut ni de bas. Seul le petit cône de sa lampe frontale découpait dans l'eau un tunnel de particules dansantes, et au-delà, rien. Une épaisseur infinie, froide, qui pressait de partout."
+  },
+  {
+   "type": "text",
+   "value": "Sa respiration s'emballa. Il l'entendait dans son casque, rauque, saccadée. Le compteur d'air, sur son poignet, se mit à descendre plus vite."
+  },
+  {
+   "type": "text",
+   "value": "— Elio. Respire avec moi. Inspire… deux… trois… quatre."
+  },
+  {
+   "type": "text",
+   "value": "La voix de Nour, dans son oreille. Calme. Méthodique. Une voix d'archiviste qui lit un registre."
+  },
+  {
+   "type": "text",
+   "value": "— Expire… deux… trois… quatre. Encore."
+  },
+  {
+   "type": "text",
+   "value": "Il obéit. Une fois. Deux fois. Le noir ne recula pas, mais il cessa d'avancer."
+  },
+  {
+   "type": "text",
+   "value": "— Raconte-moi ce que tu vois."
+  },
+  {
+   "type": "text",
+   "value": "— Rien. Je ne vois rien. C'est ça le problème."
+  },
+  {
+   "type": "text",
+   "value": "— Alors raconte-moi ce que tu touches."
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main. Ses doigts gantés rencontrèrent la paroi du dôme : du verre épais, puis une nervure d'acier, rugueuse de coquillages."
+  },
+  {
+   "type": "text",
+   "value": "— Le dôme. Une nervure. Il y a des coquillages dessus."
+  },
+  {
+   "type": "text",
+   "value": "— Très bien. D'après le schéma d'Ada, la vanne du Cœur est à la base de la nervure principale, à trente mètres sous toi, côté est. Suis l'acier. Descends. Ne lâche jamais la paroi."
+  },
+  {
+   "type": "text",
+   "value": "Il descendit, main après main. Le froid traversait sa combinaison usée, gris acier aux bandes orange, celle qu'il portait depuis des années. À chaque mètre, il se répétait ce que Nour disait. Ne lâche pas la paroi. Tu n'es pas seul."
+  },
+  {
+   "type": "text",
+   "value": "— Tu sais, dit-il pour ne pas penser, mon père est sorti un soir comme celui-ci. Pendant une coupure. Il ne voyait rien non plus."
+  },
+  {
+   "type": "text",
+   "value": "Un silence, dans la radio. Puis :"
+  },
+  {
+   "type": "text",
+   "value": "— Et il avait quelqu'un, dans son oreille ?"
+  },
+  {
+   "type": "text",
+   "value": "— Non. Les radios ne marchaient pas, à l'époque. Il était tout seul."
+  },
+  {
+   "type": "text",
+   "value": "— Toi, tu ne l'es pas. Je suis là. Et Tibo est en train de me faire des grimaces pour que je te dise qu'il est là aussi."
+  },
+  {
+   "type": "text",
+   "value": "— Dis-lui qu'il est moche."
+  },
+  {
+   "type": "text",
+   "value": "— Il dit qu'il le sait, et que toi aussi."
+  },
+  {
+   "type": "text",
+   "value": "Elio rit, malgré lui, dans son casque. Le rire lui fit du bien comme une gorgée d'air."
+  },
+  {
+   "type": "text",
+   "value": "Il continua de descendre. Une fois, sa main glissa sur une plaque couverte d'algues visqueuses, et pendant une demi-seconde il ne toucha plus rien. Le noir l'avala tout entier. Il sentit son cœur s'arrêter, puis repartir à grands coups. Ses doigts retrouvèrent l'acier. Il resta collé contre la nervure, haletant, le front contre la visière."
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là, dit Nour, qui avait entendu. Je suis toujours là. Compte avec moi."
+  },
+  {
+   "type": "text",
+   "value": "Ils comptèrent ensemble jusqu'à dix. Puis il repartit."
+  },
+  {
+   "type": "text",
+   "value": "Le silence était ce qu'il y avait de pire. D'habitude, dehors, il entendait toujours le Cœur : une pulsation sourde qui traversait l'eau et l'acier, qui lui disait à chaque seconde où était la ville. Ce soir, il n'y avait que le craquement lointain des nervures, et parfois un grondement plus profond, venu d'en dessous, là où l'eau des six vannes ouvertes s'échappait déjà des ballasts. Le Dôme bougeait. À peine. Comme un dormeur qui se retourne. Elio sentait ce frisson sous ses gants et se demandait s'il fallait en avoir peur ou s'en réjouir. Il décida de ne pas décider, et de descendre encore."
+  },
+  {
+   "type": "text",
+   "value": "Vingt mètres. Vingt-cinq. Sa lampe accrocha enfin une forme : un grand volant de bronze, à demi enfoui sous des concrétions blanches, fixé à la base de la nervure. Une tige épaisse le reliait au mécanisme à l'intérieur. Et sur la tige, un paquet de câbles d'acier enroulés, serrés, noués à la main."
+  },
+  {
+   "type": "text",
+   "value": "— Nour. Je l'ai trouvée. Quelqu'un l'a bloquée. Des câbles. Récemment : ils ne sont même pas rouillés."
+  },
+  {
+   "type": "text",
+   "value": "— Castan, murmura-t-elle. Il savait pour la septième vanne. Il voulait être sûr que personne ne…"
+  },
+  {
+   "type": "text",
+   "value": "Elle n'acheva pas. Dans la radio, une autre voix venait d'éclater, celle de Voss, très loin :"
+  },
+  {
+   "type": "text",
+   "value": "— Alerte ! Le Gouverneur s'est échappé de la salle des cartes ! Il a un code de secours ! Il est au hangar !"
+  },
+  {
+   "type": "text",
+   "value": "Elio leva la tête par réflexe. Au-dessus de lui, dans le noir absolu, une lueur s'alluma. Puis une autre. Des projecteurs. Des moteurs qui grondaient, assourdis par l'eau."
+  },
+  {
+   "type": "text",
+   "value": "— Il a libéré une navette, dit Nour, la voix blanche. Une seule. Il essaie de sortir par le puits de lancement."
+  },
+  {
+   "type": "text",
+   "value": "Elio voyait la lueur grandir. La navette nacrée jaillit du flanc de la Couronne, très haut, et elle vira mal, beaucoup trop près du dôme. Peut-être que Castan ne savait pas la piloter. Peut-être que les mâchoires à demi ouvertes avaient abîmé quelque chose. Elle partit en travers, ses projecteurs balayant l'eau comme des yeux fous."
+  },
+  {
+   "type": "text",
+   "value": "Elle percuta le dôme."
+  },
+  {
+   "type": "text",
+   "value": "Le choc traversa l'océan et frappa Elio en pleine poitrine. Toute la paroi trembla sous ses mains. Un grondement immense, venu de partout à la fois, fit tomber une pluie de coquillages autour de lui. La navette rebondit, sa lumière tournoyante, et s'éloigna en dérivant, moteurs coupés, comme une feuille morte."
+  },
+  {
+   "type": "text",
+   "value": "— Elio ! Elio, réponds !"
+  },
+  {
+   "type": "text",
+   "value": "— Je suis là. Je suis là. Le dôme a tenu ?"
+  },
+  {
+   "type": "text",
+   "value": "Un silence, des cris dans la salle radio. Puis Jorge, sur le canal :"
+  },
+  {
+   "type": "text",
+   "value": "— Fissure dans la Couronne, côté nord. Petite. On colmate. Mais le choc a secoué les ballasts. Ils sont à moitié vides, avec six vannes ouvertes. Si la septième ne cède pas maintenant, le Dôme va pencher. Il faut ouvrir. Tout de suite."
+  },
+  {
+   "type": "text",
+   "value": "Elio sortit son couteau de plongée. Il attaqua les câbles. Un. Deux. Le troisième résistait, épais comme son pouce. Il scia, scia encore, la sueur coulant dans ses yeux sous le casque. Le compteur d'air clignotait en rouge."
+  },
+  {
+   "type": "text",
+   "value": "— Douze minutes d'air, dit Nour, qui le suivait sur sa télémétrie. Elio, il te faut quatre minutes pour remonter jusqu'au sas."
+  },
+  {
+   "type": "text",
+   "value": "— Alors j'en ai huit pour finir."
+  },
+  {
+   "type": "text",
+   "value": "Le câble céda. Il posa les deux mains sur le volant de bronze, cala ses bottes contre la nervure, et tira."
+  },
+  {
+   "type": "text",
+   "value": "Rien."
+  },
+  {
+   "type": "text",
+   "value": "Il tira encore. Ses muscles hurlaient. Il pensa à son père, seul dans le noir. Il pensa à Ondine qui chantait. À Tibo et ses radios en boîtes de conserve. À Nour, à ses yeux ambrés derrière ses lunettes, sur le toit des pompes, la nuit du premier baiser."
+  },
+  {
+   "type": "text",
+   "value": "— Chante, dit-il entre ses dents. Nour, dis-leur de chanter."
+  },
+  {
+   "type": "text",
+   "value": "Et dans la radio, de très loin, il l'entendit. D'abord Nour seule, puis la salle radio, puis, à travers tous les canaux bricolés de Tibo, la ville entière, cinq mille voix serrées dans la Couronne : « Laisse le bas, monte au milieu, / que chaque main ouvre son lieu, / et quand tous chantent d'une voix, / la mer s'ouvre sous nos pas… »"
+  },
+  {
+   "type": "text",
+   "value": "Le volant bougea. D'un cran. De deux. Puis il tourna d'un coup, libre, et Elio sentit sous ses mains une énorme vibration, comme si le Dôme tout entier prenait une inspiration."
+  },
+  {
+   "type": "text",
+   "value": "La vanne s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "L'eau des ballasts jaillit de la base de la nervure en un torrent furieux, blanc de bulles dans le faisceau de sa lampe. Le courant le frappa de plein fouet. Ses mains glissèrent du bronze. Il essaya d'attraper la paroi, la nervure, n'importe quoi. Ses doigts ne rencontrèrent que de l'eau."
+  },
+  {
+   "type": "text",
+   "value": "— Elio ? Elio ! La vanne est ouverte, je vois les jauges, elle est… Elio, réponds-moi !"
+  },
+  {
+   "type": "text",
+   "value": "Mais le courant l'avait déjà arraché au dôme et emporté dans le noir, et la petite lumière de sa lampe frontale tournoyait, de plus en plus loin, de plus en plus faible, jusqu'à disparaître."
+  }
+ ]
+}

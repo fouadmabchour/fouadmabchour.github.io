@@ -1,0 +1,202 @@
+{
+ "number": 5,
+ "title": "Deux mondes",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Le Marché sentait la friture d'algues, la sueur et la vapeur. C'était l'anneau du milieu, le plus peuplé d'Abysse, un enchevêtrement de passerelles, d'échoppes, d'ateliers et de cantines empilés les uns sur les autres sous une lumière jaune qui donnait à tous les visages une couleur de miel. On y entendait des marteaux, des rires, des marchandages, le sifflement des fermes à vapeur, et par-dessus tout ça, toutes les heures, le gong grave de la grande horloge."
+  },
+  {
+   "type": "text",
+   "value": "Nour descendait chaque semaine, le cinquième jour, par l'ascenseur de service. Elle n'avait jamais dit à son père où elle allait. Elle disait qu'elle travaillait tard aux archives, et c'était vrai, d'une certaine manière : elle apportait les archives avec elle."
+  },
+  {
+   "type": "text",
+   "value": "Ce jour-là, la leçon s'était mal passée. Elle avait la tête ailleurs. La ligne du registre tournait encore dans son esprit, « Fin estimée du Cœur : an 300 », et par deux fois elle s'était trompée en corrigeant un exercice. La petite Mina, sept ans, l'avait regardée avec inquiétude. Les enfants étaient partis, l'arrière-salle de la cantine des Trois Vannes s'était vidée, et Nour rangeait ses ardoises dans sa sacoche quand la porte s'ouvrit."
+  },
+  {
+   "type": "text",
+   "value": "Le jeune homme qui entra ne ressemblait pas aux parents qui venaient d'habitude chercher leurs enfants. Il avait des cheveux châtain foncé coupés court, en bataille, comme s'il venait d'ôter un casque, une peau hâlée par les lampes chauffantes, et une cicatrice fine qui coupait son sourcil gauche. Il portait une veste de travail tachée par-dessus le col d'une combinaison gris acier à bandes orange. Ses yeux étaient bleu-vert, de la couleur de l'eau près des projecteurs du Dôme. Derrière lui se tenait un garçon plus petit, rond, la salopette pleine de graisse, qui fit un petit signe de la main comme pour s'excuser d'exister."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes Nour Saïd, dit le premier."
+  },
+  {
+   "type": "text",
+   "value": "— Le cours est fini, répondit Nour sans lever les yeux. Revenez le cinquième jour prochain. Et les adultes doivent s'inscrire auprès de la cantine."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne viens pas pour un cours."
+  },
+  {
+   "type": "text",
+   "value": "Il posa sur la table, entre les ardoises, quelque chose d'enveloppé dans une toile cirée. Nour regarda l'objet, puis l'homme, et elle remarqua l'odeur qu'il portait : le sel, le métal, et ce parfum lourd et humide qu'elle ne connaissait que par les rapports d'inspection. Les Bas-Fonds."
+  },
+  {
+   "type": "text",
+   "value": "— Je m'appelle Elio Marin, dit-il. Plongeur-réparateur. Lui, c'est Tibo. On a besoin que vous lisiez quelque chose."
+  },
+  {
+   "type": "text",
+   "value": "Nour croisa les bras."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne lis pas les lettres d'amour. Ni les contrats de dettes. Ni rien de ce que vous voulez me faire lire, sans doute."
+  },
+  {
+   "type": "text",
+   "value": "— C'est vieux. Très vieux. Écrit à la main, en écriture penchée."
+  },
+  {
+   "type": "text",
+   "value": "— D'où ça vient ?"
+  },
+  {
+   "type": "text",
+   "value": "Elio hésita une demi-seconde. Elle le vit. Elle passait sa vie à voir ce qui hésitait dans les lignes."
+  },
+  {
+   "type": "text",
+   "value": "— Je l'ai trouvé."
+  },
+  {
+   "type": "text",
+   "value": "— Où ?"
+  },
+  {
+   "type": "text",
+   "value": "— Dehors."
+  },
+  {
+   "type": "text",
+   "value": "Nour sentit une colère froide lui monter au visage. Elle avait entendu parler des plongeurs qui pillaient les épaves autour du Dôme, des vieilles pièces de métal revendues au Marché, des objets d'avant qui disparaissaient avant que les archives puissent les étudier. Le Conseil appelait ça du vol, et pour une fois, elle était d'accord avec le Conseil."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes un voleur d'épaves, dit-elle. Et vous voulez que je vous aide à estimer votre butin avant de le vendre."
+  },
+  {
+   "type": "text",
+   "value": "— Je ne vends rien, dit Elio, et sa voix se durcit. Mais je vois que la Couronne a déjà décidé de ce que je suis. C'est pratique, là-haut. On regarde ma combinaison, et on sait tout. Vous n'êtes jamais descendue plus bas que cette cantine, pas vrai ? Vous savez au moins de quelle couleur est la lumière, chez nous ?"
+  },
+  {
+   "type": "text",
+   "value": "— Orange, répondit Nour sèchement. Une heure de moins par jour depuis ce matin. Je tiens les registres."
+  },
+  {
+   "type": "text",
+   "value": "— Alors vous savez qu'on la paie, cette heure. Pas vous."
+  },
+  {
+   "type": "text",
+   "value": "Tibo toussota."
+  },
+  {
+   "type": "text",
+   "value": "— Euh. Elio. On avait dit qu'on serait polis."
+  },
+  {
+   "type": "text",
+   "value": "Nour aurait dû partir. Elle avait sa sacoche à l'épaule, la porte était à trois pas, et tout ce qu'elle savait de la vie lui disait de ne pas toucher à cet objet. Mais Elio, sans quitter ses yeux, défit la toile cirée d'un geste brusque, et elle vit la couverture de cuir brun. Et le dessin."
+  },
+  {
+   "type": "text",
+   "value": "Un demi-cercle sur une ligne, avec des rayons fins tout autour."
+  },
+  {
+   "type": "text",
+   "value": "Elle connaissait ce dessin. Elle l'avait vu sur les plus vieux plans des archives, dans le coin inférieur droit, là où les architectes signaient. Il n'existait qu'une seule personne qui ait jamais signé de cette façon. Elle se pencha, malgré elle, et tout le sang quitta son visage."
+  },
+  {
+   "type": "text",
+   "value": "— Où avez-vous trouvé ça, murmura-t-elle. Vraiment."
+  },
+  {
+   "type": "text",
+   "value": "— Dans l'ancienne station d'observation. Dans une boîte étanche avec son nom dessus. Après le noir de quarante secondes."
+  },
+  {
+   "type": "text",
+   "value": "Nour s'assit. Elle ne décida pas de s'asseoir, ses jambes le firent pour elle. Elle sortit ses petites lunettes rondes de sa poche, les posa sur son nez, et ouvrit le carnet avec le bout des doigts, comme on touche une chose sacrée."
+  },
+  {
+   "type": "text",
+   "value": "C'était l'écriture d'Ada Verlaine. Elle en était sûre. Elle avait vu des dizaines de fois les annotations au crayon sur les plans de fondation, cette écriture rapide et penchée, avec ses barres de « t » qui filaient trop loin, comme si la main était toujours pressée d'arriver à la suite. Personne, aux archives, n'avait jamais vu plus que quelques mots de cette main-là. Et elle tenait un carnet entier."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a des énigmes, dit Elio, plus doucement. Ma grand-mère en connaît une par cœur. Une comptine. Mais avant, il y a cette première page. On n'arrive pas à la lire."
+  },
+  {
+   "type": "text",
+   "value": "Nour tourna la couverture. La première page était abîmée sur le bord, mais le texte, au centre, tenait bon. Elle commença à lire à voix basse, en traduisant au fur et à mesure les tournures anciennes, les mots que plus personne n'employait."
+  },
+  {
+   "type": "text",
+   "value": "— « À qui trouvera ce carnet. Je m'appelle Ada Verlaine. J'ai construit Abysse pour sauver cinq mille personnes de la Brûlure. Si vous lisez ceci, c'est que les instructions gardées aux archives ont été perdues, ou qu'on les a fait disparaître. J'ai donc tout caché une seconde fois, là où seuls ceux qui cherchent trouveront. »"
+  },
+  {
+   "type": "text",
+   "value": "Elio et Tibo s'étaient rapprochés. Personne ne parlait. Au loin, le gong de l'horloge sonna, et Nour sursauta."
+  },
+  {
+   "type": "text",
+   "value": "— « La surface n'est pas morte, reprit-elle d'une voix qui tremblait un peu. Elle est blessée. Les tempêtes du soleil passeront. L'air se lavera. Nos calculs disent trois siècles. Le Dôme n'a pas été construit pour durer toujours : il a été construit pour attendre. J'appelle cela le Protocole Aube. Après trois cents ans, remontez. »"
+  },
+  {
+   "type": "text",
+   "value": "Elle s'arrêta. Le mot suivant était souligné deux fois. « Remontez. »"
+  },
+  {
+   "type": "text",
+   "value": "En dessous, l'écriture devenait plus petite, plus serrée, comme si Ada avait manqué de place ou de temps. Nour déchiffra encore quelques lignes, lentement : « Ne faites confiance à personne qui vous dira d'attendre. Ceux qui ont peur de perdre leur place préféreront toujours un monde fermé. C'est pourquoi j'ai semé le chemin dans ce que les gens gardent sans y penser : les chansons, les pierres, les horloges. Commencez par la chanson. » Et en bas de la page, à côté du soleil levant, une dernière phrase griffonnée, presque effacée : « Courage. Le ciel est plus grand que vous ne le croyez. »"
+  },
+  {
+   "type": "text",
+   "value": "Personne n'osa parler pendant un long moment. Tibo avait les yeux humides et faisait semblant d'avoir une poussière dedans."
+  },
+  {
+   "type": "text",
+   "value": "— Le Cœur aussi a été calculé pour trois cents ans, dit-elle presque sans s'en rendre compte. Il y a un registre, à la Couronne. Je l'ai vu. Je n'aurais pas dû le voir. Il dit que la fin du Cœur est prévue pour cette année."
+  },
+  {
+   "type": "text",
+   "value": "Tibo devint pâle sous sa graisse."
+  },
+  {
+   "type": "text",
+   "value": "— Cette année, répéta-t-il. Genre, cette année-ci. L'an 300."
+  },
+  {
+   "type": "text",
+   "value": "— Oui."
+  },
+  {
+   "type": "text",
+   "value": "Elio s'était assis en face d'elle. Toute l'arrogance avait quitté son visage. Il avait seulement l'air très jeune, et très fatigué, comme quelqu'un qui colmate des fissures toutes les nuits sans savoir pourquoi elles reviennent."
+  },
+  {
+   "type": "text",
+   "value": "— Il y en a de plus en plus, dit-il. Des fissures. Dix-neuf la semaine dernière. Avant, c'était trois par mois. Et cette nuit, le Cœur a mis quarante secondes à repartir. J'étais dehors. J'ai compté."
+  },
+  {
+   "type": "text",
+   "value": "Nour referma lentement le carnet. Elle avait froid, tout à coup, malgré la chaleur moite du Marché. Toute sa vie, elle avait cru à un monde simple, ordonné, avec ses étages et ses règles, ses registres bien tenus. Elle avait cru qu'au-dessus du Dôme il n'y avait que du feu et du poison, parce qu'on le lui avait dit, et parce que les gens qui le lui avaient dit étaient ceux qu'elle respectait le plus."
+  },
+  {
+   "type": "text",
+   "value": "— La surface est morte, dit-elle, et sa propre voix lui sembla étrangère. C'est ce qu'on nous apprend depuis l'école."
+  },
+  {
+   "type": "text",
+   "value": "Elio la regarda droit dans les yeux, et pour la première fois, elle ne vit plus en lui un voleur des Bas-Fonds, mais quelqu'un qui avait peur de la même chose qu'elle."
+  },
+  {
+   "type": "text",
+   "value": "— Et si on nous mentait ?"
+  }
+ ]
+}

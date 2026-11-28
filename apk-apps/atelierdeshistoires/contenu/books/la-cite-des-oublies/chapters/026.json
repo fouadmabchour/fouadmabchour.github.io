@@ -1,0 +1,266 @@
+{
+ "number": 26,
+ "title": "Voss",
+ "blocks": [
+  {
+   "type": "text",
+   "value": "Sous la Couronne, au fond du hangar des navettes, les familles du Conseil montaient à bord en silence. Les lampes de secours, alimentées par de vieilles batteries, jetaient sur la scène une lumière bleutée de fin du monde. Des manteaux brodés, des malles cerclées de cuivre, des enfants endormis sur des épaules. Six coques effilées, couleur de nacre, attendaient dans leurs berceaux d'acier, sas ouverts comme des bouches."
+  },
+  {
+   "type": "text",
+   "value": "La Commandante Rhéa Voss se tenait près de la passerelle de la première navette, la liste d'embarquement à la main. Trois cents noms. Elle les avait vérifiés deux fois, comme on le lui avait ordonné. Ses gardes formaient un cordon derrière elle, matraques électriques au repos, visages fermés. Plus haut, dans les escaliers qui descendaient du Marché, on entendait la rumeur de la foule. Des milliers de voix dans le noir, qui chantaient encore la comptine d'Ondine et qui, bientôt, comprendraient où étaient partis leurs dirigeants."
+  },
+  {
+   "type": "text",
+   "value": "Le Gouverneur Castan passa devant elle, son manteau blanc brodé d'or à peine froissé. Il posa une main paternelle sur son épaule."
+  },
+  {
+   "type": "text",
+   "value": "— Vous avez fait un travail remarquable, Rhéa. Quand nous serons là-haut, je n'oublierai pas votre loyauté."
+  },
+  {
+   "type": "text",
+   "value": "— Merci, Gouverneur."
+  },
+  {
+   "type": "text",
+   "value": "Il s'éloigna vers la navette de tête. Voss baissa les yeux sur la liste. Elle connaissait chaque nom par cœur. Elle chercha pourtant, une troisième fois, celui qu'elle avait demandé à voir écrit. Pas pour elle. Elle savait depuis longtemps qu'une commandante resterait en arrière pour tenir l'ordre jusqu'au bout. Mais pour Elsa."
+  },
+  {
+   "type": "text",
+   "value": "Elsa Voss. Seize ans. Apprentie cartographe au Marché. Une gamine aux cheveux trop longs qui riait comme sa mère riait avant l'uniforme."
+  },
+  {
+   "type": "text",
+   "value": "Le nom n'y était pas."
+  },
+  {
+   "type": "text",
+   "value": "Elle relut, ligne après ligne, le doigt sur le papier. La place numéro deux cent quatre-vingt-dix-sept, celle que Castan lui avait promise un soir, dans son bureau, devant un verre d'eau filtrée — « votre fille montera, Rhéa, je vous en donne ma parole » — portait un autre nom. Celui du neveu d'un conseiller. Un garçon qu'elle avait vu, l'année passée, humilier un domestique devant tout le monde pour une histoire de veste tachée."
+  },
+  {
+   "type": "text",
+   "value": "Voss replia la liste très lentement."
+  },
+  {
+   "type": "text",
+   "value": "— Sergent Hallé, dit-elle sans élever la voix. Où est le registre complet ? Pas la copie. L'original."
+  },
+  {
+   "type": "text",
+   "value": "Le sergent hésita, puis lui tendit le classeur scellé. Elle l'ouvrit. Les corrections étaient là, à l'encre fraîche, toutes de la même écriture fine et penchée. L'écriture du Gouverneur. Quatorze noms barrés en trois jours. Des enfants de gardes, surtout. De ceux qui avaient obéi."
+  },
+  {
+   "type": "text",
+   "value": "Elle referma le classeur. Le bourdonnement des batteries lui sembla soudain très fort."
+  },
+  {
+   "type": "text",
+   "value": "Quelque part dans sa mémoire, une voix de jeune femme, captée une heure plus tôt par toutes les radios de la cité, répétait : « Ici la côte. Le ciel est revenu. Remontez. » Elle l'avait entendue au milieu de la panique, et quelque chose en elle, qu'elle croyait mort depuis des années, s'était redressé."
+  },
+  {
+   "type": "text",
+   "value": "Voss leva la tête. Castan, au pied de la navette de tête, saluait un conseiller qui embarquait sa vaisselle d'argent."
+  },
+  {
+   "type": "text",
+   "value": "— Hallé. Les verrous des berceaux. Qui détient les codes ?"
+  },
+  {
+   "type": "text",
+   "value": "— Vous, Commandante. Et le Gouverneur."
+  },
+  {
+   "type": "text",
+   "value": "— Bien."
+  },
+  {
+   "type": "text",
+   "value": "Elle marcha vers le pupitre de commande du hangar. Ses bottes résonnaient sur les plaques de métal. Personne ne l'arrêta : on n'arrête pas la Commandante de la Garde. Elle posa la main sur le clavier, tapa six chiffres. Dans un grondement sourd, les mâchoires d'acier des six berceaux se refermèrent sur les coques des navettes. Les sas se figèrent à mi-course. Une sirène brève retentit."
+  },
+  {
+   "type": "text",
+   "value": "Le silence qui suivit fut total."
+  },
+  {
+   "type": "text",
+   "value": "Castan se retourna. Pendant une seconde, son sourire de père resta accroché à son visage, comme un masque qu'on aurait oublié d'enlever."
+  },
+  {
+   "type": "text",
+   "value": "— Rhéa ? Un problème technique ?"
+  },
+  {
+   "type": "text",
+   "value": "— Aucun, Gouverneur. Les navettes ne partiront pas."
+  },
+  {
+   "type": "text",
+   "value": "Un murmure courut parmi les familles. Une femme serra son enfant contre elle. Un conseiller laissa tomber une malle, qui s'ouvrit sur des livres reliés de cuir."
+  },
+  {
+   "type": "text",
+   "value": "Castan s'approcha, les mains ouvertes, la voix douce."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes fatiguée. Nous le sommes tous. Le noir, la panique… Rouvrez les berceaux, et nous parlerons de tout cela là-haut, au soleil."
+  },
+  {
+   "type": "text",
+   "value": "— Ma fille n'est pas sur la liste."
+  },
+  {
+   "type": "text",
+   "value": "— Une erreur de copie. Je la corrige à l'instant."
+  },
+  {
+   "type": "text",
+   "value": "Il tendit la main vers le classeur. Voss ne bougea pas."
+  },
+  {
+   "type": "text",
+   "value": "— Quatorze erreurs de copie. Toutes de votre main. Toutes des enfants de ceux qui vous ont protégé."
+  },
+  {
+   "type": "text",
+   "value": "Le sourire s'effaça enfin. Ce qui apparut dessous n'était pas de la colère. C'était plus froid que cela : une sorte de lassitude polie, celle d'un homme qui trouve le monde décevant."
+  },
+  {
+   "type": "text",
+   "value": "— Il y a trois cents places, Commandante. Pas cinq mille. Je n'ai pas inventé l'arithmétique. Quelqu'un devait choisir qui mérite d'être sauvé. J'ai choisi. Vous auriez préféré qu'on tire au sort ?"
+  },
+  {
+   "type": "text",
+   "value": "— J'aurais préféré qu'on dise la vérité. Il y a vingt ans."
+  },
+  {
+   "type": "text",
+   "value": "— La vérité aurait provoqué une émeute, et l'émeute aurait tué tout le monde."
+  },
+  {
+   "type": "text",
+   "value": "— Alors ce qui se passe là-haut, dans les escaliers, c'est quoi ?"
+  },
+  {
+   "type": "text",
+   "value": "Comme pour lui répondre, la rumeur de la foule grossit. Des lumières dansaient sur les marches : des lampes à huile, des dizaines, des centaines, portées à bout de bras. Les gens des Bas-Fonds descendaient vers le hangar, et avec eux des vendeurs du Marché, des fermiers d'algues, des domestiques de la Couronne encore en livrée. En tête, une silhouette en combinaison gris acier aux bandes orange. Et à côté de lui, une jeune femme en tunique bleu nuit, les cheveux noirs défaits sur les épaules."
+  },
+  {
+   "type": "text",
+   "value": "Elio et Nour."
+  },
+  {
+   "type": "text",
+   "value": "Castan fit un signe vers les gardes."
+  },
+  {
+   "type": "text",
+   "value": "— Sergent Hallé. Faites reculer ces gens."
+  },
+  {
+   "type": "text",
+   "value": "Hallé regarda Voss. Les autres gardes aussi. Une vingtaine de visages, tournés vers elle, attendant de savoir à qui ils appartenaient."
+  },
+  {
+   "type": "text",
+   "value": "Voss décrocha sa matraque électrique de sa ceinture. Elle la tint un instant dans sa main, puis la posa sur le pupitre."
+  },
+  {
+   "type": "text",
+   "value": "— La Garde du Dôme protège le Dôme, dit-elle d'une voix qui portait jusqu'au fond du hangar. Tout le Dôme. Pas trois cents personnes. Formez le cordon face aux navettes. Personne ne monte, personne ne descend. Et personne ne touche à un seul habitant de cette ville."
+  },
+  {
+   "type": "text",
+   "value": "Il y eut une hésitation, la durée d'un battement de cœur. Puis Hallé fit demi-tour. Les gardes pivotèrent avec lui, d'un seul mouvement, et se placèrent dos à la foule, face aux coques de nacre."
+  },
+  {
+   "type": "text",
+   "value": "Castan recula d'un pas. Pour la première fois, Voss le vit vieux."
+  },
+  {
+   "type": "text",
+   "value": "Elio arriva au bas des marches, essoufflé, une lampe frontale vissée sur le front. Il regarda les gardes, puis la Commandante, avec une méfiance qu'elle ne pouvait pas lui reprocher. C'était elle qui l'avait arrêté au planétarium. Elle qui avait fait jeter sa grand-mère dans une cellule."
+  },
+  {
+   "type": "text",
+   "value": "— Vous êtes de quel côté, aujourd'hui ? demanda-t-il."
+  },
+  {
+   "type": "text",
+   "value": "— Du côté de ma fille. Elle est là-haut, quelque part dans les escaliers, avec les autres. Ça me suffit."
+  },
+  {
+   "type": "text",
+   "value": "Nour s'avança. Ses yeux ambrés, derrière ses petites lunettes rondes, allaient de Castan aux navettes bloquées."
+  },
+  {
+   "type": "text",
+   "value": "— Commandante, nous avons besoin de vos gardes. De tous. Le plan d'Ada exige que toute la ville agisse en même temps. Sept vannes, sept groupes. Il faut de l'ordre, sinon les gens vont se piétiner."
+  },
+  {
+   "type": "text",
+   "value": "— Vous aurez mes gardes."
+  },
+  {
+   "type": "text",
+   "value": "— Vous croyez à cette fable ? lança Castan. Une ville entière qui flotte comme un bouchon ? Ada Verlaine était une poétesse, pas une ingénieure. Ses énigmes ont tué plus de gens que…"
+  },
+  {
+   "type": "text",
+   "value": "— Taisez-vous, dit Voss."
+  },
+  {
+   "type": "text",
+   "value": "Elle ne l'avait pas dit fort. Il se tut quand même."
+  },
+  {
+   "type": "text",
+   "value": "— Hallé, conduisez le Gouverneur et le Conseil dans la salle des cartes. Ils y resteront sous garde. Avec de l'eau, des couvertures, et le respect qu'on doit à des prisonniers. Je ne veux pas une main levée sur eux."
+  },
+  {
+   "type": "text",
+   "value": "On emmena Castan. Il ne résista pas. Au moment de passer devant Nour, il s'arrêta, et sa voix redevint douce, presque tendre."
+  },
+  {
+   "type": "text",
+   "value": "— Votre père avait une place, mademoiselle Saïd. Vous aussi. Souvenez-vous que vous l'avez refusée, quand l'air manquera."
+  },
+  {
+   "type": "text",
+   "value": "Nour ne répondit pas. Elio, à côté d'elle, chercha sa main dans la pénombre, et la trouva."
+  },
+  {
+   "type": "text",
+   "value": "Quand le Conseil eut disparu, une vieille femme se faufila entre les gardes. Cheveux blancs tressés, châle rapiécé, une lampe à huile tenue à deux mains. Ondine. Derrière elle, roulant comme un tonneau, Tibo, le visage noir de cambouis et le rire au bord des lèvres malgré tout."
+  },
+  {
+   "type": "text",
+   "value": "— Alors, c'est ça, les fameuses navettes ? dit-il en levant le nez vers les coques. Franchement, je les imaginais plus grosses. Trois cents personnes là-dedans, ils allaient se marcher sur les pieds jusqu'à la surface."
+  },
+  {
+   "type": "text",
+   "value": "Quelques rires nerveux coururent dans la foule. Voss sentit ses épaules se dénouer, juste un peu."
+  },
+  {
+   "type": "text",
+   "value": "Puis Maître Jorge apparut à son tour, la vieille cheffe des techniciens, une sacoche d'outils en bandoulière et un cadran de mesure dans la main. Elle ne riait pas. Elle s'arrêta devant Voss, Elio et Nour, et tourna le cadran vers eux. Une aiguille tremblait tout près d'une zone rouge."
+  },
+  {
+   "type": "text",
+   "value": "— J'ai fait le calcul trois fois, dit-elle. Sans le Cœur, plus d'électrolyse. Plus de pompes à air. Cinq mille personnes qui respirent dans un dôme fermé, et qui ont peur, en plus. La peur, ça respire vite."
+  },
+  {
+   "type": "text",
+   "value": "— Combien de temps ? demanda Elio."
+  },
+  {
+   "type": "text",
+   "value": "Jorge regarda la foule massée dans les escaliers, les lampes à huile qui dévoraient elles aussi leur part d'oxygène, les enfants sur les épaules."
+  },
+  {
+   "type": "text",
+   "value": "— Six heures, dit-elle. Pas une de plus. Dans six heures, il ne restera plus assez d'air dans Abysse pour respirer."
+  }
+ ]
+}
